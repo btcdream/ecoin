@@ -205,8 +205,10 @@ protected:
 public:
     bool SetString(const char* psz)
     {
+
+
         std::vector<unsigned char> vchTemp;
-        DecodeBase58Check(psz, vchTemp);
+         DecodeBase58Check(psz, vchTemp);
         if (vchTemp.empty())
         {
             vchData.clear();
@@ -223,14 +225,14 @@ public:
 
     bool SetString(const std::string& str)
     {
-        return SetString(str.c_str());
+         return SetString(str.c_str());
     }
 
     std::string ToString() const
     {
         std::vector<unsigned char> vch(1, nVersion);
         vch.insert(vch.end(), vchData.begin(), vchData.end());
-        return EncodeBase58Check(vch);
+        return "ec"+ EncodeBase58Check(vch);
     }
 
     int CompareTo(const CBase58Data& b58) const
