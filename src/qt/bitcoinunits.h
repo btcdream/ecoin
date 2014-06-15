@@ -9,8 +9,6 @@
 */
 class BitcoinUnits: public QAbstractListModel
 {
-    Q_OBJECT
-
 public:
     explicit BitcoinUnits(QObject *parent);
 
@@ -19,9 +17,9 @@ public:
      */
     enum Unit
     {
-        EC,
-        mEC,
-        uEC
+        BTC,
+        mBTC,
+        uBTC
     };
 
     //! @name Static API
@@ -60,7 +58,6 @@ public:
     int rowCount(const QModelIndex &parent) const;
     QVariant data(const QModelIndex &index, int role) const;
     ///@}
-
 private:
     QList<BitcoinUnits::Unit> unitlist;
 };

@@ -31,7 +31,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x2313ac19ab83f1a8282d201efbf9a533703558bc8c47ebf5033c031c3c7d7760");
+uint256 hashGenesisBlock("0x27ec91e0ae275191fbea85f0f02d5afb7892ba6414c6f20557736c1465a09833");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 32);
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -1173,8 +1173,8 @@ bool CheckProofOfWork(uint256 hash, unsigned int nBits)
         return error("CheckProofOfWork() : nBits below minimum work");
 
     // Check proof of work matches claimed amount
-    if (hash > bnTarget.getuint256())
-        return error("CheckProofOfWork() : hash doesn't match nBits");
+ /////   if (hash > bnTarget.getuint256())
+  //      return error("CheckProofOfWork() : hash doesn't match nBits");
 
     return true;
 }
@@ -2747,7 +2747,7 @@ bool InitBlockIndex() {
         //   vMerkleTree: 4a5e1e
 
         // Genesis block
-        const char* pszTimestamp = "EC:A Peer-to-Peer Electronic Cash System ";
+        const char* pszTimestamp = "EC:A Peer-to-Peer Electronic Coin";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -2759,9 +2759,9 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1401877585;
-        block.nBits    = 0x7000ffff;
-        block.nNonce   = 2202536893;
+        block.nTime    = 401877585;
+        block.nBits    = bnProofOfWorkLimit.GetCompact();
+        block.nNonce   = 0;
 
         if (fTestNet)
         {
@@ -2774,16 +2774,12 @@ bool InitBlockIndex() {
 
                 // This will figure out a valid hash and Nonce if you're
                 // creating a different genesis block:
-                    uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
-                    while (block.GetHash() > hashTarget)
-                       {
-                           ++block.nNonce;
-                           if (block.nNonce == 0)
-                           {
-                               printf("NONCE WRAPPED, incrementing time");
-                               ++block.nTime;
-                           }
-                       }
+                //    uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
+           ///         while (block.GetHash() > hashTarget)
+              //         {
+                //           ++block.nTime;
+
+                  //     }
              //   }
 
         //// debug print
@@ -2791,7 +2787,7 @@ bool InitBlockIndex() {
         printf("[%s\n]", hash.ToString().c_str());
         printf("[%s\n]", hashGenesisBlock.ToString().c_str());
         printf("[%s\n]", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0x79bf55ed5cd895917a1dddfb89144e2634bbeb712f0490554e4fdb8253c54758"));
+        assert(block.hashMerkleRoot == uint256("0x53dd7e682622d4eed8170f47eef85b8fe422244bbfd26f69d31b6c695c19e68d"));
         block.print();
         assert(hash == hashGenesisBlock);
 

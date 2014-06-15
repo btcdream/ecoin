@@ -9,7 +9,7 @@
 #include <QPixmap>
 #include <QUrl>
 
-//#include <qrencode.h>
+#include <qrencode.h>
 
 QRCodeDialog::QRCodeDialog(const QString &addr, const QString &label, bool enableReq, QWidget *parent) :
     QDialog(parent),
@@ -44,13 +44,13 @@ void QRCodeDialog::setModel(OptionsModel *model)
     if (model)
         connect(model, SIGNAL(displayUnitChanged(int)), this, SLOT(updateDisplayUnit()));
 
-    // update the display unit, to not use the default ("EC")
+    // update the display unit, to not use the default ("BTC")
     updateDisplayUnit();
 }
 
 void QRCodeDialog::genCode()
 {
- /*   QString uri = getURI();
+    QString uri = getURI();
 
     if (uri != "")
     {
@@ -78,12 +78,12 @@ void QRCodeDialog::genCode()
         ui->lblQRCode->setPixmap(QPixmap::fromImage(myImage).scaled(300, 300));
 
         ui->outUri->setPlainText(uri);
-    }*/
+    }
 }
 
 QString QRCodeDialog::getURI()
 {
-    QString ret = QString("ecoin:%1").arg(address);
+    QString ret = QString("vericoin:%1").arg(address);
     int paramCount = 0;
 
     ui->outUri->clear();

@@ -1,14 +1,11 @@
-#include <QApplication>
-
 #include "guiutil.h"
-
 #include "bitcoinaddressvalidator.h"
 #include "walletmodel.h"
 #include "bitcoinunits.h"
-
 #include "util.h"
 #include "init.h"
 
+#include <QString>
 #include <QDateTime>
 #include <QDoubleValidator>
 #include <QFont>
@@ -16,6 +13,7 @@
 #include <QUrl>
 #include <QTextDocument> // For Qt::escape
 #include <QAbstractItemView>
+#include <QApplication>
 #include <QClipboard>
 #include <QFileDialog>
 #include <QDesktopServices>
@@ -77,69 +75,69 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
     widget->setAlignment(Qt::AlignRight|Qt::AlignVCenter);
 }
 
-bool parseBitcoinURI(const QUrlQuery &uri, SendCoinsRecipient *out)
+bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
-//    // return if URI is not valid or is no bitcoin URI
-////    if(!uri() || uri.scheme() != QString("ecoin"))
-////        return false;
+    // VeriCoin: check prefix
+    if(uri.scheme() != QString("vericoin"))
+        return false;
 
-////    SendCoinsRecipient rv;
-////    rv.address = uri.path();
-////    rv.amount = 0;
-//    QList<QPair<QString, QString> > items = uri.queryItems();
-//    for (QList<QPair<QString, QString> >::iterator i = items.begin(); i != items.end(); i++)
-//    {
-//        bool fShouldReturnFalse = false;
-//        if (i->first.startsWith("req-"))
-//        {
-//            i->first.remove(0, 4);
-//            fShouldReturnFalse = true;
-//        }
+    SendCoinsRecipient rv;
+    rv.address = uri.path();
+    rv.amount = 0;
+    QList<QPair<QString, QString> > items = uri.queryItems();
+    for (QList<QPair<QString, QString> >::iterator i = items.begin(); i != items.end(); i++)
+    {
+        bool fShouldReturnFalse = false;
+        if (i->first.startsWith("req-"))
+        {
+            i->first.remove(0, 4);
+            fShouldReturnFalse = true;
+        }
 
-//        if (i->first == "label")
-//        {
-//            rv.label = i->second;
-//            fShouldReturnFalse = false;
-//        }
-//        else if (i->first == "amount")
-//        {
-//            if(!i->second.isEmpty())
-//            {
-//                if(!BitcoinUnits::parse(BitcoinUnits::BTC, i->second, &rv.amount))
-//                {
-//                    return false;
-//                }
-//            }
-//            fShouldReturnFalse = false;
-//        }
+        if (i->first == "label")
+        {
+            rv.label = i->second;
+            fShouldReturnFalse = false;
+        }
+        else if (i->first == "amount")
+        {
+            if(!i->second.isEmpty())
+            {
+                if(!BitcoinUnits::parse(BitcoinUnits::BTC, i->second, &rv.amount))
+                {
+                    return false;
+                }
+            }
+            fShouldReturnFalse = false;
+        }
 
-//        if (fShouldReturnFalse)
-//            return false;
-//    }
-//    if(out)
-//    {
-//        *out = rv;
-//    }
-//    return true;
+        if (fShouldReturnFalse)
+            return false;
+    }
+    if(out)
+    {
+        *out = rv;
+    }
+    return true;
 }
 
 bool parseBitcoinURI(QString uri, SendCoinsRecipient *out)
 {
-    // Convert bitcoin:// to bitcoin:
+    // Convert vericoin:// to vericoin:
     //
     //    Cannot handle this later, because bitcoin:// will cause Qt to see the part after // as host,
     //    which will lower-case it (and thus invalidate the address).
-    if(uri.startsWith("ecoin://"))
+    if(uri.startsWith("vericoin://"))
     {
-        uri.replace(0, 10, "ecoin:");
+        uri.replace(0, 12, "vericoin:");
     }
-    QUrlQuery uriInstance(uri);
+    QUrl uriInstance(uri);
     return parseBitcoinURI(uriInstance, out);
 }
 
 QString HtmlEscape(const QString& str, bool fMultiLine)
 {
-    QString escaped = str.toHtmlEscaped();// QString(str.toString()).toHtmlEscaped();
+    QString escaped = Qt::escape(str);
     if(fMultiLine)
     {
         escaped = escaped.replace("\n", "<br>\n");
@@ -160,10 +158,8 @@ void copyEntryData(QAbstractItemView *view, int column, int role)
 
     if(!selection.isEmpty())
     {
-        // Copy first item (global clipboard)
-        QApplication::clipboard()->setText(selection.at(0).data(role).toString(), QClipboard::Clipboard);
-        // Copy first item (global mouse selection for e.g. X11 - NOP on Windows)
-        QApplication::clipboard()->setText(selection.at(0).data(role).toString(), QClipboard::Selection);
+        // Copy first item
+        QApplication::clipboard()->setText(selection.at(0).data(role).toString());
     }
 }
 
@@ -176,7 +172,7 @@ QString getSaveFileName(QWidget *parent, const QString &caption,
     QString myDir;
     if(dir.isEmpty()) // Default to user documents location
     {
-;/*////----/   / /    myDir =QStandardPaths::standardLocations(QStandardPaths::DataLocation).value();//.toStdList().;*/
+        myDir = QDesktopServices::storageLocation(QDesktopServices::DocumentsLocation);
     }
     else
     {
@@ -215,7 +211,7 @@ QString getSaveFileName(QWidget *parent, const QString &caption,
 
 Qt::ConnectionType blockingGUIThreadConnection()
 {
-    if(QThread::currentThread() != qApp->thread())
+    if(QThread::currentThread() != QCoreApplication::instance()->thread())
     {
         return Qt::BlockingQueuedConnection;
     }
@@ -227,7 +223,7 @@ Qt::ConnectionType blockingGUIThreadConnection()
 
 bool checkPoint(const QPoint &p, const QWidget *w)
 {
-    QWidget *atW = QApplication::widgetAt(w->mapToGlobal(p));
+    QWidget *atW = qApp->widgetAt(w->mapToGlobal(p));
     if (!atW) return false;
     return atW->topLevelWidget() == w;
 }
@@ -262,11 +258,11 @@ bool ToolTipToRichTextFilter::eventFilter(QObject *obj, QEvent *evt)
     {
         QWidget *widget = static_cast<QWidget*>(obj);
         QString tooltip = widget->toolTip();
-        if(tooltip.size() > size_threshold && !tooltip.startsWith("<qt/>") && !Qt::mightBeRichText(tooltip))
+        if(tooltip.size() > size_threshold && !tooltip.startsWith("<qt>") && !Qt::mightBeRichText(tooltip))
         {
             // Prefix <qt/> to make sure Qt detects this as rich text
             // Escape the current message as HTML and replace \n by <br>
-            tooltip = "<qt/>" + HtmlEscape(tooltip, true);
+            tooltip = "<qt>" + HtmlEscape(tooltip, true) + "<qt/>";
             widget->setToolTip(tooltip);
             return true;
         }
@@ -277,7 +273,7 @@ bool ToolTipToRichTextFilter::eventFilter(QObject *obj, QEvent *evt)
 #ifdef WIN32
 boost::filesystem::path static StartupShortcutPath()
 {
-    return GetSpecialFolderPath(CSIDL_STARTUP) / "Bitcoin.lnk";
+    return GetSpecialFolderPath(CSIDL_STARTUP) / "VeriCoin.lnk";
 }
 
 bool GetStartOnSystemStartup()
@@ -359,7 +355,7 @@ boost::filesystem::path static GetAutostartDir()
 
 boost::filesystem::path static GetAutostartFilePath()
 {
-    return GetAutostartDir() / "bitcoin.desktop";
+    return GetAutostartDir() / "vericoin.desktop";
 }
 
 bool GetStartOnSystemStartup()
@@ -400,7 +396,7 @@ bool SetStartOnSystemStartup(bool fAutoStart)
         // Write a bitcoin.desktop file to the autostart directory:
         optionFile << "[Desktop Entry]\n";
         optionFile << "Type=Application\n";
-        optionFile << "Name=Bitcoin\n";
+        optionFile << "Name=VeriCoin\n";
         optionFile << "Exec=" << pszExePath << " -min\n";
         optionFile << "Terminal=false\n";
         optionFile << "Hidden=false\n";
@@ -421,10 +417,10 @@ bool SetStartOnSystemStartup(bool fAutoStart) { return false; }
 HelpMessageBox::HelpMessageBox(QWidget *parent) :
     QMessageBox(parent)
 {
-    header = tr("Bitcoin-Qt") + " " + tr("version") + " " +
+    header = tr("VeriCoin-Qt") + " " + tr("version") + " " +
         QString::fromStdString(FormatFullVersion()) + "\n\n" +
         tr("Usage:") + "\n" +
-        "  ecoin-qt [" + tr("command-line options") + "]                     " + "\n";
+        "  vericoin-qt [" + tr("command-line options") + "]                     " + "\n";
 
     coreOptions = QString::fromStdString(HelpMessage());
 
@@ -433,7 +429,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
         "  -min                   " + tr("Start minimized") + "\n" +
         "  -splash                " + tr("Show splash screen on startup (default: 1)") + "\n";
 
-    setWindowTitle(tr("Bitcoin-Qt"));
+    setWindowTitle(tr("VeriCoin-Qt"));
     setTextFormat(Qt::PlainText);
     // setMinimumWidth is ignored for QMessageBox so put in non-breaking spaces to make it wider.
     setText(header + QString(QChar(0x2003)).repeated(50));
@@ -441,7 +437,7 @@ HelpMessageBox::HelpMessageBox(QWidget *parent) :
 }
 
 void HelpMessageBox::printToConsole()
-{ 
+{
     // On other operating systems, the expected action is to print the message to the console.
     QString strUsage = header + "\n" + coreOptions + "\n" + uiOptions;
     fprintf(stdout, "%s", strUsage.toStdString().c_str());
@@ -459,3 +455,4 @@ void HelpMessageBox::showOrPrint()
 }
 
 } // namespace GUIUtil
+

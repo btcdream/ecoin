@@ -696,7 +696,7 @@ bool AppInit2(boost::thread_group& threadGroup)
             return InitError(_("wallet.dat corrupt, salvage failed"));
     }
 
-    // ********************************************************* Step 6: network initialization
+    // ****** *************************************************** Step 6: network initialization
 
     int nSocksVersion = GetArg("-socks", 5);
     if (nSocksVersion != 4 && nSocksVersion != 5)

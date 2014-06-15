@@ -232,7 +232,7 @@ public:
     {
         std::vector<unsigned char> vch(1, nVersion);
         vch.insert(vch.end(), vchData.begin(), vchData.end());
-        return "ec"+ EncodeBase58Check(vch);
+        return  EncodeBase58Check(vch);
     }
 
     int CompareTo(const CBase58Data& b58) const
@@ -274,8 +274,8 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 0,
-        SCRIPT_ADDRESS = 5,
+        PUBKEY_ADDRESS = 33,
+        SCRIPT_ADDRESS = 8,
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
     };
