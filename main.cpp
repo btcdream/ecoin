@@ -449,6 +449,12 @@ int CMerkleTx::SetMerkleBranch(const CBlock* pblock)
     return pindexBest->nHeight - pindex->nHeight + 1;
 }
 
+
+
+
+
+
+
 bool CTransaction::CheckTransaction() const
 {
     // Basic checks that don't depend on any context
@@ -957,10 +963,21 @@ uint256 WantedByOrphan(const CBlock* pblockOrphan)
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
     int64_t nSubsidy = 1000 * COIN;
+    if(pindexBest->nHeight == 1)
+    {
+        nSubsidy = 100000 * COIN;
+    }
+	
 
-      if (fDebug && GetBoolArg("-printcreation"))
-        printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
+//    const double PI = 3.1615926;
 
+//   int64_t day =  (pindexBest->nHeight)/1440;
+//   int64_t week  =  day/7;
+//    nSubsidy = 180*(week+1)+ sin((pindexBest->nHeight)*PI/180); //sin(pindexBest->nHeight) * 50;
+
+//    if (fDebug && GetBoolArg("-printcreation"))
+//        printf("GetProofOfWorkReward() : create=%s nSubsidy=%"PRId64"\n", FormatMoney(nSubsidy).c_str(), nSubsidy);
+	
     return nSubsidy + nFees;
 }
 
@@ -994,7 +1011,7 @@ unsigned int ComputeMaxBits(CBigNum bnTargetLimit, unsigned int nBase, int64_t n
     {
         // Maximum 200% adjustment per day...
         bnResult *= 2;
-        nTime -=  60;
+        nTime -= 24 * 60 * 60;
     }
     if (bnResult > bnTargetLimit)
         bnResult = bnTargetLimit;
@@ -2002,13 +2019,10 @@ bool CBlock::CheckBlock(bool fCheckPOW, bool fCheckMerkleRoot, bool fCheckSig) c
     if (fCheckPOW && IsProofOfWork() && !CheckProofOfWork(GetHash(), nBits))
         return DoS(50, error("CheckBlock() : proof of work failed"));
 
-<<<<<<< HEAD
     // Check timestamp
     if (GetBlockTime() > FutureDrift(GetAdjustedTime()))
         return error("CheckBlock() : block timestamp too far in the future");
 
-=======
->>>>>>> origin/master
     // First transaction must be coinbase, the rest must not be
     if (vtx.empty() || !vtx[0].IsCoinBase())
         return DoS(100, error("CheckBlock() : first tx is not coinbase"));
@@ -2026,7 +2040,6 @@ bool CBlock::CheckBlock(bool fCheckPOW, bool fCheckMerkleRoot, bool fCheckSig) c
         if (vtx[0].vout.size() != 1 || !vtx[0].vout[0].IsEmpty())
             return DoS(100, error("CheckBlock() : coinbase output not empty for proof-of-stake block"));
 
-<<<<<<< HEAD
         // Second transaction must be coinstake, the rest must not be
         if (vtx.empty() || !vtx[1].IsCoinStake())
             return DoS(100, error("CheckBlock() : second tx is not coinstake"));
@@ -2043,8 +2056,6 @@ bool CBlock::CheckBlock(bool fCheckPOW, bool fCheckMerkleRoot, bool fCheckSig) c
             return DoS(100, error("CheckBlock() : bad proof-of-stake block signature"));
     }
 
-=======
->>>>>>> origin/master
     // Check transactions
     BOOST_FOREACH(const CTransaction& tx, vtx)
     {
@@ -2096,7 +2107,7 @@ bool CBlock::AcceptBlock()
     CBlockIndex* pindexPrev = (*mi).second;
     int nHeight = pindexPrev->nHeight+1;
 
-    if (IsProofOfWork() && nHeight > pindexPrev->nLastPowBlock)
+    if (IsProofOfWork() && nHeight > LAST_POW_BLOCK)
         return DoS(100, error("AcceptBlock() : reject proof-of-work at height %d", nHeight));
 
     if (IsProofOfStake() && nHeight < MODIFIER_INTERVAL_SWITCH)
@@ -2106,19 +2117,9 @@ bool CBlock::AcceptBlock()
     if (nBits != GetNextTargetRequired(pindexPrev, IsProofOfStake()))
         return DoS(100, error("AcceptBlock() : incorrect %s", IsProofOfWork() ? "proof-of-work" : "proof-of-stake"));
 
-<<<<<<< HEAD
     // Check timestamp against prev
     if (GetBlockTime() <= pindexPrev->GetPastTimeLimit() || FutureDrift(GetBlockTime()) < pindexPrev->GetBlockTime())
         return error("AcceptBlock() : block's timestamp is too early");
-=======
-    // Check timestamp
-    if (GetBlockTime() > GetAdjustedTime() + GetMaxClockDrift(nHeight))
-        return error("AcceptBlock() : block timestamp too far in the future");
-
-    // Check coinbase timestamp
-    if (GetBlockTime() > (int64)vtx[0].nTime + GetMaxClockDrift(nHeight))
-        return DoS(50, error("AcceptBlock() : coinbase timestamp is too early"));
->>>>>>> origin/master
 
     // Check that all transactions are finalized
     BOOST_FOREACH(const CTransaction& tx, vtx)
@@ -2487,13 +2488,9 @@ bool LoadBlockIndex(bool fAllowNew)
 
         const char* pszTimestamp = "eCoin PoW PoS";
         CTransaction txNew;
-        txNew.nTime = 1406721872;
+        txNew.nTime = 1403927609;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
-
-         //CWallet* pwallet = (CWallet*)parg;
-        static CReserveKey reservekey(pwalletMain);
-        txNew.vout[0].scriptPubKey.SetDestination(reservekey.GetReservedKey().GetID());
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         txNew.vout[0].SetEmpty();
         CBlock block;
@@ -2503,13 +2500,12 @@ bool LoadBlockIndex(bool fAllowNew)
         block.nVersion = 1;
         block.nTime    = 1403927609;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 1822556;
+        block.nNonce   = 1822555;
 		if(fTestNet)
         {
             block.nNonce   = 0;
         }
-    //    if (false  && (block.GetHash() != hashGenesisBlock))
-        {
+        if (false  && (block.GetHash() != hashGenesisBlock)) {
 
         // This will figure out a valid hash and Nonce if you're
         // creating a different genesis block:
@@ -2531,7 +2527,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nNonce = %u \n", block.nNonce);
 
         //// debug print
-        assert(block.hashMerkleRoot == uint256("0xf4508ce780d6086e17cc58340018efb73931f2ee6c945dbc3e9b4f9179c95a34"));
+        assert(block.hashMerkleRoot == uint256("0xeca46f166f98c25ba9ae8e3eba350326e088fb2d2923ba2b89740fc6a74ddd8b"));
         block.print();
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
         
