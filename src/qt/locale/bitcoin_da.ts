@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>Om Roxcoin</translation>
+        <source>About eCoin</source>
+        <translation>Om eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Roxcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -31,7 +31,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>
 Dette program er eksperimentelt.
 
-Det er gjort tilgængeligt under MIT/X11-softwarelicensen. Se den medfølgende fil &quot;COPYING&quot; eller http://www.opensource.org/licenses/mit-license.php.
+Det er gjort tilgngeligt under MIT/X11-softwarelicensen. Se den medflgende fil &quot;COPYING&quot; eller http://www.opensource.org/licenses/mit-license.php.
 
 Produktet indeholder software, som er udviklet af OpenSSL Project til brug i OpenSSL Toolkit (http://www.openssl.org/). Kryptografisk software er skrevet af Eric Young (eay@cryptsoft.com), og UPnP-software er skrevet af Thomas Bernard.</translation>
     </message>
@@ -46,7 +46,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Dobbeltklik for at redigere adresse eller mærkat</translation>
+        <translation>Dobbeltklik for at redigere adresse eller mrkat</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Roxcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine eCoin adresser til at modtage betalinger. Du nsker mske at give en anden en til af hver afsender, s du kan holde styr p hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en Roxcoin adresse</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en eCoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,13 +95,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret Roxcoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Bekrft en meddelelse for at sikre, den blev underskrevet med en specificeret eCoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation>Bekræft Meddelse</translation>
+        <translation>Bekrft Meddelse</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -111,7 +111,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>Kopier mærkat</translation>
+        <translation>Kopier mrkat</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -144,7 +144,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Mrkat</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -154,7 +154,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen mrkat)</translation>
     </message>
 </context>
 <context>
@@ -182,7 +182,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Deaktivere trivielle sendmoney når OS konto er kompromitteret. Giver ingen reel sikkerhed.</translation>
+        <translation>Deaktivere trivielle sendmoney nr OS konto er kompromitteret. Giver ingen reel sikkerhed.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -192,7 +192,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Indtast den nye adgangskode til tegnebogen.&lt;br/&gt;Brug venligst en adgangskode på &lt;b&gt;10 eller flere tilfældige tegn&lt;/b&gt; eller &lt;b&gt;otte eller flere ord&lt;/b&gt;.</translation>
+        <translation>Indtast den nye adgangskode til tegnebogen.&lt;br/&gt;Brug venligst en adgangskode p &lt;b&gt;10 eller flere tilfldige tegn&lt;/b&gt; eller &lt;b&gt;otte eller flere ord&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -202,12 +202,12 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Denne funktion har brug for din tegnebogs adgangskode for at låse tegnebogen op.</translation>
+        <translation>Denne funktion har brug for din tegnebogs adgangskode for at lse tegnebogen op.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Lås tegnebog op</translation>
+        <translation>Ls tegnebog op</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -232,22 +232,22 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Bekræft tegnebogskryptering</translation>
+        <translation>Bekrft tegnebogskryptering</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Advarsel: Hvis du krypterer din tegnebog og mister din adgangskode, vil du &lt;b&gt; miste alle dine mønter &lt;/ b&gt;!</translation>
+        <translation>Advarsel: Hvis du krypterer din tegnebog og mister din adgangskode, vil du &lt;b&gt; miste alle dine mnter &lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Er du sikker på, at du ønsker at kryptere din tegnebog?</translation>
+        <translation>Er du sikker p, at du nsker at kryptere din tegnebog?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>VIGTIGT: Enhver tidligere sikkerhedskopi, som du har lavet af tegnebogsfilen, bør blive erstattet af den nyligt genererede, krypterede tegnebogsfil. Af sikkerhedsmæssige årsager vil tidligere sikkerhedskopier af den ikke-krypterede tegnebogsfil blive ubrugelig i det øjeblik, du starter med at anvende den nye, krypterede tegnebog.</translation>
+        <translation>VIGTIGT: Enhver tidligere sikkerhedskopi, som du har lavet af tegnebogsfilen, br blive erstattet af den nyligt genererede, krypterede tegnebogsfil. Af sikkerhedsmssige rsager vil tidligere sikkerhedskopier af den ikke-krypterede tegnebogsfil blive ubrugelig i det jeblik, du starter med at anvende den nye, krypterede tegnebog.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mnter mod at blive stjlet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -277,7 +277,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Tegnebogskryptering mislykkedes på grund af en intern fejl. Din tegnebog blev ikke krypteret.</translation>
+        <translation>Tegnebogskryptering mislykkedes p grund af en intern fejl. Din tegnebog blev ikke krypteret.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -288,7 +288,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Tegnebogsoplåsning mislykkedes</translation>
+        <translation>Tegnebogsoplsning mislykkedes</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -305,7 +305,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Tegnebogens adgangskode blev ændret.</translation>
+        <translation>Tegnebogens adgangskode blev ndret.</translation>
     </message>
 </context>
 <context>
@@ -318,7 +318,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>Synkroniserer med netværk...</translation>
+        <translation>Synkroniserer med netvrk...</translation>
     </message>
     <message>
         <location line="-319"/>
@@ -353,7 +353,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation>&amp;Modtag mønter</translation>
+        <translation>&amp;Modtag mnter</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -363,7 +363,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>&amp;Send mønter</translation>
+        <translation>&amp;Send mnter</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Vis oplysninger om Roxcoin</translation>
+        <source>Show information about eCoin</source>
+        <translation>Vis oplysninger om eCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,7 +418,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Downloadet% 1 af% 2 blokke af transaktions historie (% 3% færdig).</translation>
+        <translation>Downloadet% 1 af% 2 blokke af transaktions historie (% 3% frdig).</translation>
     </message>
     <message>
         <location line="-256"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Send mønter til en Roxcoin adresse</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Send mnter til en eCoin adresse</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Ændre indstillingsmuligheder for Roxcoin</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>ndre indstillingsmuligheder for eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -458,12 +458,12 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+10"/>
         <source>&amp;Debug window</source>
-        <translation>Fejlsøgningsvindue</translation>
+        <translation>Fejlsgningsvindue</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Åbn fejlsøgnings- og diagnosticeringskonsollen</translation>
+        <translation>bn fejlsgnings- og diagnosticeringskonsollen</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>&amp;Om Roxcoin</translation>
+        <source>&amp;About eCoin</source>
+        <translation>&amp;Om eCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -493,17 +493,17 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+9"/>
         <source>Unlock wallet</source>
-        <translation>Lås tegnebog</translation>
+        <translation>Ls tegnebog</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Lås tegnebog</translation>
+        <translation>&amp;Ls tegnebog</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation>Lås tegnebog</translation>
+        <translation>Ls tegnebog</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -518,34 +518,34 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>Hjælp</translation>
+        <translation>Hjlp</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Faneværktøjslinje</translation>
+        <translation>Fanevrktjslinje</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Actions toolbar</source>
-        <translation>Fanværktøjslinje</translation>
+        <translation>Fanvrktjslinje</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+9"/>
         <source>[testnet]</source>
-        <translation>[testnetværk]</translation>
+        <translation>[testnetvrk]</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Roxcoin Klient</translation>
+        <source>eCoin client</source>
+        <translation>eCoin Klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til Roxcoin netværk</numerusform><numerusform>%n aktive forbindelser til Roxcoin netværk</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til eCoin netvrk</numerusform><numerusform>%n aktive forbindelser til eCoin netvrk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -555,12 +555,12 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>Renter.&lt;br&gt; Din andel er% 1 &lt;br&gt; Netværkets andel er% 2 &lt;br&gt; Forventet tid til at modtage rente %3</translation>
+        <translation>Renter.&lt;br&gt; Din andel er% 1 &lt;br&gt; Netvrkets andel er% 2 &lt;br&gt; Forventet tid til at modtage rente %3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>Ingen rente fordi tegnebog er låst</translation>
+        <translation>Ingen rente fordi tegnebog er lst</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -575,7 +575,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>Ingen rente fordi der ingen modne mønter eksistere </translation>
+        <translation>Ingen rente fordi der ingen modne mnter eksistere </translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -584,18 +584,18 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>Om Roxcoin kort</translation>
+        <source>About eCoin card</source>
+        <translation>Om eCoin kort</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>Vis oplysninger om Roxcoin kort</translation>
+        <source>Show information about eCoin card</source>
+        <translation>Vis oplysninger om eCoin kort</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>Lås tegnebog op</translation>
+        <translation>Ls tegnebog op</translation>
     </message>
     <message numerus="yes">
         <location line="+297"/>
@@ -630,12 +630,12 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Denne transaktion er over grænsen størrelse. Du kan stadig sende det for et gebyr på %1, der går til de noder, der behandler din transaktion og hjælper med at støtte netværket. Ønsker du at betale gebyret?</translation>
+        <translation>Denne transaktion er over grnsen strrelse. Du kan stadig sende det for et gebyr p %1, der gr til de noder, der behandler din transaktion og hjlper med at sttte netvrket. nsker du at betale gebyret?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm transaction fee</source>
-        <translation>Bekræft transaktionsgebyr</translation>
+        <translation>Bekrft transaktionsgebyr</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -645,7 +645,7 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+1"/>
         <source>Incoming transaction</source>
-        <translation>Indgående transaktion</translation>
+        <translation>Indgende transaktion</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -655,7 +655,7 @@ Type: %3
 Address: %4
 </source>
         <translation>Dato: %1
-Beløb: %2
+Belb: %2
 Type: %3
 Adresse: %4
 </translation>
@@ -664,23 +664,23 @@ Adresse: %4
         <location line="+100"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation>URI håndtering</translation>
+        <translation>URI hndtering</translation>
     </message>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Roxcoin adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig eCoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;ulåst&lt;/b&gt;</translation>
+        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i jeblikket &lt;b&gt;ulst&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;låst&lt;/b&gt;</translation>
+        <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i jeblikket &lt;b&gt;lst&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -700,7 +700,7 @@ Adresse: %4
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Der opstod en fejl under forsøg på at gemme data i tegnebogen til den nye placering.</translation>
+        <translation>Der opstod en fejl under forsg p at gemme data i tegnebogen til den nye placering.</translation>
     </message>
     <message numerus="yes">
         <location line="+76"/>
@@ -729,8 +729,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>Der opstod en fejl under forsg p at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
 <context>
@@ -738,7 +738,7 @@ Adresse: %4
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>Netværksadvarsel</translation>
+        <translation>Netvrksadvarsel</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@ Adresse: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation>Mønt Kontrol</translation>
+        <translation>Mnt Kontrol</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -761,7 +761,7 @@ Adresse: %4
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>Beløb:</translation>
+        <translation>Belb:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -791,17 +791,17 @@ Adresse: %4
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation>Ændre:</translation>
+        <translation>ndre:</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation>(fra)vælg alle</translation>
+        <translation>(fra)vlg alle</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>Træ tilstand</translation>
+        <translation>Tr tilstand</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -811,12 +811,12 @@ Adresse: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belb</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Mrkat</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -831,12 +831,12 @@ Adresse: %4
     <message>
         <location line="+5"/>
         <source>Confirmations</source>
-        <translation>Bekræftelser</translation>
+        <translation>Bekrftelser</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>Bekræftet</translation>
+        <translation>Bekrftet</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -851,13 +851,13 @@ Adresse: %4
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Kopier mærkat</translation>
+        <translation>Kopier mrkat</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Kopier beløb</translation>
+        <translation>Kopier belb</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -897,22 +897,22 @@ Adresse: %4
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>Kopier ændring</translation>
+        <translation>Kopier ndring</translation>
     </message>
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation>højeste</translation>
+        <translation>hjeste</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>high</source>
-        <translation>høj</translation>
+        <translation>hj</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation>medium-høj</translation>
+        <translation>medium-hj</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -951,9 +951,9 @@ Adresse: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>Denne etiket bliver rød, hvis transaktionen størrelse er større end 10000 byte.
+        <translation>Denne etiket bliver rd, hvis transaktionen strrelse er strre end 10000 byte.
  
-Det betyder, at et gebyr på mindst %1 per kb er påkrævet.
+Det betyder, at et gebyr p mindst %1 per kb er pkrvet.
 
 Kan variere + / - 1 byte per indgang.</translation>
     </message>
@@ -964,11 +964,11 @@ Kan variere + / - 1 byte per indgang.</translation>
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation>Transaktioner med højere prioritet får mere sandsynligt en blok.
+        <translation>Transaktioner med hjere prioritet fr mere sandsynligt en blok.
  
-Denne etiket bliver rød, hvis prioritet er mindre end &quot;medium&quot;.
+Denne etiket bliver rd, hvis prioritet er mindre end &quot;medium&quot;.
  
-Det betyder, at et gebyr på mindst %1 per kb er påkrævet.</translation>
+Det betyder, at et gebyr p mindst %1 per kb er pkrvet.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -977,26 +977,26 @@ Det betyder, at et gebyr på mindst %1 per kb er påkrævet.</translation>
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>Denne etiket bliver rød, hvis nogen modtager et beløb, der er mindre end %1.
+        <translation>Denne etiket bliver rd, hvis nogen modtager et belb, der er mindre end %1.
  
-Det betyder, at et gebyr på mindst %2 er påkrævet. 
+Det betyder, at et gebyr p mindst %2 er pkrvet. 
  
-Beløb under 0,546 gange det minimale gebyr er vist som DUST.</translation>
+Belb under 0,546 gange det minimale gebyr er vist som DUST.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation>Denne etiket bliver rød, hvis ændringen er mindre end %1. 
+        <translation>Denne etiket bliver rd, hvis ndringen er mindre end %1. 
  
-Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
+Det betyder, at et gebyr p mindst %2 er pkrvet.</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+66"/>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen mrkat)</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -1019,7 +1019,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>Mærkat</translation>
+        <translation>Mrkat</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1034,7 +1034,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>Adressen er forbundet med denne post i adressekartoteket. Dette kan kun ændres til sende adresser.</translation>
+        <translation>Adressen er forbundet med denne post i adressekartoteket. Dette kan kun ndres til sende adresser.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -1063,18 +1063,18 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Roxcoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig eCoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>Kunne ikke låse tegnebog op.</translation>
+        <translation>Kunne ikke lse tegnebog op.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Ny nøglegenerering mislykkedes.</translation>
+        <translation>Ny nglegenerering mislykkedes.</translation>
     </message>
 </context>
 <context>
@@ -1082,8 +1082,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1103,7 +1103,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation>UI opsætning</translation>
+        <translation>UI opstning</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1118,7 +1118,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>Vis splash skærm ved opstart (default: 1)</translation>
+        <translation>Vis splash skrm ved opstart (default: 1)</translation>
     </message>
 </context>
 <context>
@@ -1136,7 +1136,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>Valgfri transaktionsgebyr pr kB, som hjælper med at sikre dine transaktioner bliver behandlet hurtigt. De fleste transaktioner er 1 kB. Gebyr 0,01 anbefales.</translation>
+        <translation>Valgfri transaktionsgebyr pr kB, som hjlper med at sikre dine transaktioner bliver behandlet hurtigt. De fleste transaktioner er 1 kB. Gebyr 0,01 anbefales.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1146,7 +1146,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>Reserveret beløb deltager ikke i forrentning og er derfor tilrådighed til enhver tid.</translation>
+        <translation>Reserveret belb deltager ikke i forrentning og er derfor tilrdighed til enhver tid.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1155,33 +1155,33 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Automatisk start Roxcoin efter at have logget ind på systemet.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Automatisk start eCoin efter at have logget ind p systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>&amp;Start Roxcoin ved systems login</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>&amp;Start eCoin ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation>Frigør blok og adressedatabaser ved lukning. Det betyder, at de kan flyttes til et anden data-bibliotek, men det sinker lukning. Tegnebogen er altid frigjort.</translation>
+        <translation>Frigr blok og adressedatabaser ved lukning. Det betyder, at de kan flyttes til et anden data-bibliotek, men det sinker lukning. Tegnebogen er altid frigjort.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation>&amp;Frigør databaser ved lukning</translation>
+        <translation>&amp;Frigr databaser ved lukning</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation>Netværk</translation>
+        <translation>Netvrk</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne Roxcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk bne eCoin klient-port p routeren. Dette virker kun, nr din router understtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til Roxcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til eCoin netvrk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1206,7 +1206,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation>IP-adressen på proxy (f.eks 127.0.0.1)</translation>
+        <translation>IP-adressen p proxy (f.eks 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1216,7 +1216,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Porten på proxyen (f.eks. 9050)</translation>
+        <translation>Porten p proxyen (f.eks. 9050)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1246,7 +1246,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimer i stedet for at afslutte programmet, når vinduet lukkes. Når denne indstilling er valgt, vil programmet kun blive lukket, når du har valgt Afslut i menuen.</translation>
+        <translation>Minimer i stedet for at afslutte programmet, nr vinduet lukkes. Nr denne indstilling er valgt, vil programmet kun blive lukket, nr du har valgt Afslut i menuen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1261,27 +1261,27 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>Brugergrænsefladesprog:</translation>
+        <translation>Brugergrnsefladesprog:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af Roxcoin tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>Sproget i brugergrnsefladen kan indstilles her. Denne indstilling vil trde i kraft efter genstart af eCoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Enhed at vise beløb i:</translation>
+        <translation>Enhed at vise belb i:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Vælg den standard underopdelingsenhed, som skal vises i brugergrænsefladen og ved afsendelse af bitcoins.</translation>
+        <translation>Vlg den standard underopdelingsenhed, som skal vises i brugergrnsefladen og ved afsendelse af bitcoins.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Få vist Roxcoin adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>F vist eCoin adresser p listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1291,12 +1291,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation> Vis mønt kontrol funktioner eller ej.</translation>
+        <translation> Vis mnt kontrol funktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Vis mønt &amp; kontrol funktioner (kun for eksperter!)</translation>
+        <translation>Vis mnt &amp; kontrol funktioner (kun for eksperter!)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1327,8 +1327,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af Roxcoin.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Denne indstilling vil trde i kraft efter genstart af eCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med Roxcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan vre forldet. Din tegnebog synkroniserer automatisk med eCoin netvrket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1357,7 +1357,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation>Ubekræftede:</translation>
+        <translation>Ubekrftede:</translation>
     </message>
     <message>
         <location line="-107"/>
@@ -1372,7 +1372,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>Din nuværende tilgængelige saldo</translation>
+        <translation>Din nuvrende tilgngelige saldo</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1392,7 +1392,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>Din nuværende totale saldo</translation>
+        <translation>Din nuvrende totale saldo</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1402,12 +1402,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Summen af ​​transaktioner, der endnu mangler at blive bekræftet, og ikke tæller mod den nuværende balance</translation>
+        <translation>Summen af transaktioner, der endnu mangler at blive bekrftet, og ikke tller mod den nuvrende balance</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>I alt mønter, der bliver berentet, og endnu ikke tæller mod den nuværende balance</translation>
+        <translation>I alt mnter, der bliver berentet, og endnu ikke tller mod den nuvrende balance</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1456,12 +1456,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>Det indtastede beløb er ugyldig, venligst tjek igen.</translation>
+        <translation>Det indtastede belb er ugyldig, venligst tjek igen.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>Resulterende URI for lang, prøv at reducere teksten til etiketten / besked.</translation>
+        <translation>Resulterende URI for lang, prv at reducere teksten til etiketten / besked.</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1518,7 +1518,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>Netværk</translation>
+        <translation>Netvrk</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1528,17 +1528,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation>På testnet</translation>
+        <translation>P testnet</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>Blokkæde</translation>
+        <translation>Blokkde</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>Nuværende antal blokke</translation>
+        <translation>Nuvrende antal blokke</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1553,7 +1553,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>Åbn</translation>
+        <translation>bn</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1562,8 +1562,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Vis Roxcoin-Qt hjælpe besked for at få en liste med mulige Roxcoin kommandolinjeparametre.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Vis eCoin-Qt hjlpe besked for at f en liste med mulige eCoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,23 +1582,23 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Debug vindue</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Roxcoin Kerne</translation>
+        <source>eCoin Core</source>
+        <translation>eCoin Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>Fejlsøgningslogfil</translation>
+        <translation>Fejlsgningslogfil</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Roxcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>bn eCoin debug logfilen fra den nuvrende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,18 +1607,18 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Velkommen til Roxcoin RPC-konsol.</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Velkommen til eCoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Brug op og ned-piletasterne til at navigere historikken og &lt;b&gt;Ctrl-L&lt;/b&gt; til at rydde skærmen.</translation>
+        <translation>Brug op og ned-piletasterne til at navigere historikken og &lt;b&gt;Ctrl-L&lt;/b&gt; til at rydde skrmen.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Tast &lt;b&gt;help&lt;/b&gt; for en oversigt over de tilgængelige kommandoer.</translation>
+        <translation>Tast &lt;b&gt;help&lt;/b&gt; for en oversigt over de tilgngelige kommandoer.</translation>
     </message>
 </context>
 <context>
@@ -1638,7 +1638,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation>Mønt Kontrol Egenskaber</translation>
+        <translation>Mnt Kontrol Egenskaber</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1653,7 +1653,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation>Utilstrækkelig midler!</translation>
+        <translation>Utilstrkkelig midler!</translation>
     </message>
     <message>
         <location line="+77"/>
@@ -1674,15 +1674,15 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>Beløb:</translation>
+        <translation>Belb:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1722,17 +1722,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>Ændre adresse</translation>
+        <translation>ndre adresse</translation>
     </message>
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Send til flere modtagere på en gang</translation>
+        <translation>Send til flere modtagere p en gang</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>Tilføj modtager</translation>
+        <translation>Tilfj modtager</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1751,13 +1751,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Bekræft afsendelsen</translation>
+        <translation>Bekrft afsendelsen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1766,8 +1766,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Indtast en Roxcoin-adresse (f.eks GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en eCoin-adresse (f.eks eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1777,7 +1777,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopier beløb</translation>
+        <translation>Kopier belb</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1817,12 +1817,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Bekræft afsendelse af bitcoins</translation>
+        <translation>Bekrft afsendelse af bitcoins</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>Er du sikker på du vil sende% 1?</translation>
+        <translation>Er du sikker p du vil sende% 1?</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1837,17 +1837,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Beløbet til betaling skal være større end 0.</translation>
+        <translation>Belbet til betaling skal vre strre end 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Beløbet overstiger din saldo.</translation>
+        <translation>Belbet overstiger din saldo.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Totalen overstiger din saldo, når %1 transaktionsgebyr er inkluderet.</translation>
+        <translation>Totalen overstiger din saldo, nr %1 transaktionsgebyr er inkluderet.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1862,17 +1862,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af mønterne i din tegnebog allerede er blevet brugt, som hvis du brugte en kopi af wallet.dat og mønterne blev brugt i kopien, men ikke markeret som brugt her.</translation>
+        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af mnterne i din tegnebog allerede er blevet brugt, som hvis du brugte en kopi af wallet.dat og mnterne blev brugt i kopien, men ikke markeret som brugt her.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>ADVARSEL: Ugyldig Roxcoin adresse</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>ADVARSEL: Ugyldig eCoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation>(ingen mærkat)</translation>
+        <translation>(ingen mrkat)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1890,7 +1890,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>Beløb:</translation>
+        <translation>Belb:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1901,22 +1901,22 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Indtast en mærkat for denne adresse for at føje den til din adressebog</translation>
+        <translation>Indtast en mrkat for denne adresse for at fje den til din adressebog</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Label:</source>
-        <translation>Mærkat:</translation>
+        <translation>Mrkat:</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adressen til at sende betalingen til (f.eks GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen til at sende betalingen til (f.eks eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Choose address from address book</source>
-        <translation>Vælg adresse fra adressebogen</translation>
+        <translation>Vlg adresse fra adressebogen</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1926,7 +1926,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Indsæt adresse fra udklipsholderen</translation>
+        <translation>Indst adresse fra udklipsholderen</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Indtast en Roxcoin-adresse (f.eks GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en eCoin-adresse (f.eks eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1960,18 +1960,18 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underskrive beskeder med dine Bitcoin-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
+        <translation>Du kan underskrive beskeder med dine Bitcoin-adresser for at bevise, at de tilhrer dig. Pas p ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adresse til at underskrive meddelelsen med (f.eks GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresse til at underskrive meddelelsen med (f.eks eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+203"/>
         <source>Choose an address from the address book</source>
-        <translation>Vælg en adresse fra adressebogen</translation>
+        <translation>Vlg en adresse fra adressebogen</translation>
     </message>
     <message>
         <location line="-193"/>
@@ -1982,7 +1982,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Indsæt adresse fra udklipsholderen</translation>
+        <translation>Indst adresse fra udklipsholderen</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1992,17 +1992,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Indtast beskeden, du ønsker at underskrive</translation>
+        <translation>Indtast beskeden, du nsker at underskrive</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Kopier den nuværende underskrift til systemets udklipsholder</translation>
+        <translation>Kopier den nuvrende underskrift til systemets udklipsholder</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne Roxcoin adresse</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne eCoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,17 +2024,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Indtast den underskrevne adresse, beskeden (inkluder linjeskift, mellemrum mv. nøjagtigt, som de fremgår) og underskriften for at verificére beskeden. Vær forsigtig med ikke at lægge mere i underskriften end besked selv, så du undgår at blive narret af et man-in-the-middle-angreb.</translation>
+        <translation>Indtast den underskrevne adresse, beskeden (inkluder linjeskift, mellemrum mv. njagtigt, som de fremgr) og underskriften for at verificére beskeden. Vr forsigtig med ikke at lgge mere i underskriften end besked selv, s du undgr at blive narret af et man-in-the-middle-angreb.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adressen meddelelse blev underskrevet med (f.eks GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen meddelelse blev underskrevet med (f.eks eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne Roxcoin adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indget med den angivne eCoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Indtast en Roxcoin-adresse (f.eks GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Indtast en eCoin-adresse (f.eks eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Indtast Roxcoin underskrift</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Indtast eCoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2069,23 +2069,23 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Tjek venligst adressen, og forsøg igen.</translation>
+        <translation>Tjek venligst adressen, og forsg igen.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>Den indtastede adresse henviser ikke til en nøgle.</translation>
+        <translation>Den indtastede adresse henviser ikke til en ngle.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Tegnebogsoplåsning annulleret.</translation>
+        <translation>Tegnebogsoplsning annulleret.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>Den private nøgle for den indtastede adresse er ikke tilgængelig.</translation>
+        <translation>Den private ngle for den indtastede adresse er ikke tilgngelig.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2106,7 +2106,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Tjek venligst underskriften, og forsøg igen.</translation>
+        <translation>Tjek venligst underskriften, og forsg igen.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2129,12 +2129,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../transactiondesc.cpp" line="+19"/>
         <source>Open until %1</source>
-        <translation>Åben indtil %1</translation>
+        <translation>ben indtil %1</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
         <source>Open for %n block(s)</source>
-        <translation><numerusform>Åben for %n blok</numerusform><numerusform>Åben for %n blok(ke)</numerusform></translation>
+        <translation><numerusform>ben for %n blok</numerusform><numerusform>ben for %n blok(ke)</numerusform></translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2149,12 +2149,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1/ubekræftet</translation>
+        <translation>%1/ubekrftet</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 bekræftelser</translation>
+        <translation>%1 bekrftelser</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2203,7 +2203,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation>mærkat</translation>
+        <translation>mrkat</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2240,7 +2240,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation>Nettobeløb</translation>
+        <translation>Nettobelb</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2259,13 +2259,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generet mønter skal modne 110 blokke, før de kan blive brugt. Når du genererede denne blok blev det transmitteret til netværket, der tilføjes til blokkæden. Hvis det mislykkes at komme ind i kæden, vil dens tilstand ændres til &quot;ikke godkendt&quot;, og det vil ikke være brugbar. Dette kan lejlighedsvis ske, hvis en anden node genererer en blok et par sekunder efter din.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Generet mnter skal modne 510 blokke, fr de kan blive brugt. Nr du genererede denne blok blev det transmitteret til netvrket, der tilfjes til blokkden. Hvis det mislykkes at komme ind i kden, vil dens tilstand ndres til &quot;ikke godkendt&quot;, og det vil ikke vre brugbar. Dette kan lejlighedsvis ske, hvis en anden node genererer en blok et par sekunder efter din.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation>Fejlsøgningsinformation</translation>
+        <translation>Fejlsgningsinformation</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2280,7 +2280,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belb</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2336,22 +2336,22 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belb</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>Åben indtil %1</translation>
+        <translation>ben indtil %1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Bekræftet (%1 bekræftelser)</translation>
+        <translation>Bekrftet (%1 bekrftelser)</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Åben %n blok(ke) yderligere</numerusform><numerusform>Åben %n blok(ke) yderligere</numerusform></translation>
+        <translation><numerusform>ben %n blok(ke) yderligere</numerusform><numerusform>ben %n blok(ke) yderligere</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2361,12 +2361,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Ubekræftede</translation>
+        <translation>Ubekrftede</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Bekræftelse (% 1 af% 2 anbefalede bekræftelser)</translation>
+        <translation>Bekrftelse (% 1 af% 2 anbefalede bekrftelser)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2376,7 +2376,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+3"/>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Umodne (% 1 bekræftelser, vil være tilgængelige efter% 2)</translation>
+        <translation>Umodne (% 1 bekrftelser, vil vre tilgngelige efter% 2)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2421,12 +2421,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Transaktionsstatus. Hold musen over dette felt for at vise antallet af bekræftelser.</translation>
+        <translation>Transaktionsstatus. Hold musen over dette felt for at vise antallet af bekrftelser.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>Dato og klokkeslæt for modtagelse af transaktionen.</translation>
+        <translation>Dato og klokkeslt for modtagelse af transaktionen.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2441,7 +2441,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Beløb fjernet eller tilføjet balance.</translation>
+        <translation>Belb fjernet eller tilfjet balance.</translation>
     </message>
 </context>
 <context>
@@ -2465,17 +2465,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>Denne måned</translation>
+        <translation>Denne mned</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Sidste måned</translation>
+        <translation>Sidste mned</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>Dette år</translation>
+        <translation>Dette r</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2510,12 +2510,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Indtast adresse eller mærkat for at søge</translation>
+        <translation>Indtast adresse eller mrkat for at sge</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>Minimumsbeløb</translation>
+        <translation>Minimumsbelb</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -2525,12 +2525,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Kopier mærkat</translation>
+        <translation>Kopier mrkat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopier beløb</translation>
+        <translation>Kopier belb</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2540,7 +2540,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Rediger mærkat</translation>
+        <translation>Rediger mrkat</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2560,7 +2560,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>Bekræftet</translation>
+        <translation>Bekrftet</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2575,7 +2575,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>Mærkat</translation>
+        <translation>Mrkat</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2585,7 +2585,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>Beløb</translation>
+        <translation>Belb</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>Roxcoin version</translation>
+        <source>eCoin version</source>
+        <translation>eCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Send kommando til-server eller roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Send kommando til-server eller eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,7 +2646,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Få hjælp til en kommando</translation>
+        <translation>F hjlp til en kommando</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2655,13 +2655,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Angiv konfigurationsfil (default: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Angiv konfigurationsfil (default: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Angiv pid fil (standard: roxcoind.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Angiv pid fil (standard: eCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2676,22 +2676,22 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Angiv databasecachestørrelse i megabytes (standard: 25)</translation>
+        <translation>Angiv databasecachestrrelse i megabytes (standard: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation>Set database disk logstørrelsen i megabyte (standard: 100)</translation>
+        <translation>Set database disk logstrrelsen i megabyte (standard: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Lyt efter forbindelser på &lt;port&gt; (default: 47377 eller Testnet: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Lyt efter forbindelser p &lt;port&gt; (default: 15714 eller Testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Oprethold højest &lt;n&gt; forbindelser til andre i netværket (standard: 125)</translation>
+        <translation>Oprethold hjest &lt;n&gt; forbindelser til andre i netvrket (standard: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2711,42 +2711,42 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>Opbevar dine mønter for at støtte netværket og få belønning (default: 1)</translation>
+        <translation>Opbevar dine mnter for at sttte netvrket og f belnning (default: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Grænse for afbrydelse til dårlige forbindelser (standard: 100)</translation>
+        <translation>Grnse for afbrydelse til drlige forbindelser (standard: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Antal sekunder dårlige forbindelser skal vente før reetablering (standard: 86400)</translation>
+        <translation>Antal sekunder drlige forbindelser skal vente fr reetablering (standard: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>Der opstod en fejl ved angivelse af RPC-porten %u til at lytte på IPv4: %s</translation>
+        <translation>Der opstod en fejl ved angivelse af RPC-porten %u til at lytte p IPv4: %s</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation>Frigør blok og adresse databaser. Øg shutdown tid (default: 0)</translation>
+        <translation>Frigr blok og adresse databaser. g shutdown tid (default: 0)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af mønterne i din pung allerede er blevet brugt, som hvis du brugte en kopi af wallet.dat og mønterne blev brugt i kopien, men ikke markeret her.</translation>
+        <translation>Fejl: Transaktionen blev afvist. Dette kan ske, hvis nogle af mnterne i din pung allerede er blevet brugt, som hvis du brugte en kopi af wallet.dat og mnterne blev brugt i kopien, men ikke markeret her.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Fejl: Denne transaktion kræver et transaktionsgebyr på mindst% s på grund af dens størrelse, kompleksitet, eller anvendelse af nylig modtaget midler</translation>
+        <translation>Fejl: Denne transaktion krver et transaktionsgebyr p mindst% s p grund af dens strrelse, kompleksitet, eller anvendelse af nylig modtaget midler</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Spor efter JSON-RPC-forbindelser på &lt;port&gt; (default: 47376 eller Testnet: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Spor efter JSON-RPC-forbindelser p &lt;port&gt; (default: 15715 eller Testnet: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2761,7 +2761,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Fejl: Wallet låst, ude af stand til at skabe transaktion</translation>
+        <translation>Fejl: Wallet lst, ude af stand til at skabe transaktion</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -2776,12 +2776,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Kør i baggrunden som en service, og accepter kommandoer</translation>
+        <translation>Kr i baggrunden som en service, og accepter kommandoer</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Brug testnetværket</translation>
+        <translation>Brug testnetvrket</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -2791,42 +2791,42 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>Der opstod en fejl ved angivelse af RPC-porten %u til at lytte på IPv6, falder tilbage til IPv4: %s</translation>
+        <translation>Der opstod en fejl ved angivelse af RPC-porten %u til at lytte p IPv6, falder tilbage til IPv4: %s</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>Fejl initialisering database miljø% s! For at gendanne, BACKUP denne mappe, og derefter fjern alt bortset fra wallet.dat.</translation>
+        <translation>Fejl initialisering database milj% s! For at gendanne, BACKUP denne mappe, og derefter fjern alt bortset fra wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation>Angiv maksimal størrelse på high-priority/low-fee transaktioner i bytes (standard: 27000)</translation>
+        <translation>Angiv maksimal strrelse p high-priority/low-fee transaktioner i bytes (standard: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Advarsel: -paytxfee er sat meget højt! Dette er det gebyr du vil betale, hvis du sender en transaktion.</translation>
+        <translation>Advarsel: -paytxfee er sat meget hjt! Dette er det gebyr du vil betale, hvis du sender en transaktion.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil Roxcoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslt er korrekt! Hvis dit ur er forkert vil eCoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Advarsel: fejl under læsning af wallet.dat! Alle nøgler blev læst korrekt, men transaktionsdata eller adressebogsposter kan mangle eller være forkerte.</translation>
+        <translation>Advarsel: fejl under lsning af wallet.dat! Alle ngler blev lst korrekt, men transaktionsdata eller adressebogsposter kan mangle eller vre forkerte.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Advarsel: wallet.dat ødelagt, data reddet! Oprindelig wallet.net gemt som wallet.{timestamp}.bak i %s; hvis din saldo eller dine transaktioner er forkert, bør du genskabe fra en sikkerhedskopi.</translation>
+        <translation>Advarsel: wallet.dat delagt, data reddet! Oprindelig wallet.net gemt som wallet.{timestamp}.bak i %s; hvis din saldo eller dine transaktioner er forkert, br du genskabe fra en sikkerhedskopi.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Forsøg at genskabe private nøgler fra ødelagt wallet.dat</translation>
+        <translation>Forsg at genskabe private ngler fra delagt wallet.dat</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2841,12 +2841,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Find egen IP-adresse (standard: 1 når lytter og ingen -externalip)</translation>
+        <translation>Find egen IP-adresse (standard: 1 nr lytter og ingen -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Lytning på enhver port mislykkedes. Brug -listen=0, hvis du ønsker dette.</translation>
+        <translation>Lytning p enhver port mislykkedes. Brug -listen=0, hvis du nsker dette.</translation>
     </message>
     <message>
         <location line="-90"/>
@@ -2866,7 +2866,7 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation>Ugyldigt beløb for-reservebalance = &lt;beløb&gt;</translation>
+        <translation>Ugyldigt belb for-reservebalance = &lt;belb&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
@@ -2881,17 +2881,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>Tilslut kun til knuder i netværk &lt;net&gt; (IPv4, IPv6 eller Tor)</translation>
+        <translation>Tilslut kun til knuder i netvrk &lt;net&gt; (IPv4, IPv6 eller Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Output ekstra debugging information. Indebærer alle andre-debug * muligheder</translation>
+        <translation>Output ekstra debugging information. Indebrer alle andre-debug * muligheder</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>Output ekstra netværk debugging information</translation>
+        <translation>Output ekstra netvrk debugging information</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2901,17 +2901,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-indstillinger: (se Bitcoin Wiki for SSL-opsætningsinstruktioner)</translation>
+        <translation>SSL-indstillinger: (se Bitcoin Wiki for SSL-opstningsinstruktioner)</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>Vælg den version af socks proxy du vil bruge (4-5, standard: 5)</translation>
+        <translation>Vlg den version af socks proxy du vil bruge (4-5, standard: 5)</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Send sporings-/fejlsøgningsinformation til konsollen i stedet for debug.log filen</translation>
+        <translation>Send sporings-/fejlsgningsinformation til konsollen i stedet for debug.log filen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2921,12 +2921,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>Indstil maks. blok størrelse i bytes (standard: 250000)</translation>
+        <translation>Indstil maks. blok strrelse i bytes (standard: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Angiv minimumsblokstørrelse i bytes (standard: 0)</translation>
+        <translation>Angiv minimumsblokstrrelse i bytes (standard: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
@@ -2948,17 +2948,17 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Forsøg at bruge UPnP til at konfigurere den lyttende port (standard: 0)</translation>
+        <translation>Forsg at bruge UPnP til at konfigurere den lyttende port (standard: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Forsøg at bruge UPnP til at konfigurere den lyttende port (standard: 1 når lytter)</translation>
+        <translation>Forsg at bruge UPnP til at konfigurere den lyttende port (standard: 1 nr lytter)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>Brug proxy til at nå tor skjulte services (Standard: samme som-proxy)</translation>
+        <translation>Brug proxy til at n tor skjulte services (Standard: samme som-proxy)</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2968,12 +2968,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation>Bekræfter database integritet ...</translation>
+        <translation>Bekrfter database integritet ...</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>ADVARSEL: synkroniseret checkpoint overtrædelse opdaget, men skibbet!</translation>
+        <translation>ADVARSEL: synkroniseret checkpoint overtrdelse opdaget, men skibbet!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2983,12 +2983,12 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Advarsel: Denne version er forældet, opgradering påkrævet!</translation>
+        <translation>Advarsel: Denne version er forldet, opgradering pkrvet!</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat ødelagt, redning af data mislykkedes</translation>
+        <translation>wallet.dat delagt, redning af data mislykkedes</translation>
     </message>
     <message>
         <location line="-54"/>
@@ -3000,24 +3000,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
-Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = roxcoinrpc  
+Det anbefales at bruge flgende tilfldig adgangskode: 
+rpcuser = eCoinrpc  
 rpcpassword =% s  
-(du behøver ikke at huske denne adgangskode)  
-Brugernavn og adgangskode må ikke være den samme.  
-Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
-Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@foo.com 
+(du behver ikke at huske denne adgangskode)  
+Brugernavn og adgangskode m ikke vre den samme.  
+Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-lsbar-kun. 
+Det kan ogs anbefales at stte alertnotify s du fr besked om problemer; 
+for eksempel: alertnotify = echo%% s | mail-s &quot;eCoin Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3028,12 +3028,12 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation>Synkroniser tid med andre noder. Deaktiver, hvis tiden på dit system er præcis eksempelvis synkroniseret med NTP (default: 1)</translation>
+        <translation>Synkroniser tid med andre noder. Deaktiver, hvis tiden p dit system er prcis eksempelvis synkroniseret med NTP (default: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>Når du opretter transaktioner ignoreres input med værdi mindre end dette (standard: 0,01)</translation>
+        <translation>Nr du opretter transaktioner ignoreres input med vrdi mindre end dette (standard: 0,01)</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -3043,32 +3043,32 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Send kommandoer til knude, der kører på &lt;ip&gt; (standard: 127.0.0.1)</translation>
+        <translation>Send kommandoer til knude, der krer p &lt;ip&gt; (standard: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Udfør kommando, når den bedste blok ændres (%s i kommandoen erstattes med blokhash)</translation>
+        <translation>Udfr kommando, nr den bedste blok ndres (%s i kommandoen erstattes med blokhash)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Udfør kommando, når en transaktion i tegnebogen ændres (%s i kommandoen erstattes med TxID)</translation>
+        <translation>Udfr kommando, nr en transaktion i tegnebogen ndres (%s i kommandoen erstattes med TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation>Kræver en bekræftelser for forandring (default: 0)</translation>
+        <translation>Krver en bekrftelser for forandring (default: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>Gennemtving transaktions omkostninger scripts til at bruge canoniske PUSH operatører (default: 1)</translation>
+        <translation>Gennemtving transaktions omkostninger scripts til at bruge canoniske PUSH operatrer (default: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation>Udfør kommando, når en relevant advarsel er modtaget (% s i cmd erstattes af meddelelse)</translation>
+        <translation>Udfr kommando, nr en relevant advarsel er modtaget (% s i cmd erstattes af meddelelse)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3078,12 +3078,12 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Angiv nøglepoolstørrelse til &lt;n&gt; (standard: 100)</translation>
+        <translation>Angiv nglepoolstrrelse til &lt;n&gt; (standard: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Gennemsøg blokkæden for manglende tegnebogstransaktioner</translation>
+        <translation>Gennemsg blokkden for manglende tegnebogstransaktioner</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3113,27 +3113,27 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Serverens private nøgle (standard: server.pem)</translation>
+        <translation>Serverens private ngle (standard: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation>Acceptable ciphers (default: TLSv1 + HØJ:! SSLv2: aNULL: eNULL: AH: 3DES: @ styrke)</translation>
+        <translation>Acceptable ciphers (default: TLSv1 + HJ:! SSLv2: aNULL: eNULL: AH: 3DES: @ styrke)</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>Fejl: Pung låst for at udregne rente, ude af stand til at skabe transaktion.</translation>
+        <translation>Fejl: Pung lst for at udregne rente, ude af stand til at skabe transaktion.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>ADVARSEL: Ugyldig checkpoint fundet! Viste transaktioner er måske ikke korrekte! Du kan være nødt til at opgradere, eller underrette udviklerne.</translation>
+        <translation>ADVARSEL: Ugyldig checkpoint fundet! Viste transaktioner er mske ikke korrekte! Du kan vre ndt til at opgradere, eller underrette udviklerne.</translation>
     </message>
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Denne hjælpebesked</translation>
+        <translation>Denne hjlpebesked</translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3142,18 +3142,18 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. Roxcoin kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>Kan ikke f en ls p data mappe% s. eCoin krer sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Kunne ikke tildele %s på denne computer (bind returnerede fejl %d, %s)</translation>
+        <translation>Kunne ikke tildele %s p denne computer (bind returnerede fejl %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3168,32 +3168,32 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>Indlæser adresser...</translation>
+        <translation>Indlser adresser...</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Error loading blkindex.dat</source>
-        <translation>Fejl ved indlæsning af blkindex.dat</translation>
+        <translation>Fejl ved indlsning af blkindex.dat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog ødelagt</translation>
+        <translation>Fejl ved indlsning af wallet.dat: Tegnebog delagt</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af Roxcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Fejl ved indlsning af wallet.dat: Wallet krver en nyere version af eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart Roxcoin for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>Det er ndvendig for wallet at blive omskrevet: Genstart eCoin for fuldfre</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>Fejl ved indlæsning af wallet.dat</translation>
+        <translation>Fejl ved indlsning af wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -3203,7 +3203,7 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="-1"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>Ukendt netværk anført i -onlynet: &apos;%s&apos;</translation>
+        <translation>Ukendt netvrk anfrt i -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -3223,7 +3223,7 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Ugyldigt beløb for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>Ugyldigt belb for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3238,42 +3238,42 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Ugyldigt beløb</translation>
+        <translation>Ugyldigt belb</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Manglende dækning</translation>
+        <translation>Manglende dkning</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>Indlæser blokindeks...</translation>
+        <translation>Indlser blokindeks...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Tilføj en knude til at forbinde til og forsøg at holde forbindelsen åben</translation>
+        <translation>Tilfj en knude til at forbinde til og forsg at holde forbindelsen ben</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. Roxcoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s p denne computer. eCoin krer sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Gebyr pr KB som tilføjes til transaktioner, du sender</translation>
+        <translation>Gebyr pr KB som tilfjes til transaktioner, du sender</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Ugyldigt beløb for-mininput = &lt;beløb&gt;: &apos;% s&apos;</translation>
+        <translation>Ugyldigt belb for-mininput = &lt;belb&gt;: &apos;% s&apos;</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>Indlæser tegnebog...</translation>
+        <translation>Indlser tegnebog...</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3293,12 +3293,12 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>Genindlæser...</translation>
+        <translation>Genindlser...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>Indlæsning gennemført</translation>
+        <translation>Indlsning gennemfrt</translation>
     </message>
     <message>
         <location line="-167"/>
@@ -3317,7 +3317,7 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;Roxcoin Alert&quot; admin@fo
 If the file does not exist, create it with owner-readable-only file permissions.</source>
         <translation>Du skal angive rpcpassword=&lt;password&gt; i konfigurationsfilen:
 %s
-Hvis filen ikke eksisterer, opret den og giv ingen andre end ejeren læserettighed.</translation>
+Hvis filen ikke eksisterer, opret den og giv ingen andre end ejeren lserettighed.</translation>
     </message>
 </context>
 </TS>

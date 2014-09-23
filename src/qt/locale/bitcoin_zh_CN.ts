@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>关于黑币</translation>
+        <source>About eCoin</source>
+        <translation>关于eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>黑币客户端 版本</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>eCoin客户端 版本</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>版权所有 © 2009-2014 比特币Bitcoin开发组
-版权所有 © 2012-2014 新星币Novacoin开发组
-版权所有 © 2014 黑币Roxcoin开发组</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>版权所有  2009-2014 比特币Bitcoin开发组
+版权所有  2012-2014 新星币Novacoin开发组
+版权所有  2014 eCoineCoin开发组</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>这是您用来接收支付的黑币地址列表。为不同的支付方建立不同的地址以便于了解支付来源。</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>这是您用来接收支付的eCoin地址列表。为不同的支付方建立不同的地址以便于了解支付来源。</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>对信息进行签名以证明您对该黑币地址的所有权</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>对信息进行签名以证明您对该eCoin地址的所有权</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>验证信息以保证其经过指定黑币地址的签名</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>验证信息以保证其经过指定eCoin地址的签名</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>警告：如果您丢失了加密该钱包的密码，其中所有的黑币将会丢失！</translation>
+        <translation>警告：如果您丢失了加密该钱包的密码，其中所有的eCoin将会丢失！</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>黑币客户端即将关闭以完成加密过程。请记住，加密钱包并不能完全防止您的电子货币被入侵您计算机的木马软件盗窃。</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin客户端即将关闭以完成加密过程。请记住，加密钱包并不能完全防止您的电子货币被入侵您计算机的木马软件盗窃。</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -353,7 +353,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation>接收黑币(&amp;R)</translation>
+        <translation>接收eCoin(&amp;R)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>显示关于黑币的信息</translation>
+        <source>Show information about eCoin</source>
+        <translation>显示关于eCoin的信息</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,12 +427,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>向指定的地址发送黑币</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>向指定的地址发送eCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation>更改设置选项</translation>
     </message>
     <message>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>黑币</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>关于黑币(&amp;A)</translation>
+        <source>&amp;About eCoin</source>
+        <translation>关于eCoin(&amp;A)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>黑币客户端</translation>
+        <source>eCoin client</source>
+        <translation>eCoin客户端</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>与黑币网络建立了 %n 个连接</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>与eCoin网络建立了 %n 个连接</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -575,7 +575,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>未进行权益增值，因为钱包中没有成熟的黑币</translation>
+        <translation>未进行权益增值，因为钱包中没有成熟的eCoin</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -584,13 +584,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>关于黑币卡</translation>
+        <source>About eCoin card</source>
+        <translation>关于eCoin卡</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>显示关于黑币卡的信息</translation>
+        <source>Show information about eCoin card</source>
+        <translation>显示关于eCoin卡的信息</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>无法解析URI：无效的黑币地址或错误的URI参数。</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>无法解析URI：无效的eCoin地址或错误的URI参数。</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>发生严重错误，黑币客户端即将关闭。</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>发生严重错误，eCoin客户端即将关闭。</translation>
     </message>
 </context>
 <context>
@@ -746,7 +746,7 @@ Address: %4
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+14"/>
         <source>Coin Control</source>
-        <translation>黑币控制</translation>
+        <translation>eCoin控制</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1056,8 +1056,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>“%1” 不是有效的黑币地址。</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>“%1” 不是有效的eCoin地址。</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,8 +1075,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>黑币客户端Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin客户端eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1148,13 +1148,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>开机自动启动黑币客户端</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>开机自动启动eCoin客户端</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>开机时自动启动黑币客户端(&amp;S)</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>开机时自动启动eCoin客户端(&amp;S)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1173,8 +1173,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>路由器自动打开黑币客户端端口。该功能仅在路由器开启UPnP支持时有效。</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>路由器自动打开eCoin客户端端口。该功能仅在路由器开启UPnP支持时有效。</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1183,8 +1183,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>经SOCKS代理连接到黑币网络(例如使用Tor)</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>经SOCKS代理连接到eCoin网络(例如使用Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1258,28 +1258,28 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>在此设置用户界面语言。重启黑币客户端后设置生效。</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>在此设置用户界面语言。重启eCoin客户端后设置生效。</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>黑币金额单位(&amp;U)：</translation>
+        <translation>eCoin金额单位(&amp;U)：</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>选择黑币单位。</translation>
+        <translation>选择eCoin单位。</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>是否在交易列表中显示黑币地址</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>是否在交易列表中显示eCoin地址</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>在交易清单中显示黑币地址(&amp;D)</translation>
+        <translation>在交易清单中显示eCoin地址(&amp;D)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1289,7 +1289,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>显示黑币控制选项(仅用于专家用户)</translation>
+        <translation>显示eCoin控制选项(仅用于专家用户)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1320,7 +1320,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation>重启客户端后设置生效</translation>
     </message>
     <message>
@@ -1339,7 +1339,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation>所显示的信息尚未更新，建立连接后钱包客户端会自动和网络进行同步，但目前该过程尚未完成。</translation>
     </message>
     <message>
@@ -1555,7 +1555,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation>显示关于命令行选项的帮助信息。</translation>
     </message>
     <message>
@@ -1575,13 +1575,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>黑币客户端-调试窗口</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin客户端-调试窗口</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>黑币核心进程</translation>
+        <source>eCoin Core</source>
+        <translation>eCoin核心进程</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1590,7 +1590,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>打开调试日志文件，对于较大的文件，这可能持续几秒钟。</translation>
     </message>
     <message>
@@ -1600,8 +1600,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>欢迎使用黑币RPC控制台。</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>欢迎使用eCoinRPC控制台。</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1674,8 +1674,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1744,8 +1744,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1759,8 +1759,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>输入黑币地址(例如：GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>输入eCoin地址(例如：eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1859,8 +1859,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>警告：无效的黑币地址</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>警告：无效的eCoin地址</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1903,8 +1903,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>收款人地址(例：GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>收款人地址(例：eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1933,8 +1933,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>输入一个黑币地址 (例：GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>输入一个eCoin地址 (例：eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1957,8 +1957,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>用来签名该消息的地址(例： GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>用来签名该消息的地址(例： eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1994,8 +1994,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>对该消息进行签名以证明您对该黑币地址的所有权</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>对该消息进行签名以证明您对该eCoin地址的所有权</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2021,13 +2021,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>用来签名该消息的黑币地址(例： GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>用来签名该消息的eCoin地址(例： eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>确认该消息以保证它经由指定的黑币地址签名</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>确认该消息以保证它经由指定的eCoin地址签名</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2037,8 +2037,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>输入黑币地址(例： GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>输入eCoin地址(例： eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2047,8 +2047,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>输入黑币签名</translation>
+        <source>Enter eCoin signature</source>
+        <translation>输入eCoin签名</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2252,8 +2252,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>通过权益累积获得的金额需要在110个块确认后方可使用。此数据块生成时，将被广播到网络并加入区块链。如果未能成功加入区块链，其状态会显示为“未接受”，该部分金额也不可被使用。如果其他节点在您生成区块后的几秒钟内也生成了区块，这种情况会偶尔发生。</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>通过权益累积获得的金额需要在510个块确认后方可使用。此数据块生成时，将被广播到网络并加入区块链。如果未能成功加入区块链，其状态会显示为“未接受”，该部分金额也不可被使用。如果其他节点在您生成区块后的几秒钟内也生成了区块，这种情况会偶尔发生。</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2618,8 +2618,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>黑币客户端 版本</translation>
+        <source>eCoin version</source>
+        <translation>eCoin客户端 版本</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,8 +2628,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>向-server服务器或roxcoind发送命令</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>向-server服务器或eCoind发送命令</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2651,13 +2651,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>指定配置文件(默认: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>指定配置文件(默认: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>指定pid文件(默认: roxcoind.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>指定pid文件(默认: eCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2682,8 +2682,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>监听&lt;port&gt;端口的连接 (默认: 47377 测试网: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>监听&lt;port&gt;端口的连接 (默认: 15714 测试网: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2708,7 +2708,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>进行权益累积以支持黑币网络并获得报酬(默认: 1)</translation>
+        <translation>进行权益累积以支持eCoin网络并获得报酬(默认: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2742,8 +2742,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>监听 &lt;port&gt; 端口的JSON-RPC连接 (默认: 47376 测试网: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>监听 &lt;port&gt; 端口的JSON-RPC连接 (默认: 15715 测试网: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2811,8 +2811,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>警告：请确认您计算机的本地时间。如果时钟错误，黑币客户端将不能正常工作。</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>警告：请确认您计算机的本地时间。如果时钟错误，eCoin客户端将不能正常工作。</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3001,24 +3001,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, 必须在配置文件里设置rpc密码:
  %s
 建议使用如下的随机密码:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (不需要记住该密码)
 用户名和密码不能重复。
 如果该文件不存在，请自行创建并设为用户本身只读权限。
 建议创建提示以监测可能的问题，如：
-alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3147,13 +3147,13 @@ alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>无法从数据目录 %s 获得锁定.  黑币客户端可能已在运行中.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>无法从数据目录 %s 获得锁定.  eCoin客户端可能已在运行中.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>黑币</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3187,12 +3187,12 @@ alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation>wallet.dat 钱包文件加载出错：需要新版本的客户端</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation>需要重写钱包，重启客户端以完成该操作。</translation>
     </message>
     <message>
@@ -3262,8 +3262,8 @@ alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>无法绑定到该计算机上的 %s. 黑币客户端可能已在运行中。</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>无法绑定到该计算机上的 %s. eCoin客户端可能已在运行中。</translation>
     </message>
     <message>
         <location line="-97"/>

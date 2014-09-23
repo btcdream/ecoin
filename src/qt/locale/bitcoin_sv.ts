@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>Vad du behöver veta om Roxcoin</translation>
+        <source>About eCoin</source>
+        <translation>Vad du behver veta om eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Roxcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -29,12 +29,12 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-Detta är experimentell mjukvara.
+Detta r experimentell mjukvara.
 
 
-Distribuerad under mjukvarulicensen MIT/X11, se den medföljande filen COPYING eller http://www.opensource.org/licenses/mit-license.php.
+Distribuerad under mjukvarulicensen MIT/X11, se den medfljande filen COPYING eller http://www.opensource.org/licenses/mit-license.php.
 
-Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användning i OpenSSL Toolkit (http://www.openssl.org/) och kryptografisk mjukvara utvecklad av Eric Young (eay@cryptsoft.com) samt UPnP-mjukvara skriven av Thomas Bernard.</translation>
+Denna produkten innehller mjukvara utvecklad av OpenSSL Project fr anvndning i OpenSSL Toolkit (http://www.openssl.org/) och kryptografisk mjukvara utvecklad av Eric Young (eay@cryptsoft.com) samt UPnP-mjukvara skriven av Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Dubbel-klicka för att ändra adressen eller etiketten</translation>
+        <translation>Dubbel-klicka fr att ndra adressen eller etiketten</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Roxcoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa r dina eCoin adesser fr att mottaga betalningsfrsndelser. Du kan ven anvnda olika adresser fr varje avsndare fr att enkelt hlla koll p vem som har skickat en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Roxcoin adressen</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Signera ett meddelande fr att bevisa att du ger eCoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -92,12 +92,12 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Ta bort den valda adressen från listan</translation>
+        <translation>Ta bort den valda adressen frn listan</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Roxcoin adress</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Verifiera ett meddelande fr att frskra dig ver att det var signerat av en specifik eCoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -163,109 +163,109 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Lösenords Dialog</translation>
+        <translation>Lsenords Dialog</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Ange lösenord</translation>
+        <translation>Ange lsenord</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>Nytt lösenord</translation>
+        <translation>Nytt lsenord</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>Upprepa nytt lösenord</translation>
+        <translation>Upprepa nytt lsenord</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Avaktiverar &quot;sendmoney&quot; om ditt operativsystem har blivit äventyrat. ger ingen verklig säkerhet.</translation>
+        <translation>Avaktiverar &quot;sendmoney&quot; om ditt operativsystem har blivit ventyrat. ger ingen verklig skerhet.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>For staking only</source>
-        <translation>Endast för &quot;staking&quot;</translation>
+        <translation>Endast fr &quot;staking&quot;</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Ange plånbokens nya lösenord. &lt;br/&gt; Använd ett lösenord på &lt;b&gt;10 eller fler slumpmässiga tecken,&lt;/b&gt; eller &lt;b&gt;åtta eller fler ord.&lt;/b&gt;</translation>
+        <translation>Ange plnbokens nya lsenord. &lt;br/&gt; Anvnd ett lsenord p &lt;b&gt;10 eller fler slumpmssiga tecken,&lt;/b&gt; eller &lt;b&gt;tta eller fler ord.&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>Kryptera plånbok</translation>
+        <translation>Kryptera plnbok</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Denna operation behöver din plånboks lösenord för att låsa upp plånboken.</translation>
+        <translation>Denna operation behver din plnboks lsenord fr att lsa upp plnboken.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Lås upp plånbok</translation>
+        <translation>Ls upp plnbok</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Denna operation behöver din plånboks lösenord för att dekryptera plånboken.</translation>
+        <translation>Denna operation behver din plnboks lsenord fr att dekryptera plnboken.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Dekryptera plånbok</translation>
+        <translation>Dekryptera plnbok</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Ändra lösenord</translation>
+        <translation>ndra lsenord</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Ange plånbokens gamla och nya lösenord.</translation>
+        <translation>Ange plnbokens gamla och nya lsenord.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Bekräfta kryptering av plånbok</translation>
+        <translation>Bekrfta kryptering av plnbok</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varning: Om du krypterar plånboken och glömmer lösenordet, kommer du att &lt;b&gt;FÖRLORA ALLA COINS&lt;/b&gt;!</translation>
+        <translation>Varning: Om du krypterar plnboken och glmmer lsenordet, kommer du att &lt;b&gt;FRLORA ALLA COINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Är du säker på att du vill kryptera din plånbok?</translation>
+        <translation>r du sker p att du vill kryptera din plnbok?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>VIKTIGT: Alla tidigare säkerhetskopior du har gjort av plånbokens fil ska ersättas med den nya genererade, krypterade plånboks filen. Av säkerhetsskäl kommer tidigare säkerhetskopior av den okrypterade plånboks filen blir oanvändbara när du börjar använda en ny, krypterad plånbok.</translation>
+        <translation>VIKTIGT: Alla tidigare skerhetskopior du har gjort av plnbokens fil ska ersttas med den nya genererade, krypterade plnboks filen. Av skerhetsskl kommer tidigare skerhetskopior av den okrypterade plnboks filen blir oanvndbara nr du brjar anvnda en ny, krypterad plnbok.</translation>
     </message>
     <message>
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Varning: Caps Lock är påslaget!</translation>
+        <translation>Varning: Caps Lock r pslaget!</translation>
     </message>
     <message>
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Plånboken är krypterad</translation>
+        <translation>Plnboken r krypterad</translation>
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin plnboken kommer nu att stngas fr att slutfra krypteringen: Kom ihg att ven en krypterad plnboks skerhet kan ventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -273,40 +273,40 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Kryptering av plånbok misslyckades</translation>
+        <translation>Kryptering av plnbok misslyckades</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Kryptering av plånbok misslyckades på grund av ett internt fel. Din plånbok blev inte krypterad.</translation>
+        <translation>Kryptering av plnbok misslyckades p grund av ett internt fel. Din plnbok blev inte krypterad.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>De angivna lösenorden överensstämmer inte.</translation>
+        <translation>De angivna lsenorden verensstmmer inte.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Upplåsning av plånbok misslyckades</translation>
+        <translation>Upplsning av plnbok misslyckades</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Lösenordet för dekryptering av plånbok var felaktig.</translation>
+        <translation>Lsenordet fr dekryptering av plnbok var felaktig.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Dekryptering av plånbok misslyckades</translation>
+        <translation>Dekryptering av plnbok misslyckades</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Plånbokens lösenord har ändrats.</translation>
+        <translation>Plnbokens lsenord har ndrats.</translation>
     </message>
 </context>
 <context>
@@ -319,17 +319,17 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>Synkroniserar med nätverk...</translation>
+        <translation>Synkroniserar med ntverk...</translation>
     </message>
     <message>
         <location line="-319"/>
         <source>&amp;Overview</source>
-        <translation>&amp;Översikt</translation>
+        <translation>&amp;versikt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>Visa översiktsvy av plånbok</translation>
+        <translation>Visa versiktsvy av plnbok</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -339,7 +339,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Bläddra i transaktionshistorik</translation>
+        <translation>Blddra i transaktionshistorik</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -349,7 +349,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation>Editera listan över sparade adresser och deras namn</translation>
+        <translation>Editera listan ver sparade adresser och deras namn</translation>
     </message>
     <message>
         <location line="-13"/>
@@ -359,7 +359,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Visa adresslista för att mottaga betalningar</translation>
+        <translation>Visa adresslista fr att mottaga betalningar</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Visa information om Roxcoin</translation>
+        <source>Show information about eCoin</source>
+        <translation>Visa information om eCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -399,17 +399,17 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Kryptera plånbok...</translation>
+        <translation>&amp;Kryptera plnbok...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Säkerhetskopiera plånbok...</translation>
+        <translation>&amp;Skerhetskopiera plnbok...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Byt Lösenord...</translation>
+        <translation>&amp;Byt Lsenord...</translation>
     </message>
     <message numerus="yes">
         <location line="+259"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Skicka coins till en Roxcoin adress</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Skicka coins till en eCoin adress</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Modifiera konfigurations-alternativ för Roxcoin</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>Modifiera konfigurations-alternativ fr eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -444,27 +444,27 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="-14"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>Kryptera eller avkryptera plånbok</translation>
+        <translation>Kryptera eller avkryptera plnbok</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Säkerhetskopiera plånboken till en annan plats</translation>
+        <translation>Skerhetskopiera plnboken till en annan plats</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Byt lösenord för kryptering av plånbok</translation>
+        <translation>Byt lsenord fr kryptering av plnbok</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Debug window</source>
-        <translation>&amp;Debug fönster</translation>
+        <translation>&amp;Debug fnster</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Öppna debug- och diagnostikkonsolen</translation>
+        <translation>ppna debug- och diagnostikkonsolen</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -473,38 +473,38 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet</source>
-        <translation>Plånbok</translation>
+        <translation>Plnbok</translation>
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>&amp;Om Roxcoin</translation>
+        <source>&amp;About eCoin</source>
+        <translation>&amp;Om eCoin</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Visa / Göm</translation>
+        <translation>&amp;Visa / Gm</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Unlock wallet</source>
-        <translation>Lås upp plånbok</translation>
+        <translation>Ls upp plnbok</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Lås plånbok</translation>
+        <translation>&amp;Ls plnbok</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation>Lås plånbok</translation>
+        <translation>Ls plnbok</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -514,22 +514,22 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+8"/>
         <source>&amp;Settings</source>
-        <translation>&amp;Inställningar</translation>
+        <translation>&amp;Instllningar</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>&amp;Hjälp</translation>
+        <translation>&amp;Hjlp</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Verktygsfält för Tabbar</translation>
+        <translation>Verktygsflt fr Tabbar</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Actions toolbar</source>
-        <translation>Verktygsfält för handlingar</translation>
+        <translation>Verktygsflt fr handlingar</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Roxcoin klient</translation>
+        <source>eCoin client</source>
+        <translation>eCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n aktiv anslutning till Roxcoin nätverket</numerusform><numerusform>%n aktiva anslutning till Roxcoin nätverket</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n aktiv anslutning till eCoin ntverket</numerusform><numerusform>%n aktiva anslutning till eCoin ntverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -556,27 +556,27 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>Staking.&lt;br&gt;Din vikt är %1&lt;br&gt;Nätverkets vikt är %2&lt;br&gt;Uppskattad tid för att få belöning är %3</translation>
+        <translation>Staking.&lt;br&gt;Din vikt r %1&lt;br&gt;Ntverkets vikt r %2&lt;br&gt;Uppskattad tid fr att f belning r %3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>Ingen staking för att plånboken är låst</translation>
+        <translation>Ingen staking fr att plnboken r lst</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation>Ingen staking för att plånboken är offline</translation>
+        <translation>Ingen staking fr att plnboken r offline</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation>Ingen staking för att plånboken synkroniseras</translation>
+        <translation>Ingen staking fr att plnboken synkroniseras</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>Ingen staking för att dina coins är ännu inte föråldrade</translation>
+        <translation>Ingen staking fr att dina coins r nnu inte frldrade</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -585,18 +585,18 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>Om Roxcoin kortet</translation>
+        <source>About eCoin card</source>
+        <translation>Om eCoin kortet</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>Via information om Roxcoin kortet</translation>
+        <source>Show information about eCoin card</source>
+        <translation>Via information om eCoin kortet</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>Lås &amp;Upp plånboken</translation>
+        <translation>Ls &amp;Upp plnboken</translation>
     </message>
     <message numerus="yes">
         <location line="+297"/>
@@ -621,7 +621,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>Hämtar senaste...</translation>
+        <translation>Hmtar senaste...</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -631,12 +631,12 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Denna transaktion är över gränsen. Du kan ändå skicka den med en %1 avgift, som går till noderna som processerar din transaktion och hjälper till med att upprätthålla nätverket. Vill du betala denna avgift?</translation>
+        <translation>Denna transaktion r ver grnsen. Du kan nd skicka den med en %1 avgift, som gr till noderna som processerar din transaktion och hjlper till med att upprtthlla ntverket. Vill du betala denna avgift?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm transaction fee</source>
-        <translation>Bekräfta transaktionsavgiften</translation>
+        <translation>Bekrfta transaktionsavgiften</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -670,38 +670,38 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Roxcoin adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero p en ogiltig eCoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Denna plånbok är &lt;b&gt;krypterad&lt;/b&gt; och för närvarande &lt;b&gt;olåst&lt;/b&gt;</translation>
+        <translation>Denna plnbok r &lt;b&gt;krypterad&lt;/b&gt; och fr nrvarande &lt;b&gt;olst&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Denna plånbok är &lt;b&gt;krypterad&lt;/b&gt; och för närvarande &lt;b&gt;låst&lt;/b&gt;</translation>
+        <translation>Denna plnbok r &lt;b&gt;krypterad&lt;/b&gt; och fr nrvarande &lt;b&gt;lst&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Backup Wallet</source>
-        <translation>Säkerhetskopiera plånbok</translation>
+        <translation>Skerhetskopiera plnbok</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation>Plånboksdata (*.dat)</translation>
+        <translation>Plnboksdata (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>Säkerhetskopieringen misslyckades</translation>
+        <translation>Skerhetskopieringen misslyckades</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Ett fel uppstod vid sparandet av plånboken till den nya platsen.</translation>
+        <translation>Ett fel uppstod vid sparandet av plnboken till den nya platsen.</translation>
     </message>
     <message numerus="yes">
         <location line="+76"/>
@@ -730,8 +730,8 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>Ett fatalt fel uppstod. Roxcoin kan inte fortsätta och stänger programmet.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>Ett fatalt fel uppstod. eCoin kan inte fortstta och stnger programmet.</translation>
     </message>
 </context>
 <context>
@@ -739,7 +739,7 @@ Adress: %4
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>Nätverkslarm</translation>
+        <translation>Ntverkslarm</translation>
     </message>
 </context>
 <context>
@@ -777,7 +777,7 @@ Adress: %4
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>Låg utskrift:</translation>
+        <translation>Lg utskrift:</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+551"/>
@@ -792,17 +792,17 @@ Adress: %4
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation>Ändra:</translation>
+        <translation>ndra:</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation>välj/avvälj alla</translation>
+        <translation>vlj/avvlj alla</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>Träd visning</translation>
+        <translation>Trd visning</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -812,7 +812,7 @@ Adress: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Mängd</translation>
+        <translation>Mngd</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -832,12 +832,12 @@ Adress: %4
     <message>
         <location line="+5"/>
         <source>Confirmations</source>
-        <translation>Bekräftelser</translation>
+        <translation>Bekrftelser</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>Bekräftad</translation>
+        <translation>Bekrftad</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -893,27 +893,27 @@ Adress: %4
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>Kopiera låg utskrift</translation>
+        <translation>Kopiera lg utskrift</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>Kopiera förändringarna</translation>
+        <translation>Kopiera frndringarna</translation>
     </message>
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation>högst</translation>
+        <translation>hgst</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>high</source>
-        <translation>hög</translation>
+        <translation>hg</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation>medium-hög</translation>
+        <translation>medium-hg</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -923,17 +923,17 @@ Adress: %4
     <message>
         <location line="+4"/>
         <source>low-medium</source>
-        <translation>låg-medium</translation>
+        <translation>lg-medium</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>low</source>
-        <translation>låg</translation>
+        <translation>lg</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>lowest</source>
-        <translation>lägsta</translation>
+        <translation>lgsta</translation>
     </message>
     <message>
         <location line="+155"/>
@@ -952,11 +952,11 @@ Adress: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>Denna label blir röd, om storleken på transaktionen är över 10000 bytes.
+        <translation>Denna label blir rd, om storleken p transaktionen r ver 10000 bytes.
 
- Detta betyder att en avgift på %1 per kb måste betalas.
+ Detta betyder att en avgift p %1 per kb mste betalas.
 
- Kan variera +/- 1 Byte per ingång.</translation>
+ Kan variera +/- 1 Byte per ingng.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -965,11 +965,11 @@ Adress: %4
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation>Transaktioner med en högre prioritet har en större sannolikhet att bli adderat till ett block.
+        <translation>Transaktioner med en hgre prioritet har en strre sannolikhet att bli adderat till ett block.
 
-Denna label blir röd, om prioriteten är lägre än &quot;medium&quot;.
+Denna label blir rd, om prioriteten r lgre n &quot;medium&quot;.
 
-Detta betyder att en avgift på minst %1 krävs.</translation>
+Detta betyder att en avgift p minst %1 krvs.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -978,20 +978,20 @@ Detta betyder att en avgift på minst %1 krävs.</translation>
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>Denna label blir röd, om en mottagare får en mängd mindre än %1
+        <translation>Denna label blir rd, om en mottagare fr en mngd mindre n %1
 
-Detta betyder att en avgift på minst %2 krävs.
+Detta betyder att en avgift p minst %2 krvs.
 
-Mängder under 0,546 gånger minimiavgiften visas som DUST.</translation>
+Mngder under 0,546 gnger minimiavgiften visas som DUST.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation>Denna label blir röd, om ändringen är mindre än %1.
+        <translation>Denna label blir rd, om ndringen r mindre n %1.
 
-Detta betyder att en avgift på minst %2 krävs.</translation>
+Detta betyder att en avgift p minst %2 krvs.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1002,12 +1002,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation>ändra från %1(%2)</translation>
+        <translation>ndra frn %1(%2)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>(change)</source>
-        <translation>(ändra)</translation>
+        <translation>(ndra)</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1025,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Namnet som kopplats till denna Roxcoin-adress</translation>
+        <translation>Namnet som kopplats till denna eCoin-adress</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1035,7 +1035,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>Adressen är kopplad till detta inlägg i adressboken. Denna kan endast ändras för skickande adresser.</translation>
+        <translation>Adressen r kopplad till detta inlgg i adressboken. Denna kan endast ndras fr skickande adresser.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -1045,7 +1045,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>Ny avsändaradress</translation>
+        <translation>Ny avsndaradress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1055,7 +1055,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>Redigera avsändaradress</translation>
+        <translation>Redigera avsndaradress</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1064,13 +1064,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig Roxcoin adress.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>Den inslagna adressen &quot;%1&quot; r inte en giltig eCoin adress.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>Plånboken kunde inte låsas upp.</translation>
+        <translation>Plnboken kunde inte lsas upp.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1083,8 +1083,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1094,7 +1094,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation>Användning:</translation>
+        <translation>Anvndning:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1109,7 +1109,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation>Ställ in språk, t.ex. &quot;de_DE&quot; (förval: systemets språk)</translation>
+        <translation>Stll in sprk, t.ex. &quot;de_DE&quot; (frval: systemets sprk)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1119,7 +1119,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>Visa startscreen vid start (förval: 1)</translation>
+        <translation>Visa startscreen vid start (frval: 1)</translation>
     </message>
 </context>
 <context>
@@ -1132,22 +1132,22 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation>&amp;Allmänt</translation>
+        <translation>&amp;Allmnt</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>Valfri transaktionsavgift per kB som försäkrar att transaktionen behandlas snabbt. De flesta transaktionerna är 1 kB. En avgift på 0,01 är rekommenderad.</translation>
+        <translation>Valfri transaktionsavgift per kB som frskrar att transaktionen behandlas snabbt. De flesta transaktionerna r 1 kB. En avgift p 0,01 r rekommenderad.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>Betala överförings&amp;avgift</translation>
+        <translation>Betala verfrings&amp;avgift</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>Reserverad mängd deltar inte i stake-processen och kan därför spenderas när som helst.</translation>
+        <translation>Reserverad mngd deltar inte i stake-processen och kan drfr spenderas nr som helst.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1156,43 +1156,43 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Starta Roxcoin automatiskt vid inloggning.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Starta eCoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>&amp;Starta Roxcoin vid inloggning</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>&amp;Starta eCoin vid inloggning</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation>Koppla ifrån block och adress-databaserna vid nedstängning. Detta betyder att det kan flyttas till en annan datamapp men saktar ner avstängningen. Plånboken är alltid frånkopplad.</translation>
+        <translation>Koppla ifrn block och adress-databaserna vid nedstngning. Detta betyder att det kan flyttas till en annan datamapp men saktar ner avstngningen. Plnboken r alltid frnkopplad.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation>Koppla bort &amp;databaserna vid nedkörning</translation>
+        <translation>Koppla bort &amp;databaserna vid nedkrning</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation>&amp;Nätverk</translation>
+        <translation>&amp;Ntverk</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Roxcoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>ppna automatiskt eCoin klientens port p routern. Detta fungerar endast om din router stdjer UPnP och det r aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>Tilldela port med hjälp av &amp;UPnP</translation>
+        <translation>Tilldela port med hjlp av &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Roxcoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till eCoin ntverket via en SOCKS proxy (t.ex. nr du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1232,27 +1232,27 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation>&amp;Fönster</translation>
+        <translation>&amp;Fnster</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Visa endast en systemfältsikon vid minimering.</translation>
+        <translation>Visa endast en systemfltsikon vid minimering.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimera till systemfältet istället för aktivitetsfältet</translation>
+        <translation>&amp;Minimera till systemfltet istllet fr aktivitetsfltet</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimera applikationen istället för att stänga ner den när fönstret stängs. Detta innebär att programmet fotrsätter att köras tills du väljer Avsluta i menyn.</translation>
+        <translation>Minimera applikationen istllet fr att stnga ner den nr fnstret stngs. Detta innebr att programmet fotrstter att kras tills du vljer Avsluta i menyn.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimera vid stängning</translation>
+        <translation>M&amp;inimera vid stngning</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1262,27 +1262,27 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>Användargränssnittets &amp;språk: </translation>
+        <translation>Anvndargrnssnittets &amp;sprk: </translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Roxcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>Anvndargrnssnittets sprk kan stllas in hr. Instllningen brjar glla efter omstart av eCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Måttenhet att visa belopp i: </translation>
+        <translation>&amp;Mttenhet att visa belopp i: </translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Välj en måttenhet att visa när du skickar mynt.</translation>
+        <translation>Vlj en mttenhet att visa nr du skickar mynt.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Om Roxcoin adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>Om eCoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1292,12 +1292,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>Om coin kontrollinställningar skall visas eller inte.</translation>
+        <translation>Om coin kontrollinstllningar skall visas eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Visa coin kontrollinställningar (endast avancerade användare!)</translation>
+        <translation>Visa coin kontrollinstllningar (endast avancerade anvndare!)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1312,7 +1312,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Verkställ</translation>
+        <translation>&amp;Verkstll</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
@@ -1328,13 +1328,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Inställningen börjar gälla efter omstart av Roxcoin.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Instllningen brjar glla efter omstart av eCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Den medföljande proxy adressen är ogiltig.</translation>
+        <translation>Den medfljande proxy adressen r ogiltig.</translation>
     </message>
 </context>
 <context>
@@ -1342,13 +1342,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation>Formulär</translation>
+        <translation>Formulr</translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Roxcoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plnbok synkroniseras automatiskt med eCoin ntverket efter att en anslutning skapats, men denna process r inte klar n.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1358,12 +1358,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation>Obekräftat:</translation>
+        <translation>Obekrftat:</translation>
     </message>
     <message>
         <location line="-107"/>
         <source>Wallet</source>
-        <translation>Plånbok</translation>
+        <translation>Plnbok</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1373,7 +1373,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>Ditt tillgängliga saldo</translation>
+        <translation>Ditt tillgngliga saldo</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1383,7 +1383,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>Den genererade balansen som ännu inte har mognat</translation>
+        <translation>Den genererade balansen som nnu inte har mognat</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1398,17 +1398,17 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Nyligen genomförda transaktioner&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Nyligen genomfrda transaktioner&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Totala antalet transaktioner inte har blivit bekräftade än och därför inte räknas mot det totala saldot</translation>
+        <translation>Totala antalet transaktioner inte har blivit bekrftade n och drfr inte rknas mot det totala saldot</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>Antal coins som var i stake-processen, och räknas ännu inte till nuvarande saldo</translation>
+        <translation>Antal coins som var i stake-processen, och rknas nnu inte till nuvarande saldo</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1427,7 +1427,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation>Begär Betalning</translation>
+        <translation>Begr Betalning</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -1452,17 +1452,17 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Fel vid skapande av QR-kod från URI.</translation>
+        <translation>Fel vid skapande av QR-kod frn URI.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>Den angivna mängden är felaktig, var vänlig kontrollera.</translation>
+        <translation>Den angivna mngden r felaktig, var vnlig kontrollera.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URI:n är för lång, försök minska texten för etikett / meddelande.</translation>
+        <translation>URI:n r fr lng, frsk minska texten fr etikett / meddelande.</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1494,7 +1494,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+348"/>
         <source>N/A</source>
-        <translation>ej tillgänglig</translation>
+        <translation>ej tillgnglig</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -1509,7 +1509,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>Använder OpenSSL version</translation>
+        <translation>Anvnder OpenSSL version</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1519,7 +1519,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>Nätverk</translation>
+        <translation>Ntverk</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1529,7 +1529,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation>På testnet</translation>
+        <translation>P testnet</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1544,7 +1544,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>Beräknade totala block</translation>
+        <translation>Berknade totala block</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1554,7 +1554,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>&amp;Öppna</translation>
+        <translation>&amp;ppna</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1563,8 +1563,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Visa Roxcoin-Qt hjälp meddelandet för att få en lista över möjliga Roxcoin kommandoradsalternativ.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Visa eCoin-Qt hjlp meddelandet fr att f en lista ver mjliga eCoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Felsökningsfönster</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Felskningsfnster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Roxcoin Core</translation>
+        <source>eCoin Core</source>
+        <translation>eCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Roxcoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>ppna eCoin felsknings-loggfilen frn nuvarande data mapp. Detta kan kan ta ett par minuter fr stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,18 +1608,18 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Välkommen till Roxcoin RPC konsoll.</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Vlkommen till eCoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Använd upp- och ner-pilarna för att navigera i historiken, och &lt;b&gt;Ctrl-L&lt;/b&gt; för att rensa skärmen.</translation>
+        <translation>Anvnd upp- och ner-pilarna fr att navigera i historiken, och &lt;b&gt;Ctrl-L&lt;/b&gt; fr att rensa skrmen.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Skriv &lt;b&gt;help&lt;/b&gt; för en översikt av alla kommandon.</translation>
+        <translation>Skriv &lt;b&gt;help&lt;/b&gt; fr en versikt av alla kommandon.</translation>
     </message>
 </context>
 <context>
@@ -1639,12 +1639,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation>Coin kontrollinställningar</translation>
+        <translation>Coin kontrollinstllningar</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation>Ingångar...</translation>
+        <translation>Ingngar...</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1654,7 +1654,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation>Otillräckligt saldo!</translation>
+        <translation>Otillrckligt saldo!</translation>
     </message>
     <message>
         <location line="+77"/>
@@ -1682,8 +1682,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1703,7 +1703,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>Låg utmatning:</translation>
+        <translation>Lg utmatning:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1718,12 +1718,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation>Ändra</translation>
+        <translation>ndra</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>egen ändringsadress</translation>
+        <translation>egen ndringsadress</translation>
     </message>
     <message>
         <location line="+106"/>
@@ -1733,12 +1733,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>Lägg till &amp;mottagare</translation>
+        <translation>Lgg till &amp;mottagare</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>Ta bort alla transaktionsfält</translation>
+        <translation>Ta bort alla transaktionsflt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1752,13 +1752,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Bekräfta sändordern</translation>
+        <translation>Bekrfta sndordern</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1767,8 +1767,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Fyll i en Roxcoin adress (t.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en eCoin adress (t.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1803,12 +1803,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>Kopiera låg utmatning</translation>
+        <translation>Kopiera lg utmatning</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>Kopiera ändring</translation>
+        <translation>Kopiera ndring</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -1818,12 +1818,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Bekräfta skickade mynt</translation>
+        <translation>Bekrfta skickade mynt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>Är du säker att du vill skicka %1?</translation>
+        <translation>r du sker att du vill skicka %1?</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1833,27 +1833,27 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>Mottagarens adress är inte giltig, vänligen kontrollera igen.</translation>
+        <translation>Mottagarens adress r inte giltig, vnligen kontrollera igen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Det betalade beloppet måste vara större än 0.</translation>
+        <translation>Det betalade beloppet mste vara strre n 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Värdet överstiger ditt saldo.</translation>
+        <translation>Vrdet verstiger ditt saldo.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Totalvärdet överstiger ditt saldo när transaktionsavgiften %1 är pålagd.</translation>
+        <translation>Totalvrdet verstiger ditt saldo nr transaktionsavgiften %1 r plagd.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Dubblett av adress funnen, kan bara skicka till varje adress en gång per sändning.</translation>
+        <translation>Dubblett av adress funnen, kan bara skicka till varje adress en gng per sndning.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1863,12 +1863,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fel: Transaktionen nekades. Detta kan hända om vissa av mynten i din plånbok redan är använda, t.ex om du använder en kopia av wallet.dat och mynten redan var använda i kopia men inte markerade som använda här.</translation>
+        <translation>Fel: Transaktionen nekades. Detta kan hnda om vissa av mynten i din plnbok redan r anvnda, t.ex om du anvnder en kopia av wallet.dat och mynten redan var anvnda i kopia men inte markerade som anvnda hr.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>VARNING: Ogiltig Roxcoin adress</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>VARNING: Ogiltig eCoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1878,7 +1878,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>VARNING: okänd ändringsadress</translation>
+        <translation>VARNING: oknd ndringsadress</translation>
     </message>
 </context>
 <context>
@@ -1886,7 +1886,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation>Formulär</translation>
+        <translation>Formulr</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1902,7 +1902,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Ange ett namn för den här adressen och lägg till den i din adressbok</translation>
+        <translation>Ange ett namn fr den hr adressen och lgg till den i din adressbok</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1911,13 +1911,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adressen att skicka betalningen till  (t.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen att skicka betalningen till  (t.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Choose address from address book</source>
-        <translation>Välj adress från adressbok</translation>
+        <translation>Vlj adress frn adressbok</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1927,7 +1927,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Klistra in adress från Urklipp</translation>
+        <translation>Klistra in adress frn Urklipp</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1941,8 +1941,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Fyll i en Roxcoin adress (t.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en eCoin adress (t.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1961,18 +1961,18 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan signera meddelanden med dina adresser för att bevisa att du äger dem. Var försiktig med vad du signerar eftersom phising-attacker kan försöka få dig att skriva över din identitet till någon annan. Signera bara väldetaljerade påståenden du kan gå i god för.</translation>
+        <translation>Du kan signera meddelanden med dina adresser fr att bevisa att du ger dem. Var frsiktig med vad du signerar eftersom phising-attacker kan frska f dig att skriva ver din identitet till ngon annan. Signera bara vldetaljerade pstenden du kan g i god fr.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+203"/>
         <source>Choose an address from the address book</source>
-        <translation>Välj en adress från adressboken</translation>
+        <translation>Vlj en adress frn adressboken</translation>
     </message>
     <message>
         <location line="-193"/>
@@ -1983,7 +1983,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Klistra in adress från Urklipp</translation>
+        <translation>Klistra in adress frn Urklipp</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1993,7 +1993,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Skriv in meddelandet du vill signera här</translation>
+        <translation>Skriv in meddelandet du vill signera hr</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -2002,13 +2002,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Roxcoin adressen</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Signera meddelandet fr att verifiera att du ger denna eCoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Rensa alla fält</translation>
+        <translation>Rensa alla flt</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2025,44 +2025,44 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Skriv in din adress, meddelande (se till att du kopierar radbrytningar, mellanslag, tabbar, osv. exakt) och signatur nedan för att verifiera meddelandet. Var noga med att inte läsa in mer i signaturen än vad som finns i det signerade meddelandet, för att undvika att luras av en man-in-the-middle attack.</translation>
+        <translation>Skriv in din adress, meddelande (se till att du kopierar radbrytningar, mellanslag, tabbar, osv. exakt) och signatur nedan fr att verifiera meddelandet. Var noga med att inte lsa in mer i signaturen n vad som finns i det signerade meddelandet, fr att undvika att luras av en man-in-the-middle attack.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Roxcoin adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Verifiera meddelandet fr att vara sker p att det var signerat med den angivna eCoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>Rensa alla fält</translation>
+        <translation>Rensa alla flt</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Fyll i en Roxcoin adress (t.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Fyll i en eCoin adress (t.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>Klicka &quot;Signera Meddelande&quot; för att få en signatur</translation>
+        <translation>Klicka &quot;Signera Meddelande&quot; fr att f en signatur</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Fyll i Roxcoin signatur</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Fyll i eCoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>Den angivna adressen är ogiltig.</translation>
+        <translation>Den angivna adressen r ogiltig.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2070,7 +2070,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Vad god kontrollera adressen och försök igen.</translation>
+        <translation>Vad god kontrollera adressen och frsk igen.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2081,12 +2081,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Upplåsningen av plånboken avbröts.</translation>
+        <translation>Upplsningen av plnboken avbrts.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>Privata nyckel för den angivna adressen är inte tillgänglig.</translation>
+        <translation>Privata nyckel fr den angivna adressen r inte tillgnglig.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2096,7 +2096,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation>Meddelandet är signerat.</translation>
+        <translation>Meddelandet r signerat.</translation>
     </message>
     <message>
         <location line="+59"/>
@@ -2107,7 +2107,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Kontrollera signaturen och försök igen.</translation>
+        <translation>Kontrollera signaturen och frsk igen.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2122,7 +2122,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation>Meddelandet är verifierad.</translation>
+        <translation>Meddelandet r verifierad.</translation>
     </message>
 </context>
 <context>
@@ -2130,12 +2130,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../transactiondesc.cpp" line="+19"/>
         <source>Open until %1</source>
-        <translation>Öppet till %1</translation>
+        <translation>ppet till %1</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
         <source>Open for %n block(s)</source>
-        <translation><numerusform>Öppen för %n block</numerusform><numerusform>Öppen för %n block</numerusform></translation>
+        <translation><numerusform>ppen fr %n block</numerusform><numerusform>ppen fr %n block</numerusform></translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2150,12 +2150,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1/obekräftade</translation>
+        <translation>%1/obekrftade</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 bekräftelser</translation>
+        <translation>%1 bekrftelser</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2165,7 +2165,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>, sänd genom %n nod</numerusform><numerusform>, sänd genom %n noder</numerusform></translation>
+        <translation><numerusform>, snd genom %n nod</numerusform><numerusform>, snd genom %n noder</numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2175,7 +2175,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation>Källa</translation>
+        <translation>Klla</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2186,7 +2186,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation>Från</translation>
+        <translation>Frn</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2260,8 +2260,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Genererad mynt måste mogna i 110 block före de kan användas. När du genererade detta blocket sändes det ut till nätverket för att läggas till i blockkedjan. Om det inte kan läggas till i kedjan kommer dess status att ändras till &quot;Ej accepterat&quot; och det kommer inte gå att använda. Detta kan hända imellanåt om en annan klient genererar ett block inom ett par sekunder från ditt.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Genererad mynt mste mogna i 510 block fre de kan anvndas. Nr du genererade detta blocket sndes det ut till ntverket fr att lggas till i blockkedjan. Om det inte kan lggas till i kedjan kommer dess status att ndras till &quot;Ej accepterat&quot; och det kommer inte g att anvnda. Detta kan hnda imellant om en annan klient genererar ett block inom ett par sekunder frn ditt.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2281,7 +2281,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>Mängd</translation>
+        <translation>Mngd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2296,12 +2296,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, har inte lyckats skickas ännu</translation>
+        <translation>, har inte lyckats skickas nnu</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>unknown</source>
-        <translation>okänd</translation>
+        <translation>oknd</translation>
     </message>
 </context>
 <context>
@@ -2314,7 +2314,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Den här panelen visar en detaljerad beskrivning av transaktionen</translation>
+        <translation>Den hr panelen visar en detaljerad beskrivning av transaktionen</translation>
     </message>
 </context>
 <context>
@@ -2337,22 +2337,22 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>Mängd</translation>
+        <translation>Mngd</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>Öppet till %1</translation>
+        <translation>ppet till %1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Bekräftad (%1 bekräftelser)</translation>
+        <translation>Bekrftad (%1 bekrftelser)</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Öppet för %n mer block</numerusform><numerusform>Öppet för %n mer block</numerusform></translation>
+        <translation><numerusform>ppet fr %n mer block</numerusform><numerusform>ppet fr %n mer block</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2362,12 +2362,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+3"/>
         <source>Unconfirmed</source>
-        <translation>Obekräftad</translation>
+        <translation>Obekrftad</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Bekräftar (%1 av %2 rekommenderade bekräftelser)</translation>
+        <translation>Bekrftar (%1 av %2 rekommenderade bekrftelser)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2377,12 +2377,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+3"/>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Omogen (%1 bekräftningar, kommer bli tillgänglig efter %2)</translation>
+        <translation>Omogen (%1 bekrftningar, kommer bli tillgnglig efter %2)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Det här blocket togs inte emot av några andra noder och kommer antagligen inte att bli godkänt.</translation>
+        <translation>Det hr blocket togs inte emot av ngra andra noder och kommer antagligen inte att bli godknt.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2397,7 +2397,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation>Mottaget från</translation>
+        <translation>Mottaget frn</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2407,7 +2407,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>Betalning till dig själv</translation>
+        <translation>Betalning till dig sjlv</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2422,12 +2422,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Transaktionsstatus. Håll muspekaren över för att se antal bekräftelser.</translation>
+        <translation>Transaktionsstatus. Hll muspekaren ver fr att se antal bekrftelser.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>Tidpunkt då transaktionen mottogs.</translation>
+        <translation>Tidpunkt d transaktionen mottogs.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2466,17 +2466,17 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>Denna månad</translation>
+        <translation>Denna mnad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Föregående månad</translation>
+        <translation>Fregende mnad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>Det här året</translation>
+        <translation>Det hr ret</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2496,7 +2496,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation>Till dig själv</translation>
+        <translation>Till dig sjlv</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2506,17 +2506,17 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>Övriga</translation>
+        <translation>vriga</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Sök efter adress eller etikett </translation>
+        <translation>Sk efter adress eller etikett </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>Minsta mängd</translation>
+        <translation>Minsta mngd</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -2541,7 +2541,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Ändra etikett</translation>
+        <translation>ndra etikett</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2561,7 +2561,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>Bekräftad</translation>
+        <translation>Bekrftad</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2586,7 +2586,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>Mängd</translation>
+        <translation>Mngd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,18 +2626,18 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>Roxcoin version</translation>
+        <source>eCoin version</source>
+        <translation>eCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation>Användning:</translation>
+        <translation>Anvndning:</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Skicka kommando till -server eller roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Skicka kommando till -server eller eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2647,57 +2647,57 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Få hjälp med ett kommando</translation>
+        <translation>F hjlp med ett kommando</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation>Inställningar:</translation>
+        <translation>Instllningar:</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Ange pid filen (standard roxcoind.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Ange pid filen (standard eCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Ange plånboksfil (inom datakatalogen)</translation>
+        <translation>Ange plnboksfil (inom datakatalogen)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>Ange katalog för data</translation>
+        <translation>Ange katalog fr data</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Sätt databas cache storleken i megabyte (förvalt: 25)</translation>
+        <translation>Stt databas cache storleken i megabyte (frvalt: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation>Sätt databas logg storleken i MB (standard: 100)</translation>
+        <translation>Stt databas logg storleken i MB (standard: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Lyssna efter anslutningar på &lt;port&gt; (standard: 47377 eller testnät: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Lyssna efter anslutningar p &lt;port&gt; (standard: 15714 eller testnt: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Ha som mest &lt;n&gt; anslutningar till andra klienter (förvalt: 125)</translation>
+        <translation>Ha som mest &lt;n&gt; anslutningar till andra klienter (frvalt: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Anslut till en nod för att hämta klientadresser, och koppla från</translation>
+        <translation>Anslut till en nod fr att hmta klientadresser, och koppla frn</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2707,52 +2707,52 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>Bind till angiven adress. Använd [host]:port för IPv6</translation>
+        <translation>Bind till angiven adress. Anvnd [host]:port fr IPv6</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>Använd dina coins för stake-processen, du upprätthåller då nätverket och får belöning (förval: 1)</translation>
+        <translation>Anvnd dina coins fr stake-processen, du upprtthller d ntverket och fr belning (frval: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Tröskelvärde för att koppla ifrån klienter som missköter sig (förvalt: 100)</translation>
+        <translation>Trskelvrde fr att koppla ifrn klienter som misskter sig (frvalt: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Antal sekunder att hindra klienter som missköter sig från att ansluta (förvalt: 86400)</translation>
+        <translation>Antal sekunder att hindra klienter som misskter sig frn att ansluta (frvalt: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>Ett fel uppstod vid upprättandet av RPC port %u för att lyssna på IPv4: %s</translation>
+        <translation>Ett fel uppstod vid upprttandet av RPC port %u fr att lyssna p IPv4: %s</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation>Koppla ifrån block och adress databaser. Ökar nedstängningstid (standard: 0)</translation>
+        <translation>Koppla ifrn block och adress databaser. kar nedstngningstid (standard: 0)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fel: Transaktionen nekades. Detta kan hända om vissa av mynten i din plånbok redan är använda, t.ex om du använder en kopia av wallet.dat och mynten redan var använda i kopia men inte markerade som använda här.</translation>
+        <translation>Fel: Transaktionen nekades. Detta kan hnda om vissa av mynten i din plnbok redan r anvnda, t.ex om du anvnder en kopia av wallet.dat och mynten redan var anvnda i kopia men inte markerade som anvnda hr.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Fel: Transaktionen kräver en transaktionsavgift på min %s på grund av dess storlek, komplexitet eller användning av nyligen mottagna kapital</translation>
+        <translation>Fel: Transaktionen krver en transaktionsavgift p min %s p grund av dess storlek, komplexitet eller anvndning av nyligen mottagna kapital</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Lyssna efter JSON-RPC anslutningar på &lt;port&gt; (standard: 47376 eller testnät: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Lyssna efter JSON-RPC anslutningar p &lt;port&gt; (standard: 15715 eller testnt: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Tillåt kommandon från kommandotolken och JSON-RPC-kommandon</translation>
+        <translation>Tillt kommandon frn kommandotolken och JSON-RPC-kommandon</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -2762,7 +2762,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Fel: Plånboken låst, kan inte utföra transaktion</translation>
+        <translation>Fel: Plnboken lst, kan inte utfra transaktion</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -2777,62 +2777,62 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Kör i bakgrunden som tjänst och acceptera kommandon</translation>
+        <translation>Kr i bakgrunden som tjnst och acceptera kommandon</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Använd testnätverket</translation>
+        <translation>Anvnd testntverket</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Acceptera anslutningar utifrån (förvalt: 1 om ingen -proxy eller -connect)</translation>
+        <translation>Acceptera anslutningar utifrn (frvalt: 1 om ingen -proxy eller -connect)</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>Ett fel uppstod vid upprättandet av RPC port %u för att lyssna på IPv6, faller tillbaka till IPV4: %s</translation>
+        <translation>Ett fel uppstod vid upprttandet av RPC port %u fr att lyssna p IPv6, faller tillbaka till IPV4: %s</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>Ett fel uppstod vid initialiseringen av databasen %s! För att återställa, SÄKERHETSKOPIERA MAPPEN, radera sedan allt från mappen förutom wallet.dat.</translation>
+        <translation>Ett fel uppstod vid initialiseringen av databasen %s! Fr att terstlla, SKERHETSKOPIERA MAPPEN, radera sedan allt frn mappen frutom wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation>Ställ in max storlek för hög prioritet/lågavgifts transaktioner i bytes (förval: 27000)</translation>
+        <translation>Stll in max storlek fr hg prioritet/lgavgifts transaktioner i bytes (frval: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Varning: -paytxfee är satt väldigt hög! Detta är avgiften du kommer betala för varje transaktion.</translation>
+        <translation>Varning: -paytxfee r satt vldigt hg! Detta r avgiften du kommer betala fr varje transaktion.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Varning: Kolla att din dators tid och datum är rätt. Roxcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Varning: Kolla att din dators tid och datum r rtt. eCoin kan inte fungera ordentligt om tiden i datorn r fel.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Varning: fel vid läsning av wallet.dat! Alla nycklar lästes korrekt, men transaktionsdatan eller adressbokens poster kanske saknas eller är felaktiga.</translation>
+        <translation>Varning: fel vid lsning av wallet.dat! Alla nycklar lstes korrekt, men transaktionsdatan eller adressbokens poster kanske saknas eller r felaktiga.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Varning: wallet.dat korrupt, datan har räddats! Den ursprungliga wallet.dat har sparas som wallet.{timestamp}.bak i %s; om ditt saldo eller transaktioner är felaktiga ska du återställa från en säkerhetskopia.</translation>
+        <translation>Varning: wallet.dat korrupt, datan har rddats! Den ursprungliga wallet.dat har sparas som wallet.{timestamp}.bak i %s; om ditt saldo eller transaktioner r felaktiga ska du terstlla frn en skerhetskopia.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Försök att rädda de privata nycklarna från en korrupt wallet.dat</translation>
+        <translation>Frsk att rdda de privata nycklarna frn en korrupt wallet.dat</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation>Block skapande inställningar:</translation>
+        <translation>Block skapande instllningar:</translation>
     </message>
     <message>
         <location line="-62"/>
@@ -2842,17 +2842,17 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Hitta egen IP-adress (förvalt: 1 under lyssning och utan -externalip)</translation>
+        <translation>Hitta egen IP-adress (frvalt: 1 under lyssning och utan -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Misslyckades att lyssna på någon port. Använd -listen=0 om du vill detta.</translation>
+        <translation>Misslyckades att lyssna p ngon port. Anvnd -listen=0 om du vill detta.</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation>Hitta andra klienter via DNS uppsökning (standard: 1)</translation>
+        <translation>Hitta andra klienter via DNS uppskning (standard: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2867,22 +2867,22 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation>Fel mängd för -reservebalance=&lt;amount&gt;</translation>
+        <translation>Fel mngd fr -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>Maximal buffert för mottagning per anslutning, &lt;n&gt;*1000 byte (förvalt: 5000)</translation>
+        <translation>Maximal buffert fr mottagning per anslutning, &lt;n&gt;*1000 byte (frvalt: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>Maximal buffert för sändning per anslutning, &lt;n&gt;*1000 byte (förvalt: 5000)</translation>
+        <translation>Maximal buffert fr sndning per anslutning, &lt;n&gt;*1000 byte (frvalt: 5000)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>Anslut enbart till noder i nätverket &lt;net&gt; (IPv4, IPv6 eller Tor)</translation>
+        <translation>Anslut enbart till noder i ntverket &lt;net&gt; (IPv4, IPv6 eller Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -2892,27 +2892,27 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>Skriv ut extra nätverks debug information</translation>
+        <translation>Skriv ut extra ntverks debug information</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>Tidstämpla debug utskriften</translation>
+        <translation>Tidstmpla debug utskriften</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-inställningar: (se Bitcoin-wikin för SSL-setup instruktioner)</translation>
+        <translation>SSL-instllningar: (se Bitcoin-wikin fr SSL-setup instruktioner)</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>Välj version av socks proxy (4-5, förval 5)</translation>
+        <translation>Vlj version av socks proxy (4-5, frval 5)</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Skicka trace-/debuginformation till terminalen istället för till debug.log</translation>
+        <translation>Skicka trace-/debuginformation till terminalen istllet fr till debug.log</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2922,22 +2922,22 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>Sätt största blockstorlek i bytes (förvalt: 250000)</translation>
+        <translation>Stt strsta blockstorlek i bytes (frvalt: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Sätt minsta blockstorlek i byte (förvalt: 0)</translation>
+        <translation>Stt minsta blockstorlek i byte (frvalt: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Krymp debug.log filen vid klient start (förvalt: 1 vid ingen -debug)</translation>
+        <translation>Krymp debug.log filen vid klient start (frvalt: 1 vid ingen -debug)</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Ange timeout för uppkoppling i millisekunder (förvalt: 5000)</translation>
+        <translation>Ange timeout fr uppkoppling i millisekunder (frvalt: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2949,22 +2949,22 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Använd UPnP för att mappa den lyssnande porten (förvalt: 0)</translation>
+        <translation>Anvnd UPnP fr att mappa den lyssnande porten (frvalt: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Använd UPnP för att mappa den lyssnande porten (förvalt: 1 under lyssning)</translation>
+        <translation>Anvnd UPnP fr att mappa den lyssnande porten (frvalt: 1 under lyssning)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>Använd proxy för att nå Tor gömda servicer (standard: samma som -proxy)</translation>
+        <translation>Anvnd proxy fr att n Tor gmda servicer (standard: samma som -proxy)</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Användarnamn för JSON-RPC-anslutningar</translation>
+        <translation>Anvndarnamn fr JSON-RPC-anslutningar</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -2974,51 +2974,51 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>VARNING: synkroniserad kontrollpunkts brott upptäckt, men hoppades över!</translation>
+        <translation>VARNING: synkroniserad kontrollpunkts brott upptckt, men hoppades ver!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: Disk space is low!</source>
-        <translation>Varning: Lågt skivutrymme</translation>
+        <translation>Varning: Lgt skivutrymme</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Varning: denna version är föråldrad, uppgradering krävs!</translation>
+        <translation>Varning: denna version r frldrad, uppgradering krvs!</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat korrupt, räddning misslyckades</translation>
+        <translation>wallet.dat korrupt, rddning misslyckades</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Lösenord för JSON-RPC-anslutningar</translation>
+        <translation>Lsenord fr JSON-RPC-anslutningar</translation>
     </message>
     <message>
         <location line="-84"/>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
+        <translation>%s, du mste stta rpcpassword i konfigurationsfilen:
  %s
-Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=roxcoinrpc
+Det r rekommenderat att du anvnder fljande slumpmssiga lsenord:
+rpcuser=eCoinrpc
 rpcpassword=%s
-(du behöver inte komma ihåg detta lösenord)
-Användarnamnet och lösenordet FÅR INTE vara samma.
-Om filen inte finns, skapa den med endast ägarrättigheter.
-Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@foo.com
+(du behver inte komma ihg detta lsenord)
+Anvndarnamnet och lsenordet FR INTE vara samma.
+Om filen inte finns, skapa den med endast garrttigheter.
+Det r ocks rekommenderat att stta alertnotify s du blir notifierad om problem;
+till exempel: alertnotify=echo %%s | mail -s &quot;eCoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3029,62 +3029,62 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation>Synkronisera tiden med andra noder. Avaktivera om klockan i ditt sytem är exakt som t.ex. synkroniserad med NTP (förval: 1)</translation>
+        <translation>Synkronisera tiden med andra noder. Avaktivera om klockan i ditt sytem r exakt som t.ex. synkroniserad med NTP (frval: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>När transaktioner skapas, ignorera värden som är lägre än detta (standard: 0.01)</translation>
+        <translation>Nr transaktioner skapas, ignorera vrden som r lgre n detta (standard: 0.01)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Tillåt JSON-RPC-anslutningar från specifika IP-adresser</translation>
+        <translation>Tillt JSON-RPC-anslutningar frn specifika IP-adresser</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Skicka kommandon till klient på &lt;ip&gt; (förvalt: 127.0.0.1)</translation>
+        <translation>Skicka kommandon till klient p &lt;ip&gt; (frvalt: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Exekvera kommando när det bästa blocket ändras (%s i cmd är utbytt av blockhash)</translation>
+        <translation>Exekvera kommando nr det bsta blocket ndras (%s i cmd r utbytt av blockhash)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Exekvera kommando när en plånbokstransaktion ändras (%s i cmd är ersatt av TxID)</translation>
+        <translation>Exekvera kommando nr en plnbokstransaktion ndras (%s i cmd r ersatt av TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation>Kräv bekräftelse för ändring (förval: 0)</translation>
+        <translation>Krv bekrftelse fr ndring (frval: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>Tvinga transaktionsskript att använda kanoniska PUSH operatörer (standard: 1)</translation>
+        <translation>Tvinga transaktionsskript att anvnda kanoniska PUSH operatrer (standard: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation>Kör kommando när en relevant alert är mottagen (%s i cmd är ersatt av meddelandet)</translation>
+        <translation>Kr kommando nr en relevant alert r mottagen (%s i cmd r ersatt av meddelandet)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Uppgradera plånboken till senaste formatet</translation>
+        <translation>Uppgradera plnboken till senaste formatet</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Sätt storleken på nyckelpoolen till &lt;n&gt; (förvalt: 100)</translation>
+        <translation>Stt storleken p nyckelpoolen till &lt;n&gt; (frvalt: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Sök i blockkedjan efter saknade plånboks transaktioner</translation>
+        <translation>Sk i blockkedjan efter saknade plnboks transaktioner</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3094,27 +3094,27 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation>Hur genomförlig blockverifikationen är (0-6, standard: 1)</translation>
+        <translation>Hur genomfrlig blockverifikationen r (0-6, standard: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>Importera block från en extern blk000?.dat fil</translation>
+        <translation>Importera block frn en extern blk000?.dat fil</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Använd OpenSSL (https) för JSON-RPC-anslutningar</translation>
+        <translation>Anvnd OpenSSL (https) fr JSON-RPC-anslutningar</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Serverns certifikatfil (förvalt: server.cert)</translation>
+        <translation>Serverns certifikatfil (frvalt: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Serverns privata nyckel (förvalt: server.pem)</translation>
+        <translation>Serverns privata nyckel (frvalt: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3124,37 +3124,37 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>Fel: Plånboken öppnad endast för stake-process, kan inte skapa transaktion.</translation>
+        <translation>Fel: Plnboken ppnad endast fr stake-process, kan inte skapa transaktion.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>VARNING: Felaktig kontrollpunkt hittad! Visade transaktioner kan vara felaktiga! Du kan behöva uppgradera eller kontakta utvecklarna.</translation>
+        <translation>VARNING: Felaktig kontrollpunkt hittad! Visade transaktioner kan vara felaktiga! Du kan behva uppgradera eller kontakta utvecklarna.</translation>
     </message>
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Det här hjälp medelandet</translation>
+        <translation>Det hr hjlp medelandet</translation>
     </message>
     <message>
         <location line="+95"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation>Plånbok %s ligger utanför datamappen %s.</translation>
+        <translation>Plnbok %s ligger utanfr datamappen %s.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>Kan inte låsa datan i mappen %s. Roxcoin är kanske redan startad.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>Kan inte lsa datan i mappen %s. eCoin r kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Det går inte att binda till %s på den här datorn (bind returnerade felmeddelande %d, %s)</translation>
+        <translation>Det gr inte att binda till %s p den hr datorn (bind returnerade felmeddelande %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3164,7 +3164,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Tillåt DNS-sökningar för -addnode, -seednode och -connect</translation>
+        <translation>Tillt DNS-skningar fr -addnode, -seednode och -connect</translation>
     </message>
     <message>
         <location line="+122"/>
@@ -3179,22 +3179,22 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Fel vid inläsningen av wallet.dat: Plånboken är skadad</translation>
+        <translation>Fel vid inlsningen av wallet.dat: Plnboken r skadad</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Kunde inte ladda wallet.dat: En nyare version av Roxcoin krävs</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Kunde inte ladda wallet.dat: En nyare version av eCoin krvs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>Plånboken måste skrivas om: Starta om Roxcoin för att slutföra</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>Plnboken mste skrivas om: Starta om eCoin fr att slutfra</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>Fel vid inläsning av plånboksfilen wallet.dat</translation>
+        <translation>Fel vid inlsning av plnboksfilen wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -3204,12 +3204,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="-1"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>Okänt nätverk som anges i -onlynet: &apos;%s&apos;</translation>
+        <translation>Oknt ntverk som anges i -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>Okänd -socks proxy version begärd: %i</translation>
+        <translation>Oknd -socks proxy version begrd: %i</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3224,7 +3224,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Ogiltigt belopp för -paytxfee=&lt;belopp&gt;:&apos;%s&apos;</translation>
+        <translation>Ogiltigt belopp fr -paytxfee=&lt;belopp&gt;:&apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3239,12 +3239,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Ogiltig mängd</translation>
+        <translation>Ogiltig mngd</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Otillräckligt med bitcoins</translation>
+        <translation>Otillrckligt med bitcoins</translation>
     </message>
     <message>
         <location line="-34"/>
@@ -3254,32 +3254,32 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Lägg till en nod att koppla upp mot och försök att hålla anslutningen öppen</translation>
+        <translation>Lgg till en nod att koppla upp mot och frsk att hlla anslutningen ppen</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. Roxcoin är sannolikt redan startad.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>Kan inte binda till %s p denna dator. eCoin r sannolikt redan startad.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Avgift per KB som adderas till transaktionen du sänder</translation>
+        <translation>Avgift per KB som adderas till transaktionen du snder</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Fel mängd för  -mininput=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>Fel mngd fr  -mininput=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>Laddar plånbok...</translation>
+        <translation>Laddar plnbok...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Kan inte nedgradera plånboken</translation>
+        <translation>Kan inte nedgradera plnboken</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3294,7 +3294,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>Söker igen...</translation>
+        <translation>Sker igen...</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -3304,7 +3304,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>Att använda %s alternativet</translation>
+        <translation>Att anvnda %s alternativet</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -3316,9 +3316,9 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Roxcoin Varning&quot; admin@f
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Du behöver välja ett rpclösensord i konfigurationsfilen:
+        <translation>Du behver vlja ett rpclsensord i konfigurationsfilen:
 %s
-Om filen inte existerar, skapa den med filrättigheten endast läsbar för ägaren.</translation>
+Om filen inte existerar, skapa den med filrttigheten endast lsbar fr garen.</translation>
     </message>
 </context>
 </TS>

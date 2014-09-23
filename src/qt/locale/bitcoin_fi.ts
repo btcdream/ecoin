@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>Tietoa Roxcoinista</translation>
+        <source>About eCoin</source>
+        <translation>Tietoa eCoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Roxcoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eCoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27,11 +27,11 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-Tämä on kokeellista ohjelmistoa.
+Tm on kokeellista ohjelmistoa.
 
-Levitetään MIT/X11 ohjelmistolisenssin alaisuudessa. Tarkemmat tiedot löytyvät tiedostosta COPYING tai osoitteesta http://www.opensource.org/licenses/mit-license.php.
+Levitetn MIT/X11 ohjelmistolisenssin alaisuudessa. Tarkemmat tiedot lytyvt tiedostosta COPYING tai osoitteesta http://www.opensource.org/licenses/mit-license.php.
 
-Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-työkalupakettia varten (http://www.openssl.org/), Eric Youngin (eay@cryptsoft.com) kehittämän salausohjelmiston sekä Thomas Bernardin UPnP-ohjelmiston.
+Tm tuote sislt OpenSSL-projektin kehittm ohjelmistoa OpenSSL-tykalupakettia varten (http://www.openssl.org/), Eric Youngin (eay@cryptsoft.com) kehittmn salausohjelmiston sek Thomas Bernardin UPnP-ohjelmiston.
 </translation>
     </message>
 </context>
@@ -45,7 +45,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Kaksoisnapauta muokataksesi osoitetta tai nimikettä</translation>
+        <translation>Kaksoisnapauta muokataksesi osoitetta tai nimikett</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -55,7 +55,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Kopioi valittu osoite järjestelmän leikepöydälle</translation>
+        <translation>Kopioi valittu osoite jrjestelmn leikepydlle</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -64,8 +64,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Roxcoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nm ovat eCoin-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lhettjlle oman osoitteen jotta voit pit kirjaa sinulle rahaa siirtneist henkilist.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,12 +75,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>Näytä &amp;QR-koodi</translation>
+        <translation>Nyt &amp;QR-koodi</translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Allekirjoita viesti osoittaaksesi Roxcoin-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Allekirjoita viesti osoittaaksesi eCoin-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -94,8 +94,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen Roxcoin-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Vahvista viesti varmistaaksesi ett kyseinen eCoin-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -130,7 +130,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation>Virhe vietäessä</translation>
+        <translation>Virhe vietess</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -153,7 +153,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(ei nimeä)</translation>
+        <translation>(ei nime)</translation>
     </message>
 </context>
 <context>
@@ -166,7 +166,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Syötä tunnuslause</translation>
+        <translation>Syt tunnuslause</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -181,7 +181,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Sallii estettäväksi yksinkertaiset rahansiirrot kun käyttöjärjestelmän käyttäjätunnuksen turvallisuutta on rikottu. Tämä ei takaa oikeasti turvallisuutta.</translation>
+        <translation>Sallii estettvksi yksinkertaiset rahansiirrot kun kyttjrjestelmn kyttjtunnuksen turvallisuutta on rikottu. Tm ei takaa oikeasti turvallisuutta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -191,7 +191,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Anna lompakolle uusi tunnuslause.&lt;br/&gt;Käytä tunnuslausetta, jossa on ainakin &lt;b&gt;10 satunnaista merkkiä&lt;/b&gt; tai &lt;b&gt;kahdeksan sanaa&lt;/b&gt;.</translation>
+        <translation>Anna lompakolle uusi tunnuslause.&lt;br/&gt;Kyt tunnuslausetta, jossa on ainakin &lt;b&gt;10 satunnaista merkki&lt;/b&gt; tai &lt;b&gt;kahdeksan sanaa&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -201,7 +201,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Tätä toimintoa varten sinun täytyy antaa lompakon tunnuslause sen avaamiseksi.</translation>
+        <translation>Tt toimintoa varten sinun tytyy antaa lompakon tunnuslause sen avaamiseksi.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -211,7 +211,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Tätä toimintoa varten sinun täytyy antaa lompakon tunnuslause salauksen purkuun.</translation>
+        <translation>Tt toimintoa varten sinun tytyy antaa lompakon tunnuslause salauksen purkuun.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -236,7 +236,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI KOLIKKOSI&lt;/b&gt;!</translation>
+        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETT KAIKKI KOLIKKOSI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -246,13 +246,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>TÄRKEÄÄ: Kaikki vanhat lompakon varmuuskopiot tulisi korvata uusilla suojatuilla varmuuskopioilla. Turvallisuussyistä edelliset varmuuskopiot muuttuvat käyttökelvottomiksi, kun aloitat uuden salatun lompakon käytön.</translation>
+        <translation>TRKE: Kaikki vanhat lompakon varmuuskopiot tulisi korvata uusilla suojatuilla varmuuskopioilla. Turvallisuussyist edelliset varmuuskopiot muuttuvat kyttkelvottomiksi, kun aloitat uuden salatun lompakon kytn.</translation>
     </message>
     <message>
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Varoitus: Caps Lock-näppäin on käytössä!</translation>
+        <translation>Varoitus: Caps Lock-nppin on kytss!</translation>
     </message>
     <message>
         <location line="-133"/>
@@ -262,8 +262,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin-ohjelma sulkee itsens pttkseen salauksen luonnin. Muista, ett lompakon salaaminen ei tysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -271,35 +271,35 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Lompakon salaus epäonnistui</translation>
+        <translation>Lompakon salaus eponnistui</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Lompakon salaaminen epäonnistui sisäisen virheen vuoksi. Lompakkoasi ei salattu.</translation>
+        <translation>Lompakon salaaminen eponnistui sisisen virheen vuoksi. Lompakkoasi ei salattu.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Annetut tunnuslauseet eivät täsmää.</translation>
+        <translation>Annetut tunnuslauseet eivt tsm.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Lompakon avaaminen epäonnistui.</translation>
+        <translation>Lompakon avaaminen eponnistui.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Annettu tunnuslause oli väärä.</translation>
+        <translation>Annettu tunnuslause oli vr.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Lompakon salauksen purku epäonnistui.</translation>
+        <translation>Lompakon salauksen purku eponnistui.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -322,7 +322,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-319"/>
         <source>&amp;Overview</source>
-        <translation>&amp;Yleisnäkymä</translation>
+        <translation>&amp;Yleisnkym</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -357,12 +357,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä osoitelista vastaanottaaksesi maksuja</translation>
+        <translation>Nyt osoitelista vastaanottaaksesi maksuja</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>&amp;Lähetä kolikoita</translation>
+        <translation>&amp;Lhet kolikoita</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -376,8 +376,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Näytä tietoja Roxcoinista</translation>
+        <source>Show information about eCoin</source>
+        <translation>Nyt tietoja eCoinista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -387,7 +387,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>Näytä tietoja Qt:sta</translation>
+        <translation>Nyt tietoja Qt:sta</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -412,7 +412,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message numerus="yes">
         <location line="+259"/>
         <source>~%n block(s) remaining</source>
-        <translation><numerusform>~%n lohko jäljellä</numerusform><numerusform>~%n lohkoa jäljellä</numerusform></translation>
+        <translation><numerusform>~%n lohko jljell</numerusform><numerusform>~%n lohkoa jljell</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -426,18 +426,18 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Lähetä kolikkoja Roxcoin osoitteeseen</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Lhet kolikkoja eCoin osoitteeseen</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Mukauta Roxcoinin konfigurointiasetuksia</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>Mukauta eCoinin konfigurointiasetuksia</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>Vie data tämänhetkisestä välilehdestä tiedostoon</translation>
+        <translation>Vie data tmnhetkisest vlilehdest tiedostoon</translation>
     </message>
     <message>
         <location line="-14"/>
@@ -452,7 +452,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Vaihda lompakon salaukseen käytettävä tunnuslause</translation>
+        <translation>Vaihda lompakon salaukseen kytettv tunnuslause</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -471,8 +471,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -481,13 +481,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>&amp;Tietoa Roxcoinista</translation>
+        <source>&amp;About eCoin</source>
+        <translation>&amp;Tietoa eCoinista</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Näytä / Piilota</translation>
+        <translation>&amp;Nyt / Piilota</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -522,7 +522,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Välilehtipalkki</translation>
+        <translation>Vlilehtipalkki</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -538,13 +538,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Roxcoin-asiakas</translation>
+        <source>eCoin client</source>
+        <translation>eCoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys Roxcoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Roxcoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys eCoin-verkkoon</numerusform><numerusform>%n aktiivista yhteytt eCoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -574,7 +574,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>Ei osakkaana koska sinulle ei ole erääntynyt kolikoita</translation>
+        <translation>Ei osakkaana koska sinulle ei ole erntynyt kolikoita</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -583,12 +583,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -609,7 +609,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s) ago</source>
-        <translation><numerusform>%n päivä sitten</numerusform><numerusform>%n päivää sitten</numerusform></translation>
+        <translation><numerusform>%n piv sitten</numerusform><numerusform>%n piv sitten</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -629,17 +629,17 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Tämä rahansiirto ylittää siirtorajan. Voit silti lähettää sen %1 rahansiirtopalkkiota vastaan, joka siirretään rahansiirtoasi käsitteleville solmuille jotta se auttaisi ja tukisi verkkoa. Haluatko maksaa rahansiirtopalkkion?</translation>
+        <translation>Tm rahansiirto ylitt siirtorajan. Voit silti lhett sen %1 rahansiirtopalkkiota vastaan, joka siirretn rahansiirtoasi ksitteleville solmuille jotta se auttaisi ja tukisi verkkoa. Haluatko maksaa rahansiirtopalkkion?</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm transaction fee</source>
-        <translation>Hyväksy rahansiirtopalkkio</translation>
+        <translation>Hyvksy rahansiirtopalkkio</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation>Lähetetyt rahansiirrot</translation>
+        <translation>Lhetetyt rahansiirrot</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -653,8 +653,8 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>Päivä: %1
-Määrä: %2
+        <translation>Piv: %1
+Mr: %2
 Tyyppi: %3
 Osoite: %4</translation>
     </message>
@@ -662,23 +662,23 @@ Osoite: %4</translation>
         <location line="+100"/>
         <location line="+15"/>
         <source>URI handling</source>
-        <translation>URI-merkkijonojen käsittely</translation>
+        <translation>URI-merkkijonojen ksittely</translation>
     </message>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Roxcoin-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jsent! Tm voi johtua vrst eCoin-osoitteesta tai vrss muodossa olevista URI-parametreist.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;avoinna&lt;/b&gt;</translation>
+        <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tll hetkell &lt;b&gt;avoinna&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tällä hetkellä &lt;b&gt;lukittuna&lt;/b&gt;</translation>
+        <translation>Lompakko on &lt;b&gt;salattu&lt;/b&gt; ja tll hetkell &lt;b&gt;lukittuna&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -693,7 +693,7 @@ Osoite: %4</translation>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>Varmuuskopion luonti epäonnistui</translation>
+        <translation>Varmuuskopion luonti eponnistui</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -718,7 +718,7 @@ Osoite: %4</translation>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation><numerusform>%n päivä</numerusform><numerusform>%n päivää</numerusform></translation>
+        <translation><numerusform>%n piv</numerusform><numerusform>%n piv</numerusform></translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>Vakava virhe kohdattu. Roxcoin-ohjelma ei voi enää jatkaa turvallisesti ja sulkee itsensä.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>Vakava virhe kohdattu. eCoin-ohjelma ei voi en jatkaa turvallisesti ja sulkee itsens.</translation>
     </message>
 </context>
 <context>
@@ -736,7 +736,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>Verkkohälytys</translation>
+        <translation>Verkkohlytys</translation>
     </message>
 </context>
 <context>
@@ -749,7 +749,7 @@ Osoite: %4</translation>
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation>Määrä:</translation>
+        <translation>Mr:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -759,7 +759,7 @@ Osoite: %4</translation>
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>Määrä:</translation>
+        <translation>Mr:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -784,7 +784,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation>Kulujen jälkeen:</translation>
+        <translation>Kulujen jlkeen:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -799,17 +799,17 @@ Osoite: %4</translation>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>Puunäkymä</translation>
+        <translation>Puunkym</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>List mode</source>
-        <translation>Listanäkymä</translation>
+        <translation>Listankym</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Määrä</translation>
+        <translation>Mr</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -824,7 +824,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Date</source>
-        <translation>Päivämäärä</translation>
+        <translation>Pivmr</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -855,7 +855,7 @@ Osoite: %4</translation>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Kopioi määrä</translation>
+        <translation>Kopioi mr</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -865,7 +865,7 @@ Osoite: %4</translation>
     <message>
         <location line="+24"/>
         <source>Copy quantity</source>
-        <translation>Kopioi määrä</translation>
+        <translation>Kopioi mr</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -875,7 +875,7 @@ Osoite: %4</translation>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation>Kopioi kulun jälkeen</translation>
+        <translation>Kopioi kulun jlkeen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -935,12 +935,12 @@ Osoite: %4</translation>
     <message>
         <location line="+155"/>
         <source>DUST</source>
-        <translation>pölyä</translation>
+        <translation>ply</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>yes</source>
-        <translation>kyllä</translation>
+        <translation>kyll</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -949,11 +949,11 @@ Osoite: %4</translation>
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>Tämä nimike muuttuu punaiseksi, jos rahansiirron koko on suurempi kuin 10000 tavua.
+        <translation>Tm nimike muuttuu punaiseksi, jos rahansiirron koko on suurempi kuin 10000 tavua.
 
-Tämä tarkoittaa, että ainakin %1 rahansiirtopalkkio per kilotavu tarvitaan.
+Tm tarkoittaa, ett ainakin %1 rahansiirtopalkkio per kilotavu tarvitaan.
 
-Voi vaihdella välillä +/- 1 Tavu per syöte.</translation>
+Voi vaihdella vlill +/- 1 Tavu per syte.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -962,11 +962,11 @@ Voi vaihdella välillä +/- 1 Tavu per syöte.</translation>
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation>Suuremman prioriteetin rahansiirrot pääsevät suuremmalla todennäköisyydellä lohkoketjuun.
+        <translation>Suuremman prioriteetin rahansiirrot psevt suuremmalla todennkisyydell lohkoketjuun.
 
-Tämä nimike muuttuu punaiseksi, jos prioriteetti on pienempi kuin &quot;keskikokoinen&quot;.
+Tm nimike muuttuu punaiseksi, jos prioriteetti on pienempi kuin &quot;keskikokoinen&quot;.
 
-Tämä tarkoittaa, että ainakin %1 rahansiirtopalkkio per kilotavu tarvitaan.</translation>
+Tm tarkoittaa, ett ainakin %1 rahansiirtopalkkio per kilotavu tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -975,26 +975,26 @@ Tämä tarkoittaa, että ainakin %1 rahansiirtopalkkio per kilotavu tarvitaan.</
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>Tämä nimike muuttuu punaiseksi, jos jokin asiakas saa pienemmän määrän kuin %1.
+        <translation>Tm nimike muuttuu punaiseksi, jos jokin asiakas saa pienemmn mrn kuin %1.
 
-Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.
+Tm tarkoittaa, ett ainakin %2 rahansiirtopalkkio tarvitaan.
 
-Määrät alle 0.546 kertaa pienimmän rahansiirtokulun verran näytetään pölynä.</translation>
+Mrt alle 0.546 kertaa pienimmn rahansiirtokulun verran nytetn plyn.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation>Tämä nimike muuttuu punaiseksi, jos vaihdos on pienempi kuin %1.
+        <translation>Tm nimike muuttuu punaiseksi, jos vaihdos on pienempi kuin %1.
 
-Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
+Tm tarkoittaa, ett ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+37"/>
         <location line="+66"/>
         <source>(no label)</source>
-        <translation>(ei nimeä)</translation>
+        <translation>(ei nime)</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -1022,7 +1022,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Tämän syötteen nimike osoitekirjassa</translation>
+        <translation>Tmn sytteen nimike osoitekirjassa</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1032,7 +1032,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>Tämän syötteen nimike osoitekirjassa. Nimikettä voidaan muuttaa vain lähetysosoitteille.</translation>
+        <translation>Tmn sytteen nimike osoitekirjassa. Nimikett voidaan muuttaa vain lhetysosoitteille.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -1042,7 +1042,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>Uusi lähettävä osoite</translation>
+        <translation>Uusi lhettv osoite</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1052,7 +1052,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>Muokkaa lähtevää osoitetta</translation>
+        <translation>Muokkaa lhtev osoitetta</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1061,8 +1061,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Roxcoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>Syttmsi osoite &quot;%1&quot; ei ole hyvksytty eCoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,7 +1072,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Uuden avaimen luonti epäonnistui.</translation>
+        <translation>Uuden avaimen luonti eponnistui.</translation>
     </message>
 </context>
 <context>
@@ -1080,8 +1080,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1101,22 +1101,22 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation>Käyttäjärajapinnan asetukset</translation>
+        <translation>Kyttjrajapinnan asetukset</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation>Aseta kieli, esimerkiksi &quot;fi_FI&quot; (oletus: järjestelmän oma)</translation>
+        <translation>Aseta kieli, esimerkiksi &quot;fi_FI&quot; (oletus: jrjestelmn oma)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation>Käynnistä pienennettynä</translation>
+        <translation>Kynnist pienennettyn</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>Näytä logo käynnistettäessä (oletus: 1)</translation>
+        <translation>Nyt logo kynnistettess (oletus: 1)</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1134,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>Vapaavalintainen rahansiirtopalkkio kilotavua kohden auttaa varmistamaan että rahansiirtosi käsitellään nopeasti. Suurin osa rahansiirroista on alle yhden kilotavun. Palkkiota 0.01 suositellaan.</translation>
+        <translation>Vapaavalintainen rahansiirtopalkkio kilotavua kohden auttaa varmistamaan ett rahansiirtosi ksitelln nopeasti. Suurin osa rahansiirroista on alle yhden kilotavun. Palkkiota 0.01 suositellaan.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1144,7 +1144,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>Varattu määrä ei vaadi osakkuutta jonka vuoksi se on mahdollista käyttää milloin tahansa.</translation>
+        <translation>Varattu mr ei vaadi osakkuutta jonka vuoksi se on mahdollista kytt milloin tahansa.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1153,18 +1153,18 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Käynnistä Roxcoin-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Kynnist eCoin-asiakasohjelma automaattisesti kun olet kirjautunut jrjestelmn.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>%Käynnistä Roxcoin-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>%Kynnist eCoin-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation>Irroita lohko- ja osoitetietokannat lopetettaessa. Tämä tarkoittaa, että tietokannat voidaan siirtää eri hakemistoon mutta se hidastaa ohjelman sammumista. Lompakko on aina irroitettuna.</translation>
+        <translation>Irroita lohko- ja osoitetietokannat lopetettaessa. Tm tarkoittaa, ett tietokannat voidaan siirt eri hakemistoon mutta se hidastaa ohjelman sammumista. Lompakko on aina irroitettuna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,23 +1178,23 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Roxcoin-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa eCoin-asiakkaalle automaattisesti portti reitittimest. Tm toimii vain, kun reitittimesi tukee UPnP:t ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>Portin uudelleenohjaus &amp;UPnP:llä</translation>
+        <translation>Portin uudelleenohjaus &amp;UPnP:ll</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä Roxcoin-verkkoon SOCKS-välityspalvelimen lävitse. (esim. yhdistettäessä Tor:n läpi).</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdist eCoin-verkkoon SOCKS-vlityspalvelimen lvitse. (esim. yhdistettess Tor:n lpi).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>%Yhdistä SOCKS-välityspalvelimen läpi:</translation>
+        <translation>%Yhdist SOCKS-vlityspalvelimen lpi:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1204,7 +1204,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation>Välityspalvelimen IP-osoite (esim. 127.0.0.1)</translation>
+        <translation>Vlityspalvelimen IP-osoite (esim. 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1234,67 +1234,67 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Näytä ainoastaan ilmaisinalueella ikkunan pienentämisen jälkeen.</translation>
+        <translation>Nyt ainoastaan ilmaisinalueella ikkunan pienentmisen jlkeen.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Pienennä ilmaisinalueelle työkalurivin sijasta</translation>
+        <translation>&amp;Pienenn ilmaisinalueelle tykalurivin sijasta</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää Bitcoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienent Bitcoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tm asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>P&amp;ienennä suljettaessa</translation>
+        <translation>P&amp;ienenn suljettaessa</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation>&amp;Käyttöliittymä</translation>
+        <translation>&amp;Kyttliittym</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>&amp;Käyttöliittymän kieli</translation>
+        <translation>&amp;Kyttliittymn kieli</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Roxcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>Kyttliittymn kieli voidaan valita tst. Tm asetus tulee voimaan vasta eCoin-asiakasohjelman uudelleenkynnistyksen jlkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona bitcoin-määrät näytetään</translation>
+        <translation>Yksikk jona bitcoin-mrt nytetn</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti bitcoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mit yksikk kytetn ensisijaisesti bitcoin-mrien nyttmiseen.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Näytä tai piilota Roxcoin-osoitteet rahansiirtolistassa.</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>Nyt tai piilota eCoin-osoitteet rahansiirtolistassa.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>&amp;Näytä osoitteet rahansiirrot listassa</translation>
+        <translation>&amp;Nyt osoitteet rahansiirrot listassa</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>Näytä tai piilota rahanhallintaominaisuudet.</translation>
+        <translation>Nyt tai piilota rahanhallintaominaisuudet.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Näytä rahan&amp;hallinnan ominaisuudet (vain kokeneille käyttäjille!)</translation>
+        <translation>Nyt rahan&amp;hallinnan ominaisuudet (vain kokeneille kyttjille!)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1309,7 +1309,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>%Käytä</translation>
+        <translation>%Kyt</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
@@ -1325,8 +1325,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Tämä asetus tulee voimaan vasta Roxcoin-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Tm asetus tulee voimaan vasta eCoin-asiakasohjelman uudelleenkynnistyksen jlkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Roxcoin-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Nytettvt tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti eCoin-verkon kanssa kun yhteys on muodostettu, mutta tt prosessia ei ole viety viel ptkseen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1355,7 +1355,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation>Hyväksymätöntä:</translation>
+        <translation>Hyvksymtnt:</translation>
     </message>
     <message>
         <location line="-107"/>
@@ -1365,47 +1365,47 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+49"/>
         <source>Spendable:</source>
-        <translation>Käytettävissä:</translation>
+        <translation>Kytettviss:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>Käytettävissä olevat varat:</translation>
+        <translation>Kytettviss olevat varat:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Immature:</source>
-        <translation>Epäkypsää:</translation>
+        <translation>Epkyps:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>Louhittu saldo, joka ei ole vielä kypsynyt</translation>
+        <translation>Louhittu saldo, joka ei ole viel kypsynyt</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Total:</source>
-        <translation>Yhteensä:</translation>
+        <translation>Yhteens:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>Tililläsi tällä hetkellä olevien Bitcoinien määrä</translation>
+        <translation>Tilillsi tll hetkell olevien Bitcoinien mr</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Viimeisimmät rahansiirrot&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Viimeisimmt rahansiirrot&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Kaikki vahvistamattomat rahansiirrot yhteensä, joita ei vielä lasketa saldoosi.</translation>
+        <translation>Kaikki vahvistamattomat rahansiirrot yhteens, joita ei viel lasketa saldoosi.</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>Kolikoiden kokoinaismäärä, jotka eivät vielä ole laskettu tämänhetkiseen saldoon.</translation>
+        <translation>Kolikoiden kokoinaismr, jotka eivt viel ole laskettu tmnhetkiseen saldoon.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1424,12 +1424,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation>Pyydä rahansiirtoa</translation>
+        <translation>Pyyd rahansiirtoa</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation>Määrä:</translation>
+        <translation>Mr:</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -1444,22 +1444,22 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation>%Tallenna nimellä...</translation>
+        <translation>%Tallenna nimell...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Virhe koodatessa linkkiä QR-koodiin.</translation>
+        <translation>Virhe koodatessa linkki QR-koodiin.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>Syötetty määrä on epäkelpoinen; tarkista.</translation>
+        <translation>Sytetty mr on epkelpoinen; tarkista.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>Tuloksena liian pitkä URI, yritä lyhentää nimikkeen tai viestin pituutta.</translation>
+        <translation>Tuloksena liian pitk URI, yrit lyhent nimikkeen tai viestin pituutta.</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -1477,7 +1477,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation>Pääteohjelman nimi</translation>
+        <translation>Pteohjelman nimi</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1496,7 +1496,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation>Pääteohjelman versio</translation>
+        <translation>Pteohjelman versio</translation>
     </message>
     <message>
         <location line="-45"/>
@@ -1506,12 +1506,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>Käytössä oleva OpenSSL-versio</translation>
+        <translation>Kytss oleva OpenSSL-versio</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation>Käynnistysaika</translation>
+        <translation>Kynnistysaika</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1521,7 +1521,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>Yhteyksien lukumäärä</translation>
+        <translation>Yhteyksien lukumr</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1536,17 +1536,17 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>Nykyinen Lohkojen määrä</translation>
+        <translation>Nykyinen Lohkojen mr</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>Arvioitu lohkojen kokonaismäärä</translation>
+        <translation>Arvioitu lohkojen kokonaismr</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>Viimeisimmän lohkon aika</translation>
+        <translation>Viimeisimmn lohkon aika</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -1560,13 +1560,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Näytä Roxcoin-Qt:n avustusohje saadaksesi listan käytettävistä Roxcoinin komentokehotteen määritteistä.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Nyt eCoin-Qt:n avustusohje saadaksesi listan kytettvist eCoinin komentokehotteen mritteist.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation>%Näytä</translation>
+        <translation>%Nyt</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1576,17 +1576,17 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation>Kääntöpäiväys</translation>
+        <translation>Kntpivys</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Debug-ikkuna</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Roxcoinin ydin</translation>
+        <source>eCoin Core</source>
+        <translation>eCoinin ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,28 +1595,28 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Roxcoin-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa eCoin-asiakasohjelman debug-lokitiedosto nykyisest hakemistostaan. Tm voi kest muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>Tyhjennä konsoli</translation>
+        <translation>Tyhjenn konsoli</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Tervetuloa Roxcoinin RPC-konsoliin.</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Tervetuloa eCoinin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Ylös- ja alas-nuolet selaavat historiaa ja &lt;b&gt;Ctrl-L&lt;/b&gt; tyhjentää ruudun.</translation>
+        <translation>Yls- ja alas-nuolet selaavat historiaa ja &lt;b&gt;Ctrl-L&lt;/b&gt; tyhjent ruudun.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Kirjoita &lt;b&gt;help&lt;/b&gt; nähdäksesi yleiskatsauksen käytettävissä olevista komennoista.</translation>
+        <translation>Kirjoita &lt;b&gt;help&lt;/b&gt; nhdksesi yleiskatsauksen kytettviss olevista komennoista.</translation>
     </message>
 </context>
 <context>
@@ -1631,7 +1631,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Bitcoineja</translation>
+        <translation>Lhet Bitcoineja</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1641,7 +1641,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation>Syötteet...</translation>
+        <translation>Sytteet...</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1656,7 +1656,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation>Määrä:</translation>
+        <translation>Mr:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -1672,15 +1672,15 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>Määrä:</translation>
+        <translation>Mr:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1710,7 +1710,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation>Kulujen jälkeen:</translation>
+        <translation>Kulujen jlkeen:</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1720,27 +1720,27 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>erikseen määritetty vaihtorahaosoite</translation>
+        <translation>erikseen mritetty vaihtorahaosoite</translation>
     </message>
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Lähetä monelle vastaanottajalle</translation>
+        <translation>Lhet monelle vastaanottajalle</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>Lisää &amp;Vastaanottaja</translation>
+        <translation>Lis &amp;Vastaanottaja</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>Tyhjennä kaikki rahansiirtokentät</translation>
+        <translation>Tyhjenn kaikki rahansiirtokentt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>&amp;Tyhjennnä Kaikki</translation>
+        <translation>&amp;Tyhjennn Kaikki</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -1749,33 +1749,33 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Vahvista lähetys</translation>
+        <translation>Vahvista lhetys</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;Lähetä</translation>
+        <translation>&amp;Lhet</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Syötä Roxcoin-osoite (esim. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syt eCoin-osoite (esim. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Copy quantity</source>
-        <translation>Kopioi määrä</translation>
+        <translation>Kopioi mr</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopioi määrä</translation>
+        <translation>Kopioi mr</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1785,7 +1785,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation>Kopioi rahansiirtokulun jälkeen</translation>
+        <translation>Kopioi rahansiirtokulun jlkeen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1815,12 +1815,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy Bitcoinien lähettäminen</translation>
+        <translation>Hyvksy Bitcoinien lhettminen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>Oletko varma että haluat lähettää %1?</translation>
+        <translation>Oletko varma ett haluat lhett %1?</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1840,37 +1840,37 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Määrä ylittää käytettävissä olevan saldon.</translation>
+        <translation>Mr ylitt kytettviss olevan saldon.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Kokonaismäärä ylittää saldosi kun %1 maksukulu lisätään summaan.</translation>
+        <translation>Kokonaismr ylitt saldosi kun %1 maksukulu listn summaan.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Sama osoite toistuu useamman kerran. Samaan osoitteeseen voi lähettää vain kerran per maksu.</translation>
+        <translation>Sama osoite toistuu useamman kerran. Samaan osoitteeseen voi lhett vain kerran per maksu.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed.</source>
-        <translation>Virhe: Rahansiirron luonti epäonnistui.</translation>
+        <translation>Virhe: Rahansiirron luonti eponnistui.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Virhe: Rahansiirto evätty. Tämä voi tapahtua kun jotkut kolikot lompakossasi ovat jo käytetty, kuten myös tilanteessa jos käytit wallet.dat-tiedoston kopiota ja rahat olivat käytetty kopiossa, mutta eivät ole merkitty käytetyiksi tässä.</translation>
+        <translation>Virhe: Rahansiirto evtty. Tm voi tapahtua kun jotkut kolikot lompakossasi ovat jo kytetty, kuten mys tilanteessa jos kytit wallet.dat-tiedoston kopiota ja rahat olivat kytetty kopiossa, mutta eivt ole merkitty kytetyiksi tss.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>VAROITUS: Epäkelpo Roxcoin-osoite</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>VAROITUS: Epkelpo eCoin-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation>(ei nimeä)</translation>
+        <translation>(ei nime)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1888,7 +1888,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>M&amp;äärä:</translation>
+        <translation>M&amp;r:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1899,7 +1899,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Anna nimi tälle osoitteelle, jos haluat lisätä sen osoitekirjaan</translation>
+        <translation>Anna nimi tlle osoitteelle, jos haluat list sen osoitekirjaan</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1908,8 +1908,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Osoite, johon maksu lähetetään (esim. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, johon maksu lhetetn (esim. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1924,7 +1924,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Liitä osoite leikepöydältä</translation>
+        <translation>Liit osoite leikepydlt</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1934,12 +1934,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation>Poista tämä vastaanottaja</translation>
+        <translation>Poista tm vastaanottaja</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Syötä Roxcoin-osoite (esim. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syt eCoin-osoite (esim. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1958,12 +1958,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Voit allekirjoittaa viestit omalla osoitteellasi todistaaksesi että omistat ne. Ole huolellinen, ettet allekirjoita mitään epämääräistä, sillä phishing-hyökkääjät voivat yrittää huijata sinua allekirjoittamaan henkilöllisyytesi heidän hyväksi. Allekirjoita vain se,  mihin olet sitoutunut.</translation>
+        <translation>Voit allekirjoittaa viestit omalla osoitteellasi todistaaksesi ett omistat ne. Ole huolellinen, ettet allekirjoita mitn epmrist, sill phishing-hykkjt voivat yritt huijata sinua allekirjoittamaan henkilllisyytesi heidn hyvksi. Allekirjoita vain se,  mihin olet sitoutunut.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Osoite, jolle viesti kirjataan (esim. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, jolle viesti kirjataan (esim. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1980,7 +1980,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Liitä osoite leikepöydältä</translation>
+        <translation>Liit osoite leikepydlt</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1990,28 +1990,28 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Kirjoita viesti, jonka haluat allekirjoittaa tähän</translation>
+        <translation>Kirjoita viesti, jonka haluat allekirjoittaa thn</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Kopioi tämänhetkinen allekirjoitus järjestelmän leikepöydälle</translation>
+        <translation>Kopioi tmnhetkinen allekirjoitus jrjestelmn leikepydlle</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Roxcoin-osoitteen</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, ett omistat tmn eCoin-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Tyhjennä kaikki allekirjoita-viesti-kentät</translation>
+        <translation>Tyhjenn kaikki allekirjoita-viesti-kentt</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>&amp;Tyhjennä Kaikki</translation>
+        <translation>&amp;Tyhjenn Kaikki</translation>
     </message>
     <message>
         <location line="-87"/>
@@ -2022,28 +2022,28 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Syötä allekirjoittava osoite, viesti ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varmista että kopioit kaikki kentät täsmälleen oikein, myös rivinvaihdot, välilyönnit, tabulaattorit, jne.</translation>
+        <translation>Syt allekirjoittava osoite, viesti ja allekirjoitus alla oleviin kenttiin varmistaaksesi allekirjoituksen aitouden. Varmista ett kopioit kaikki kentt tsmlleen oikein, mys rivinvaihdot, vlilynnit, tabulaattorit, jne.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Osoite, jolla viesti on allekirjoitettu (esim. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr) </translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Osoite, jolla viesti on allekirjoitettu (esim. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Roxcoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Vahvista viesti varmistaaksesi ett se on allekirjoitettu kyseisell eCoin-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>Tyhjennä kaikki varmista-viesti-kentät</translation>
+        <translation>Tyhjenn kaikki varmista-viesti-kentt</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Syötä Roxcoin-osoite (esim. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Syt eCoin-osoite (esim. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,14 +2052,14 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Syötä Roxcoin-allekirjoitus</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Syt eCoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>Syötetty osoite on virheellinen.</translation>
+        <translation>Sytetty osoite on virheellinen.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2067,13 +2067,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Tarkista osoite ja yritä uudelleen.</translation>
+        <translation>Tarkista osoite ja yrit uudelleen.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>Syötetyn osoitteen avainta ei löydy.</translation>
+        <translation>Sytetyn osoitteen avainta ei lydy.</translation>
     </message>
     <message>
         <location line="-73"/>
@@ -2083,12 +2083,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>Yksityistä avainta syötetylle osoitteelle ei ole saatavilla.</translation>
+        <translation>Yksityist avainta sytetylle osoitteelle ei ole saatavilla.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation>Viestin allekirjoitus epäonnistui.</translation>
+        <translation>Viestin allekirjoitus eponnistui.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2104,17 +2104,17 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Tarkista allekirjoitus ja yritä uudelleen.</translation>
+        <translation>Tarkista allekirjoitus ja yrit uudelleen.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation>Allekirjoitus ei täsmää viestin tiivisteeseen.</translation>
+        <translation>Allekirjoitus ei tsm viestin tiivisteeseen.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>Viestin varmistus epäonnistui.</translation>
+        <translation>Viestin varmistus eponnistui.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2137,7 +2137,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+8"/>
         <source>conflicted</source>
-        <translation>törmännyt</translation>
+        <translation>trmnnyt</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2162,17 +2162,17 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>lähetetty %n noodin läpi</numerusform><numerusform>lähetetty %n noodin läpi</numerusform></translation>
+        <translation><numerusform>lhetetty %n noodin lpi</numerusform><numerusform>lhetetty %n noodin lpi</numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation>Päivämäärä</translation>
+        <translation>Pivmr</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation>Lähde</translation>
+        <translation>Lhde</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2183,7 +2183,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation>Lähettäjä</translation>
+        <translation>Lhettj</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2220,7 +2220,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation>ei hyväksytty</translation>
+        <translation>ei hyvksytty</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -2238,7 +2238,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation>Netto määrä</translation>
+        <translation>Netto mr</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2257,8 +2257,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Luotujen kolikoiden on eräännyttävä 110 lohkon ajan ennenkuin niitä voidaan käyttää. Kun loit tämän lohkon, se oli lähetetty verkkoon lohkoketjuun lisättäväksi. Jos lohkon siirtyminen ketjuun epäonnistuu, tilaksi muuttuu &quot;ei hyväksytty&quot; ja sillon sitä ei voida käyttää. Tämä voi tapahtua joskus jos toinen verkon noodi luo lohkon muutaman sekunnin sisällä luodusta lohkostasi.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Luotujen kolikoiden on ernnyttv 510 lohkon ajan ennenkuin niit voidaan kytt. Kun loit tmn lohkon, se oli lhetetty verkkoon lohkoketjuun listtvksi. Jos lohkon siirtyminen ketjuun eponnistuu, tilaksi muuttuu &quot;ei hyvksytty&quot; ja sillon sit ei voida kytt. Tm voi tapahtua joskus jos toinen verkon noodi luo lohkon muutaman sekunnin sisll luodusta lohkostasi.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2273,12 +2273,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+5"/>
         <source>Inputs</source>
-        <translation>Sisääntulot</translation>
+        <translation>Sisntulot</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>Määrä</translation>
+        <translation>Mr</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2288,12 +2288,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation>epätosi</translation>
+        <translation>eptosi</translation>
     </message>
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, ei ole vielä onnistuneesti lähetetty</translation>
+        <translation>, ei ole viel onnistuneesti lhetetty</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2311,7 +2311,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Tämä ruutu näyttää yksityiskohtaisen tiedon rahansiirrosta</translation>
+        <translation>Tm ruutu nytt yksityiskohtaisen tiedon rahansiirrosta</translation>
     </message>
 </context>
 <context>
@@ -2319,7 +2319,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../transactiontablemodel.cpp" line="+226"/>
         <source>Date</source>
-        <translation>Päivämäärä</translation>
+        <translation>Pivmr</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2334,7 +2334,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>Määrä</translation>
+        <translation>Mr</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -2369,22 +2369,22 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+6"/>
         <source>Conflicted</source>
-        <translation>Törmännyt</translation>
+        <translation>Trmnnyt</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>Ei vahvistettu (%1 vahvistusta, on saatavilla %2:n jälkeen)</translation>
+        <translation>Ei vahvistettu (%1 vahvistusta, on saatavilla %2:n jlkeen)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Tätä lohkoa ei vastaanotettu mistään muusta solmusta ja sitä ei mahdollisesti hyväksytä!</translation>
+        <translation>Tt lohkoa ei vastaanotettu mistn muusta solmusta ja sit ei mahdollisesti hyvksyt!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>Generoitu mutta ei hyväksytty</translation>
+        <translation>Generoitu mutta ei hyvksytty</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2419,12 +2419,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Rahansiirron tila. Siirrä osoitin kentän päälle nähdäksesi vahvistusten lukumäärä.</translation>
+        <translation>Rahansiirron tila. Siirr osoitin kentn plle nhdksesi vahvistusten lukumr.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>Rahansiirron vastaanottamisen päivämäärä ja aika.</translation>
+        <translation>Rahansiirron vastaanottamisen pivmr ja aika.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2439,7 +2439,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Saldoon lisätty tai siitä vähennetty määrä.</translation>
+        <translation>Saldoon listty tai siit vhennetty mr.</translation>
     </message>
 </context>
 <context>
@@ -2453,17 +2453,17 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation>Tänään</translation>
+        <translation>Tnn</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>Tällä viikolla</translation>
+        <translation>Tll viikolla</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>Tässä kuussa</translation>
+        <translation>Tss kuussa</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2473,7 +2473,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>Tänä vuonna</translation>
+        <translation>Tn vuonna</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2508,12 +2508,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Anna etsittävä osoite tai tunniste</translation>
+        <translation>Anna etsittv osoite tai tunniste</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>Minimimäärä</translation>
+        <translation>Minimimr</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -2528,7 +2528,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopioi määrä</translation>
+        <translation>Kopioi mr</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2538,12 +2538,12 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Muokkaa nimeä</translation>
+        <translation>Muokkaa nime</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation>Näytä rahansiirron yksityiskohdat</translation>
+        <translation>Nyt rahansiirron yksityiskohdat</translation>
     </message>
     <message>
         <location line="+144"/>
@@ -2583,7 +2583,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>Määrä</translation>
+        <translation>Mr</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2593,7 +2593,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation>Virhe vietäessä</translation>
+        <translation>Virhe vietess</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2616,25 +2616,25 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+206"/>
         <source>Sending...</source>
-        <translation>Lähetetään...</translation>
+        <translation>Lhetetn...</translation>
     </message>
 </context>
 <context>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>Roxcoinin versio</translation>
+        <source>eCoin version</source>
+        <translation>eCoinin versio</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation>Käyttö:</translation>
+        <translation>Kytt:</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Syötä komento kohteeseen -server tai roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Syt komento kohteeseen -server tai eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,7 +2644,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Hanki apua käskyyn</translation>
+        <translation>Hanki apua kskyyn</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2653,28 +2653,28 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Mrit asetustiedosto (oletus: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: roxcoin.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Mrit prosessitiedosto (oletus: eCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Määritä lompakkotiedosto (datahakemiston sisällä)</translation>
+        <translation>Mrit lompakkotiedosto (datahakemiston sisll)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>Määritä data-hakemisto</translation>
+        <translation>Mrit data-hakemisto</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Aseta tietokannan välimuistin koko megatavuina (oletus: 25)</translation>
+        <translation>Aseta tietokannan vlimuistin koko megatavuina (oletus: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2683,28 +2683,28 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Kuuntele yhteyksiä portissa &lt;port&gt; (oletus: 47377 tai testiverkko: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Kuuntele yhteyksi portissa &lt;port&gt; (oletus: 15714 tai testiverkko: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Pidä enintään &lt;n&gt; yhteyttä verkkoihin (oletus: 125)</translation>
+        <translation>Pid enintn &lt;n&gt; yhteytt verkkoihin (oletus: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Yhdistä noodiin hakeaksesi naapurien osoitteet ja katkaise yhteys</translation>
+        <translation>Yhdist noodiin hakeaksesi naapurien osoitteet ja katkaise yhteys</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation>Määritä julkinen osoitteesi</translation>
+        <translation>Mrit julkinen osoitteesi</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>Liitä annettuun osoitteeseen. Käytä [host]:port merkintää IPv6:lle</translation>
+        <translation>Liit annettuun osoitteeseen. Kyt [host]:port merkint IPv6:lle</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2719,7 +2719,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Sekuntien määrä, kuinka kauan uudelleenkytkeydytään verkkoihin (oletus: 86400)</translation>
+        <translation>Sekuntien mr, kuinka kauan uudelleenkytkeydytn verkkoihin (oletus: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -2734,27 +2734,27 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+109"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Virhe: Rahansiirto on evätty. Tämä voi tapahtua jos joitakin kolikoistasi lompakossasi on jo käytetty, tai jos olet käyttänyt wallet.dat-tiedoston kopiota ja rahat olivat käytetyt kopiossa, mutta ei merkitty käytetyksi tässä.</translation>
+        <translation>Virhe: Rahansiirto on evtty. Tm voi tapahtua jos joitakin kolikoistasi lompakossasi on jo kytetty, tai jos olet kyttnyt wallet.dat-tiedoston kopiota ja rahat olivat kytetyt kopiossa, mutta ei merkitty kytetyksi tss.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Virhe: Tämä rahansiirto tarvitsee rahansiirtopalkkion, kooltaan %s, kokonsa, monimutkaisuutensa tai aikaisemmin saatujen varojen käytön takia.</translation>
+        <translation>Virhe: Tm rahansiirto tarvitsee rahansiirtopalkkion, kooltaan %s, kokonsa, monimutkaisuutensa tai aikaisemmin saatujen varojen kytn takia.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Kuuntele JSON-RPC-yhteyksiä portissa &lt;port&gt; (oletus: 47376 tai testiverkko: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Kuuntele JSON-RPC-yhteyksi portissa &lt;port&gt; (oletus: 15715 tai testiverkko: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Hyväksy merkkipohjaiset- ja JSON-RPC-käskyt</translation>
+        <translation>Hyvksy merkkipohjaiset- ja JSON-RPC-kskyt</translation>
     </message>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Virhe: Rahansiirron luonti epäonnistui</translation>
+        <translation>Virhe: Rahansiirron luonti eponnistui</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -2774,27 +2774,27 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Aja taustalla daemonina ja hyväksy komennot</translation>
+        <translation>Aja taustalla daemonina ja hyvksy komennot</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Käytä test -verkkoa</translation>
+        <translation>Kyt test -verkkoa</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Hyväksy yhteyksiä ulkopuolelta (vakioasetus: 1 jos -proxy tai -connect ei määritelty)</translation>
+        <translation>Hyvksy yhteyksi ulkopuolelta (vakioasetus: 1 jos -proxy tai -connect ei mritelty)</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>Virhe ilmennyt asetettaessa RPC-porttia %u IPv6:n kuuntelemiseksi, palataan takaisin IPv4:ään %s</translation>
+        <translation>Virhe ilmennyt asetettaessa RPC-porttia %u IPv6:n kuuntelemiseksi, palataan takaisin IPv4:n %s</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>Virhe alustettaessa tietokantaympäristöä %s! Palauttaaksesi sen, TEE VARMUUSKOPIO HAKEMISTOSTA ja poista tämän jälkeen kaikki hakemiston tiedostot paitsi wallet.dat-tiedosto.</translation>
+        <translation>Virhe alustettaessa tietokantaymprist %s! Palauttaaksesi sen, TEE VARMUUSKOPIO HAKEMISTOSTA ja poista tmn jlkeen kaikki hakemiston tiedostot paitsi wallet.dat-tiedosto.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -2804,27 +2804,27 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Varoitus: -paytxfee on asetettu erittäin korkeaksi! Tämä on maksukulu jonka tulet maksamaan kun lähetät siirron.</translation>
+        <translation>Varoitus: -paytxfee on asetettu erittin korkeaksi! Tm on maksukulu jonka tulet maksamaan kun lhett siirron.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Roxcoin ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Varoitus: Tarkista, ett tietokoneesi aika ja pivmr ovat oikeassa! Jos kellosi on vrss, eCoin ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Varoitus: Virhe luettaessa wallet.dat-tiedostoa! Kaikki avaimet luettiin oikein, mutta rahansiirtodata tai osoitekirjan kentät voivat olla puuttuvat tai väärät.</translation>
+        <translation>Varoitus: Virhe luettaessa wallet.dat-tiedostoa! Kaikki avaimet luettiin oikein, mutta rahansiirtodata tai osoitekirjan kentt voivat olla puuttuvat tai vrt.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Varoitus: wallet.dat-tiedosto on korruptoitunut, data pelastettu! Alkuperäinen wallet.dat on tallennettu nimellä wallet.{aikaleima}.bak kohteeseen %s; Jos saldosi tai rahansiirrot ovat väärät, sinun tulee palauttaa lompakko varmuuskopiosta.</translation>
+        <translation>Varoitus: wallet.dat-tiedosto on korruptoitunut, data pelastettu! Alkuperinen wallet.dat on tallennettu nimell wallet.{aikaleima}.bak kohteeseen %s; Jos saldosi tai rahansiirrot ovat vrt, sinun tulee palauttaa lompakko varmuuskopiosta.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Yritetään palauttaa yksityisiä salausavaimia korruptoituneesta wallet.dat-tiedostosta</translation>
+        <translation>Yritetn palauttaa yksityisi salausavaimia korruptoituneesta wallet.dat-tiedostosta</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2834,7 +2834,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>Yhidstä ainoastaan määrättyihin noodeihin</translation>
+        <translation>Yhidst ainoastaan mrttyihin noodeihin</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2844,77 +2844,77 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Ei onnistuttu kuuntelemaan missään portissa. Käytä -listen=0 jos haluat tätä.</translation>
+        <translation>Ei onnistuttu kuuntelemaan missn portissa. Kyt -listen=0 jos haluat tt.</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation>Etsi vertaisiasi käyttäen DNS-nimihakua (oletus: 1)</translation>
+        <translation>Etsi vertaisiasi kytten DNS-nimihakua (oletus: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync checkpoints policy (default: strict)</source>
-        <translation>Synkronoi tallennuspisteiden käytännöt (oletus: strict)</translation>
+        <translation>Synkronoi tallennuspisteiden kytnnt (oletus: strict)</translation>
     </message>
     <message>
         <location line="+83"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation>Epäkelpo -tor-osoite: &apos;%s&apos;</translation>
+        <translation>Epkelpo -tor-osoite: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation>Epäkelpo määrä -reservebalance=&lt;amount&gt;</translation>
+        <translation>Epkelpo mr -reservebalance=&lt;amount&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>Suurin vastaanottopuskuri yksittäiselle yhteydelle, &lt;n&gt;*1000 tavua (vakioasetus: 5000)</translation>
+        <translation>Suurin vastaanottopuskuri yksittiselle yhteydelle, &lt;n&gt;*1000 tavua (vakioasetus: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>Suurin lähetyspuskuri yksittäiselle yhteydelle, &lt;n&gt;*1000 tavua (vakioasetus: 1000)</translation>
+        <translation>Suurin lhetyspuskuri yksittiselle yhteydelle, &lt;n&gt;*1000 tavua (vakioasetus: 1000)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>Yhdistä vain noodeihin verkossa &lt;net&gt; (IPv4, IPv6 tai Tor)</translation>
+        <translation>Yhdist vain noodeihin verkossa &lt;net&gt; (IPv4, IPv6 tai Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Tulosta lisäksi debug-tietoa, seuraa kaikkia muita -debug*-asetuksia</translation>
+        <translation>Tulosta lisksi debug-tietoa, seuraa kaikkia muita -debug*-asetuksia</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>Tulosta lisäksi verkon debug-tietoa</translation>
+        <translation>Tulosta lisksi verkon debug-tietoa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>Lisää debug-tulosteiden alkuun aikaleimat</translation>
+        <translation>Lis debug-tulosteiden alkuun aikaleimat</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso Bitcoin Wikistä tarkemmat SSL ohjeet)</translation>
+        <translation>SSL asetukset (katso Bitcoin Wikist tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>Valitse SOCKS-välityspalvelimen versio (4-5, oletus 5)</translation>
+        <translation>Valitse SOCKS-vlityspalvelimen versio (4-5, oletus 5)</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Lähetä jäljitys/debug-tieto konsoliin, debug.log-tiedoston sijaan</translation>
+        <translation>Lhet jljitys/debug-tieto konsoliin, debug.log-tiedoston sijaan</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>Lähetä debug-tuloste kehittäjille</translation>
+        <translation>Lhet debug-tuloste kehittjille</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -2929,44 +2929,44 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Pienennä debug.log tiedosto käynnistyksen yhteydessä (vakioasetus: 1 kun ei -debug)</translation>
+        <translation>Pienenn debug.log tiedosto kynnistyksen yhteydess (vakioasetus: 1 kun ei -debug)</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Määritä yhteyden aikakataisu millisekunneissa (vakioasetus: 5000)</translation>
+        <translation>Mrit yhteyden aikakataisu millisekunneissa (vakioasetus: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation>Ei voitu kirjata tallennuspistettä, väärä checkpointkey?
+        <translation>Ei voitu kirjata tallennuspistett, vr checkpointkey?
 </translation>
     </message>
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Käytä UPnP:tä kuunneltavan portin avaamiseen (vakioasetus: 0)</translation>
+        <translation>Kyt UPnP:t kuunneltavan portin avaamiseen (vakioasetus: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Käytä UPnP:tä kuunneltavan portin avaamiseen (vakioasetus: 1 kun kuuntelemassa)</translation>
+        <translation>Kyt UPnP:t kuunneltavan portin avaamiseen (vakioasetus: 1 kun kuuntelemassa)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>Käytä välityspalvelinta saavuttaaksesi tor:n piilotetut palvelut (oletus: sama kuin -proxy)</translation>
+        <translation>Kyt vlityspalvelinta saavuttaaksesi tor:n piilotetut palvelut (oletus: sama kuin -proxy)</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Käyttäjätunnus JSON-RPC-yhteyksille</translation>
+        <translation>Kyttjtunnus JSON-RPC-yhteyksille</translation>
     </message>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation>Tarkistetaan tietokannan eheyttä...</translation>
+        <translation>Tarkistetaan tietokannan eheytt...</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -2976,17 +2976,17 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+1"/>
         <source>Warning: Disk space is low!</source>
-        <translation>Varoitus: Kiintolevytila on vähissä!</translation>
+        <translation>Varoitus: Kiintolevytila on vhiss!</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Varoitus: Tämä versio on vanhentunut, päivitys tarpeen!</translation>
+        <translation>Varoitus: Tm versio on vanhentunut, pivitys tarpeen!</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat on korruptoitunut, pelastusyritys epäonnistui</translation>
+        <translation>wallet.dat on korruptoitunut, pelastusyritys eponnistui</translation>
     </message>
     <message>
         <location line="-54"/>
@@ -2998,59 +2998,59 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
-On suositeltavaa, että käytät seuraavaa arvottua salasanaa:
-rpcuser=roxcoinrpc
+On suositeltavaa, ett kytt seuraavaa arvottua salasanaa:
+rpcuser=eCoinrpc
 rpcpassword=%s
-(Sinun ei tarvitse muistaa tätä salasanaa)
-Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
+(Sinun ei tarvitse muistaa tt salasanaa)
+Kyttjnimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+On mys suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Find peers using internet relay chat (default: 0)</source>
-        <translation>Etsi vertaisiasi käyttäen Internet Relay Chatia (oletus: 1) {0)?}</translation>
+        <translation>Etsi vertaisiasi kytten Internet Relay Chatia (oletus: 1) {0)?}</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation>Synkronoi kello muiden noodien kanssa. Poista käytöstä, jos järjestelmäsi aika on tarkka esim. päivittää itsensä NTP-palvelimelta. (oletus: 1)</translation>
+        <translation>Synkronoi kello muiden noodien kanssa. Poista kytst, jos jrjestelmsi aika on tarkka esim. pivitt itsens NTP-palvelimelta. (oletus: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>Rahansiirtoja luodessa jätä huomioimatta syötteet joiden arvo on vähemmän kuin tämä (oletus: 0.01)</translation>
+        <translation>Rahansiirtoja luodessa jt huomioimatta sytteet joiden arvo on vhemmn kuin tm (oletus: 0.01)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Salli JSON-RPC yhteydet tietystä ip-osoitteesta</translation>
+        <translation>Salli JSON-RPC yhteydet tietyst ip-osoitteesta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Lähetä käskyjä solmuun osoitteessa &lt;ip&gt; (oletus: 127.0.0.1)</translation>
+        <translation>Lhet kskyj solmuun osoitteessa &lt;ip&gt; (oletus: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Suorita käsky kun paras lohko muuttuu (%s cmd on vaihdettu block hashin kanssa)</translation>
+        <translation>Suorita ksky kun paras lohko muuttuu (%s cmd on vaihdettu block hashin kanssa)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Suorita komento kun lompakon rahansiirrossa muutoksia (%s komennossa on korvattu TxID:llä)</translation>
+        <translation>Suorita komento kun lompakon rahansiirrossa muutoksia (%s komennossa on korvattu TxID:ll)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3060,17 +3060,17 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>Vahvista, että rahansiirtoskriptit käyttävät sääntöjen mukaisia PUSH-toimijoita (oletus: 1)</translation>
+        <translation>Vahvista, ett rahansiirtoskriptit kyttvt sntjen mukaisia PUSH-toimijoita (oletus: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation>Suorita komento kun olennainen varoitus on saatu (%s komennossa korvattu viestillä)</translation>
+        <translation>Suorita komento kun olennainen varoitus on saatu (%s komennossa korvattu viestill)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Päivitä lompakko uusimpaan formaattiin</translation>
+        <translation>Pivit lompakko uusimpaan formaattiin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3085,7 +3085,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>Kuinka monta lohkoa tarkistetaan käynnistyksen yhteydessä (oletus: 2500, 0 = kaikki)</translation>
+        <translation>Kuinka monta lohkoa tarkistetaan kynnistyksen yhteydess (oletus: 2500, 0 = kaikki)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3095,12 +3095,12 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>Tuo lohkoja erillisestä blk000?.dat-tiedostosta</translation>
+        <translation>Tuo lohkoja erillisest blk000?.dat-tiedostosta</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Käytä OpenSSL:ää (https) JSON-RPC-yhteyksille</translation>
+        <translation>Kyt OpenSSL: (https) JSON-RPC-yhteyksille</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3115,7 +3115,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation>Hyväksytyt salaustyypit (oletus: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
+        <translation>Hyvksytyt salaustyypit (oletus: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -3125,12 +3125,12 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>VAROITUS: Epäkelpo tarkistuspiste löydetty! Ilmoitetut rahansiirrot eivät välttämättä pidä paikkaansa! Sinun täytyy päivittää asiakasohjelma, tai ilmoittaa kehittäjille ongelmasta.</translation>
+        <translation>VAROITUS: Epkelpo tarkistuspiste lydetty! Ilmoitetut rahansiirrot eivt vlttmtt pid paikkaansa! Sinun tytyy pivitt asiakasohjelma, tai ilmoittaa kehittjille ongelmasta.</translation>
     </message>
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Tämä ohjeviesti</translation>
+        <translation>Tm ohjeviesti</translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3139,28 +3139,28 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. Roxcoin-asiakasohjelma on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>Ei voida saavuttaa lukkoa datatiedostossa %s. eCoin-asiakasohjelma on ehk jo kynniss.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Kytkeytyminen %s tällä tietokonella ei onnistu (kytkeytyminen palautti virheen %d, %s)</translation>
+        <translation>Kytkeytyminen %s tll tietokonella ei onnistu (kytkeytyminen palautti virheen %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
         <source>Connect through socks proxy</source>
-        <translation>Yhdistä SOCKS-välityspalvelimen lävitse</translation>
+        <translation>Yhdist SOCKS-vlityspalvelimen lvitse</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Salli DNS kyselyt -addnode, -seednode ja -connect yhteydessä</translation>
+        <translation>Salli DNS kyselyt -addnode, -seednode ja -connect yhteydess</translation>
     </message>
     <message>
         <location line="+122"/>
@@ -3179,13 +3179,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Roxcoin-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version eCoin-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Roxcoin-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: kynnist eCoin-asiakasohjelma uudelleen pttksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3210,12 +3210,12 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>-bind osoitteen &apos;%s&apos; selvittäminen epäonnistui</translation>
+        <translation>-bind osoitteen &apos;%s&apos; selvittminen eponnistui</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>-externalip osoitteen &apos;%s&apos; selvittäminen epäonnistui</translation>
+        <translation>-externalip osoitteen &apos;%s&apos; selvittminen eponnistui</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -3225,47 +3225,47 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+44"/>
         <source>Error: could not start node</source>
-        <translation>Virhe: Ei voitu käynnistää noodia</translation>
+        <translation>Virhe: Ei voitu kynnist noodia</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sending...</source>
-        <translation>Lähetetään...</translation>
+        <translation>Lhetetn...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Virheellinen määrä</translation>
+        <translation>Virheellinen mr</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Lompakon saldo ei riitä</translation>
+        <translation>Lompakon saldo ei riit</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>Ladataan lohkoindeksiä...</translation>
+        <translation>Ladataan lohkoindeksi...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Linää solmu mihin liittyä pitääksesi yhteyden auki</translation>
+        <translation>Lin solmu mihin liitty pitksesi yhteyden auki</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. Roxcoin-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>Ei voitu liitt %s tll tietokoneella. eCoin-asiakasohjelma on jo ehk pll.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Rahansiirtopalkkio kilotavua kohden lähetettäviin rahansiirtoihisi</translation>
+        <translation>Rahansiirtopalkkio kilotavua kohden lhetettviin rahansiirtoihisi</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Invalid amount for -mininput=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Epäkelpo määrä parametrille -mininput=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>Epkelpo mr parametrille -mininput=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -3275,7 +3275,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Et voi päivittää lompakkoasi vanhempaan versioon</translation>
+        <translation>Et voi pivitt lompakkoasi vanhempaan versioon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3300,7 +3300,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>Käytä %s optiota</translation>
+        <translation>Kyt %s optiota</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -3312,7 +3312,7 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Sinun täytyy asettaa rpcpassword=&lt;password&gt; asetustiedostoon:
+        <translation>Sinun tytyy asettaa rpcpassword=&lt;password&gt; asetustiedostoon:
 %s
 Jos tiedostoa ei ole, niin luo se ainoastaan omistajan kirjoitusoikeuksin.</translation>
     </message>

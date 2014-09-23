@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
+        <source>About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -26,11 +26,11 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation>Tai eksperimentinė programa.
+        <translation>Tai eksperimentin programa.
 
-Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.opensource.org/licenses/mit-license.php.
+Platinama pagal MIT/X11 licencij, kuri rasite faile COPYING arba http://www.opensource.org/licenses/mit-license.php.
 
-Šiame produkte yra OpenSSL projekto kuriamas OpenSSL Toolkit (http://www.openssl.org/), Eric Young parašyta kriptografinė programinė įranga bei Thomas Bernard sukurta UPnP programinė įranga.</translation>
+iame produkte yra OpenSSL projekto kuriamas OpenSSL Toolkit (http://www.openssl.org/), Eric Young parayta kriptografin programin ranga bei Thomas Bernard sukurta UPnP programin ranga.</translation>
     </message>
 </context>
 <context>
@@ -43,17 +43,17 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Spragtelėkite, kad pakeistumėte adresą arba žymę</translation>
+        <translation>Spragtelkite, kad pakeistumte adres arba ym</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>Sukurti naują adresą</translation>
+        <translation>Sukurti nauj adres</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Kopijuoti esamą adresą į mainų atmintį</translation>
+        <translation>Kopijuoti esam adres  main atmint</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -62,13 +62,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Kopijuoti adresą</translation>
+        <translation>&amp;Kopijuoti adres</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -77,7 +77,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
+        <source>Sign a message to prove you own a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -92,7 +92,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -108,7 +108,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>Kopijuoti ž&amp;ymę</translation>
+        <translation>Kopijuoti &amp;ym</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -123,7 +123,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Kableliais išskirtas failas (*.csv)</translation>
+        <translation>Kableliais iskirtas failas (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -141,7 +141,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation>Žymė</translation>
+        <translation>ym</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -151,7 +151,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(nėra žymės)</translation>
+        <translation>(nra yms)</translation>
     </message>
 </context>
 <context>
@@ -159,22 +159,22 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Slaptafrazės dialogas</translation>
+        <translation>Slaptafrazs dialogas</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Įvesti slaptafrazę</translation>
+        <translation>vesti slaptafraz</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>Nauja slaptafrazė</translation>
+        <translation>Nauja slaptafraz</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>Pakartokite naują slaptafrazę</translation>
+        <translation>Pakartokite nauj slaptafraz</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -189,47 +189,47 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Įveskite naują piniginės slaptafrazę.&lt;br/&gt;Prašome naudoti slaptafrazę iš &lt;b&gt; 10 ar daugiau atsitiktinių simbolių&lt;/b&gt; arba &lt;b&gt;aštuonių ar daugiau žodžių&lt;/b&gt;.</translation>
+        <translation>veskite nauj pinigins slaptafraz.&lt;br/&gt;Praome naudoti slaptafraz i &lt;b&gt; 10 ar daugiau atsitiktini simboli&lt;/b&gt; arba &lt;b&gt;atuoni ar daugiau odi&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>Užšifruoti piniginę</translation>
+        <translation>Uifruoti pinigin</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Ši operacija reikalauja jūsų piniginės slaptafrazės jai atrakinti.</translation>
+        <translation>i operacija reikalauja jūs pinigins slaptafrazs jai atrakinti.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Atrakinti piniginę</translation>
+        <translation>Atrakinti pinigin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Ši operacija reikalauja jūsų piniginės slaptafrazės jai iššifruoti.</translation>
+        <translation>i operacija reikalauja jūs pinigins slaptafrazs jai iifruoti.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Iššifruoti piniginę</translation>
+        <translation>Iifruoti pinigin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Pakeisti slaptafrazę</translation>
+        <translation>Pakeisti slaptafraz</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Įveskite seną ir naują piniginės slaptafrazes.</translation>
+        <translation>veskite sen ir nauj pinigins slaptafrazes.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Patvirtinkite piniginės užšifravimą</translation>
+        <translation>Patvirtinkite pinigins uifravim</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -239,7 +239,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Ar tikrai norite šifruoti savo piniginę?</translation>
+        <translation>Ar tikrai norite ifruoti savo pinigin?</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -250,17 +250,17 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Įspėjimas: įjungtas Caps Lock klavišas!</translation>
+        <translation>spjimas: jungtas Caps Lock klavias!</translation>
     </message>
     <message>
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Piniginė užšifruota</translation>
+        <translation>Pinigin uifruota</translation>
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -269,40 +269,40 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Nepavyko užšifruoti piniginę</translation>
+        <translation>Nepavyko uifruoti pinigin</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Dėl vidinės klaidos nepavyko užšifruoti piniginę.Piniginė neužšifruota.</translation>
+        <translation>Dl vidins klaidos nepavyko uifruoti pinigin.Pinigin neuifruota.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Įvestos slaptafrazės nesutampa.</translation>
+        <translation>vestos slaptafrazs nesutampa.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Nepavyko atrakinti piniginę</translation>
+        <translation>Nepavyko atrakinti pinigin</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Neteisingai įvestas slaptažodis piniginės iššifravimui.</translation>
+        <translation>Neteisingai vestas slaptaodis pinigins iifravimui.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Nepavyko iššifruoti piniginės</translation>
+        <translation>Nepavyko iifruoti pinigins</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Piniginės slaptažodis sėkmingai pakeistas.</translation>
+        <translation>Pinigins slaptaodis skmingai pakeistas.</translation>
     </message>
 </context>
 <context>
@@ -310,7 +310,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location filename="../bitcoingui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
-        <translation>Pasirašyti ži&amp;nutę...</translation>
+        <translation>Pasirayti i&amp;nut...</translation>
     </message>
     <message>
         <location line="+251"/>
@@ -320,12 +320,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="-319"/>
         <source>&amp;Overview</source>
-        <translation>&amp;Apžvalga</translation>
+        <translation>&amp;Apvalga</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>Rodyti piniginės bendrą apžvalgą</translation>
+        <translation>Rodyti pinigins bendr apvalg</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -335,7 +335,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Apžvelgti sandorių istoriją</translation>
+        <translation>Apvelgti sandori istorij</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -365,16 +365,16 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+35"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Išeiti</translation>
+        <translation>&amp;Ieiti</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>Išjungti programą</translation>
+        <translation>Ijungti program</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
+        <source>Show information about eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -385,7 +385,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>Rodyti informaciją apie Qt</translation>
+        <translation>Rodyti informacij apie Qt</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -395,17 +395,17 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Užšifruoti piniginę...</translation>
+        <translation>&amp;Uifruoti pinigin...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Backup piniginę...</translation>
+        <translation>&amp;Backup pinigin...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Keisti slaptafrazę...</translation>
+        <translation>&amp;Keisti slaptafraz...</translation>
     </message>
     <message numerus="yes">
         <location line="+259"/>
@@ -424,12 +424,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
+        <source>Send coins to a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -445,12 +445,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Daryti piniginės atsarginę kopiją</translation>
+        <translation>Daryti pinigins atsargin kopij</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Pakeisti slaptafrazę naudojamą piniginės užšifravimui</translation>
+        <translation>Pakeisti slaptafraz naudojam pinigins uifravimui</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -460,32 +460,32 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Atverti derinimo ir diagnostikos konsolę</translation>
+        <translation>Atverti derinimo ir diagnostikos konsol</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Tikrinti žinutę...</translation>
+        <translation>&amp;Tikrinti inut...</translation>
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet</source>
-        <translation>Piniginė</translation>
+        <translation>Pinigin</translation>
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
+        <source>&amp;About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;Rodyti / Slėpti</translation>
+        <translation>&amp;Rodyti / Slpti</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -520,7 +520,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Kortelių įrankinė</translation>
+        <translation>Korteli rankin</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -536,12 +536,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
+        <source>eCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
+        <source>%n active connection(s) to eCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -581,12 +581,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -637,7 +637,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation>Sandoris nusiųstas</translation>
+        <translation>Sandoris nusistas</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -665,18 +665,18 @@ Adresas: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Piniginė &lt;b&gt;užšifruota&lt;/b&gt; ir šiuo metu &lt;b&gt;atrakinta&lt;/b&gt;</translation>
+        <translation>Pinigin &lt;b&gt;uifruota&lt;/b&gt; ir iuo metu &lt;b&gt;atrakinta&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Piniginė &lt;b&gt;užšifruota&lt;/b&gt; ir šiuo metu &lt;b&gt;užrakinta&lt;/b&gt;</translation>
+        <translation>Pinigin &lt;b&gt;uifruota&lt;/b&gt; ir iuo metu &lt;b&gt;urakinta&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -711,12 +711,12 @@ Adresas: %4</translation>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n hour(s)</source>
-        <translation><numerusform>%n valanda</numerusform><numerusform>%n valandos</numerusform><numerusform>%n valandų</numerusform></translation>
+        <translation><numerusform>%n valanda</numerusform><numerusform>%n valandos</numerusform><numerusform>%n valand</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation><numerusform>%n diena</numerusform><numerusform>%n dienos</numerusform><numerusform>%n dienų</numerusform></translation>
+        <translation><numerusform>%n diena</numerusform><numerusform>%n dienos</numerusform><numerusform>%n dien</numerusform></translation>
     </message>
     <message>
         <location line="+18"/>
@@ -725,7 +725,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -734,7 +734,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>Tinklo įspėjimas</translation>
+        <translation>Tinklo spjimas</translation>
     </message>
 </context>
 <context>
@@ -842,18 +842,18 @@ Adresas: %4</translation>
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>Kopijuoti adresą</translation>
+        <translation>Kopijuoti adres</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Kopijuoti žymę</translation>
+        <translation>Kopijuoti ym</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Kopijuoti sumą</translation>
+        <translation>Kopijuoti sum</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -978,7 +978,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+37"/>
         <location line="+66"/>
         <source>(no label)</source>
-        <translation>(nėra žymės)</translation>
+        <translation>(nra yms)</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -996,12 +996,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation>Keisti adresą</translation>
+        <translation>Keisti adres</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>Ž&amp;ymė</translation>
+        <translation>&amp;ym</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1031,27 +1031,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>Keisti gavimo adresą</translation>
+        <translation>Keisti gavimo adres</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>Keisti siuntimo adresą</translation>
+        <translation>Keisti siuntimo adres</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>Įvestas adresas „%1“ jau yra adresų knygelėje.</translation>
+        <translation>vestas adresas %1“ jau yra adres knygelje.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>Nepavyko atrakinti piniginės.</translation>
+        <translation>Nepavyko atrakinti pinigins.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1064,7 +1064,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
+        <source>eCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1113,7 +1113,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation>&amp;Pagrindinės</translation>
+        <translation>&amp;Pagrindins</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1123,7 +1123,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>&amp;Mokėti sandorio mokestį</translation>
+        <translation>&amp;Mokti sandorio mokest</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1137,12 +1137,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
+        <source>Automatically start eCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
+        <source>&amp;Start eCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1162,17 +1162,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>Persiųsti prievadą naudojant &amp;UPnP</translation>
+        <translation>Persisti prievad naudojant &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1218,22 +1218,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Po programos lango sumažinimo rodyti tik programos ikoną.</translation>
+        <translation>Po programos lango sumainimo rodyti tik programos ikon.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;M sumažinti langą bet ne užduočių juostą</translation>
+        <translation>&amp;M sumainti lang bet ne uduoi juost</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Uždarant langą neuždaryti programos. Kai ši parinktis įjungta, programa bus uždaryta tik pasirinkus  meniu komandą Baigti.</translation>
+        <translation>Udarant lang neudaryti programos. Kai i parinktis jungta, programa bus udaryta tik pasirinkus  meniu komand Baigti.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>&amp;Sumažinti uždarant</translation>
+        <translation>&amp;Sumainti udarant</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1243,11 +1243,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>Naudotojo sąsajos &amp;kalba:</translation>
+        <translation>Naudotojo ssajos &amp;kalba:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1258,17 +1258,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Rodomų ir siunčiamų monetų kiekio matavimo vienetai</translation>
+        <translation>Rodom ir siuniam monet kiekio matavimo vienetai</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>&amp;Rodyti adresus sandorių sąraše</translation>
+        <translation>&amp;Rodyti adresus sandori srae</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1288,7 +1288,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;Atšaukti</translation>
+        <translation>&amp;Ataukti</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1309,7 +1309,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1328,7 +1328,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1344,7 +1344,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-107"/>
         <source>Wallet</source>
-        <translation>Piniginė</translation>
+        <translation>Pinigin</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1359,7 +1359,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+71"/>
         <source>Immature:</source>
-        <translation>Nepribrendę:</translation>
+        <translation>Nepribrend:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1374,7 +1374,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>Jūsų balansas</translation>
+        <translation>Jūs balansas</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1475,7 +1475,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+348"/>
         <source>N/A</source>
-        <translation>nėra</translation>
+        <translation>nra</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -1505,7 +1505,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>Prisijungimų kiekis</translation>
+        <translation>Prisijungim kiekis</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1515,12 +1515,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>Blokų grandinė</translation>
+        <translation>Blok grandin</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>Dabartinis blokų skaičius</translation>
+        <translation>Dabartinis blok skaiius</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1544,7 +1544,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1555,7 +1555,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation>&amp;Konsolė</translation>
+        <translation>&amp;Konsol</translation>
     </message>
     <message>
         <location line="-260"/>
@@ -1564,32 +1564,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
+        <source>eCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
+        <source>eCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>Derinimo žurnalo failas</translation>
+        <translation>Derinimo urnalo failas</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>Išvalyti konsolę</translation>
+        <translation>Ivalyti konsol</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
+        <source>Welcome to the eCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1615,7 +1615,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Siųsti monetas</translation>
+        <translation>Sisti monetas</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1663,7 +1663,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
+        <source>0.00 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1709,12 +1709,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Siųsti keliems gavėjams vienu metu</translation>
+        <translation>Sisti keliems gavjams vienu metu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>&amp;A Pridėti gavėją</translation>
+        <translation>&amp;A Pridti gavj</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1724,7 +1724,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>Išvalyti &amp;viską</translation>
+        <translation>Ivalyti &amp;visk</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -1733,22 +1733,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
+        <source>123.456 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Patvirtinti siuntimo veiksmą</translation>
+        <translation>Patvirtinti siuntimo veiksm</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;Siųsti</translation>
+        <translation>&amp;Sisti</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1759,7 +1759,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopijuoti sumą</translation>
+        <translation>Kopijuoti sum</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1799,7 +1799,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Patvirtinti monetų siuntimą</translation>
+        <translation>Patvirtinti monet siuntim</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1814,22 +1814,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>Negaliojantis gavėjo adresas. Patikrinkite.</translation>
+        <translation>Negaliojantis gavjo adresas. Patikrinkite.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Apmokėjimo suma turi būti didesnė nei 0.</translation>
+        <translation>Apmokjimo suma turi būti didesn nei 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Suma viršija jūsų balansą.</translation>
+        <translation>Suma virija jūs balans.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Jei pridedame sandorio mokestį %1 bendra suma viršija jūsų balansą.</translation>
+        <translation>Jei pridedame sandorio mokest %1 bendra suma virija jūs balans.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1848,13 +1848,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
+        <source>WARNING: Invalid eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation>(nėra žymės)</translation>
+        <translation>(nra yms)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1877,22 +1877,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>Mokėti &amp;gavėjui:</translation>
+        <translation>Mokti &amp;gavjui:</translation>
     </message>
     <message>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Įveskite žymę šiam adresui kad galėtumėte įtraukti ją į adresų knygelę</translation>
+        <translation>veskite ym iam adresui kad galtumte traukti j  adres knygel</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Label:</source>
-        <translation>Ž&amp;ymė:</translation>
+        <translation>&amp;ym:</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1908,7 +1908,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Įvesti adresą iš mainų atminties</translation>
+        <translation>vesti adres i main atminties</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1922,7 +1922,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1937,7 +1937,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Pasirašyti žinutę</translation>
+        <translation>&amp;Pasirayti inut</translation>
     </message>
     <message>
         <location line="-118"/>
@@ -1946,7 +1946,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1964,7 +1964,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Įvesti adresą iš mainų atminties</translation>
+        <translation>vesti adres i main atminties</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1974,7 +1974,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Įveskite pranešimą, kurį norite pasirašyti čia</translation>
+        <translation>veskite praneim, kur norite pasirayti ia</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1983,7 +1983,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
+        <source>Sign the message to prove you own this eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1995,13 +1995,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>Išvalyti &amp;viską</translation>
+        <translation>Ivalyti &amp;visk</translation>
     </message>
     <message>
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Patikrinti žinutę</translation>
+        <translation>&amp;Patikrinti inut</translation>
     </message>
     <message>
         <location line="-64"/>
@@ -2010,12 +2010,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2026,24 +2026,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>Spragtelėkite &quot;Registruotis žinutę&quot; tam, kad gauti parašą</translation>
+        <translation>Spragtelkite &quot;Registruotis inut&quot; tam, kad gauti para</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
+        <source>Enter eCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>Įvestas adresas negalioja.</translation>
+        <translation>vestas adresas negalioja.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2051,7 +2051,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Prašom patikrinti adresą ir bandyti iš naujo.</translation>
+        <translation>Praom patikrinti adres ir bandyti i naujo.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2062,7 +2062,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Piniginės atrakinimas atšauktas.</translation>
+        <translation>Pinigins atrakinimas atauktas.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2072,38 +2072,38 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation>Žinutės pasirašymas nepavyko.</translation>
+        <translation>inuts pasiraymas nepavyko.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation>Žinutė pasirašyta.</translation>
+        <translation>inut pasirayta.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation>Nepavyko iškoduoti parašo.</translation>
+        <translation>Nepavyko ikoduoti parao.</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Prašom patikrinti parašą ir bandyti iš naujo.</translation>
+        <translation>Praom patikrinti para ir bandyti i naujo.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation>Parašas neatitinka žinutės.</translation>
+        <translation>Paraas neatitinka inuts.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>Žinutės tikrinimas nepavyko.</translation>
+        <translation>inuts tikrinimas nepavyko.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation>Žinutė patikrinta.</translation>
+        <translation>inut patikrinta.</translation>
     </message>
 </context>
 <context>
@@ -2126,7 +2126,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1/offline</source>
-        <translation>%1/neprisijungęs</translation>
+        <translation>%1/neprisijungs</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2136,7 +2136,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 patvirtinimų</translation>
+        <translation>%1 patvirtinim</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2156,7 +2156,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation>Šaltinis</translation>
+        <translation>altinis</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2185,7 +2185,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation>žymė</translation>
+        <translation>ym</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2227,7 +2227,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation>Žinutė</translation>
+        <translation>inut</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2241,7 +2241,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2277,12 +2277,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, transliavimas dar nebuvo sėkmingas</translation>
+        <translation>, transliavimas dar nebuvo skmingas</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>unknown</source>
-        <translation>nežinomas</translation>
+        <translation>neinomas</translation>
     </message>
 </context>
 <context>
@@ -2290,12 +2290,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation>Sandorio detelės</translation>
+        <translation>Sandorio detels</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Šis langas sandorio detalų aprašymą</translation>
+        <translation>is langas sandorio detal apraym</translation>
     </message>
 </context>
 <context>
@@ -2363,12 +2363,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Šis blokas negautas nė vienu iš mazgų ir matomai nepriimtas</translation>
+        <translation>is blokas negautas n vienu i mazg ir matomai nepriimtas</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>Išgauta bet nepriimta</translation>
+        <translation>Igauta bet nepriimta</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2378,22 +2378,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation>Gauta iš</translation>
+        <translation>Gauta i</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation>Siųsta </translation>
+        <translation>Sista </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>Mokėjimas sau</translation>
+        <translation>Mokjimas sau</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation>Išgauta</translation>
+        <translation>Igauta</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -2403,7 +2403,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Sandorio būklė. Užvedus pelės žymeklį ant šios srities matysite patvirtinimų skaičių.</translation>
+        <translation>Sandorio būkl. Uvedus pels ymekl ant ios srities matysite patvirtinim skaii.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2423,7 +2423,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Suma pridėta ar išskaičiuota iš balanso</translation>
+        <translation>Suma pridta ar iskaiiuota i balanso</translation>
     </message>
 </context>
 <context>
@@ -2437,27 +2437,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation>Šiandien</translation>
+        <translation>iandien</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>Šią savaitę</translation>
+        <translation>i savait</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>Šį mėnesį</translation>
+        <translation> mnes</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Paskutinį mėnesį</translation>
+        <translation>Paskutin mnes</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>Šiais metais</translation>
+        <translation>iais metais</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2472,7 +2472,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation>Išsiųsta</translation>
+        <translation>Isista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2482,7 +2482,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation>Išgauta</translation>
+        <translation>Igauta</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2492,7 +2492,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Įveskite adresą ar žymę į paiešką</translation>
+        <translation>veskite adres ar ym  paiek</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2502,17 +2502,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>Kopijuoti adresą</translation>
+        <translation>Kopijuoti adres</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Kopijuoti žymę</translation>
+        <translation>Kopijuoti ym</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopijuoti sumą</translation>
+        <translation>Kopijuoti sum</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2522,12 +2522,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Taisyti žymę</translation>
+        <translation>Taisyti ym</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation>Rodyti sandėrio detales</translation>
+        <translation>Rodyti sandrio detales</translation>
     </message>
     <message>
         <location line="+144"/>
@@ -2537,7 +2537,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Kableliais atskirtų duomenų failas (*.csv)</translation>
+        <translation>Kableliais atskirt duomen failas (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2557,7 +2557,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>Žymė</translation>
+        <translation>ym</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2587,7 +2587,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation>Grupė:</translation>
+        <translation>Grup:</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2607,7 +2607,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
+        <source>eCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2617,13 +2617,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
+        <source>Send command to -server or eCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>Komandų sąrašas</translation>
+        <translation>Komand sraas</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2637,12 +2637,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
+        <source>Specify configuration file (default: eCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
+        <source>Specify pid file (default: eCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2653,7 +2653,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>Nustatyti duomenų aplanką</translation>
+        <translation>Nustatyti duomen aplank</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2667,13 +2667,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Palaikyti ne daugiau &lt;n&gt; jungčių kolegoms (pagal nutylėjimą: 125)</translation>
+        <translation>Palaikyti ne daugiau &lt;n&gt; jungi kolegoms (pagal nutyljim: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2698,12 +2698,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Atjungimo dėl netinkamo kolegų elgesio riba  (pagal nutylėjimą: 100)</translation>
+        <translation>Atjungimo dl netinkamo koleg elgesio riba  (pagal nutyljim: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Sekundžių kiekis eikiamas palaikyti ryšį dėl lygiarangių nestabilumo (pagal nutylėjimą: 86.400)</translation>
+        <translation>Sekundi kiekis eikiamas palaikyti ry dl lygiarangi nestabilumo (pagal nutyljim: 86.400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -2727,13 +2727,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Priimti komandinę eilutę ir JSON-RPC komandas</translation>
+        <translation>Priimti komandin eilut ir JSON-RPC komandas</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -2758,12 +2758,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Dirbti fone kaip šešėlyje ir priimti komandas</translation>
+        <translation>Dirbti fone kaip elyje ir priimti komandas</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Naudoti testavimo tinklą</translation>
+        <translation>Naudoti testavimo tinkl</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -2788,11 +2788,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Įspėjimas: -paytxfee yra nustatytas per didelis. Tai sandorio mokestis, kurį turėsite mokėti, jei siųsite sandorį.</translation>
+        <translation>spjimas: -paytxfee yra nustatytas per didelis. Tai sandorio mokestis, kur tursite mokti, jei sisite sandor.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2853,12 +2853,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>Maksimalus buferis priėmimo sujungimui &lt;n&gt;*1000 bitų (pagal nutylėjimą: 5000)</translation>
+        <translation>Maksimalus buferis primimo sujungimui &lt;n&gt;*1000 bit (pagal nutyljim: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>Maksimalus buferis siuntimo sujungimui &lt;n&gt;*1000 bitų (pagal nutylėjimą: 1000)</translation>
+        <translation>Maksimalus buferis siuntimo sujungimui &lt;n&gt;*1000 bit (pagal nutyljim: 1000)</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -2883,7 +2883,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e Bitcoin Wiki for SSL setup instructions)</translation>
+        <translation>SSL opcijos (r.e Bitcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -2893,7 +2893,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Siųsti atsekimo/derinimo info į konsolę vietoj debug.log failo</translation>
+        <translation>Sisti atsekimo/derinimo info  konsol vietoj debug.log failo</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2918,7 +2918,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Nustatyti sujungimo trukmę milisekundėmis (pagal nutylėjimą: 5000)</translation>
+        <translation>Nustatyti sujungimo trukm milisekundmis (pagal nutyljim: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2974,20 +2974,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Slaptažodis JSON-RPC sujungimams</translation>
+        <translation>Slaptaodis JSON-RPC sujungimams</translation>
     </message>
     <message>
         <location line="-84"/>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3009,12 +3009,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Leisti JSON-RPC tik iš nurodytų IP adresų</translation>
+        <translation>Leisti JSON-RPC tik i nurodyt IP adres</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Siųsti komandą mazgui dirbančiam &lt;ip&gt; (pagal nutylėjimą: 127.0.0.1)</translation>
+        <translation>Sisti komand mazgui dirbaniam &lt;ip&gt; (pagal nutyljim: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3044,17 +3044,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Atnaujinti piniginę į naujausią formatą</translation>
+        <translation>Atnaujinti pinigin  naujausi format</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Nustatyti rakto apimties dydį &lt;n&gt; (pagal nutylėjimą: 100)</translation>
+        <translation>Nustatyti rakto apimties dyd &lt;n&gt; (pagal nutyljim: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Ieškoti  prarastų piniginės sandorių blokų grandinėje</translation>
+        <translation>Iekoti  prarast pinigins sandori blok grandinje</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3079,12 +3079,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Serverio sertifikato failas (pagal nutylėjimą: server.cert)</translation>
+        <translation>Serverio sertifikato failas (pagal nutyljim: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Serverio privatus raktas (pagal nutylėjimą: server.pem)</translation>
+        <translation>Serverio privatus raktas (pagal nutyljim: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3104,7 +3104,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Pagelbos žinutė</translation>
+        <translation>Pagelbos inut</translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3113,18 +3113,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Nepavyko susieti šiame kompiuteryje prievado %s (bind returned error %d, %s)</translation>
+        <translation>Nepavyko susieti iame kompiuteryje prievado %s (bind returned error %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3134,12 +3134,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Leisti DNS paiešką sujungimui ir mazgo pridėjimui</translation>
+        <translation>Leisti DNS paiek sujungimui ir mazgo pridjimui</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>Užkraunami adresai...</translation>
+        <translation>Ukraunami adresai...</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -3153,12 +3153,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3214,21 +3214,21 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Nepakanka lėšų</translation>
+        <translation>Nepakanka l</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>Įkeliamas blokų indeksas...</translation>
+        <translation>keliamas blok indeksas...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Pridėti mazgą prie sujungti su and attempt to keep the connection open</translation>
+        <translation>Pridti mazg prie sujungti su and attempt to keep the connection open</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3244,7 +3244,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>Užkraunama piniginė...</translation>
+        <translation>Ukraunama pinigin...</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -3264,12 +3264,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>Peržiūra</translation>
+        <translation>Periūra</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>Įkėlimas baigtas</translation>
+        <translation>klimas baigtas</translation>
     </message>
     <message>
         <location line="-167"/>

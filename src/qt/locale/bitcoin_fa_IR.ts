@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
+        <source>About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -39,17 +39,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>برای ویرایش حساب و یا برچسب دوبار کلیک نمایید</translation>
+        <translation>        </translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>گشایش حسابی جدید</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>کپی کردن حساب انتخاب شده به حافظه سیستم - کلیپ بورد</translation>
+        <translation>        -  </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -58,13 +58,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>و کپی آدرس</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -73,7 +73,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
+        <source>Sign a message to prove you own a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -88,7 +88,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -99,17 +99,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>و حذف</translation>
+        <translation> </translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>کپی و برچسب</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation>و ویرایش</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+250"/>
@@ -119,7 +119,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>سی.اس.وی. (فایل جداگانه دستوری)</translation>
+        <translation>... (  )</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -137,17 +137,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>حساب</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(برچسب ندارد)</translation>
+        <translation>( )</translation>
     </message>
 </context>
 <context>
@@ -160,17 +160,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>رمز/پَس فرِیز را وارد کنید</translation>
+        <translation>/    </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>رمز/پَس فرِیز جدید را وارد کنید</translation>
+        <translation>/     </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>رمز/پَس فرِیز را دوباره وارد کنید</translation>
+        <translation>/     </translation>
     </message>
     <message>
         <location line="+33"/>
@@ -185,47 +185,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>رمز/پَس فرِیز جدید را در wallet وارد کنید. برای انتخاب رمز/پَس فرِیز از 10 کاراکتر تصادفی یا بیشتر و یا هشت کلمه یا بیشتر استفاده کنید. </translation>
+        <translation>/     wallet  .   /   10            . </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>wallet را رمزگذاری کنید</translation>
+        <translation>wallet   </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>برای انجام این عملکرد به رمز/پَس فرِیزِwallet نیاز است تا آن را از حالت قفل درآورد.</translation>
+        <translation>     / wallet         .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>باز کردن قفل wallet </translation>
+        <translation>   wallet </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>برای کشف رمز wallet، به رمز/پَس فرِیزِwallet نیاز است.</translation>
+        <translation>   wallet  / wallet  .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>کشف رمز wallet</translation>
+        <translation>  wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>تغییر رمز/پَس فرِیز</translation>
+        <translation> / </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>رمز/پَس فرِیزِ قدیم و جدید را در wallet  وارد کنید</translation>
+        <translation>/       wallet   </translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>رمزگذاری wallet را تایید کنید</translation>
+        <translation> wallet   </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -252,11 +252,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>تایید رمزگذاری</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -265,35 +265,35 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>رمزگذاری تایید نشد</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>رمزگذاری به علت خطای داخلی تایید نشد. wallet شما رمزگذاری نشد</translation>
+        <translation>      . wallet   </translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>رمزهای/پَس فرِیزهایِ وارد شده با هم تطابق ندارند</translation>
+        <translation>/       </translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>قفل wallet  باز نشد</translation>
+        <translation> wallet   </translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>رمزهای/پَس فرِیزهایِ وارد شده wallet برای کشف رمز اشتباه است.</translation>
+        <translation>/    wallet     .</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>کشف رمز wallet انجام نشد</translation>
+        <translation>  wallet  </translation>
     </message>
     <message>
         <location line="+14"/>
@@ -306,32 +306,32 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
-        <translation>امضا و پیام</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>به روز رسانی با شبکه...</translation>
+        <translation>    ...</translation>
     </message>
     <message>
         <location line="-319"/>
         <source>&amp;Overview</source>
-        <translation>و بازبینی</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>نمای کلی از wallet را نشان بده</translation>
+        <translation>   wallet   </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&amp;Transactions</source>
-        <translation>و تراکنش</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>تاریخچه تراکنش را باز کن</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+5"/>
@@ -361,47 +361,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+35"/>
         <source>E&amp;xit</source>
-        <translation>خروج</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>از &quot;درخواست نامه&quot;/ application خارج شو</translation>
+        <translation> &quot; &quot;/ application  </translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
+        <source>Show information about eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation>درباره و QT</translation>
+        <translation>  QT</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>نمایش اطلاعات درباره QT</translation>
+        <translation>   QT</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation>و انتخابها</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>و رمزگذاری wallet</translation>
+        <translation>  wallet</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>و گرفتن نسخه پیشتیبان از wallet</translation>
+        <translation>     wallet</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>تغییر رمز/پَس فرِیز</translation>
+        <translation> / </translation>
     </message>
     <message numerus="yes">
         <location line="+259"/>
@@ -420,12 +420,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
+        <source>Send coins to a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -441,12 +441,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>گرفتن نسخه پیشتیبان در آدرسی دیگر</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>رمز مربوط به رمزگذاریِ wallet را تغییر دهید</translation>
+        <translation>    wallet   </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -465,23 +465,23 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet</source>
-        <translation>کیف پول</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
+        <source>&amp;About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;نمایش/ عدم نمایش و</translation>
+        <translation>&amp;/   </translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,22 +501,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+35"/>
         <source>&amp;File</source>
-        <translation>و فایل</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Settings</source>
-        <translation>و تنظیمات</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>و راهنما</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>نوار ابزار</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+8"/>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
+        <source>eCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
+        <source>%n active connection(s) to eCoin network</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
@@ -577,12 +577,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -608,12 +608,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Up to date</source>
-        <translation>روزآمد</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>در حال روزآمد سازی..</translation>
+        <translation>   ..</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -633,12 +633,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation>ارسال تراکنش</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Incoming transaction</source>
-        <translation>تراکنش دریافتی</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -647,7 +647,7 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>تاریخ: %1⏎ میزان وجه : %2⏎ نوع: %3⏎ آدرس: %4⏎ 
+        <translation>: %1   : %2 : %3 : %4 
 </translation>
     </message>
     <message>
@@ -659,18 +659,18 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>wallet رمزگذاری شد و در حال حاضر از حالت قفل در آمده است</translation>
+        <translation>wallet            </translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>wallet رمزگذاری شد و در حال حاضر قفل است</translation>
+        <translation>wallet        </translation>
     </message>
     <message>
         <location line="+25"/>
@@ -719,7 +719,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -728,7 +728,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>هشدار شبکه</translation>
+        <translation> </translation>
     </message>
 </context>
 <context>
@@ -751,7 +751,7 @@ Address: %4
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>میزان وجه:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -801,7 +801,7 @@ Address: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>میزان</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -811,12 +811,12 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Address</source>
-        <translation>حساب</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Date</source>
-        <translation>تاریخ</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -826,7 +826,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>تایید شده</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+5"/>
@@ -836,18 +836,18 @@ Address: %4
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>آدرس را کپی کنید</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>برچسب را کپی کنید</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>میزان وجه کپی شود</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="-25"/>
@@ -972,7 +972,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+37"/>
         <location line="+66"/>
         <source>(no label)</source>
-        <translation>(برچسب ندارد)</translation>
+        <translation>( )</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -990,12 +990,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation>ویرایش حساب</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>و برچسب</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1005,7 +1005,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation>حساب&amp;</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1015,43 +1015,43 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
         <source>New receiving address</source>
-        <translation>حساب دریافت کننده جدید
+        <translation>   
 </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>حساب ارسال کننده جدید</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>ویرایش حساب دریافت کننده</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>ویرایش حساب ارسال کننده</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>حساب وارد شده «1%» از پیش در دفترچه حساب ها موجود است.</translation>
+        <translation>   1%        .</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>عدم توانیی برای قفل گشایی wallet</translation>
+        <translation>     wallet</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>عدم توانیی در ایجاد کلید جدید</translation>
+        <translation>     </translation>
     </message>
 </context>
 <context>
@@ -1059,7 +1059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
+        <source>eCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1103,7 +1103,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation>انتخاب/آپشن</translation>
+        <translation>/</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1132,12 +1132,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
+        <source>Automatically start eCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
+        <source>&amp;Start eCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1157,7 +1157,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1167,7 +1167,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1242,7 +1242,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1257,13 +1257,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>و نمایش آدرسها در فهرست تراکنش</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1278,12 +1278,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+71"/>
         <source>&amp;OK</source>
-        <translation>و تایید</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>و رد</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1293,7 +1293,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
         <source>default</source>
-        <translation>پیش فرض</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+149"/>
@@ -1304,7 +1304,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1318,12 +1318,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation>فرم</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1339,7 +1339,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-107"/>
         <source>Wallet</source>
-        <translation>کیف پول</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1374,7 +1374,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>تراکنشهای اخیر</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-108"/>
@@ -1390,7 +1390,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../overviewpage.cpp" line="+113"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation>خارج از روزآمد سازی</translation>
+        <translation>   </translation>
     </message>
 </context>
 <context>
@@ -1456,7 +1456,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation>نام کنسول RPC</translation>
+        <translation>  RPC</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1475,7 +1475,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation>ویرایش کنسول RPC</translation>
+        <translation>  RPC</translation>
     </message>
     <message>
         <location line="-45"/>
@@ -1495,12 +1495,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>شبکه</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>تعداد اتصال</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1510,12 +1510,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>زنجیره مجموعه تراکنش ها</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>تعداد زنجیره های حاضر</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1539,7 +1539,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1559,12 +1559,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
+        <source>eCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
+        <source>eCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1574,7 +1574,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1584,7 +1584,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
+        <source>Welcome to the eCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1610,7 +1610,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>سکه های ارسالی</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1651,14 +1651,14 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>میزان وجه:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
+        <source>0.00 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1704,7 +1704,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>ارسال همزمان به گیرنده های متعدد</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1724,26 +1724,26 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+28"/>
         <source>Balance:</source>
-        <translation>مانده حساب:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
+        <source>123.456 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>تایید عملیات ارسال </translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>و ارسال</translation>
+        <translation> </translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1754,7 +1754,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>میزان وجه کپی شود</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1794,7 +1794,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>تایید ارسال بیت کوین ها</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1814,12 +1814,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>میزان پرداخت باید بیشتر از 0 باشد</translation>
+        <translation>     0 </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>مقدار مورد نظر از مانده حساب بیشتر است.</translation>
+        <translation>       .</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1843,13 +1843,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
+        <source>WARNING: Invalid eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation>(برچسب ندارد)</translation>
+        <translation>( )</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1867,27 +1867,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>و میزان وجه</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>پرداخت و به چه کسی</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>یک برچسب برای این آدرس بنویسید تا به دفترچه آدرسهای شما اضافه شود</translation>
+        <translation>            </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Label:</source>
-        <translation>و برچسب</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1898,17 +1898,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation>Alt و A</translation>
+        <translation>Alt  A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>آدرس را بر کلیپ بورد کپی کنید</translation>
+        <translation>      </translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation>Alt و P</translation>
+        <translation>Alt  P</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1917,7 +1917,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1932,7 +1932,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>و امضای پیام </translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="-118"/>
@@ -1941,7 +1941,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1954,17 +1954,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="-193"/>
         <location line="+203"/>
         <source>Alt+A</source>
-        <translation>Alt و A</translation>
+        <translation>Alt  A</translation>
     </message>
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>آدرس را بر کلیپ بورد کپی کنید</translation>
+        <translation>      </translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation>Alt و P</translation>
+        <translation>Alt  P</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1978,7 +1978,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
+        <source>Sign the message to prove you own this eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2005,12 +2005,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2021,7 +2021,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2031,7 +2031,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
+        <source>Enter eCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2106,7 +2106,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../transactiondesc.cpp" line="+19"/>
         <source>Open until %1</source>
-        <translation>باز کن تا %1</translation>
+        <translation>   %1</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
@@ -2126,12 +2126,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1 / تایید نشده</translation>
+        <translation>%1 /  </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 تایید</translation>
+        <translation>%1 </translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2146,7 +2146,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation>تاریخ</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2180,7 +2180,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation>برچسب</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2222,7 +2222,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation>پیام</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2236,7 +2236,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2257,7 +2257,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>میزان</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2272,12 +2272,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>، هنوز با موفقیت ارسال نگردیده است</translation>
+        <translation>      </translation>
     </message>
     <message>
         <location line="+35"/>
         <source>unknown</source>
-        <translation>ناشناس</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2285,12 +2285,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation>جزئیات تراکنش</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>این بخش جزئیات تراکنش را نشان می دهد</translation>
+        <translation>       </translation>
     </message>
 </context>
 <context>
@@ -2298,32 +2298,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../transactiontablemodel.cpp" line="+226"/>
         <source>Date</source>
-        <translation>تاریخ</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation>گونه</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>آدرس</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>میزان وجه</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>باز کن تا %1</translation>
+        <translation>   %1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>تایید شده (%1 تاییدها)</translation>
+        <translation>  (%1 )</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
@@ -2358,67 +2358,67 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>این block توسط گره های دیگری دریافت نشده است و ممکن است قبول نشود</translation>
+        <translation> block            </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>تولید شده اما قبول نشده است</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Received with</source>
-        <translation>قبول با </translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation>دریافت شده از</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation>ارسال به</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>وجه برای شما </translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation>استخراج شده</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+38"/>
         <source>(n/a)</source>
-        <translation>خالی</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>وضعیت تراکنش. با اشاره به این بخش تعداد تاییدها نمایش داده می شود</translation>
+        <translation> .           </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>زمان و تاریخی که تراکنش دریافت شده است</translation>
+        <translation>       </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation>نوع تراکنش</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>آدرس مقصد در تراکنش</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>میزان وجه کم شده یا اضافه شده به حساب</translation>
+        <translation>        </translation>
     </message>
 </context>
 <context>
@@ -2427,87 +2427,87 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../transactionview.cpp" line="+55"/>
         <location line="+16"/>
         <source>All</source>
-        <translation>همه</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation>امروز</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>این هفته</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>این ماه</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>ماه گذشته</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>این سال</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation>حدود..</translation>
+        <translation>..</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation>دریافت با</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation>ارسال به</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation>به شما</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation>استخراج شده</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>دیگر</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>آدرس یا برچسب را برای جستجو وارد کنید</translation>
+        <translation>       </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>حداقل میزان وجه</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>آدرس را کپی کنید</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>برچسب را کپی کنید</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>میزان وجه کپی شود</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2517,7 +2517,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>برچسب را ویرایش کنید</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2532,42 +2532,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Comma separated file (*.csv) فایل جداگانه دستوری</translation>
+        <translation>Comma separated file (*.csv)   </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>تایید شده</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation>تاریخ</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation>نوع</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>برچسب</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation>آدرس</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>میزان</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ID</source>
-        <translation>شناسه کاربری</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2582,12 +2582,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation>دامنه:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>to</source>
-        <translation>به</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2602,42 +2602,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
+        <source>eCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation>میزان استفاده:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
+        <source>Send command to -server or eCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>فهرست دستورها</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>درخواست کمک برای یک دستور</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation>انتخابها:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
+        <source>Specify configuration file (default: eCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
+        <source>Specify pid file (default: eCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2648,12 +2648,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>دایرکتوری داده را مشخص کن</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>حافظه بانک داده را به مگابایت تنظیم کنید (پیش فرض: 25)</translation>
+        <translation>        ( : 25)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2662,13 +2662,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>نگهداری &lt;N&gt; ارتباطات برای قرینه سازی  (پیش فرض:125)</translation>
+        <translation> &lt;N&gt;      ( :125)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2693,12 +2693,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>آستانه قطع برای قرینه سازی اشتباه (پیش فرض:100)</translation>
+        <translation>      ( :100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>تعداد ثانیه ها برای اتصال دوباره قرینه های اشتباه (پیش فرض:86400)</translation>
+        <translation>         ( :86400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -2722,13 +2722,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>command line  و JSON-RPC commands را قبول کنید</translation>
+        <translation>command line   JSON-RPC commands   </translation>
     </message>
     <message>
         <location line="+101"/>
@@ -2753,12 +2753,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>به عنوان daemon بک گراند را اجرا کنید و دستورات را قبول نمایید</translation>
+        <translation>  daemon          </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>از تستِ شبکه استفاده نمایید</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="-24"/>
@@ -2787,7 +2787,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2888,7 +2888,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>ارسال اطلاعات پیگیری/خطایابی به کنسول به جای ارسال به فایل debug.log</translation>
+        <translation>  /        debug.log</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2913,7 +2913,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>تعیین مدت زمان وقفه (time out) به هزارم ثانیه</translation>
+        <translation>    (time out)   </translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2939,7 +2939,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>شناسه کاربری برای ارتباطاتِ JSON-RPC</translation>
+        <translation>    JSON-RPC</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -2969,20 +2969,20 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>رمز برای ارتباطاتِ JSON-RPC</translation>
+        <translation>   JSON-RPC</translation>
     </message>
     <message>
         <location line="-84"/>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3004,17 +3004,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>ارتباطاتِ JSON-RPC  را از آدرس آی.پی. مشخصی برقرار کنید.</translation>
+        <translation> JSON-RPC     ..   .</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>دستورات را به گره اجرا شده در&lt;ip&gt; ارسال کنید (پیش فرض:127.0.0.1)</translation>
+        <translation>      &lt;ip&gt;   ( :127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>دستور را وقتی بهترین بلاک تغییر کرد اجرا کن (%s در دستور توسط block hash جایگزین شده است)</translation>
+        <translation>         (%s    block hash   )</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3039,17 +3039,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>wallet را به جدیدترین نسخه روزآمد کنید</translation>
+        <translation>wallet      </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>حجم key pool  را به اندازه &lt;n&gt; تنظیم کنید (پیش فرض:100)</translation>
+        <translation> key pool     &lt;n&gt;   ( :100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>زنجیره بلاک را برای تراکنش جا افتاده در WALLET دوباره اسکن کنید</translation>
+        <translation>        WALLET   </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3069,17 +3069,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>برای ارتباطاتِ JSON-RPC  از OpenSSL (https) استفاده کنید</translation>
+        <translation>  JSON-RPC   OpenSSL (https)  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>فایل certificate  سرور (پیش فرض server.cert)</translation>
+        <translation> certificate   (  server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>رمز اختصاصی سرور  (پیش فرض: server.pem)</translation>
+        <translation>    ( : server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3099,7 +3099,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>این پیام راهنما</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3108,12 +3108,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3134,7 +3134,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>لود شدن آدرسها..</translation>
+        <translation>  ..</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -3144,22 +3144,22 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>خطا در هنگام لود شدن wallet.dat: Wallet corrupted</translation>
+        <translation>     wallet.dat: Wallet corrupted</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>خطا در هنگام لود شدن wallet.dat</translation>
+        <translation>     wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -3189,7 +3189,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>میزان اشتباه است for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>   for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3204,26 +3204,26 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>میزان اشتباه است</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>وجوه ناکافی</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>لود شدن نمایه بلاکها..</translation>
+        <translation>   ..</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>یک گره برای اتصال اضافه کنید و تلاش کنید تا اتصال را باز نگاه دارید</translation>
+        <translation>              </translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3239,12 +3239,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>wallet در حال لود شدن است...</translation>
+        <translation>wallet     ...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>قابلیت برگشت به نسخه قبلی برای wallet امکان پذیر نیست</translation>
+        <translation>      wallet   </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3254,34 +3254,34 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>آدرس پیش فرض قابل ذخیره نیست</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>اسکنِ دوباره...</translation>
+        <translation> ...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>اتمام لود شدن</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>برای استفاده از %s  از اختیارات</translation>
+        <translation>   %s   </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Error</source>
-        <translation>خطا</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>شما باید یک رمز rpcpassword=&lt;password&gt; را در فایل تنظیمات ایجاد کنید⏎ %s ⏎ اگر فایل ایجاد نشده است، آن را با یک فایل &quot;فقط متنی&quot; ایجاد کنید.
+        <translation>    rpcpassword=&lt;password&gt;       %s            &quot; &quot;  .
 </translation>
     </message>
 </context>

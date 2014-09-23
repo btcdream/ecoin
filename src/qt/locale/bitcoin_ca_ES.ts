@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>Sobre Roxcoin</translation>
+        <source>About eCoin</source>
+        <translation>Sobre eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Roxcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;eCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -28,7 +28,7 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation>\n Aquest és software experimental.\n\n Distribuït sota llicència de software MIT/11, veure l&apos;arxiu COPYING o http://www.opensource.org/licenses/mit-license.php.\n\nAquest producte inclou software desarrollat pel projecte OpenSSL per a l&apos;ús de OppenSSL Toolkit (http://www.openssl.org/) i de software criptogràfic escrit per l&apos;Eric Young (eay@cryptsoft.com) i software UPnP escrit per en Thomas Bernard.</translation>
+        <translation>\n Aquest és software experimental.\n\n Distribut sota llicència de software MIT/11, veure l&apos;arxiu COPYING o http://www.opensource.org/licenses/mit-license.php.\n\nAquest producte inclou software desarrollat pel projecte OpenSSL per a l&apos;ús de OppenSSL Toolkit (http://www.openssl.org/) i de software criptogràfic escrit per l&apos;Eric Young (eay@cryptsoft.com) i software UPnP escrit per en Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -41,32 +41,32 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Feu doble clic per editar l&apos;adreça o l&apos;etiqueta</translation>
+        <translation>Feu doble clic per editar l&apos;adrea o l&apos;etiqueta</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>Crear una nova adreça</translation>
+        <translation>Crear una nova adrea</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copiar l&apos;adreça seleccionada al porta-retalls del sistema</translation>
+        <translation>Copiar l&apos;adrea seleccionada al porta-retalls del sistema</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation>&amp;Nova adreça</translation>
+        <translation>&amp;Nova adrea</translation>
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Roxcoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de eCoin per rebre els pagaments. s possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Copiar adreça</translation>
+        <translation>&amp;Copiar adrea</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Roxcoin</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adrea eCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -86,12 +86,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Esborrar l&apos;adreça sel·leccionada</translation>
+        <translation>Esborrar l&apos;adrea sel·leccionada</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Roxcoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adrea eCoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -144,7 +144,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>Adreça</translation>
+        <translation>Adrea</translation>
     </message>
     <message>
         <location line="+36"/>
@@ -242,7 +242,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANT: Tota copia de seguretat que hagis realitzat hauria de ser reemplaçada pel, recentment generat, arxiu encriptat del moneder.</translation>
+        <translation>IMPORTANT: Tota copia de seguretat que hagis realitzat hauria de ser reemplaada pel, recentment generat, arxiu encriptat del moneder.</translation>
     </message>
     <message>
         <location line="+103"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -278,7 +278,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>La contrasenya introduïda no coincideix.</translation>
+        <translation>La contrasenya introduda no coincideix.</translation>
     </message>
     <message>
         <location line="-38"/>
@@ -290,7 +290,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contrasenya introduïda per a desencriptar el moneder és incorrecte.</translation>
+        <translation>La contrasenya introduda per a desencriptar el moneder és incorrecte.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Mostra informació sobre Roxcoin</translation>
+        <source>Show information about eCoin</source>
+        <translation>Mostra informació sobre eCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Enviar monedes a una adreça Roxcoin</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Enviar monedes a una adrea eCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Modificar les opcions de configuració per a Roxcoin</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>Modificar les opcions de configuració per a eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>&amp;Sobre Roxcoin</translation>
+        <source>&amp;About eCoin</source>
+        <translation>&amp;Sobre eCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Client Roxcoin</translation>
+        <source>eCoin client</source>
+        <translation>Client eCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Roxcoin</numerusform><numerusform>%n conexions actives a la xarxa Roxcoin</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa eCoin</numerusform><numerusform>%n conexions actives a la xarxa eCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -579,13 +579,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>Sobre la tarjeta Roxcoin</translation>
+        <source>About eCoin card</source>
+        <translation>Sobre la tarjeta eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>Mostra informació sobre la tarjeta Roxcoin</translation>
+        <source>Show information about eCoin card</source>
+        <translation>Mostra informació sobre la tarjeta eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -649,7 +649,7 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>Data: %1\nQuantitat %2\n Tipus: %3\n Adreça: %4\n</translation>
+        <translation>Data: %1\nQuantitat %2\n Tipus: %3\n Adrea: %4\n</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -660,8 +660,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Roxcoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adrea eCoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Roxcoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produt un error fatal. eCoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -812,7 +812,7 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Address</source>
-        <translation>Adreça</translation>
+        <translation>Adrea</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -837,7 +837,7 @@ Address: %4
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>Copiar adreça </translation>
+        <translation>Copiar adrea </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1005,7 +1005,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation>Editar Adreça</translation>
+        <translation>Editar Adrea</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1030,12 +1030,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
         <source>New receiving address</source>
-        <translation>Nova adreça de recepció.</translation>
+        <translation>Nova adrea de recepció.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>Nova adreça d&apos;enviament</translation>
+        <translation>Nova adrea d&apos;enviament</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1050,12 +1050,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>L&apos;adreça introduïda &quot;%1&quot; ja és present a la llibreta d&apos;adreces.</translation>
+        <translation>L&apos;adrea introduda &quot;%1&quot; ja és present a la llibreta d&apos;adreces.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Roxcoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>La direcció introduda &quot;%1&quot; no és una adrea eCoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1084,7 +1084,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation>Ús:</translation>
+        <translation>s:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Inicia automàticament Roxcoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Inicia automàticament eCoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>&amp;Iniciar Roxcoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>&amp;Iniciar eCoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Roxcoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client eCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Roxcoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa eCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1197,7 +1197,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation>Adreça IP del servidor proxy (per exemple, 127.0.0.1)</translation>
+        <translation>Adrea IP del servidor proxy (per exemple, 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Roxcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar eCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar Roxcoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar eCoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,13 +1318,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Roxcoin.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar eCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation>L&apos;adreça proxy introduïda és invalida.</translation>
+        <translation>L&apos;adrea proxy introduda és invalida.</translation>
     </message>
 </context>
 <context>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa Roxcoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa eCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1363,7 +1363,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>El balanç de saldo actual que pot gastar-se</translation>
+        <translation>El balan de saldo actual que pot gastar-se</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1373,7 +1373,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>Balanç minat que encara no ha madurat</translation>
+        <translation>Balan minat que encara no ha madurat</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1383,7 +1383,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>El seu balanç total</translation>
+        <translation>El seu balan total</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1393,12 +1393,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Total de transaccions que encara no s&apos;han confirmat, i encara no compten per al balanç actual</translation>
+        <translation>Total de transaccions que encara no s&apos;han confirmat, i encara no compten per al balan actual</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>Total de les monedes que s&apos;han posat a fer &quot;stake&quot; (en joc, aposta), i encara no compten per al balanç actual</translation>
+        <translation>Total de les monedes que s&apos;han posat a fer &quot;stake&quot; (en joc, aposta), i encara no compten per al balan actual</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1447,7 +1447,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>La quantitat introduïda no és vàlida, comproveu-ho si us plau.</translation>
+        <translation>La quantitat introduda no és vàlida, comproveu-ho si us plau.</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1539,7 +1539,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>Últim temps de bloc</translation>
+        <translation>ltim temps de bloc</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Roxcoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Roxcoin.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de eCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres eCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Finestra Depuració</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Nucli Roxcoin</translation>
+        <source>eCoin Core</source>
+        <translation>Nucli eCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Roxcoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració eCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Roxcoin.</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de eCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1672,8 +1672,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1713,7 +1713,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+50"/>
         <source>custom change address</source>
-        <translation>Adreça de canvi pròpia</translation>
+        <translation>Adrea de canvi pròpia</translation>
     </message>
     <message>
         <location line="+106"/>
@@ -1738,12 +1738,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+28"/>
         <source>Balance:</source>
-        <translation>Balanç:</translation>
+        <translation>Balan:</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Introdueix una adreça Roxcoin (p.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adrea eCoin (p.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1823,7 +1823,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>L&apos;adreça remetent no és vàlida, si us plau comprovi-la.</translation>
+        <translation>L&apos;adrea remetent no és vàlida, si us plau comprovi-la.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1838,12 +1838,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>El total excedeix el teu balanç quan s&apos;afegeix la comisió a la transacció %1.</translation>
+        <translation>El total excedeix el teu balan quan s&apos;afegeix la comisió a la transacció %1.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>S&apos;ha trobat una adreça duplicada, tan sols es pot enviar a cada adreça un cop per ordre de enviament.</translation>
+        <translation>S&apos;ha trobat una adrea duplicada, tan sols es pot enviar a cada adrea un cop per ordre de enviament.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1857,8 +1857,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>ADVERTÈNCIA: Direcció Roxcoin invàlida</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>ADVERTNCIA: Direcció eCoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1868,7 +1868,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>ADVERTÈNCIA: direcció de canvi desconeguda</translation>
+        <translation>ADVERTNCIA: direcció de canvi desconeguda</translation>
     </message>
 </context>
 <context>
@@ -1892,7 +1892,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Introdueixi una etiquera per a aquesta adreça per afegir-la a la llibreta d&apos;adreces</translation>
+        <translation>Introdueixi una etiquera per a aquesta adrea per afegir-la a la llibreta d&apos;adreces</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1901,8 +1901,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>L&apos;adreça per a enviar el pagament (per exemple: GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adrea per a enviar el pagament (per exemple: eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1917,7 +1917,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Enganxar adreça del porta-retalls</translation>
+        <translation>Enganxar adrea del porta-retalls</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Introdueix una adreça Roxcoin (p.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adrea eCoin (p.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1951,18 +1951,18 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Pots signar missatges amb la teva adreça per provar que són teus. Sigues cautelòs al signar qualsevol cosa, ja que els atacs phising poden intentar confondre&apos;t per a que els hi signis amb la teva identitat. Tan sols signa als documents completament detallats amb els que hi estàs d&apos;acord.</translation>
+        <translation>Pots signar missatges amb la teva adrea per provar que són teus. Sigues cautelòs al signar qualsevol cosa, ja que els atacs phising poden intentar confondre&apos;t per a que els hi signis amb la teva identitat. Tan sols signa als documents completament detallats amb els que hi estàs d&apos;acord.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adrea per a signar el missatge (per exemple eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+203"/>
         <source>Choose an address from the address book</source>
-        <translation>Trieu una adreça de la llibreta d&apos;adreces</translation>
+        <translation>Trieu una adrea de la llibreta d&apos;adreces</translation>
     </message>
     <message>
         <location line="-193"/>
@@ -1973,7 +1973,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Enganxar adreça del porta-retalls</translation>
+        <translation>Enganxar adrea del porta-retalls</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1992,8 +1992,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Roxcoin</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adrea eCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2015,17 +2015,17 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Introdueixi l&apos;adreça signant, missatge (assegura&apos;t que copies salts de línia, espais, tabuladors, etc excactament tot el text) i la signatura a sota per verificar el missatge. Per evitar ser enganyat per un atac home-entre-mig, vés amb compte de no llegir més en la signatura del que hi ha al missatge signat mateix.</translation>
+        <translation>Introdueixi l&apos;adrea signant, missatge (assegura&apos;t que copies salts de línia, espais, tabuladors, etc excactament tot el text) i la signatura a sota per verificar el missatge. Per evitar ser enganyat per un atac home-entre-mig, vés amb compte de no llegir més en la signatura del que hi ha al missatge signat mateix.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Roxcoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adrea eCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Introdueix una adreça Roxcoin (p.ex. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adrea eCoin (p.ex. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,14 +2045,14 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Introduïu la signatura Roxcoin</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Introduu la signatura eCoin</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>L&apos;adreça intoduïda és invàlida.</translation>
+        <translation>L&apos;adrea intoduda és invàlida.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2060,13 +2060,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Siu us plau, comprovi l&apos;adreça i provi de nou.</translation>
+        <translation>Siu us plau, comprovi l&apos;adrea i provi de nou.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>L&apos;adreça introduïda no referencia a cap clau.</translation>
+        <translation>L&apos;adrea introduda no referencia a cap clau.</translation>
     </message>
     <message>
         <location line="-73"/>
@@ -2076,7 +2076,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>La clau privada per a la adreça introduïda no està disponible.</translation>
+        <translation>La clau privada per a la adrea introduda no està disponible.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2189,7 +2189,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <location line="-77"/>
         <location line="+2"/>
         <source>own address</source>
-        <translation>Adreça pròpia</translation>
+        <translation>Adrea pròpia</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2250,8 +2250,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Les monedes generades han de madurar 110 blocs abans de poder-se gastar. En generar aquest bloc, que va ser transmès a la xarxa per ser afegit a la cadena de bloc. Si no aconsegueix entrar a la cadena, el seu estat canviarà a &quot;no acceptat&quot; i no es podrà gastar. Això pot succeir de tant en tant si un altre node genera un bloc a pocs segons del seu.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Les monedes generades han de madurar 510 blocs abans de poder-se gastar. En generar aquest bloc, que va ser transmès a la xarxa per ser afegit a la cadena de bloc. Si no aconsegueix entrar a la cadena, el seu estat canviarà a &quot;no acceptat&quot; i no es podrà gastar. Això pot succeir de tant en tant si un altre node genera un bloc a pocs segons del seu.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2412,7 +2412,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Estat de la transacció. Desplaça&apos;t per aquí sobre per mostrar el nombre de confirmacions.</translation>
+        <translation>Estat de la transacció. Desplaa&apos;t per aquí sobre per mostrar el nombre de confirmacions.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2427,12 +2427,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Adreça del destinatari de la transacció.</translation>
+        <translation>Adrea del destinatari de la transacció.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Quantitat extreta o afegida del balanç.</translation>
+        <translation>Quantitat extreta o afegida del balan.</translation>
     </message>
 </context>
 <context>
@@ -2501,7 +2501,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Introdueix una adreça o una etiqueta per cercar</translation>
+        <translation>Introdueix una adrea o una etiqueta per cercar</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2511,7 +2511,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>Copiar adreça </translation>
+        <translation>Copiar adrea </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2616,18 +2616,18 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>versió Roxcoin</translation>
+        <source>eCoin version</source>
+        <translation>versió eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation>Ús:</translation>
+        <translation>s:</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Enviar comandes a -server o roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Enviar comandes a -server o eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: roxcoind.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: eCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2676,8 +2676,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 47377 o testnet: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Escoltar connexions en &lt;port&gt; (per defecte: 15714 o testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2692,12 +2692,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation>Especificar la teva adreça pública</translation>
+        <translation>Especificar la teva adrea pública</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>Enllaçar a l&apos;adreça donada. Utilitzeu la notació [host]:port per a IPv6</translation>
+        <translation>Enllaar a l&apos;adrea donada. Utilitzeu la notació [host]:port per a IPv6</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,8 +2736,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 47376 o testnet: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Escoltar connexions JSON-RPC al port &lt;port&gt; (per defecte: 15715 o testnet: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Roxcoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni eCoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2812,7 +2812,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Advertència: L&apos;arxiu wallet.dat és corrupte, dades rescatades! L&apos;arxiu wallet.dat original ha estat desat com wallet.{estampa_temporal}.bak al directori %s; si el teu balanç o transaccions son incorrectes hauries de restaurar-lo de un backup.</translation>
+        <translation>Advertència: L&apos;arxiu wallet.dat és corrupte, dades rescatades! L&apos;arxiu wallet.dat original ha estat desat com wallet.{estampa_temporal}.bak al directori %s; si el teu balan o transaccions son incorrectes hauries de restaurar-lo de un backup.</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -2832,7 +2832,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Descobrir la pròpia adreça IP (per defecte: 1 quan escoltant i no -externalip)</translation>
+        <translation>Descobrir la pròpia adrea IP (per defecte: 1 quan escoltant i no -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
@@ -2852,7 +2852,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+83"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation>Adreça -tor invalida: &apos;%s&apos;</translation>
+        <translation>Adrea -tor invalida: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2902,12 +2902,12 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Enviar informació de traça/debug a la consola en comptes del arxiu debug.log</translation>
+        <translation>Enviar informació de traa/debug a la consola en comptes del arxiu debug.log</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>Enviar informació de traça/depuració al depurador</translation>
+        <translation>Enviar informació de traa/depuració al depurador</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -2964,7 +2964,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>ADVERTÈNCIA: violació de punt de control sincronitzat detectada, es saltarà!</translation>
+        <translation>ADVERTNCIA: violació de punt de control sincronitzat detectada, es saltarà!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2991,24 +2991,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3039,12 +3039,12 @@ per exemple: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Executar orde quan el millor bloc canviï (%s al cmd es reemplaça per un bloc de hash)</translation>
+        <translation>Executar orde quan el millor bloc canvi (%s al cmd es reemplaa per un bloc de hash)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Executar una ordre quan una transacció del moneder canviï (%s in cmd es canvia per TxID)</translation>
+        <translation>Executar una ordre quan una transacció del moneder canvi (%s in cmd es canvia per TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3120,7 +3120,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>ADVERTÈNCIA: Punt de control invàlid! Les transaccions mostrades podríen no ser correctes! Podria ser necessari actualitzar o notificar-ho als desenvolupadors.</translation>
+        <translation>ADVERTNCIA: Punt de control invàlid! Les transaccions mostrades podríen no ser correctes! Podria ser necessari actualitzar o notificar-ho als desenvolupadors.</translation>
     </message>
     <message>
         <location line="-158"/>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Roxcoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. eCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de Roxcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar Roxcoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar eCoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3190,7 +3190,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     <message>
         <location line="-16"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>Adreça -proxy invalida: &apos;%s&apos;</translation>
+        <translation>Adrea -proxy invalida: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -3205,12 +3205,12 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>No es pot resoldre l&apos;adreça -bind: &apos;%s&apos;</translation>
+        <translation>No es pot resoldre l&apos;adrea -bind: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>No es pot resoldre l&apos;adreça -externalip: &apos;%s&apos;</translation>
+        <translation>No es pot resoldre l&apos;adrea -externalip: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -3235,7 +3235,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Balanç insuficient</translation>
+        <translation>Balan insuficient</translation>
     </message>
     <message>
         <location line="-34"/>
@@ -3249,13 +3249,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Roxcoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>No es pot enllaar a %s en aquest equip. eCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Comisió per KB per a afegir a les transaccions que enviï</translation>
+        <translation>Comisió per KB per a afegir a les transaccions que envi</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -3280,7 +3280,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>No es pot escriure l&apos;adreça per defecte</translation>
+        <translation>No es pot escriure l&apos;adrea per defecte</translation>
     </message>
     <message>
         <location line="+1"/>

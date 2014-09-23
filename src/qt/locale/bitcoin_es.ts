@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>Acerca de Roxcoin</translation>
+        <source>About eCoin</source>
+        <translation>Acerca de eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Roxcoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eCoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de Roxcoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de eCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -79,12 +79,12 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>Enseñar &amp;QR Code</translation>
+        <translation>Ensear &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Roxcoin</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueo de su dirección de eCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Roxcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de eCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -165,22 +165,22 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Diálogo de contraseña</translation>
+        <translation>Diálogo de contrasea</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Introducir contraseña</translation>
+        <translation>Introducir contrasea</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>Nueva contraseña</translation>
+        <translation>Nueva contrasea</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>Repita la nueva contraseña</translation>
+        <translation>Repita la nueva contrasea</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -195,7 +195,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Introduzca la nueva contraseña del monedero.&lt;br/&gt;Por favor elija una con &lt;b&gt;10 o más caracteres aleatorios&lt;/b&gt;, u &lt;b&gt;ocho o más palabras&lt;/b&gt;.</translation>
+        <translation>Introduzca la nueva contrasea del monedero.&lt;br/&gt;Por favor elija una con &lt;b&gt;10 o más caracteres aleatorios&lt;/b&gt;, u &lt;b&gt;ocho o más palabras&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -205,7 +205,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operación requiere su contraseña para desbloquear el monedero.</translation>
+        <translation>Esta operación requiere su contrasea para desbloquear el monedero.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -215,7 +215,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operación requiere su contraseña para descifrar el monedero.</translation>
+        <translation>Esta operación requiere su contrasea para descifrar el monedero.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -225,12 +225,12 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Cambiar contraseña</translation>
+        <translation>Cambiar contrasea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Introduzca la contraseña anterior del monedero y la nueva. </translation>
+        <translation>Introduzca la contrasea anterior del monedero y la nueva. </translation>
     </message>
     <message>
         <location line="+46"/>
@@ -240,12 +240,12 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Advertencia: Si encripta su cartera y pierde su frase de contraseña, puede &lt;b&gt;PERDER TODAS SUS MONEDAS&lt;/ b&gt;!</translation>
+        <translation>Advertencia: Si encripta su cartera y pierde su frase de contrasea, puede &lt;b&gt;PERDER TODAS SUS MONEDAS&lt;/ b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>¿Seguro que desea cifrar su monedero?</translation>
+        <translation>Seguro que desea cifrar su monedero?</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -256,7 +256,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Aviso: ¡La tecla de bloqueo de mayúsculas está activada!</translation>
+        <translation>Aviso: La tecla de bloqueo de mayúsculas está activada!</translation>
     </message>
     <message>
         <location line="-133"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -286,7 +286,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Las contraseñas no coinciden.</translation>
+        <translation>Las contraseas no coinciden.</translation>
     </message>
     <message>
         <location line="-38"/>
@@ -298,7 +298,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La contraseña introducida para descifrar el monedero es incorrecta.</translation>
+        <translation>La contrasea introducida para descifrar el monedero es incorrecta.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -308,7 +308,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Se ha cambiado correctamente la contraseña del monedero.</translation>
+        <translation>Se ha cambiado correctamente la contrasea del monedero.</translation>
     </message>
 </context>
 <context>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Mostrar información sobre Roxcoin</translation>
+        <source>Show information about eCoin</source>
+        <translation>Mostrar información sobre eCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -411,7 +411,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Cambiar la contraseña…</translation>
+        <translation>&amp;Cambiar la contrasea…</translation>
     </message>
     <message numerus="yes">
         <location line="+259"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Enviar monedas a una dirección de Roxcoin</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Enviar monedas a una dirección de eCoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Modificar las opciones de configuración para Roxcoin</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>Modificar las opciones de configuración para eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -456,7 +456,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Cambiar la contraseña utilizada para el cifrado del monedero</translation>
+        <translation>Cambiar la contrasea utilizada para el cifrado del monedero</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>Acerca de Roxcoin</translation>
+        <source>&amp;About eCoin</source>
+        <translation>Acerca de eCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -526,7 +526,7 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Barra de pestañas</translation>
+        <translation>Barra de pestaas</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Cliente Roxcoin</translation>
+        <source>eCoin client</source>
+        <translation>Cliente eCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n conexión activa a la red Roxcoin</numerusform><numerusform>%n conexiones activas a la red Roxcoin</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n conexión activa a la red eCoin</numerusform><numerusform>%n conexiones activas a la red eCoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -587,13 +587,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>Sobre la tarjeta Roxcoin</translation>
+        <source>About eCoin card</source>
+        <translation>Sobre la tarjeta eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>Mostrar información sobre la tarjeta Roxcoin</translation>
+        <source>Show information about eCoin card</source>
+        <translation>Mostrar información sobre la tarjeta eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -628,12 +628,12 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation>Último bloque recibido se generó en %1.</translation>
+        <translation>ltimo bloque recibido se generó en %1.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Esta transacción se encuentra sobre el límite de tamaño. Usted todavía puede enviarlo a un costo de %1, lo que va a los nodos que procesan sus transacciones y ayuda a apoyar la red. ¿Quieres pagar la cuota?</translation>
+        <translation>Esta transacción se encuentra sobre el límite de tamao. Usted todavía puede enviarlo a un costo de %1, lo que va a los nodos que procesan sus transacciones y ayuda a apoyar la red. Quieres pagar la cuota?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -672,8 +672,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Roxcoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de eCoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -732,8 +732,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. Roxcoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. eCoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -779,7 +779,7 @@ Dirección: %4
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>Envío pequeño:</translation>
+        <translation>Envío pequeo:</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+551"/>
@@ -895,7 +895,7 @@ Dirección: %4
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>Copiar envío pequeño</translation>
+        <translation>Copiar envío pequeo</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -954,7 +954,7 @@ Dirección: %4
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>Esta etiqueta se convierte en rojo, si el tamaño de la transacción es mayor que 10000 bytes.
+        <translation>Esta etiqueta se convierte en rojo, si el tamao de la transacción es mayor que 10000 bytes.
 
 Esto significa que se requiere una cuota de al menos el %1 por kb.
 
@@ -1066,8 +1066,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Roxcoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de eCoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1085,8 +1085,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1158,13 +1158,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Iniciar Roxcoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Iniciar eCoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>&amp;Iniciar Roxcoin al inicio del sistema</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>&amp;Iniciar eCoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente Roxcoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente eCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1193,8 +1193,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de Roxcoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de eCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1268,8 +1268,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Roxcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar eCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1283,8 +1283,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de Roxcoin en la lista de transacciones o no.</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de eCoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1330,8 +1330,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar Roxcoin.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar eCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1349,8 +1349,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Roxcoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red eCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1454,7 +1454,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation>Error codificando URI en código QR​​.</translation>
+        <translation>Error codificando URI en código QR.</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1565,8 +1565,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de Roxcoin-Qt para obtener una lista con las posibles opciones de línea de comandos para Roxcoin.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de eCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para eCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1585,13 +1585,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Ventana de depuración</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Núcleo Roxcoin</translation>
+        <source>eCoin Core</source>
+        <translation>Núcleo eCoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de Roxcoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de eCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1610,8 +1610,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Roxcoin</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1684,8 +1684,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1705,7 +1705,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>Envío pequeño:</translation>
+        <translation>Envío pequeo:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1735,7 +1735,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>Añadir &amp;destinatario</translation>
+        <translation>Aadir &amp;destinatario</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1754,8 +1754,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1769,8 +1769,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Introduce una dirección Roxcoin (p.ej. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección eCoin (p.ej. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1805,7 +1805,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>Copiar envío pequeño</translation>
+        <translation>Copiar envío pequeo</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1869,8 +1869,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>ADVERTENCIA: Dirección Roxcoin inválida</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>ADVERTENCIA: Dirección eCoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1904,7 +1904,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Etiquete esta dirección para añadirla a la libreta</translation>
+        <translation>Etiquete esta dirección para aadirla a la libreta</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1913,8 +1913,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>La dirección a la que se quiere enviar el pago (p.ej. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1943,8 +1943,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Introduce una dirección Roxcoin (p.ej. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección eCoin (p.ej. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1963,12 +1963,12 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Puede firmar mensajes con sus direcciones para demostrar que las posee. Tenga cuidado de no firmar cualquier cosa vaga, ya que los ataques de phishing pueden tratar de engañarle para suplantar su identidad. Firme solo declaraciones totalmente detalladas con las que usted esté de acuerdo.</translation>
+        <translation>Puede firmar mensajes con sus direcciones para demostrar que las posee. Tenga cuidado de no firmar cualquier cosa vaga, ya que los ataques de phishing pueden tratar de engaarle para suplantar su identidad. Firme solo declaraciones totalmente detalladas con las que usted esté de acuerdo.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>La dirección a firmar con un mensaje (p.ej. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a firmar con un mensaje (p.ej. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2004,8 +2004,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección Roxcoin.</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección eCoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,13 +2031,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>La dirección firmada con un mensaje (p.ej. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección firmada con un mensaje (p.ej. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Roxcoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección eCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Introduce una dirección Roxcoin (p.ej GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección eCoin (p.ej eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2057,8 +2057,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Introduce la firma Roxcoin</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Introduce la firma eCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2262,8 +2262,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Las monedas generadas deben madurar 110 bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser añadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Las monedas generadas deben madurar 510 bloques antes de que puedan gastarse. Cuando generaste este bloque, este fue transmitido a la red para ser aadido a la cadena de bloques. Si falla al introducirse en la cadena, su estado cambiará a &quot;no aceptado&quot; y no se podrá gastar. Esto ocasionalmente puede ocurrir si otro nodo genera un bloque a unos segundos que el tuyo.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2444,7 +2444,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Cantidad retirada o añadida al saldo.</translation>
+        <translation>Cantidad retirada o aadida al saldo.</translation>
     </message>
 </context>
 <context>
@@ -2478,7 +2478,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>Este año</translation>
+        <translation>Este ao</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>versión Roxcoin</translation>
+        <source>eCoin version</source>
+        <translation>versión eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,8 +2638,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Envía un comando a -server o roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Envía un comando a -server o eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,13 +2661,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: roxcoind.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: eCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2682,17 +2682,17 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Establecer el tamaño de caché de la base de datos en megabytes (predeterminado: 25)</translation>
+        <translation>Establecer el tamao de caché de la base de datos en megabytes (predeterminado: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation>Ajusta el tamaño de la base de datos del registro en megabytes (por defecto: 100)</translation>
+        <translation>Ajusta el tamao de la base de datos del registro en megabytes (por defecto: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 47377 o testnet: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Escuchando conexiones en el puerto &lt;port&gt; (por defecto: 15714 o testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2747,12 +2747,12 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Error: Esta transacción requiere de una comisión de transacción de al menos %s debido a su tamaño, complejidad, o uso de fondos recibidos recientemente.</translation>
+        <translation>Error: Esta transacción requiere de una comisión de transacción de al menos %s debido a su tamao, complejidad, o uso de fondos recibidos recientemente.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 47376 o testnet: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Escuchar conexiones JSON-RPC en &lt;port&gt; (predeterminado: 15715 o testnet: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2810,27 +2810,27 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation>Establecer el tamaño máximo de las transacciones alta-prioridad/baja-comisión en bytes (por defecto: 27000)</translation>
+        <translation>Establecer el tamao máximo de las transacciones alta-prioridad/baja-comisión en bytes (por defecto: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Aviso: ¡-paytxfee tiene un valor muy alto! Esta es la comisión que pagará si envía una transacción.</translation>
+        <translation>Aviso: -paytxfee tiene un valor muy alto! Esta es la comisión que pagará si envía una transacción.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Roxcoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo eCoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Aviso: ¡Error al leer wallet.dat! Todas las claves se han leído correctamente, pero podrían faltar o ser incorrectos los datos de transacciones o las entradas de la libreta de direcciones.</translation>
+        <translation>Aviso: Error al leer wallet.dat! Todas las claves se han leído correctamente, pero podrían faltar o ser incorrectos los datos de transacciones o las entradas de la libreta de direcciones.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Aviso: ¡Recuperados datos de wallet.dat corrupto! El wallet.dat original se ha guardado como wallet.{timestamp}.bak en %s; si hubiera errores en su saldo o transacciones, deberá restaurar una copia de seguridad.</translation>
+        <translation>Aviso: Recuperados datos de wallet.dat corrupto! El wallet.dat original se ha guardado como wallet.{timestamp}.bak en %s; si hubiera errores en su saldo o transacciones, deberá restaurar una copia de seguridad.</translation>
     </message>
     <message>
         <location line="-30"/>
@@ -2930,12 +2930,12 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>Establecer el tamaño máximo de bloque en bytes (por defecto: 250000)</translation>
+        <translation>Establecer el tamao máximo de bloque en bytes (por defecto: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Establecer tamaño mínimo de bloque en bytes (predeterminado: 0)</translation>
+        <translation>Establecer tamao mínimo de bloque en bytes (predeterminado: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
@@ -3002,7 +3002,7 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Contraseña para las conexiones JSON-RPC
+        <translation>Contrasea para las conexiones JSON-RPC
 </translation>
     </message>
     <message>
@@ -3010,24 +3010,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
-Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=roxcoinrpc
+Se recomienda utilizar la siguiente contrasea aleatoria:
+rpcuser=eCoinrpc
 rpcpassword=%s
 (no necesita recordar este password)
-El nombre de usuario y contraseña no debe ser el mismo.
-Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
+El nombre de usuario y contrasea no debe ser el mismo.
+Si no existe el archivo, créelo con permisos de sólo lectura para el dueo.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3159,13 +3159,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. Roxcoin probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. eCoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3195,17 +3195,17 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Error al cargar wallet.dat: el monedero está dañado</translation>
+        <translation>Error al cargar wallet.dat: el monedero está daado</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Roxcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie Roxcoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie eCoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3270,17 +3270,17 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Añadir un nodo al que conectarse y tratar de mantener la conexión abierta</translation>
+        <translation>Aadir un nodo al que conectarse y tratar de mantener la conexión abierta</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. Roxcoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. eCoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Comisión por KB a añadir a las transacciones que envía</translation>
+        <translation>Comisión por KB a aadir a las transacciones que envía</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -3332,8 +3332,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Tiene que establecer rpcpassword=&lt;contraseña&gt; en el fichero de configuración: ⏎
-%s ⏎
+        <translation>Tiene que establecer rpcpassword=&lt;contrasea&gt; en el fichero de configuración: 
+%s 
 Si el archivo no existe, créelo con permiso de lectura solamente del propietario.</translation>
     </message>
 </context>

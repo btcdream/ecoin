@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>O Roxcoin</translation>
+        <source>About eCoin</source>
+        <translation>O eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Roxcoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eCoin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -31,9 +31,9 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>
 Toto je experimentálny softvér. 
 
-Distribuovaný pod softvérovou licenciou MIT/X11, viď priložený súbor COPYING alebo http://www.opensource.org/licenses/mit-license.php. 
+Distribuovan pod softvérovou licenciou MIT/X11, vi priloen súbor COPYING alebo http://www.opensource.org/licenses/mit-license.php. 
 
-Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použitie v sade OpenSSL Toolkit (http://www.openssl.org/) a šifrovací softvér, ktorý napísal Eric Young (eay@cryptsoft.com) a UPnP softvér napísaný Thomas Bernard.</translation>
+Tento produkt obsahuje softvér vyvinut Projektom OpenSSL Project pre pouitie v sade OpenSSL Toolkit (http://www.openssl.org/) a ifrovací softvér, ktor napísal Eric Young (eay@cryptsoft.com) a UPnP softvér napísan Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -46,17 +46,17 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Dvojklikom editovať adresu alebo popis</translation>
+        <translation>Dvojklikom editova adresu alebo popis</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>Vytvoriť novú adresu</translation>
+        <translation>Vytvori novú adresu</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Kopírovať práve zvolenú adresu do systémového klipbordu</translation>
+        <translation>Kopírova práve zvolenú adresu do systémového klipbordu</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -65,38 +65,38 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Roxcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vae eCoin adresy pre príjem platieb. Mono budete chcie da inú kadému odosielateovi, take mete sledova, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Kopírovať adresu</translation>
+        <translation>&amp;Kopírova adresu</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>Ukáž &amp;QR Code</translation>
+        <translation>Uká &amp;QR Code</translation>
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Podpísať správu, že vlastníte Roxcoin adresu</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Podpísa správu, e vlastníte eCoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>Podpísať &amp;Správu</translation>
+        <translation>Podpísa &amp;Správu</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Vymazať aktuálne vybranú adresu zo zoznamu</translation>
+        <translation>Vymaza aktuálne vybranú adresu zo zoznamu</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Roxcoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Overte správu, aby ste zabezpeili, e bola podpísaná s uritou eCoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,27 +106,27 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Zmazať</translation>
+        <translation>&amp;Zmaza</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>Kopírovať &amp;Popis</translation>
+        <translation>Kopírova &amp;Popis</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Upraviť</translation>
+        <translation>&amp;Upravi</translation>
     </message>
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation>Exportovať Udaje Zoznamu</translation>
+        <translation>Exportova Udaje Zoznamu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Čiarkou oddelený súbor (*.csv)</translation>
+        <translation>iarkou oddelen súbor (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -136,7 +136,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Nemožno zapisovať do súboru %1.</translation>
+        <translation>Nemono zapisova do súboru %1.</translation>
     </message>
 </context>
 <context>
@@ -182,7 +182,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+33"/>
         <source>Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.</source>
-        <translation>Slúži na vypnutie trivial sendmoney keď je ohrozený OS účet. Neposkytuje žiadnu skutočnú istotu.</translation>
+        <translation>Slúi na vypnutie trivial sendmoney ke je ohrozen OS úet. Neposkytuje iadnu skutonú istotu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -192,32 +192,32 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Zadajte nové heslo k peňaženke.&lt;br/&gt;Prosím použite heslo s dĺžkou aspon &lt;b&gt;10 alebo viac náhodných znakov&lt;/b&gt;, alebo &lt;b&gt;8 alebo viac slov&lt;/b&gt;.</translation>
+        <translation>Zadajte nové heslo k peňaenke.&lt;br/&gt;Prosím pouite heslo s dkou aspon &lt;b&gt;10 alebo viac náhodnch znakov&lt;/b&gt;, alebo &lt;b&gt;8 alebo viac slov&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>Zašifrovať peňaženku</translation>
+        <translation>Zaifrova peňaenku</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Táto operácia potrebuje heslo k vašej peňaženke aby ju mohla dešifrovať.</translation>
+        <translation>Táto operácia potrebuje heslo k vaej peňaenke aby ju mohla deifrova.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Odomknúť peňaženku</translation>
+        <translation>Odomknú peňaenku</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Táto operácia potrebuje heslo k vašej peňaženke na dešifrovanie peňaženky.</translation>
+        <translation>Táto operácia potrebuje heslo k vaej peňaenke na deifrovanie peňaenky.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Dešifrovať peňaženku</translation>
+        <translation>Deifrova peňaenku</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -227,44 +227,44 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Zadajte staré a nové heslo k peňaženke.</translation>
+        <translation>Zadajte staré a nové heslo k peňaenke.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Potvrďte šifrovanie peňaženky</translation>
+        <translation>Potvrte ifrovanie peňaenky</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Upozornenie: Ak zašifrujete vašu peňaženku a stratíte prístupové heslo, potom &lt;b&gt;Prídete o všetky svoje MINCE&lt;/b&gt;!</translation>
+        <translation>Upozornenie: Ak zaifrujete vau peňaenku a stratíte prístupové heslo, potom &lt;b&gt;Prídete o vetky svoje MINCE&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Ste si istí, že si želáte zašifrovať peňaženku?</translation>
+        <translation>Ste si istí, e si eláte zaifrova peňaenku?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>DÔLEŽITÉ: Všetky predchádzajúce zálohy vašej peňaženky, ktoré ste vykonali by mali byť nahradené novo vytvorenou, zašifrovanou peňaženkou. Z bezpečnostných dôvodov bude predchádzajúca záloha nezašifrovanej peňaženky k ničomu, akonáhle začnete používať novú, zašifrovanú peňaženku.</translation>
+        <translation>DLEIT: Vetky predchádzajúce zálohy vaej peňaenky, ktoré ste vykonali by mali by nahradené novo vytvorenou, zaifrovanou peňaenkou. Z bezpenostnch dvodov bude predchádzajúca záloha nezaifrovanej peňaenky k niomu, akonáhle zanete pouíva novú, zaifrovanú peňaenku.</translation>
     </message>
     <message>
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Varovanie: Caps Lock je zapnutý</translation>
+        <translation>Varovanie: Caps Lock je zapnut</translation>
     </message>
     <message>
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Peňaženka zašifrovaná</translation>
+        <translation>Peňaenka zaifrovaná</translation>
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin sa teraz zavrie aby dokonil proces zaifrovania. Nezabudnite, e zaifrovanie vaej peňaenky neme plne chráni vae mince pred krádeou malwarom napadnutím vaeho poítaa.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -272,12 +272,12 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Šifrovanie peňaženky zlyhalo</translation>
+        <translation>ifrovanie peňaenky zlyhalo</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Šifrovanie peňaženky zlyhalo kôli internej chybe. Vaša peňaženka nebola zašifrovaná.</translation>
+        <translation>ifrovanie peňaenky zlyhalo kli internej chybe. Vaa peňaenka nebola zaifrovaná.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -288,24 +288,24 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Odomykanie peňaženky zlyhalo</translation>
+        <translation>Odomykanie peňaenky zlyhalo</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Zadané heslo pre dešifrovanie peňaženky bolo nesprávne.</translation>
+        <translation>Zadané heslo pre deifrovanie peňaenky bolo nesprávne.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Zlyhalo šifrovanie peňaženky.</translation>
+        <translation>Zlyhalo ifrovanie peňaenky.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Heslo k peňaženke bolo úspešne zmenené.</translation>
+        <translation>Heslo k peňaenke bolo úspene zmenené.</translation>
     </message>
 </context>
 <context>
@@ -313,22 +313,22 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location filename="../bitcoingui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
-        <translation>Podpísať &amp;správu...</translation>
+        <translation>Podpísa &amp;správu...</translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>Synchronizácia so sieťou...</translation>
+        <translation>Synchronizácia so sieou...</translation>
     </message>
     <message>
         <location line="-319"/>
         <source>&amp;Overview</source>
-        <translation>&amp;Prehľad</translation>
+        <translation>&amp;Prehad</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>Zobraziť celkový prehľad o peňaženke</translation>
+        <translation>Zobrazi celkov prehad o peňaenke</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -338,7 +338,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Prechádzať históriu transakcií</translation>
+        <translation>Prechádza históriu transakcií</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -348,37 +348,37 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+1"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation>Úprava zoznamu uložených adries a popisov</translation>
+        <translation>prava zoznamu uloench adries a popisov</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>&amp;Receive coins</source>
-        <translation>&amp;Prijať mince</translation>
+        <translation>&amp;Prija mince</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Zobraziť zoznam adries pre príjem platieb</translation>
+        <translation>Zobrazi zoznam adries pre príjem platieb</translation>
     </message>
     <message>
         <location line="-7"/>
         <source>&amp;Send coins</source>
-        <translation>&amp;Poslať mince</translation>
+        <translation>&amp;Posla mince</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Ukončiť</translation>
+        <translation>&amp;Ukoni</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>Ukončiť program</translation>
+        <translation>Ukoni program</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Zobraziť informácie o Roxcoin</translation>
+        <source>Show information about eCoin</source>
+        <translation>Zobrazi informácie o eCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -393,17 +393,17 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation>&amp;Možnosti...</translation>
+        <translation>&amp;Monosti...</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Zašifrovať Peňaženku...</translation>
+        <translation>&amp;Zaifrova Peňaenku...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Backup peňaženku...</translation>
+        <translation>&amp;Backup peňaenku...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,7 +418,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Stiahnutých %1 of %2 blokov z histórie transakcií (%3% hotovo).</translation>
+        <translation>Stiahnutch %1 of %2 blokov z histórie transakcií (%3% hotovo).</translation>
     </message>
     <message>
         <location line="-256"/>
@@ -427,33 +427,33 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Poslať mince na Roxcoin adresu</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Posla mince na eCoin adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Upraviť možnosti konfigurácie pre Roxcoin</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>Upravi monosti konfigurácie pre eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exportovať dáta v aktuálnej karte do súboru</translation>
+        <translation>Exportova dáta v aktuálnej karte do súboru</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>Zašifrovať alebo dešifrovať peňaženku</translation>
+        <translation>Zaifrova alebo deifrova peňaenku</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Zálohovať peňaženku na iné miesto</translation>
+        <translation>Zálohova peňaenku na iné miesto</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Zmeniť heslo použité na šifrovanie peňaženky</translation>
+        <translation>Zmeni heslo pouité na ifrovanie peňaenky</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -468,42 +468,42 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="-5"/>
         <source>&amp;Verify message...</source>
-        <translation>Overiť správu</translation>
+        <translation>Overi správu</translation>
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet</source>
-        <translation>Peňaženka</translation>
+        <translation>Peňaenka</translation>
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>&amp;O Roxcoin</translation>
+        <source>&amp;About eCoin</source>
+        <translation>&amp;O eCoin</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>Zobraziť / skryť</translation>
+        <translation>Zobrazi / skry</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Unlock wallet</source>
-        <translation>Odomknúť peňaženku</translation>
+        <translation>Odomknú peňaenku</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Lock Wallet</source>
-        <translation>&amp;Zamknúť peňaženku</translation>
+        <translation>&amp;Zamknú peňaenku</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Lock wallet</source>
-        <translation>Zamknúť peňaženku</translation>
+        <translation>Zamknú peňaenku</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -523,7 +523,7 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Lišta záložiek</translation>
+        <translation>Lita záloiek</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -534,48 +534,48 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
         <location line="+13"/>
         <location line="+9"/>
         <source>[testnet]</source>
-        <translation>[testovacia sieť]</translation>
+        <translation>[testovacia sie]</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Roxcoin client</translation>
+        <source>eCoin client</source>
+        <translation>eCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n aktívne spojenie s Roxcoin sieťov</numerusform><numerusform>%n aktívnych spojení s Roxcoin sieťov</numerusform><numerusform>%n aktívnych spojení s Roxcoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n aktívne spojenie s eCoin sieov</numerusform><numerusform>%n aktívnych spojení s eCoin sieov</numerusform><numerusform>%n aktívnych spojení s eCoin sieov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation>Stiahnutých %1 blokov z histórie transakcií.</translation>
+        <translation>Stiahnutch %1 blokov z histórie transakcií.</translation>
     </message>
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>Stávkovanie.&lt;br&gt;Vaša váha je %1&lt;br&gt;Sieť váha je %2&lt;br&gt;Odhadovaný čas na zarobenie odmeny je %3</translation>
+        <translation>Stávkovanie.&lt;br&gt;Vaa váha je %1&lt;br&gt;Sie váha je %2&lt;br&gt;Odhadovan as na zarobenie odmeny je %3</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Not staking because wallet is locked</source>
-        <translation>Nestávkujem pretože peňaženka je zamknutá</translation>
+        <translation>Nestávkujem pretoe peňaenka je zamknutá</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is offline</source>
-        <translation>Nestávkujem pretože peňaženka je vypnutá</translation>
+        <translation>Nestávkujem pretoe peňaenka je vypnutá</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because wallet is syncing</source>
-        <translation>Nestávkujem pretože peňaženka sa synchronizuje</translation>
+        <translation>Nestávkujem pretoe peňaenka sa synchronizuje</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Not staking because you don&apos;t have mature coins</source>
-        <translation>Nestávkujem pretože nemáte odležané mince</translation>
+        <translation>Nestávkujem pretoe nemáte odleané mince</translation>
     </message>
     <message numerus="yes">
         <location line="-403"/>
@@ -584,18 +584,18 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>O Roxcoin karte</translation>
+        <source>About eCoin card</source>
+        <translation>O eCoin karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>Zobraziť informácie o Roxcoin karte</translation>
+        <source>Show information about eCoin card</source>
+        <translation>Zobrazi informácie o eCoin karte</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>&amp;Unlock Wallet...</source>
-        <translation>&amp;Odomknúť Peňaženku...</translation>
+        <translation>&amp;Odomknú Peňaenku...</translation>
     </message>
     <message numerus="yes">
         <location line="+297"/>
@@ -615,22 +615,22 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+6"/>
         <source>Up to date</source>
-        <translation>Aktualizovaný</translation>
+        <translation>Aktualizovan</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>Sťahujem...</translation>
+        <translation>Sahujem...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Last received block was generated %1.</source>
-        <translation>Posledný prijatý blok bol vytvorený %1.</translation>
+        <translation>Posledn prijat blok bol vytvoren %1.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Táto transakcia je nad limit veľkosti. Stále to môžete poslať za poplatok %1, ktorý ide uzlom spracujúcim vaše transakcie, čím pomáhajú podporovať sieť. Chcete platiť poplatok?</translation>
+        <translation>Táto transakcia je nad limit vekosti. Stále to mete posla za poplatok %1, ktor ide uzlom spracujúcim vae transakcie, ím pomáhajú podporova sie. Chcete plati poplatok?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -668,28 +668,28 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou Roxcoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>URI nemono analyzova! To me by spsobené neplatnou eCoin adresu alebo chybnmi URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Peňaženka je &lt;b&gt;zašifrovaná&lt;/b&gt; a momentálne &lt;b&gt;odomknutá&lt;/b&gt;</translation>
+        <translation>Peňaenka je &lt;b&gt;zaifrovaná&lt;/b&gt; a momentálne &lt;b&gt;odomknutá&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Peňaženka je &lt;b&gt;zašifrovaná&lt;/b&gt; a momentálne &lt;b&gt;zamknutá&lt;/b&gt;</translation>
+        <translation>Peňaenka je &lt;b&gt;zaifrovaná&lt;/b&gt; a momentálne &lt;b&gt;zamknutá&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Backup Wallet</source>
-        <translation>Zálohovanie Peňaženky</translation>
+        <translation>Zálohovanie Peňaenky</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation>Dáta Peňaženky (*.dat)</translation>
+        <translation>Dáta Peňaenky (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -699,7 +699,7 @@ Adresa: %4</translation>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Došlo k chybe pri pokuse o uloženie dát peňaženky do nového umiestnenia.</translation>
+        <translation>Dolo k chybe pri pokuse o uloenie dát peňaenky do nového umiestnenia.</translation>
     </message>
     <message numerus="yes">
         <location line="+76"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Roxcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>Dolo k závanej chybe. eCoin u neme pokraova bezpene a bude ukonen.</translation>
     </message>
 </context>
 <context>
@@ -737,7 +737,7 @@ Adresa: %4</translation>
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>Výstraha siete</translation>
+        <translation>Vstraha siete</translation>
     </message>
 </context>
 <context>
@@ -750,7 +750,7 @@ Adresa: %4</translation>
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation>Množstvo:</translation>
+        <translation>Mnostvo:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -795,17 +795,17 @@ Adresa: %4</translation>
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation>(ne)označiť všetko</translation>
+        <translation>(ne)oznai vetko</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>Stromový režim</translation>
+        <translation>Stromov reim</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>List mode</source>
-        <translation>Zoznamový režim</translation>
+        <translation>Zoznamov reim</translation>
     </message>
     <message>
         <location line="+45"/>
@@ -845,63 +845,63 @@ Adresa: %4</translation>
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>Kopírovať adresu</translation>
+        <translation>Kopírova adresu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Kopírovať popis</translation>
+        <translation>Kopírova popis</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Kopírovať sumu</translation>
+        <translation>Kopírova sumu</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation>Kopírovať ID transakcie</translation>
+        <translation>Kopírova ID transakcie</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy quantity</source>
-        <translation>Kopírovať množstvo</translation>
+        <translation>Kopírova mnostvo</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation>Kopírovať poplatok</translation>
+        <translation>Kopírova poplatok</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation>Kopírovať po poplatku</translation>
+        <translation>Kopírova po poplatku</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation>Kopírovať bajty</translation>
+        <translation>Kopírova bajty</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation>Kopírovať prioritu</translation>
+        <translation>Kopírova prioritu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>Kopírovať nízky output</translation>
+        <translation>Kopírova nízky output</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>Kopírovať zmenu</translation>
+        <translation>Kopírova zmenu</translation>
     </message>
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation>najvyššie</translation>
+        <translation>najvyie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -931,7 +931,7 @@ Adresa: %4</translation>
     <message>
         <location line="+1"/>
         <source>lowest</source>
-        <translation>najnižšie</translation>
+        <translation>najniie</translation>
     </message>
     <message>
         <location line="+155"/>
@@ -950,11 +950,11 @@ Adresa: %4</translation>
  This means a fee of at least %1 per kb is required.
 
  Can vary +/- 1 Byte per input.</source>
-        <translation>Tento popis sčervená, v prípade, že veľkosť transakcie je väčšia ako 10000 bajtov.
+        <translation>Tento popis servená, v prípade, e vekos transakcie je via ako 10000 bajtov.
 
- To znamená, že je potrebný poplatok vo výške najmenej %1 za kb.
+ To znamená, e je potrebn poplatok vo vke najmenej %1 za kb.
 
-Môže sa líšiť +/- 1 Bajt za vstup.</translation>
+Me sa líi +/- 1 Bajt za vstup.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -963,11 +963,11 @@ Môže sa líšiť +/- 1 Bajt za vstup.</translation>
 This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  This means a fee of at least %1 per kb is required.</source>
-        <translation>Transakcie s vyššou prioritou sa dostanú s väčšou pravdepodobnosťou do bloku.
+        <translation>Transakcie s vyou prioritou sa dostanú s vou pravdepodobnosou do bloku.
 
-Tento popis sčervená, ak je prioritou menšia ako &quot;stredná&quot;.
+Tento popis servená, ak je prioritou menia ako &quot;stredná&quot;.
 
- To znamená, že je nutný poplatok vo výške aspoň %1 za kb.</translation>
+ To znamená, e je nutn poplatok vo vke aspoň %1 za kb.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -976,20 +976,20 @@ Tento popis sčervená, ak je prioritou menšia ako &quot;stredná&quot;.
  This means a fee of at least %2 is required. 
 
  Amounts below 0.546 times the minimum relay fee are shown as DUST.</source>
-        <translation>Tento popis sčervená, ak je príjemca dostane sumu menšiu ako %1.
+        <translation>Tento popis servená, ak je príjemca dostane sumu meniu ako %1.
 
- To znamená, že je potrebný poplatok aspoň %2.
+ To znamená, e je potrebn poplatok aspoň %2.
 
-Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.</translation>
+Sumy niie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This label turns red, if the change is smaller than %1.
 
  This means a fee of at least %2 is required.</source>
-        <translation>Tento popis sčervená, ak je zmena menšia než %1.
+        <translation>Tento popis servená, ak je zmena menia ne %1.
 
- To znamená, že je potrebný poplatok aspoň %2.</translation>
+ To znamená, e je potrebn poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1013,7 +1013,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation>Upraviť adresu</translation>
+        <translation>Upravi adresu</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1023,7 +1023,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>Popis spojený s touto položkou v adresáry</translation>
+        <translation>Popis spojen s touto polokou v adresáry</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1033,7 +1033,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>Adresa spojená s položkou v tomto adresári. To môže byť zmenené iba pre odosielané adresy.</translation>
+        <translation>Adresa spojená s polokou v tomto adresári. To me by zmenené iba pre odosielané adresy.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -1048,32 +1048,32 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>Upraviť prijímacie adresy</translation>
+        <translation>Upravi prijímacie adresy</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>Upraviť odosielaciu adresu</translation>
+        <translation>Upravi odosielaciu adresu</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>Vložená adresa &quot;%1&quot; sa už nachádza v adresári.</translation>
+        <translation>Vloená adresa &quot;%1&quot; sa u nachádza v adresári.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Roxcoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou eCoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>Nepodarilo sa odomknúť peňaženku.</translation>
+        <translation>Nepodarilo sa odomknú peňaenku.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Generovanie nového kľúča zlyhalo.</translation>
+        <translation>Generovanie nového kúa zlyhalo.</translation>
     </message>
 </context>
 <context>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1092,17 +1092,17 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation>Použitie:</translation>
+        <translation>Pouitie:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation>možnosti príkazového riadka</translation>
+        <translation>monosti príkazového riadka</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation>UI možnosti</translation>
+        <translation>UI monosti</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1112,12 +1112,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation>Spustiť minimalizované</translation>
+        <translation>Spusti minimalizované</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>Zobraziť úvodnú obrazovku pri štarte (default: 1)</translation>
+        <translation>Zobrazi úvodnú obrazovku pri tarte (default: 1)</translation>
     </message>
 </context>
 <context>
@@ -1125,7 +1125,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation>Možnosti</translation>
+        <translation>Monosti</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1135,17 +1135,17 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>Voliteľný poplatok za transakciu za kB, ktorý pomáha uistiť sa, že vaše transakcie sú spracované rýchlo. Väčšina transakcií je 1 kB. Poplatok 0.01 je odporúčaný.</translation>
+        <translation>Voliten poplatok za transakciu za kB, ktor pomáha uisti sa, e vae transakcie sú spracované rchlo. Vina transakcií je 1 kB. Poplatok 0.01 je odporúan.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>Zaplatiť transakčné &amp;poplatky</translation>
+        <translation>Zaplati transakné &amp;poplatky</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>Rezervované množstvo sa nepodieľa na stávkovaní a preto je utratitelné kedykoľvek.</translation>
+        <translation>Rezervované mnostvo sa nepodiea na stávkovaní a preto je utratitelné kedykovek.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1154,43 +1154,43 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Automaticky spustiť Roxcoin po prihlásení sa do systému.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Automaticky spusti eCoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>&amp;Spustiť Roxcoin pri prihlásení do systému</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>&amp;Spusti eCoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation>Odpojiť blok a adresa databázy pri vypnutí počítača. To znamená, že môžu byť presunuté do iného adresára dát, ale to spomaľuje vypnutie. Peňaženka je vždy odpojená.</translation>
+        <translation>Odpoji blok a adresa databázy pri vypnutí poítaa. To znamená, e mu by presunuté do iného adresára dát, ale to spomauje vypnutie. Peňaenka je vdy odpojená.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation>&amp;Odpojiť databázy pri vypnutí</translation>
+        <translation>&amp;Odpoji databázy pri vypnutí</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation>Sieť</translation>
+        <translation>Sie</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Roxcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvori port klienta eCoin na routeri. To funguje iba vtedy, ak vá router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>Mapovať port pomocou &amp;UPnP</translation>
+        <translation>Mapova port pomocou &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Roxcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti eCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1235,22 +1235,22 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Zobraziť len ikonu na lište po minimalizovaní okna.</translation>
+        <translation>Zobrazi len ikonu na lite po minimalizovaní okna.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>Zobraziť len ikonu na lište po minimalizovaní okna.</translation>
+        <translation>Zobrazi len ikonu na lite po minimalizovaní okna.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimalizovat namiesto ukončenia aplikácie keď sa okno zavrie. Keď je zvolená táto možnosť, aplikácia sa zavrie len po zvolení Ukončiť v menu.</translation>
+        <translation>Minimalizovat namiesto ukonenia aplikácie ke sa okno zavrie. Ke je zvolená táto monos, aplikácia sa zavrie len po zvolení Ukoni v menu.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>M&amp;inimalizovať pri zavretí</translation>
+        <translation>M&amp;inimalizova pri zavretí</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1260,17 +1260,17 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>Jazyk užívateľského rozhrania:</translation>
+        <translation>Jazyk uívateského rozhrania:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní Roxcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>Jazyk pouívateského rozhrania je moné tu nastavi. Toto nastavenie sa prejaví a po retartovaní eCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Zobrazovať hodnoty v jednotkách:</translation>
+        <translation>&amp;Zobrazova hodnoty v jednotkách:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1279,23 +1279,23 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť Roxcoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>i chcete zobrazi eCoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>&amp;Zobraziť adresy zo zoznamu transakcií</translation>
+        <translation>&amp;Zobrazi adresy zo zoznamu transakcií</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>Či sa majú zobraziť coin control features alebo nie.</translation>
+        <translation>i sa majú zobrazi coin control features alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Display coin &amp;control features (experts only!)</source>
-        <translation>Zobraziť coin &amp;control features (len pre odborníkov!)</translation>
+        <translation>Zobrazi coin &amp;control features (len pre odborníkov!)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1305,12 +1305,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>Zrušiť</translation>
+        <translation>Zrui</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation>&amp;Použiť</translation>
+        <translation>&amp;Poui</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Roxcoin.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Toto nastavenie sa prejaví a po retartovaní eCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Roxcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie mu by zastaralé. Vaa peňaenka sa automaticky synchronizuje so sieou eCoin po nadviazaní spojenia, ale tento proces nie je ete dokonen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1361,17 +1361,17 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-107"/>
         <source>Wallet</source>
-        <translation>Peňaženka</translation>
+        <translation>Peňaenka</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Spendable:</source>
-        <translation>Použiteľné:</translation>
+        <translation>Pouitené:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>Váš aktuálny použiteľný zostatok</translation>
+        <translation>Vá aktuálny pouiten zostatok</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1381,7 +1381,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>Vyťažený zostatok, ktorý nebol ešte dozretý</translation>
+        <translation>Vyaen zostatok, ktor nebol ete dozret</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1391,7 +1391,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>Váš súčasný celkový zostatok</translation>
+        <translation>Vá súasn celkov zostatok</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1401,12 +1401,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-108"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Súčet transakcií, ktoré neboli ešte potvrdené, a ešte nezapočítané do aktuálneho zostatku</translation>
+        <translation>Súet transakcií, ktoré neboli ete potvrdené, a ete nezapoítané do aktuálneho zostatku</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>Súčet mincí, ktoré sú v stávke a ešte neboli započítané do aktuálneho zostatku</translation>
+        <translation>Súet mincí, ktoré sú v stávke a ete neboli zapoítané do aktuálneho zostatku</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+113"/>
@@ -1425,12 +1425,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation>Vyžiadať Platbu</translation>
+        <translation>Vyiada Platbu</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation>Čiastka:</translation>
+        <translation>iastka:</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -1445,7 +1445,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation>&amp;Uložiť ako...</translation>
+        <translation>&amp;Uloi ako...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
@@ -1460,12 +1460,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>Výsledná URI príliš dlhá, skúste skrátiť text popisu / správy.</translation>
+        <translation>Vsledná URI príli dlhá, skúste skráti text popisu / správy.</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation>Uložiť QR Code</translation>
+        <translation>Uloi QR Code</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1507,22 +1507,22 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>Používa OpenSSL verziu</translation>
+        <translation>Pouíva OpenSSL verziu</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation>Čas spustenia</translation>
+        <translation>as spustenia</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>Sieť</translation>
+        <translation>Sie</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>Počet pripojení</translation>
+        <translation>Poet pripojení</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1532,42 +1532,42 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>Reťazec blokov</translation>
+        <translation>Reazec blokov</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>Aktuálny počet blokov</translation>
+        <translation>Aktuálny poet blokov</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>Očakávaných blokov celkovo</translation>
+        <translation>Oakávanch blokov celkovo</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>Čas posledného bloku</translation>
+        <translation>as posledného bloku</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>&amp;Otvoriť</translation>
+        <translation>&amp;Otvori</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation>Možnosti príkazového riadka</translation>
+        <translation>Monosti príkazového riadka</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Zobraziť Roxcoin-Qt nápovedu k získaniu zoznamu pre možnosti Roxcoin príkazového riadku.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Zobrazi eCoin-Qt nápovedu k získaniu zoznamu pre monosti eCoin príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation>&amp;Zobraziť</translation>
+        <translation>&amp;Zobrazi</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Ladiace okno</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Roxcoin Core</translation>
+        <source>eCoin Core</source>
+        <translation>eCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,28 +1596,28 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Roxcoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte eCoin ladenie log súbor z aktuálneho adresára dát. To me trva niekoko sekúnd pre veké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>Vymazať konzolu</translation>
+        <translation>Vymaza konzolu</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Vitajte v Roxcoin RPC konzole.</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Vitajte v eCoin RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Použite hore a dole šípky pre navigáciu históriou, a &lt;b&gt; Ctrl-L &lt;/ b&gt; pre vymazanie obrazovky.</translation>
+        <translation>Pouite hore a dole ípky pre navigáciu históriou, a &lt;b&gt; Ctrl-L &lt;/ b&gt; pre vymazanie obrazovky.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Zadajte &lt;b&gt; pomoc &lt;/ b&gt; pre prehľad dostupných príkazov.</translation>
+        <translation>Zadajte &lt;b&gt; pomoc &lt;/ b&gt; pre prehad dostupnch príkazov.</translation>
     </message>
 </context>
 <context>
@@ -1632,7 +1632,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Poslať Bitcoins</translation>
+        <translation>Posla Bitcoins</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1657,7 +1657,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation>Množstvo:</translation>
+        <translation>Mnostvo:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -1680,8 +1680,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX {0.00 ?}</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack {0.00 ?}</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1716,7 +1716,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+35"/>
         <source>Change</source>
-        <translation>Zmeniť</translation>
+        <translation>Zmeni</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1726,22 +1726,22 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Poslať viacerým príjemcom naraz</translation>
+        <translation>Posla viacerm príjemcom naraz</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>&amp;Pridať príjemcu</translation>
+        <translation>&amp;Prida príjemcu</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>Odstráňte všetky transakčné polia</translation>
+        <translation>Odstráňte vetky transakné polia</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>Zmazať &amp;všetko</translation>
+        <translation>Zmaza &amp;vetko</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -1750,63 +1750,63 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Potvrďte odoslanie</translation>
+        <translation>Potvrte odoslanie</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;Odoslať</translation>
+        <translation>&amp;Odosla</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Zadajte Roxcoin adresu (napr. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte eCoin adresu (napr. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Copy quantity</source>
-        <translation>Kopírovať množstvo</translation>
+        <translation>Kopírova mnostvo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopírovať sumu</translation>
+        <translation>Kopírova sumu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation>Kopírovať poplatok</translation>
+        <translation>Kopírova poplatok</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation>Kopírovať po poplatkoch</translation>
+        <translation>Kopírova po poplatkoch</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation>Kopírovať bajty</translation>
+        <translation>Kopírova bajty</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation>Kopírovať prioritu</translation>
+        <translation>Kopírova prioritu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>Kopírovať nízky output</translation>
+        <translation>Kopírova nízky output</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>Kopírovať zmenu</translation>
+        <translation>Kopírova zmenu</translation>
     </message>
     <message>
         <location line="+86"/>
@@ -1816,12 +1816,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Potvrdiť odoslanie bitcoins</translation>
+        <translation>Potvrdi odoslanie bitcoins</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>Ste si istí, že chcete poslať %1?</translation>
+        <translation>Ste si istí, e chcete posla %1?</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1836,22 +1836,22 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Suma na úhradu musí byť väčšia ako 0.</translation>
+        <translation>Suma na úhradu musí by via ako 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Suma je vyššia ako Váš zostatok.</translation>
+        <translation>Suma je vyia ako Vá zostatok.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Suma celkom prevyšuje Váš zostatok ak sú započítané %1 transakčné poplatky.</translation>
+        <translation>Suma celkom prevyuje Vá zostatok ak sú zapoítané %1 transakné poplatky.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Duplikát adresy objavený, je možné poslať na každú adresu len raz v jednej odchádzajúcej transakcii.</translation>
+        <translation>Duplikát adresy objaven, je moné posla na kadú adresu len raz v jednej odchádzajúcej transakcii.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1861,12 +1861,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Chyba: Transakcia bola zamietnutá. To môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené ako použité tu.</translation>
+        <translation>Chyba: Transakcia bola zamietnutá. To me nasta, ak niektoré z mincí vo vaej peňaenke sa u pouili, ako napríklad, ak ste pouili kópiu wallet.dat a mince boli pouité v kópii, ale neboli oznaené ako pouité tu.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>VAROVANIE: Neplatná Roxcoin adresa</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>VAROVANIE: Neplatná eCoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1894,13 +1894,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>Zapla&amp;tiť:</translation>
+        <translation>Zapla&amp;ti:</translation>
     </message>
     <message>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Vložte popis pre túto adresu aby sa pridala do adresára</translation>
+        <translation>Vlote popis pre túto adresu aby sa pridala do adresára</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1909,13 +1909,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adresa pre poslanie platby (napr. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa pre poslanie platby (napr. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Choose address from address book</source>
-        <translation>Vybrať adresu z adresára</translation>
+        <translation>Vybra adresu z adresára</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1925,7 +1925,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Vložiť adresu z klipbordu</translation>
+        <translation>Vloi adresu z klipbordu</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1935,12 +1935,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation>Odstrániť tohto príjemcu</translation>
+        <translation>Odstráni tohto príjemcu</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Zadaj a Roxcoin addresu (napr. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadaj a eCoin addresu (napr. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1948,23 +1948,23 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Podpisy - Prihlásiť sa / Overenie správu</translation>
+        <translation>Podpisy - Prihlási sa / Overenie správu</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Podpísať Správu</translation>
+        <translation>&amp;Podpísa Správu</translation>
     </message>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Môžete podpísať správy svojou adresou a dokázať, že ju vlastníte. Buďte opatrní a podpíšte len prehlásenia s ktorými plne súhlasíte, nakoľko útoky typu &quot;phishing&quot; Vás môžu lákať k ich podpísaniu.</translation>
+        <translation>Mete podpísa správy svojou adresou a dokáza, e ju vlastníte. Bute opatrní a podpíte len prehlásenia s ktormi plne súhlasíte, nakoko útoky typu &quot;phishing&quot; Vás mu láka k ich podpísaniu.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adresa na podpísanie správy (napr. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa na podpísanie správy (napr. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1981,7 +1981,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Vložte adresu z klipbordu</translation>
+        <translation>Vlote adresu z klipbordu</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,7 +1991,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Sem vložte správu ktorú chcete podpísať</translation>
+        <translation>Sem vlote správu ktorú chcete podpísa</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -2000,61 +2000,61 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Roxcoin adresu</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Podpísa správu ako dkaz, e vlastníte túto eCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Obnoviť všetky polia podpísanie správy</translation>
+        <translation>Obnovi vetky polia podpísanie správy</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>Zmazať &amp;všetko</translation>
+        <translation>Zmaza &amp;vetko</translation>
     </message>
     <message>
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation>Overiť správu...</translation>
+        <translation>Overi správu...</translation>
     </message>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Zadajte podpisovú adresu správy (zaistite skopírovanie koncov riadkov, medzier, tabulátorov, atď) a podpis nižšie pre overenie správy. Dávajte pozor, aby ste nedali viac do podpisu, než to, čo je v podpísanej správe samotnej, aby ste sa vyhli oklamanu útoku man-in-the-middle.</translation>
+        <translation>Zadajte podpisovú adresu správy (zaistite skopírovanie koncov riadkov, medzier, tabulátorov, at) a podpis niie pre overenie správy. Dávajte pozor, aby ste nedali viac do podpisu, ne to, o je v podpísanej správe samotnej, aby ste sa vyhli oklamanu útoku man-in-the-middle.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Adresa správy bola podpísaná (napr. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa správy bola podpísaná (napr. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou Roxcoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Overte správu, aby zabezpeilo, e bola podpísaná s danou eCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>Obnoviť všetky polia pre overenie správy</translation>
+        <translation>Obnovi vetky polia pre overenie správy</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Zadajte Roxcoin adresu (napr. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Zadajte eCoin adresu (napr. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>Kliknite &quot;Podpísať Správu&quot; na získanie podpisu</translation>
+        <translation>Kliknite &quot;Podpísa Správu&quot; na získanie podpisu</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Zadajte Roxcoin podpis</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Zadajte eCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2074,17 +2074,17 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>Zadaná adresa sa nevzťahuje na kľúč.</translation>
+        <translation>Zadaná adresa sa nevzahuje na kú.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Odomknutie peňaženky bolo zrušené.</translation>
+        <translation>Odomknutie peňaenky bolo zruené.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>Súkromný kľúč k zadanej adrese nie je k dispozícii.</translation>
+        <translation>Súkromn kú k zadanej adrese nie je k dispozícii.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2099,7 +2099,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation>Podpis nie je možné dekódovať.</translation>
+        <translation>Podpis nie je moné dekódova.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2133,7 +2133,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message numerus="yes">
         <location line="-2"/>
         <source>Open for %n block(s)</source>
-        <translation><numerusform>Otvoriť pre %n blok</numerusform><numerusform>Otvoriť pre %n blokov</numerusform><numerusform>Otvoriť pre %n blokov</numerusform></translation>
+        <translation><numerusform>Otvori pre %n blok</numerusform><numerusform>Otvori pre %n blokov</numerusform><numerusform>Otvori pre %n blokov</numerusform></translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2216,7 +2216,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>dozreje o ďalší %n blok</numerusform><numerusform>dozreje o ďalších %n blokov</numerusform><numerusform>dozreje o ďalších %n blokov</numerusform></translation>
+        <translation><numerusform>dozreje o alí %n blok</numerusform><numerusform>dozreje o alích %n blokov</numerusform><numerusform>dozreje o alích %n blokov</numerusform></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2234,7 +2234,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation>Transakčný poplatok</translation>
+        <translation>Transakn poplatok</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -2258,8 +2258,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Generované mince musia zrieť 110 blokov pred tým, než môžu byť použité. Keď sa vygeneruje tento blok, bol vysielaný do siete, kde má byť pridaný do block chain. Ak sa nepodarí dostať ho do block chain, jeho stav sa zmení na &quot;Neprijatý&quot;, a nebude použiteľný. Toto sa môže občas stať, ak iný uzol generuje blok v priebehu niekoľkých sekúnd pred Vami.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Generované mince musia zrie 510 blokov pred tm, ne mu by pouité. Ke sa vygeneruje tento blok, bol vysielan do siete, kde má by pridan do block chain. Ak sa nepodarí dosta ho do block chain, jeho stav sa zmení na &quot;Neprijat&quot;, a nebude pouiten. Toto sa me obas sta, ak in uzol generuje blok v priebehu niekokch sekúnd pred Vami.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2294,7 +2294,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, ešte nebola úspešne odoslaná</translation>
+        <translation>, ete nebola úspene odoslaná</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2312,7 +2312,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Táto časť obrazovky zobrazuje detailný popis transakcie</translation>
+        <translation>Táto as obrazovky zobrazuje detailn popis transakcie</translation>
     </message>
 </context>
 <context>
@@ -2350,7 +2350,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message numerus="yes">
         <location line="-15"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Otvoriť pre %n ďalší blok</numerusform><numerusform>Otvoriť pre %n ďalšie bloky</numerusform><numerusform>Otvoriť pre %n ďalšie bloky</numerusform></translation>
+        <translation><numerusform>Otvori pre %n alí blok</numerusform><numerusform>Otvori pre %n alie bloky</numerusform><numerusform>Otvori pre %n alie bloky</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2365,7 +2365,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+3"/>
         <source>Confirming (%1 of %2 recommended confirmations)</source>
-        <translation>Potvrdzujem (%1 z %2 doporučených potvrdení)</translation>
+        <translation>Potvrdzujem (%1 z %2 doporuench potvrdení)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2380,12 +2380,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Ten blok nebol prijatý žiadnou inou nódou a pravdepodobne nebude akceptovaný!</translation>
+        <translation>Ten blok nebol prijat iadnou inou nódou a pravdepodobne nebude akceptovan!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>Vypočítané ale neakceptované</translation>
+        <translation>Vypoítané ale neakceptované</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2420,12 +2420,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Status transakcie. Pohybujte myšou nad týmto poľom a zjaví sa počet potvrdení.</translation>
+        <translation>Status transakcie. Pohybujte myou nad tmto poom a zjaví sa poet potvrdení.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>Dátum a čas prijatia transakcie.</translation>
+        <translation>Dátum a as prijatia transakcie.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2435,7 +2435,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Cieľová adresa transakcie.</translation>
+        <translation>Cieová adresa transakcie.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2449,7 +2449,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <location filename="../transactionview.cpp" line="+55"/>
         <location line="+16"/>
         <source>All</source>
-        <translation>Všetko</translation>
+        <translation>Vetko</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -2459,7 +2459,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>Tento týždeň</translation>
+        <translation>Tento tdeň</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2469,7 +2469,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Minulý mesiac</translation>
+        <translation>Minul mesiac</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2509,42 +2509,42 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Vložte adresu alebo popis pre vyhľadávanie</translation>
+        <translation>Vlote adresu alebo popis pre vyhadávanie</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>Min množstvo</translation>
+        <translation>Min mnostvo</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>Kopírovať adresu</translation>
+        <translation>Kopírova adresu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Kopírovať popis</translation>
+        <translation>Kopírova popis</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopírovať sumu</translation>
+        <translation>Kopírova sumu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation>Kopírovať ID transakcie</translation>
+        <translation>Kopírova ID transakcie</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Editovať popis</translation>
+        <translation>Editova popis</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation>Zobraziť podrobnosti transakcie</translation>
+        <translation>Zobrazi podrobnosti transakcie</translation>
     </message>
     <message>
         <location line="+144"/>
@@ -2554,7 +2554,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Čiarkou oddelovaný súbor (*.csv)</translation>
+        <translation>iarkou oddelovan súbor (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2599,7 +2599,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Nemožno zapisovať do súboru %1.</translation>
+        <translation>Nemono zapisova do súboru %1.</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -2624,18 +2624,18 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>Roxcoin verzia</translation>
+        <source>eCoin version</source>
+        <translation>eCoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation>Použitie:</translation>
+        <translation>Pouitie:</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Pošli príkaz na -server alebo roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Poli príkaz na -server alebo eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,72 +2645,72 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Dostať pomoc pre príkaz</translation>
+        <translation>Dosta pomoc pre príkaz</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation>Možnosti:</translation>
+        <translation>Monosti:</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Zadajte konfiguran súbor (predvolené: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: roxcoind.pid)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: eCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Zadajte súbor peňaženky (v rámci dátového adresára)</translation>
+        <translation>Zadajte súbor peňaenky (v rámci dátového adresára)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>Určiť priečinok s dátami</translation>
+        <translation>Uri prieinok s dátami</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Veľkosť vyrovnávajúcej pamäte pre databázu v megabytoch (predvolené:25)</translation>
+        <translation>Vekos vyrovnávajúcej pamte pre databázu v megabytoch (predvolené:25)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set database disk log size in megabytes (default: 100)</source>
-        <translation>Nastaviť veľkosť databázy denníka na disku v MB (predvolené: 100)</translation>
+        <translation>Nastavi vekos databázy denníka na disku v MB (predvolené: 100)</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Počúvať pripojenie na &lt;port&gt; (predvolené: 47377 alebo testovaciasieť: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Poúva pripojenie na &lt;port&gt; (predvolené: 15714 alebo testovaciasie: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Udržiavať maximálne &lt;n&gt; spojení (predvolené: 125)</translation>
+        <translation>Udriava maximálne &lt;n&gt; spojení (predvolené: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Pripojte sa k uzlu pre načítanie peer adresy, a odpojte</translation>
+        <translation>Pripojte sa k uzlu pre naítanie peer adresy, a odpojte</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation>Určite vašu vlastnú verejnú adresu</translation>
+        <translation>Urite vau vlastnú verejnú adresu</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Bind to given address. Use [host]:port notation for IPv6</source>
-        <translation>Spojiť do danej adresy. Použite [host]:port zápis pre IPv6</translation>
+        <translation>Spoji do danej adresy. Pouite [host]:port zápis pre IPv6</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Stake your coins to support network and gain reward (default: 1)</source>
-        <translation>Nechajte stávkovať vaše mince na podporu siete a získajte odmenu (default: 1)</translation>
+        <translation>Nechajte stávkova vae mince na podporu siete a získajte odmenu (default: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2720,37 +2720,37 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Počet sekúnd kedy sa zabráni zle sa správajúcim peerom znovupripojenie (predvolené: 86400)</translation>
+        <translation>Poet sekúnd kedy sa zabráni zle sa správajúcim peerom znovupripojenie (predvolené: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>Pri nastavovaní portu RPC %u pre počúvanie na IPv4 došlo k chybe: %s</translation>
+        <translation>Pri nastavovaní portu RPC %u pre poúvanie na IPv4 dolo k chybe: %s</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Detach block and address databases. Increases shutdown time (default: 0)</source>
-        <translation>Odpojiť blok a adresa databáz. Zvyšuje vypínací čas (štandardne: 0)</translation>
+        <translation>Odpoji blok a adresa databáz. Zvyuje vypínací as (tandardne: 0)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Chyba: Transakcia bola zamietnutá. To môže nastať, ak niektoré z mincí vo vašej peňaženke sa už použili, ako napríklad, ak ste použili kópiu wallet.dat a mince boli použité v kópii, ale neboli označené ako použité tu.</translation>
+        <translation>Chyba: Transakcia bola zamietnutá. To me nasta, ak niektoré z mincí vo vaej peňaenke sa u pouili, ako napríklad, ak ste pouili kópiu wallet.dat a mince boli pouité v kópii, ale neboli oznaené ako pouité tu.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds  </source>
-        <translation>Chyba: Táto operácia vyžaduje transakčný poplatok vo výške aspoň %s, pretože jeho množstvo, zložitosť, alebo použitím nedávno prijatých finančných prostriedkov</translation>
+        <translation>Chyba: Táto operácia vyaduje transakn poplatok vo vke aspoň %s, pretoe jeho mnostvo, zloitos, alebo pouitím nedávno prijatch finannch prostriedkov</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Počúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 47376 alebo testovaciasieť: 57376)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Poúvajte pre JSON-RPC spojenie na &lt;port&gt; (predvolené: 15715 alebo testovaciasie: 25715)</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Prijímať príkazy z príkazového riadku a JSON-RPC</translation>
+        <translation>Prijíma príkazy z príkazového riadku a JSON-RPC</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -2760,7 +2760,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Chyba: Peňaženka zamknutá, nemožno vytvoriť transakciu</translation>
+        <translation>Chyba: Peňaenka zamknutá, nemono vytvori transakciu</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -2770,87 +2770,87 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+1"/>
         <source>Importing bootstrap blockchain data file.</source>
-        <translation>Import zavádzacej časti blockchain dátového súbora.</translation>
+        <translation>Import zavádzacej asti blockchain dátového súbora.</translation>
     </message>
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Bežať na pozadí ako démon a prijímať príkazy</translation>
+        <translation>Bea na pozadí ako démon a prijíma príkazy</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Použiť testovaciu sieť</translation>
+        <translation>Poui testovaciu sie</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Prijímať pripojenie z vonka (predvolené: 1, ak nie -proxy alebo -connect)</translation>
+        <translation>Prijíma pripojenie z vonka (predvolené: 1, ak nie -proxy alebo -connect)</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>Pri nastavovaní portu RPC %u pre počúvanie na IPv6, spadne späť do IPv4 došlo k chybe: %s</translation>
+        <translation>Pri nastavovaní portu RPC %u pre poúvanie na IPv6, spadne sp do IPv4 dolo k chybe: %s</translation>
     </message>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>Chyba pri inicializácii databázy prostredie %s! Ak chcete obnoviť, ZÁLOHUJTE TENTO ADRESÁR, potom všetko z neho odstránte okrem wallet.dat.</translation>
+        <translation>Chyba pri inicializácii databázy prostredie %s! Ak chcete obnovi, ZLOHUJTE TENTO ADRESR, potom vetko z neho odstránte okrem wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation>Nastavte maximálnu veľkosť high-priority/low-fee transakcií v bajtoch (predvolené: 27000)</translation>
+        <translation>Nastavte maximálnu vekos high-priority/low-fee transakcií v bajtoch (predvolené: 27000)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Varovanie: -paytxfee je nastavené veľmi vysoko. Toto sú transakčné poplatky ktoré zaplatíte ak odošlete transakciu.</translation>
+        <translation>Varovanie: -paytxfee je nastavené vemi vysoko. Toto sú transakné poplatky ktoré zaplatíte ak odolete transakciu.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Roxcoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, e dátum a as poítaa sú správne! Ak je Vá as nesprávny eCoin nebude pracova správne.</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Varovanie: Chyba pri čítaní wallet.dat! Všetky kľúče načítané správne, ale transakčné dáta alebo položky adresára môže chýbať alebo byť nesprávne.</translation>
+        <translation>Varovanie: Chyba pri ítaní wallet.dat! Vetky kúe naítané správne, ale transakné dáta alebo poloky adresára me chba alebo by nesprávne.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Upozornenie: wallet.dat poškodený, údaje zachránené! Pôvodný wallet.dat uložiť ako peňaženku {timestamp}.bak v %s; ak váš zostatok alebo transakcie nie sú správne, mali by ste obnoviť zo zálohy.</translation>
+        <translation>Upozornenie: wallet.dat pokoden, údaje zachránené! Pvodn wallet.dat uloi ako peňaenku {timestamp}.bak v %s; ak vá zostatok alebo transakcie nie sú správne, mali by ste obnovi zo zálohy.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Pokus obnoviť súkromné kľúče z poškodeného wallet.dat</translation>
+        <translation>Pokus obnovi súkromné kúe z pokodeného wallet.dat</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation>Voľby vytvorenia bloku:</translation>
+        <translation>Voby vytvorenia bloku:</translation>
     </message>
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>Pripojiť sa len k určenej nóde</translation>
+        <translation>Pripoji sa len k urenej nóde</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Objavte vlastnú IP adresa (predvolené: 1 pri počúvaní a nie -externalip)</translation>
+        <translation>Objavte vlastnú IP adresa (predvolené: 1 pri poúvaní a nie -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Nepodarilo sa počúvať žiadnom porte. Použite -listen=0 ak to chcete.</translation>
+        <translation>Nepodarilo sa poúva iadnom porte. Pouite -listen=0 ak to chcete.</translation>
     </message>
     <message>
         <location line="-90"/>
         <source>Find peers using DNS lookup (default: 1)</source>
-        <translation>Nájsť peerov pomocou vyhľadávania DNS (predvolené: 1)</translation>
+        <translation>Nájs peerov pomocou vyhadávania DNS (predvolené: 1)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2865,104 +2865,104 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+4"/>
         <source>Invalid amount for -reservebalance=&lt;amount&gt;</source>
-        <translation>Neplatná suma pre -reservebalance=&lt;množstvo&gt;</translation>
+        <translation>Neplatná suma pre -reservebalance=&lt;mnostvo&gt;</translation>
     </message>
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>Maximum pre-pripojenie prijímacej vyrovnávacej pamäti, &lt;n&gt;*1000 bajtov (predvolené: 5000)</translation>
+        <translation>Maximum pre-pripojenie prijímacej vyrovnávacej pamti, &lt;n&gt;*1000 bajtov (predvolené: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>Maximum pre-pripojenie posielacej vyrovnávacej pamäti, &lt;n&gt;*1000 bajtov (predvolené: 1000)</translation>
+        <translation>Maximum pre-pripojenie posielacej vyrovnávacej pamti, &lt;n&gt;*1000 bajtov (predvolené: 1000)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>Pripojiť len k uzlom siete &lt;net&gt; (IPv4, IPv6 alebo Tor)</translation>
+        <translation>Pripoji len k uzlom siete &lt;net&gt; (IPv4, IPv6 alebo Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Výstupné ďalšie informácie o ladení. Znamená všetky -debug* možnosti</translation>
+        <translation>Vstupné alie informácie o ladení. Znamená vetky -debug* monosti</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>Výstupné ďalšie sieťové informácie o ladení</translation>
+        <translation>Vstupné alie sieové informácie o ladení</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>Pred debug výstup s časovou pečiatkou</translation>
+        <translation>Pred debug vstup s asovou peiatkou</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL možnosť: (pozrite Bitcoin Wiki pre návod na nastavenie SSL)</translation>
+        <translation>SSL monos: (pozrite Bitcoin Wiki pre návod na nastavenie SSL)</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>Vyberte verziu SOCKS proxy pre používanie (4-5, predvolené: 5)</translation>
+        <translation>Vyberte verziu SOCKS proxy pre pouívanie (4-5, predvolené: 5)</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Odoslať trace/debug informácie na konzolu namiesto debug.info žurnálu</translation>
+        <translation>Odosla trace/debug informácie na konzolu namiesto debug.info urnálu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>Poslať stopy / ladiace informácie do debuggera</translation>
+        <translation>Posla stopy / ladiace informácie do debuggera</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>Nastavte maximálnu veľkosť bloku v bajtoch (predvolené: 250000)</translation>
+        <translation>Nastavte maximálnu vekos bloku v bajtoch (predvolené: 250000)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Nastavte minimálnu veľkosť bloku v bajtoch (štandardne: 0)</translation>
+        <translation>Nastavte minimálnu vekos bloku v bajtoch (tandardne: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Stlačiť debug.log súbor na spustenie klienta (predvolené: 1, keď nie -debug)</translation>
+        <translation>Stlai debug.log súbor na spustenie klienta (predvolené: 1, ke nie -debug)</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Určiť aut spojenia v milisekundách (predvolené: 5000)</translation>
+        <translation>Uri aut spojenia v milisekundách (predvolené: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
         <source>Unable to sign checkpoint, wrong checkpointkey?
 </source>
-        <translation>Nemožno podpísať kontrolný bod, zlý checkpointkey?
+        <translation>Nemono podpísa kontroln bod, zl checkpointkey?
 </translation>
     </message>
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Skúsiť použiť UPnP pre mapovanie počúvajúceho portu (default: 0)</translation>
+        <translation>Skúsi poui UPnP pre mapovanie poúvajúceho portu (default: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Skúsiť použiť UPnP pre mapovanie počúvajúceho portu (default: 1 when listening)</translation>
+        <translation>Skúsi poui UPnP pre mapovanie poúvajúceho portu (default: 1 when listening)</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>Použiť proxy server k získaniu Tor skrytých služieb (predvolené: rovnaká ako -proxy)</translation>
+        <translation>Poui proxy server k získaniu Tor skrytch sluieb (predvolené: rovnaká ako -proxy)</translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Užívateľské meno pre JSON-RPC spojenia</translation>
+        <translation>Uívateské meno pre JSON-RPC spojenia</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -2972,7 +2972,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+57"/>
         <source>WARNING: syncronized checkpoint violation detected, but skipped!</source>
-        <translation>VAROVANIE: synchronizovaný porušený checkpoint detekovaný, ale preskočený!</translation>
+        <translation>VAROVANIE: synchronizovan poruen checkpoint detekovan, ale preskoen!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2982,12 +2982,12 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Upozornenie: Táto verzia je zastaraná, vyžaduje sa aktualizácia!</translation>
+        <translation>Upozornenie: Táto verzia je zastaraná, vyaduje sa aktualizácia!</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat je poškodený, záchrana zlyhala</translation>
+        <translation>wallet.dat je pokoden, záchrana zlyhala</translation>
     </message>
     <message>
         <location line="-54"/>
@@ -2999,109 +2999,109 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
+        <translation>%s, musíte nastavi rpcpassword v konfiguranom súbore:
  %s
-Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=roxcoinrpc
+Je odporúané poui nasledujúce náhodné heslo:
+rpcuser=eCoinrpc
 rpcpassword=%s
-(Nemusíte si pamätať toto heslo)
-Užívateľské meno a heslo nesmú byť rovnaké. 
-Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
-Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com</translation>
+(Nemusíte si pamta toto heslo)
+Uívateské meno a heslo nesmú by rovnaké. 
+Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na ítatanie.
+Odporúa sa tie nastavi alertnotify, take budete upozornení na problémy;
+napríklad: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Find peers using internet relay chat (default: 0)</source>
-        <translation>Nájsť peerov pomocou Internet Relay Chat (predvolené: 1)  {0)?}</translation>
+        <translation>Nájs peerov pomocou Internet Relay Chat (predvolené: 1)  {0)?}</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
-        <translation>Synchronizácia času s ostatnými uzlami. Zakázať ak čas na vašom systéme je presný, napr synchronizáciu s NTP (predvolené: 1)</translation>
+        <translation>Synchronizácia asu s ostatnmi uzlami. Zakáza ak as na vaom systéme je presn, napr synchronizáciu s NTP (predvolené: 1)</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>When creating transactions, ignore inputs with value less than this (default: 0.01)</source>
-        <translation>Pri vytváraní transakcií, ignorovať vstupy s hodnotou nižšou než táto (predvolené: 0.01)</translation>
+        <translation>Pri vytváraní transakcií, ignorova vstupy s hodnotou niou ne táto (predvolené: 0.01)</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Povoliť JSON-RPC spojenia z určenej IP adresy.</translation>
+        <translation>Povoli JSON-RPC spojenia z urenej IP adresy.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Poslať príkaz nóde bežiacej na &lt;ip&gt; (predvolené: 127.0.0.1)</translation>
+        <translation>Posla príkaz nóde beiacej na &lt;ip&gt; (predvolené: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Vykonaj príkaz, ak zmeny v najlepšom bloku (%s v príkaze nahradí blok hash)</translation>
+        <translation>Vykonaj príkaz, ak zmeny v najlepom bloku (%s v príkaze nahradí blok hash)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Spustiť príkaz ak sa zmení transakcia v peňaženke (%s v cmd sa nahrádza TxID)</translation>
+        <translation>Spusti príkaz ak sa zmení transakcia v peňaenke (%s v cmd sa nahrádza TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Require a confirmations for change (default: 0)</source>
-        <translation>Požadovať potvrdenie pre zmenu (predvolené: 0)</translation>
+        <translation>Poadova potvrdenie pre zmenu (predvolené: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enforce transaction scripts to use canonical PUSH operators (default: 1)</source>
-        <translation>Presadzovať transakčné skripty k používaniu kanonických PUSH operátorov (predvolené: 1)</translation>
+        <translation>Presadzova transakné skripty k pouívaniu kanonickch PUSH operátorov (predvolené: 1)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation>Spustiť príkaz, keď je prijaté príslušné upozornenie (%s v cmd je nahradený správou)</translation>
+        <translation>Spusti príkaz, ke je prijaté prísluné upozornenie (%s v cmd je nahraden správou)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Aktualizuj peňaženku na najnovší formát.</translation>
+        <translation>Aktualizuj peňaenku na najnoví formát.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Nastaviť zásobu adries na &lt;n&gt; (predvolené: 100)</translation>
+        <translation>Nastavi zásobu adries na &lt;n&gt; (predvolené: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Znovu skenovať reťaz blokov pre chýbajúce transakcie</translation>
+        <translation>Znovu skenova reaz blokov pre chbajúce transakcie</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>Koľko blokov na kontrolu pri štarte (predvolené: 2500, 0 = všetky)</translation>
+        <translation>Koko blokov na kontrolu pri tarte (predvolené: 2500, 0 = vetky)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation>Ako dôkladné overenie bloku je (0-6, predvolené: 1)</translation>
+        <translation>Ako dkladné overenie bloku je (0-6, predvolené: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>Importovať bloky z externého blk000?.dat súbora</translation>
+        <translation>Importova bloky z externého blk000?.dat súbora</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Použiť OpenSSL (https) pre JSON-RPC spojenia</translation>
+        <translation>Poui OpenSSL (https) pre JSON-RPC spojenia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3111,22 +3111,22 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Súkromný kľúč servra (predvolené: server.pem)</translation>
+        <translation>Súkromn kú servra (predvolené: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation>Akceptovateľné ciphers (predvolené: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
+        <translation>Akceptovatené ciphers (predvolené: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>Error: Wallet unlocked for staking only, unable to create transaction.</source>
-        <translation>Chyba: Peňaženka odomknuté len pre stávkovanie, nemožné vytvoriť transakciu.</translation>
+        <translation>Chyba: Peňaenka odomknuté len pre stávkovanie, nemoné vytvori transakciu.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>WARNING: Invalid checkpoint found! Displayed transactions may not be correct! You may need to upgrade, or notify developers.</source>
-        <translation>VAROVANIE: Neplatný checkpoint nájdený! Uvedené transakcie nemusia byť správne! Možno budete musieť upgradovať, alebo oznámiť vývojárov.</translation>
+        <translation>VAROVANIE: Neplatn checkpoint nájden! Uvedené transakcie nemusia by správne! Mono budete musie upgradova, alebo oznámi vvojárov.</translation>
     </message>
     <message>
         <location line="-158"/>
@@ -3136,22 +3136,22 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="+95"/>
         <source>Wallet %s resides outside data directory %s.</source>
-        <translation>Peňaženka %s bydlisko mimo dátový adresár %s.</translation>
+        <translation>Peňaenka %s bydlisko mimo dátov adresár %s.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. Roxcoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>Nemono získa zámok na dátov adresár %s. eCoin u pravdepodobne beí.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Nemôžem sa pripojiť k %s na tomto počítači (bind vrátil chybu %d, %s)</translation>
+        <translation>Nemem sa pripoji k %s na tomto poítai (bind vrátil chybu %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3161,37 +3161,37 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Povoliť vyhľadávanie DNS pre pridanie nódy a spojenie</translation>
+        <translation>Povoli vyhadávanie DNS pre pridanie nódy a spojenie</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>Načítavanie adries...</translation>
+        <translation>Naítavanie adries...</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Error loading blkindex.dat</source>
-        <translation>Chyba pri načítaní blkindex.dat</translation>
+        <translation>Chyba pri naítaní blkindex.dat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Chyba načítania wallet.dat: Peňaženka je poškodená</translation>
+        <translation>Chyba naítania wallet.dat: Peňaenka je pokodená</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Roxcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Chyba pri naítaní wallet.dat: Peňaenka vyaduje noviu verziu eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Roxcoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>Peňaenka potrebuje by prepísaná: retartujte eCoin k dokoneniu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>Chyba načítania wallet.dat</translation>
+        <translation>Chyba naítania wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -3206,17 +3206,17 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>Neznáma požadovaná SOCKS proxy verzia:% i</translation>
+        <translation>Neznáma poadovaná SOCKS proxy verzia:% i</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>Nemožno rozložiť -bind adresu: &apos;%s&apos;</translation>
+        <translation>Nemono rozloi -bind adresu: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>Nemožno rozložiť -externalip adresu: &apos;%s&apos;</translation>
+        <translation>Nemono rozloi -externalip adresu: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -3226,7 +3226,7 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="+44"/>
         <source>Error: could not start node</source>
-        <translation>Chyba: nemožno spustiť uzol</translation>
+        <translation>Chyba: nemono spusti uzol</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -3246,22 +3246,22 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>Načítavanie zoznamu blokov...</translation>
+        <translation>Naítavanie zoznamu blokov...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Pridať nód na pripojenie a pokus o udržanie pripojenia otvoreného</translation>
+        <translation>Prida nód na pripojenie a pokus o udranie pripojenia otvoreného</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Roxcoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>Nemem sa pripoji na %s na tomto poítai. eCoin je pravdepodobne u beí.</translation>
     </message>
     <message>
         <location line="-97"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Poplatok za KB pridať do transakcií, ktoré odosielate</translation>
+        <translation>Poplatok za KB prida do transakcií, ktoré odosielate</translation>
     </message>
     <message>
         <location line="+55"/>
@@ -3271,37 +3271,37 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>Načítavam peňaženku...</translation>
+        <translation>Naítavam peňaenku...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Nie je možné prejsť na nižšiu verziu peňaženky</translation>
+        <translation>Nie je moné prejs na niiu verziu peňaenky</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot initialize keypool</source>
-        <translation>Nemožno inicializovať keypool</translation>
+        <translation>Nemono inicializova keypool</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>Nie je možné zapísať predvolenú adresu.</translation>
+        <translation>Nie je moné zapísa predvolenú adresu.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>Nové prehľadávanie...</translation>
+        <translation>Nové prehadávanie...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>Dokončené načítavanie</translation>
+        <translation>Dokonené naítavanie</translation>
     </message>
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>Použiť %s možnosť.</translation>
+        <translation>Poui %s monos.</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -3313,9 +3313,9 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.c
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Musíš nastaviť rpcpassword=&lt;heslo&gt; v konfiguračnom súbore:
+        <translation>Musí nastavi rpcpassword=&lt;heslo&gt; v konfiguranom súbore:
 %s
-Ak súbor neexistuje, vytvor ho s oprávnením pre čítanie len vlastníkom (owner-readable-only)</translation>
+Ak súbor neexistuje, vytvor ho s oprávnením pre ítanie len vlastníkom (owner-readable-only)</translation>
     </message>
 </context>
 </TS>

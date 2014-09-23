@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
-        <translation>Over Roxcoin</translation>
+        <source>About eCoin</source>
+        <translation>Over eCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Roxcoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;eCoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
-        <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
-Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De Roxcoin ontwikkelaars</translation>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
+        <translation>Copyright  2009-2014 De Bitcoin ontwikkelaars
+Copyright  2012-2014 De NovaCoin ontwikkelaars
+Copyright  2014 De eCoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,13 +65,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou Roxcoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou eCoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Kopiëer Adres</translation>
+        <translation>&amp;Kopier Adres</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Roxcoin adres bezit.</translation>
+        <source>Sign a message to prove you own a eCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een eCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Roxcoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek eCoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -111,7 +111,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>Kopiëer &amp;Label</translation>
+        <translation>Kopier &amp;Label</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Roxcoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>eCoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
-        <translation>Toon informatie over Roxcoin</translation>
+        <source>Show information about eCoin</source>
+        <translation>Toon informatie over eCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
-        <translation>Verstuur munten naar een Roxcoin adres</translation>
+        <source>Send coins to a eCoin address</source>
+        <translation>Verstuur munten naar een eCoin adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
-        <translation>Verander configuratie opties voor Roxcoin</translation>
+        <source>Modify configuration options for eCoin</source>
+        <translation>Verander configuratie opties voor eCoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -468,12 +468,12 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-5"/>
         <source>&amp;Verify message...</source>
-        <translation>&amp;Verifiëer bericht...</translation>
+        <translation>&amp;Verifier bericht...</translation>
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
-        <translation>&amp;Over Roxcoin</translation>
+        <source>&amp;About eCoin</source>
+        <translation>&amp;Over eCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
-        <translation>Roxcoin client</translation>
+        <source>eCoin client</source>
+        <translation>eCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
-        <translation><numerusform>%n actieve verbinding naar Roxcoin netwerk</numerusform><numerusform>%n actieve verbindingen naar Roxcoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to eCoin network</source>
+        <translation><numerusform>%n actieve verbinding naar eCoin netwerk</numerusform><numerusform>%n actieve verbindingen naar eCoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
-        <translation>Over Roxcoin card</translation>
+        <source>About eCoin card</source>
+        <translation>Over eCoin card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
-        <translation>Toon informatie over Roxcoin card</translation>
+        <source>Show information about eCoin card</source>
+        <translation>Toon informatie over eCoin card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Roxcoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig eCoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . Roxcoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . eCoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Roxcoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig eCoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
-        <translation>Roxcoin-Qt</translation>
+        <source>eCoin-Qt</source>
+        <translation>eCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,18 +1155,18 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
-        <translation>Automatisch starten van Roxcoin na inloggen van het systeem.</translation>
+        <source>Automatically start eCoin after logging in to the system.</source>
+        <translation>Automatisch starten van eCoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
-        <translation>&amp;Start Roxcoin bij systeem aanmelding</translation>
+        <source>&amp;Start eCoin on system login</source>
+        <translation>&amp;Start eCoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation>Los blok en adressenbestanden bij het afsluiten. Dit betekent dat ze naar een ander data-map worden verplaatst, maar het vertraagt ​​shutdown. De portemonnee is altijd vrijstaand.</translation>
+        <translation>Los blok en adressenbestanden bij het afsluiten. Dit betekent dat ze naar een ander data-map worden verplaatst, maar het vertraagt shutdown. De portemonnee is altijd vrijstaand.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De Roxcoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De eCoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het Roxcoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het eCoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Roxcoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na eCoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
-        <translation>Roxcoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
+        <translation>eCoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
-        <translation>Deze instelling word toegepast na een restart van Roxcoin.</translation>
+        <source>This setting will take effect after restarting eCoin.</source>
+        <translation>Deze instelling word toegepast na een restart van eCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Roxcoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het eCoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
-        <translation>Laat het Roxcoin-QT help bericht zien om een lijst te krijgen met mogelijke Roxcoin command-regel opties.</translation>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
+        <translation>Laat het eCoin-QT help bericht zien om een lijst te krijgen met mogelijke eCoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
-        <translation>Roxcoin - Debugscherm</translation>
+        <source>eCoin - Debug window</source>
+        <translation>eCoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
-        <translation>Roxcoin Kern</translation>
+        <source>eCoin Core</source>
+        <translation>eCoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Roxcoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het eCoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
-        <translation>Welkom bij de Roxcoin RPC console.</translation>
+        <source>Welcome to the eCoin RPC console.</source>
+        <translation>Welkom bij de eCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1681,8 +1681,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>0.00 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="-191"/>
@@ -1751,8 +1751,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
-        <translation>123.456 ROX</translation>
+        <source>123.456 hack</source>
+        <translation>123.456 hack</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Voeg een Roxcoin adres in (bijv. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een eCoin adres in (bijv. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,7 +1857,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed.</source>
-        <translation>FOUT: Creëren van transactie mislukt.</translation>
+        <translation>FOUT: Creren van transactie mislukt.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
-        <translation>WAARSCHUWING: Ongeldig Roxcoin adres</translation>
+        <source>WARNING: Invalid eCoin address</source>
+        <translation>WAARSCHUWING: Ongeldig eCoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Het adres om naar te betalen (bijv. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om naar te betalen (bijv. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Voeg een Roxcoin adres in (bijv. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een eCoin adres in (bijv. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1949,7 +1949,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Handtekeningen - Onderteken een bericht / Verifiëer een handtekening</translation>
+        <translation>Handtekeningen - Onderteken een bericht / Verifier een handtekening</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1964,8 +1964,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr) </translation>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een Roxcoin adres bezit.</translation>
+        <source>Sign the message to prove you own this eCoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een eCoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2019,22 +2019,22 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verifiëer Bericht</translation>
+        <translation>&amp;Verifier Bericht</translation>
     </message>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Voer het ondertekenende adres, bericht en handtekening hieronder in (let erop dat u nieuwe regels, spaties en tabs juist overneemt) om de handtekening te verifiëren. Let erop dat u niet meer uit het bericht interpreteert dan er daadwerkelijk staat,  om te voorkomen dat u wordt misleid in een man-in-the-middle-aanval.</translation>
+        <translation>Voer het ondertekenende adres, bericht en handtekening hieronder in (let erop dat u nieuwe regels, spaties en tabs juist overneemt) om de handtekening te verifiren. Let erop dat u niet meer uit het bericht interpreteert dan er daadwerkelijk staat,  om te voorkomen dat u wordt misleid in een man-in-the-middle-aanval.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Roxcoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek eCoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
-        <translation>Voeg een Roxcoin adres in (bijv. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</translation>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een eCoin adres in (bijv. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
-        <translation>Voer Roxcoin handtekening in</translation>
+        <source>Enter eCoin signature</source>
+        <translation>Voer eCoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2121,7 +2121,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation>Bericht correct geverifiëerd.</translation>
+        <translation>Bericht correct geverifierd.</translation>
     </message>
 </context>
 <context>
@@ -2259,8 +2259,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Gegenereerd munten moeten 110 blokken maturen voordat ze kunnen worden besteed. Wanneer je een blok genereerd, het naar het netwerk is verzonden en toegevoegd aan de blokketen, zal de status veranderen naar &quot;niet geaccepteerd&quot;and kan het niet uitgegeven worden.  Dit kan soms gebeuren als een ander knooppunt genereert een blok binnen een paar seconden na jou.</translation>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <translation>Gegenereerd munten moeten 510 blokken maturen voordat ze kunnen worden besteed. Wanneer je een blok genereerd, het naar het netwerk is verzonden en toegevoegd aan de blokketen, zal de status veranderen naar &quot;niet geaccepteerd&quot;and kan het niet uitgegeven worden.  Dit kan soms gebeuren als een ander knooppunt genereert een blok binnen een paar seconden na jou.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
-        <translation>Roxcoin versie</translation>
+        <source>eCoin version</source>
+        <translation>eCoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
-        <translation>Verstuur commando naar -server of roxcoind</translation>
+        <source>Send command to -server or eCoind</source>
+        <translation>Verstuur commando naar -server of eCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: roxcoin.conf)</translation>
+        <source>Specify configuration file (default: eCoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: roxcoin.conf)</translation>
+        <source>Specify pid file (default: eCoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: eCoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2685,8 +2685,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
-        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 47377 of testnet: 57377)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
+        <translation>Luister voor verbindingen op &lt;poort&gt; (standaard: 15714 of testnet: 25714)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2745,8 +2745,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
-        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 47376 of testnet: 57376) </translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
+        <translation>Wacht op JSON-RPC-connecties op &lt;poort&gt; (standaard: 15715 of testnet: 25715) </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -2756,12 +2756,12 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+101"/>
         <source>Error: Transaction creation failed  </source>
-        <translation>Fout: Creëren van transactie mislukt.</translation>
+        <translation>Fout: Creren van transactie mislukt.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>Error: Wallet locked, unable to create transaction  </source>
-        <translation>Fout: Portemonnee is op slot, niet mogelijk een transactie te creëren.</translation>
+        <translation>Fout: Portemonnee is op slot, niet mogelijk een transactie te creren.</translation>
     </message>
     <message>
         <location line="-8"/>
@@ -2796,7 +2796,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+117"/>
         <source>Error initializing database environment %s! To recover, BACKUP THAT DIRECTORY, then remove everything from it except for wallet.dat.</source>
-        <translation>Fout bij het ​​initialiseren van de database omgeving %s! Om te herstellen, BACKUP die directory, verwijder dan alles van behalve het wallet.dat.</translation>
+        <translation>Fout bij het initialiseren van de database omgeving %s! Om te herstellen, BACKUP die directory, verwijder dan alles van behalve het wallet.dat.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Roxcoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is eCoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2968,7 +2968,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+47"/>
         <source>Verifying database integrity...</source>
-        <translation>Database integriteit wordt geverifieërd</translation>
+        <translation>Database integriteit wordt geverifierd</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = roxcoinrpc 
+rpcuser = eCoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. Roxcoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. eCoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
-        <translation>Roxcoin</translation>
+        <source>eCoin</source>
+        <translation>eCoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Roxcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van eCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart Roxcoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart eCoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. Roxcoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. eCoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

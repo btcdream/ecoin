@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
+        <source>About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -39,7 +39,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Dvostruki klik za uređivanje adrese ili oznake</translation>
+        <translation>Dvostruki klik za ureivanje adrese ili oznake</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -49,7 +49,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Kopiraj trenutno odabranu adresu u međuspremnik</translation>
+        <translation>Kopiraj trenutno odabranu adresu u meuspremnik</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -58,7 +58,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -73,7 +73,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
+        <source>Sign a message to prove you own a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -88,7 +88,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -185,32 +185,32 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Unesite novi lozinku za novčanik. &lt;br/&gt; Molimo Vas da koristite zaporku od &lt;b&gt;10 ili više slučajnih znakova,&lt;/b&gt; ili &lt;b&gt;osam ili više riječi.&lt;/b&gt;</translation>
+        <translation>Unesite novi lozinku za novanik. &lt;br/&gt; Molimo Vas da koristite zaporku od &lt;b&gt;10 ili vie sluajnih znakova,&lt;/b&gt; ili &lt;b&gt;osam ili vie rijei.&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>Šifriranje novčanika</translation>
+        <translation>ifriranje novanika</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Ova operacija treba lozinku vašeg novčanika kako bi se novčanik otključao.</translation>
+        <translation>Ova operacija treba lozinku vaeg novanika kako bi se novanik otkljuao.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Otključaj novčanik</translation>
+        <translation>Otkljuaj novanik</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Ova operacija treba lozinku vašeg novčanika kako bi se novčanik dešifrirao.</translation>
+        <translation>Ova operacija treba lozinku vaeg novanika kako bi se novanik deifrirao.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Dešifriranje novčanika.</translation>
+        <translation>Deifriranje novanika.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -220,12 +220,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Unesite staru i novu lozinku za novčanik.</translation>
+        <translation>Unesite staru i novu lozinku za novanik.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Potvrdi šifriranje novčanika</translation>
+        <translation>Potvrdi ifriranje novanika</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -235,7 +235,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
+        <translation>Jeste li sigurni da elite ifrirati svoj novanik?</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -246,17 +246,17 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Upozorenje: Tipka Caps Lock je uključena!</translation>
+        <translation>Upozorenje: Tipka Caps Lock je ukljuena!</translation>
     </message>
     <message>
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>Novčanik šifriran</translation>
+        <translation>Novanik ifriran</translation>
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -265,40 +265,40 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Šifriranje novčanika nije uspjelo</translation>
+        <translation>ifriranje novanika nije uspjelo</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Šifriranje novčanika nije uspjelo zbog interne pogreške. Vaš novčanik nije šifriran.</translation>
+        <translation>ifriranje novanika nije uspjelo zbog interne pogreke. Va novanik nije ifriran.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Priložene lozinke se ne podudaraju.</translation>
+        <translation>Priloene lozinke se ne podudaraju.</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Otključavanje novčanika nije uspjelo</translation>
+        <translation>Otkljuavanje novanika nije uspjelo</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Lozinka za dešifriranje novčanika nije točna.</translation>
+        <translation>Lozinka za deifriranje novanika nije tona.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Dešifriranje novčanika nije uspjelo</translation>
+        <translation>Deifriranje novanika nije uspjelo</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Lozinka novčanika je uspješno promijenjena.</translation>
+        <translation>Lozinka novanika je uspjeno promijenjena.</translation>
     </message>
 </context>
 <context>
@@ -306,12 +306,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
-        <translation>&amp;Potpišite poruku...</translation>
+        <translation>&amp;Potpiite poruku...</translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>Usklađivanje s mrežom ...</translation>
+        <translation>Usklaivanje s mreom ...</translation>
     </message>
     <message>
         <location line="-319"/>
@@ -321,7 +321,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>Prikaži opći pregled novčanika</translation>
+        <translation>Prikai opi pregled novanika</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -331,7 +331,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Pretraži povijest transakcija</translation>
+        <translation>Pretrai povijest transakcija</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -370,18 +370,18 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
+        <source>Show information about eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation>Više o &amp;Qt</translation>
+        <translation>Vie o &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>Prikaži informacije o Qt</translation>
+        <translation>Prikai informacije o Qt</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -391,12 +391,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Šifriraj novčanik...</translation>
+        <translation>&amp;ifriraj novanik...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Backup novčanika...</translation>
+        <translation>&amp;Backup novanika...</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,12 +420,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
+        <source>Send coins to a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -441,12 +441,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Napravite sigurnosnu kopiju novčanika na drugoj lokaciji</translation>
+        <translation>Napravite sigurnosnu kopiju novanika na drugoj lokaciji</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Promijenite lozinku za šifriranje novčanika</translation>
+        <translation>Promijenite lozinku za ifriranje novanika</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -465,17 +465,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet</source>
-        <translation>Novčanik</translation>
+        <translation>Novanik</translation>
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
+        <source>&amp;About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -511,7 +511,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>&amp;Pomoć</translation>
+        <translation>&amp;Pomo</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -532,12 +532,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
+        <source>eCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
+        <source>%n active connection(s) to eCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -577,12 +577,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -608,12 +608,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Up to date</source>
-        <translation>Ažurno</translation>
+        <translation>Aurno</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>Ažuriranje...</translation>
+        <translation>Auriranje...</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -662,18 +662,18 @@ Adresa:%4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Novčanik je &lt;b&gt;šifriran&lt;/b&gt; i trenutno &lt;b&gt;otključan&lt;/b&gt;</translation>
+        <translation>Novanik je &lt;b&gt;ifriran&lt;/b&gt; i trenutno &lt;b&gt;otkljuan&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Novčanik je &lt;b&gt;šifriran&lt;/b&gt; i trenutno &lt;b&gt;zaključan&lt;/b&gt;</translation>
+        <translation>Novanik je &lt;b&gt;ifriran&lt;/b&gt; i trenutno &lt;b&gt;zakljuan&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -722,7 +722,7 @@ Adresa:%4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -829,7 +829,7 @@ Adresa:%4
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>Potvrđeno</translation>
+        <translation>Potvreno</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1038,22 +1038,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>Upisana adresa &quot;%1&quot; je već u adresaru.</translation>
+        <translation>Upisana adresa &quot;%1&quot; je ve u adresaru.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>Ne mogu otključati novčanik.</translation>
+        <translation>Ne mogu otkljuati novanik.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Stvaranje novog ključa nije uspjelo.</translation>
+        <translation>Stvaranje novog kljua nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -1061,7 +1061,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
+        <source>eCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1134,12 +1134,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
+        <source>Automatically start eCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
+        <source>&amp;Start eCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1155,21 +1155,21 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation>&amp;Mreža</translation>
+        <translation>&amp;Mrea</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>Mapiraj port koristeći &amp;UPnP</translation>
+        <translation>Mapiraj port koristei &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1215,7 +1215,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Prikaži samo ikonu u sistemskoj traci nakon minimiziranja prozora</translation>
+        <translation>Prikai samo ikonu u sistemskoj traci nakon minimiziranja prozora</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1225,7 +1225,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimizirati umjesto izaći iz aplikacije kada je prozor zatvoren. Kada je ova opcija omogućena, aplikacija će biti zatvorena tek nakon odabira Izlaz u izborniku.</translation>
+        <translation>Minimizirati umjesto izai iz aplikacije kada je prozor zatvoren. Kada je ova opcija omoguena, aplikacija e biti zatvorena tek nakon odabira Izlaz u izborniku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1244,7 +1244,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1255,17 +1255,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio bitcoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite eljeni najmanji dio bitcoina koji e biti prikazan u suelju i koji e se koristiti za plaanje.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>&amp;Prikaži adrese u popisu transakcija</translation>
+        <translation>&amp;Prikai adrese u popisu transakcija</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1306,7 +1306,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1325,7 +1325,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1341,7 +1341,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-107"/>
         <source>Wallet</source>
-        <translation>Novčanik</translation>
+        <translation>Novanik</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1497,7 +1497,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>Mreža</translation>
+        <translation>Mrea</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1541,7 +1541,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1561,12 +1561,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
+        <source>eCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
+        <source>eCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1576,17 +1576,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>Očisti konzolu</translation>
+        <translation>Oisti konzolu</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
+        <source>Welcome to the eCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1660,7 +1660,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
+        <source>0.00 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1706,7 +1706,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Pošalji k nekoliko primatelja odjednom</translation>
+        <translation>Poalji k nekoliko primatelja odjednom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1721,7 +1721,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>Obriši &amp;sve</translation>
+        <translation>Obrii &amp;sve</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -1730,7 +1730,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
+        <source>123.456 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1741,11 +1741,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;Pošalji</translation>
+        <translation>&amp;Poalji</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1816,22 +1816,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Iznos mora biti veći od 0.</translation>
+        <translation>Iznos mora biti vei od 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Iznos je veći od stanja računa.</translation>
+        <translation>Iznos je vei od stanja rauna.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Iznos je veći od stanja računa kad se doda naknada za transakcije od %1.</translation>
+        <translation>Iznos je vei od stanja rauna kad se doda naknada za transakcije od %1.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Pronašli smo adresu koja se ponavlja. U svakom plaćanju program može svaku adresu koristiti samo jedanput.</translation>
+        <translation>Pronali smo adresu koja se ponavlja. U svakom plaanju program moe svaku adresu koristiti samo jedanput.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1845,7 +1845,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
+        <source>WARNING: Invalid eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1874,13 +1874,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>&amp;Primatelj plaćanja:</translation>
+        <translation>&amp;Primatelj plaanja:</translation>
     </message>
     <message>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Unesite oznaku za ovu adresu kako bi ju dodali u vaš adresar</translation>
+        <translation>Unesite oznaku za ovu adresu kako bi ju dodali u va adresar</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1889,7 +1889,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Zalijepi adresu iz međuspremnika</translation>
+        <translation>Zalijepi adresu iz meuspremnika</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1919,7 +1919,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1934,16 +1934,16 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Potpišite poruku</translation>
+        <translation>&amp;Potpiite poruku</translation>
     </message>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Možete potpisati poruke sa svojom adresom kako bi dokazali da ih posjedujete. Budite oprezni da ne potpisujete ništa mutno, jer bi vas phishing napadi mogli na prevaru natjerati da prepišete svoj identitet njima. Potpisujte samo detaljno objašnjene izjave sa kojima se slažete.</translation>
+        <translation>Moete potpisati poruke sa svojom adresom kako bi dokazali da ih posjedujete. Budite oprezni da ne potpisujete nita mutno, jer bi vas phishing napadi mogli na prevaru natjerati da prepiete svoj identitet njima. Potpisujte samo detaljno objanjene izjave sa kojima se slaete.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1961,7 +1961,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Zalijepi adresu iz međuspremnika</translation>
+        <translation>Zalijepi adresu iz meuspremnika</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1971,7 +1971,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Upišite poruku koju želite potpisati ovdje</translation>
+        <translation>Upiite poruku koju elite potpisati ovdje</translation>
     </message>
     <message>
         <location line="+24"/>
@@ -1980,7 +1980,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
+        <source>Sign the message to prove you own this eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1992,7 +1992,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>Obriši &amp;sve</translation>
+        <translation>Obrii &amp;sve</translation>
     </message>
     <message>
         <location line="-87"/>
@@ -2007,12 +2007,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2023,7 +2023,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2033,7 +2033,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
+        <source>Enter eCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2059,7 +2059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Otključavanje novčanika je otkazano.</translation>
+        <translation>Otkljuavanje novanika je otkazano.</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2128,7 +2128,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1/nepotvrđeno</translation>
+        <translation>%1/nepotvreno</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2191,7 +2191,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+17"/>
         <location line="+30"/>
         <source>Credit</source>
-        <translation>Uplaćeno</translation>
+        <translation>Uplaeno</translation>
     </message>
     <message numerus="yes">
         <location line="-102"/>
@@ -2201,7 +2201,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation>Nije prihvaćeno</translation>
+        <translation>Nije prihvaeno</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -2209,7 +2209,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+15"/>
         <location line="+30"/>
         <source>Debit</source>
-        <translation>Zaduženje</translation>
+        <translation>Zaduenje</translation>
     </message>
     <message>
         <location line="-39"/>
@@ -2238,7 +2238,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2274,7 +2274,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, još nije bio uspješno emitiran</translation>
+        <translation>, jo nije bio uspjeno emitiran</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2325,7 +2325,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Potvrđen (%1 potvrda)</translation>
+        <translation>Potvren (%1 potvrda)</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
@@ -2360,12 +2360,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Generirano - Upozorenje: ovaj blok nije bio primljen od strane bilo kojeg drugog noda i vjerojatno neće biti prihvaćen!</translation>
+        <translation>Generirano - Upozorenje: ovaj blok nije bio primljen od strane bilo kojeg drugog noda i vjerojatno nee biti prihvaen!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>Generirano, ali nije prihvaćeno</translation>
+        <translation>Generirano, ali nije prihvaeno</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2385,7 +2385,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>Plaćanje samom sebi</translation>
+        <translation>Plaanje samom sebi</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2415,7 +2415,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Odredište transakcije</translation>
+        <translation>Odredite transakcije</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2449,7 +2449,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Prošli mjesec</translation>
+        <translation>Proli mjesec</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2489,7 +2489,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Unesite adresu ili oznaku za pretraživanje</translation>
+        <translation>Unesite adresu ili oznaku za pretraivanje</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2539,7 +2539,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>Potvrđeno</translation>
+        <translation>Potvreno</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2604,7 +2604,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
+        <source>eCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2614,18 +2614,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
+        <source>Send command to -server or eCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>Prikaži komande</translation>
+        <translation>Prikai komande</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Potraži pomoć za komandu</translation>
+        <translation>Potrai pomo za komandu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2634,12 +2634,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
+        <source>Specify configuration file (default: eCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
+        <source>Specify pid file (default: eCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2664,13 +2664,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Održavaj najviše &lt;n&gt; veza sa članovima (default: 125)</translation>
+        <translation>Odravaj najvie &lt;n&gt; veza sa lanovima (default: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2695,12 +2695,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Prag za odspajanje članova koji se čudno ponašaju (default: 100)</translation>
+        <translation>Prag za odspajanje lanova koji se udno ponaaju (default: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Broj sekundi koliko se članovima koji se čudno ponašaju neće dopustiti da se opet spoje (default: 86400)</translation>
+        <translation>Broj sekundi koliko se lanovima koji se udno ponaaju nee dopustiti da se opet spoje (default: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -2724,7 +2724,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2755,12 +2755,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Izvršavaj u pozadini kao uslužnik i prihvaćaj komande</translation>
+        <translation>Izvravaj u pozadini kao uslunik i prihvaaj komande</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>Koristi test mrežu</translation>
+        <translation>Koristi test mreu</translation>
     </message>
     <message>
         <location line="-24"/>
@@ -2785,11 +2785,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Upozorenje: -paytxfee je podešen na preveliki iznos.  To je iznos koji ćete platiti za obradu transakcije.</translation>
+        <translation>Upozorenje: -paytxfee je podeen na preveliki iznos.  To je iznos koji ete platiti za obradu transakcije.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2815,7 +2815,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>Poveži se samo sa određenim nodom</translation>
+        <translation>Povei se samo sa odreenim nodom</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2880,7 +2880,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Bitcoin Wiki)</translation>
+        <translation>SSL postavke: (za detalje o podeavanju SSL opcija vidi Bitcoin Wiki)</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -2890,7 +2890,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Šalji trace/debug informacije na konzolu umjesto u debug.log datoteku</translation>
+        <translation>alji trace/debug informacije na konzolu umjesto u debug.log datoteku</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2905,7 +2905,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Podesite minimalnu veličinu bloka u bajtovima (default: 0)</translation>
+        <translation>Podesite minimalnu veliinu bloka u bajtovima (default: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
@@ -2915,7 +2915,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Odredi vremenski prozor za spajanje na mrežu u milisekundama (ugrađeni izbor: 5000)</translation>
+        <translation>Odredi vremenski prozor za spajanje na mreu u milisekundama (ugraeni izbor: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2926,12 +2926,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Pokušaj koristiti UPnP da otvoriš port za uslugu (default: 0)</translation>
+        <translation>Pokuaj koristiti UPnP da otvori port za uslugu (default: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Pokušaj koristiti UPnP da otvoriš port za uslugu (default: 1 when listening)</translation>
+        <translation>Pokuaj koristiti UPnP da otvori port za uslugu (default: 1 when listening)</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -2941,7 +2941,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Korisničko ime za JSON-RPC veze</translation>
+        <translation>Korisniko ime za JSON-RPC veze</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -2978,13 +2978,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3006,17 +3006,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Dozvoli JSON-RPC povezivanje s određene IP adrese</translation>
+        <translation>Dozvoli JSON-RPC povezivanje s odreene IP adrese</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Pošalji komande nodu na adresi &lt;ip&gt; (ugrađeni izbor: 127.0.0.1)</translation>
+        <translation>Poalji komande nodu na adresi &lt;ip&gt; (ugraeni izbor: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Izvršite naredbu kada se najbolji blok promjeni (%s u cmd je zamjenjen sa block hash)</translation>
+        <translation>Izvrite naredbu kada se najbolji blok promjeni (%s u cmd je zamjenjen sa block hash)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3041,17 +3041,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Nadogradite novčanik u posljednji format.</translation>
+        <translation>Nadogradite novanik u posljednji format.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Podesi memorijski prostor za ključeve na &lt;n&gt; (ugrađeni izbor: 100)</translation>
+        <translation>Podesi memorijski prostor za kljueve na &lt;n&gt; (ugraeni izbor: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Ponovno pretraži lanac blokova za transakcije koje nedostaju</translation>
+        <translation>Ponovno pretrai lanac blokova za transakcije koje nedostaju</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3076,12 +3076,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Uslužnikov SSL certifikat (ugrađeni izbor: server.cert)</translation>
+        <translation>Uslunikov SSL certifikat (ugraeni izbor: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Uslužnikov privatni ključ (ugrađeni izbor: server.pem)</translation>
+        <translation>Uslunikov privatni klju (ugraeni izbor: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3101,7 +3101,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Ova poruka za pomoć</translation>
+        <translation>Ova poruka za pomo</translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3110,18 +3110,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Program ne može koristiti %s na ovom računalu (bind returned error %d, %s)</translation>
+        <translation>Program ne moe koristiti %s na ovom raunalu (bind returned error %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3136,7 +3136,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>Učitavanje adresa...</translation>
+        <translation>Uitavanje adresa...</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -3146,22 +3146,22 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik pokvaren</translation>
+        <translation>Greka kod uitavanja wallet.dat: Novanik pokvaren</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>Greška kod učitavanja wallet.dat</translation>
+        <translation>Greka kod uitavanja wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
@@ -3216,16 +3216,16 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>Učitavanje indeksa blokova...</translation>
+        <translation>Uitavanje indeksa blokova...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Unesite nod s kojim se želite spojiti and attempt to keep the connection open</translation>
+        <translation>Unesite nod s kojim se elite spojiti and attempt to keep the connection open</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3241,12 +3241,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>Učitavanje novčanika...</translation>
+        <translation>Uitavanje novanika...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Nije moguće novčanik vratiti na prijašnju verziju.</translation>
+        <translation>Nije mogue novanik vratiti na prijanju verziju.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,7 +3256,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>Nije moguće upisati zadanu adresu.</translation>
+        <translation>Nije mogue upisati zadanu adresu.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3266,7 +3266,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>Učitavanje gotovo</translation>
+        <translation>Uitavanje gotovo</translation>
     </message>
     <message>
         <location line="-167"/>
@@ -3276,7 +3276,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+14"/>
         <source>Error</source>
-        <translation>Greška</translation>
+        <translation>Greka</translation>
     </message>
     <message>
         <location line="+6"/>

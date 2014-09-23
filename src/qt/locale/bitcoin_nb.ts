@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
+        <source>About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>
 Dette er eksperimentell programvare.
 
-Distribuert under MIT/X11 programvarelisensen, se medfølgende fil COPYING eller http://www.opensource.org/licenses/mit-license.php.
+Distribuert under MIT/X11 programvarelisensen, se medflgende fil COPYING eller http://www.opensource.org/licenses/mit-license.php.
 
 Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i OpenSSL Toolkit (http://www.openssl.org/) og kryptografisk programvare skrevet av Eric Young (eay@cryptsoft.com) og UPnP programvare skrevet av Thomas Bernard.</translation>
     </message>
@@ -44,7 +44,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Dobbeltklikk for å redigere adresse eller merkelapp</translation>
+        <translation>Dobbeltklikk for  redigere adresse eller merkelapp</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -63,7 +63,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -78,7 +78,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
+        <source>Sign a message to prove you own a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -93,7 +93,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -190,7 +190,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Skriv inn den nye adgangsfrasen for lommeboken.&lt;br/&gt;Vennligst bruk en adgangsfrase med &lt;b&gt;10 eller flere tilfeldige tegn&lt;/b&gt;, eller &lt;b&gt;åtte eller flere ord&lt;/b&gt;.</translation>
+        <translation>Skriv inn den nye adgangsfrasen for lommeboken.&lt;br/&gt;Vennligst bruk en adgangsfrase med &lt;b&gt;10 eller flere tilfeldige tegn&lt;/b&gt;, eller &lt;b&gt;tte eller flere ord&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -200,17 +200,17 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Denne operasjonen krever adgangsfrasen til lommeboken for å låse den opp.</translation>
+        <translation>Denne operasjonen krever adgangsfrasen til lommeboken for  lse den opp.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Lås opp lommebok</translation>
+        <translation>Ls opp lommebok</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Denne operasjonen krever adgangsfrasen til lommeboken for å dekryptere den.</translation>
+        <translation>Denne operasjonen krever adgangsfrasen til lommeboken for  dekryptere den.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -240,18 +240,18 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Er du sikker på at du vil kryptere lommeboken?</translation>
+        <translation>Er du sikker p at du vil kryptere lommeboken?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>VIKTIG: Tidligere sikkerhetskopier av din lommebok-fil, bør erstattes med den nylig genererte, krypterte filen, da de blir ugyldiggjort av sikkerhetshensyn så snart du begynner å bruke den nye krypterte lommeboken.</translation>
+        <translation>VIKTIG: Tidligere sikkerhetskopier av din lommebok-fil, br erstattes med den nylig genererte, krypterte filen, da de blir ugyldiggjort av sikkerhetshensyn s snart du begynner  bruke den nye krypterte lommeboken.</translation>
     </message>
     <message>
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Advarsel: Caps Lock er på !</translation>
+        <translation>Advarsel: Caps Lock er p !</translation>
     </message>
     <message>
         <location line="-133"/>
@@ -261,7 +261,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -275,7 +275,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Kryptering av lommebok feilet på grunn av en intern feil. Din lommebok ble ikke kryptert.</translation>
+        <translation>Kryptering av lommebok feilet p grunn av en intern feil. Din lommebok ble ikke kryptert.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -286,7 +286,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>Opplåsing av lommebok feilet</translation>
+        <translation>Opplsing av lommebok feilet</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -375,7 +375,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
+        <source>Show information about eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -425,12 +425,12 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
+        <source>Send coins to a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -456,12 +456,12 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+10"/>
         <source>&amp;Debug window</source>
-        <translation>&amp;Feilsøkingsvindu</translation>
+        <translation>&amp;Feilskingsvindu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Åpne konsoll for feilsøk og diagnostikk</translation>
+        <translation>pne konsoll for feilsk og diagnostikk</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -470,7 +470,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +480,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
+        <source>&amp;About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -521,7 +521,7 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>Verktøylinje for faner</translation>
+        <translation>Verktylinje for faner</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -537,12 +537,12 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
+        <source>eCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
+        <source>%n active connection(s) to eCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -582,12 +582,12 @@ Dette produktet inneholder programvare utviklet av OpenSSL prosjektet for bruk i
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -653,7 +653,7 @@ Type: %3
 Address: %4
 </source>
         <translation>Dato: %1
-Beløp: %2
+Belp: %2
 Type: %3
 Adresse: %4
 </translation>
@@ -667,18 +667,18 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>Lommeboken er &lt;b&gt;kryptert&lt;/b&gt; og for tiden &lt;b&gt;ulåst&lt;/b&gt;</translation>
+        <translation>Lommeboken er &lt;b&gt;kryptert&lt;/b&gt; og for tiden &lt;b&gt;ulst&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>Lommeboken er &lt;b&gt;kryptert&lt;/b&gt; og for tiden &lt;b&gt;låst&lt;/b&gt;</translation>
+        <translation>Lommeboken er &lt;b&gt;kryptert&lt;/b&gt; og for tiden &lt;b&gt;lst&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -727,7 +727,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -759,7 +759,7 @@ Adresse: %4
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>Beløp:</translation>
+        <translation>Belp:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -809,7 +809,7 @@ Adresse: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Beløp</translation>
+        <translation>Belp</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -855,7 +855,7 @@ Adresse: %4
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Kopiér beløp</translation>
+        <translation>Kopiér belp</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -900,17 +900,17 @@ Adresse: %4
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation>høyest</translation>
+        <translation>hyest</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>high</source>
-        <translation>høy</translation>
+        <translation>hy</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation>medium-høy</translation>
+        <translation>medium-hy</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1047,18 +1047,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>Kunne ikke låse opp lommeboken.</translation>
+        <translation>Kunne ikke lse opp lommeboken.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Generering av ny nøkkel feilet.</translation>
+        <translation>Generering av ny nkkel feilet.</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1066,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
+        <source>eCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1139,12 +1139,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
+        <source>Automatically start eCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
+        <source>&amp;Start eCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1164,7 +1164,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1174,7 +1174,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1230,7 +1230,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimerer vinduet istedenfor å avslutte applikasjonen når vinduet lukkes. Når dette er slått på avsluttes applikasjonen kun ved å velge avslutt i menyen.</translation>
+        <translation>Minimerer vinduet istedenfor  avslutte applikasjonen nr vinduet lukkes. Nr dette er sltt p avsluttes applikasjonen kun ved  velge avslutt i menyen.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1245,17 +1245,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>&amp;Språk for brukergrensesnitt</translation>
+        <translation>&amp;Sprk for brukergrensesnitt</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>&amp;Enhet for visning av beløper:</translation>
+        <translation>&amp;Enhet for visning av belper:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1264,7 +1264,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1311,7 +1311,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1330,7 +1330,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1356,7 +1356,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>Din nåværende saldo</translation>
+        <translation>Din nvrende saldo</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1376,7 +1376,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>Din nåværende saldo</translation>
+        <translation>Din nvrende saldo</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1522,7 +1522,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>Nåværende antall blokker</translation>
+        <translation>Nvrende antall blokker</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1537,7 +1537,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>&amp;Åpne</translation>
+        <translation>&amp;pne</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1546,7 +1546,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1566,38 +1566,38 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
+        <source>eCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
+        <source>eCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>Loggfil for feilsøk</translation>
+        <translation>Loggfil for feilsk</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>Tøm konsoll</translation>
+        <translation>Tm konsoll</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
+        <source>Welcome to the eCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.</translation>
+        <translation>Bruk opp og ned pil for  navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for  tmme skjermen.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1658,14 +1658,14 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>Beløp:</translation>
+        <translation>Belp:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
+        <source>0.00 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1735,7 +1735,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
+        <source>123.456 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1750,7 +1750,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1761,7 +1761,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopiér beløp</translation>
+        <translation>Kopiér belp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1821,17 +1821,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Beløpen som skal betales må være over 0.</translation>
+        <translation>Belpen som skal betales m vre over 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Beløpet overstiger saldo.</translation>
+        <translation>Belpet overstiger saldo.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Totalbeløpet overstiger saldo etter at %1 transaksjonsgebyr er lagt til.</translation>
+        <translation>Totalbelpet overstiger saldo etter at %1 transaksjonsgebyr er lagt til.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1850,7 +1850,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
+        <source>WARNING: Invalid eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1874,7 +1874,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>&amp;Beløp:</translation>
+        <translation>&amp;Belp:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1885,7 +1885,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Skriv inn en merkelapp for denne adressen for å legge den til i din adressebok</translation>
+        <translation>Skriv inn en merkelapp for denne adressen for  legge den til i din adressebok</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1894,7 +1894,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1924,7 +1924,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1944,11 +1944,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan signere meldinger med dine adresser for å bevise at du eier dem. Ikke signér vage meldinger da phishing-angrep kan prøve å lure deg til å signere din identitet over til andre. Signér kun fullt detaljerte utsagn som du er enig i.</translation>
+        <translation>Du kan signere meldinger med dine adresser for  bevise at du eier dem. Ikke signér vage meldinger da phishing-angrep kan prve  lure deg til  signere din identitet over til andre. Signér kun fullt detaljerte utsagn som du er enig i.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1985,7 +1985,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
+        <source>Sign the message to prove you own this eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2008,16 +2008,16 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Angi adresse for signering, melding (vær sikker på at du kopierer linjeskift, mellomrom, tab, etc. helt nøyaktig) og signatur under for å verifisere meldingen. Vær forsiktig med at du ikke gir signaturen mer betydning enn det som faktisk står i meldingen, for å unngå å bli lurt av såkalte &quot;man-in-the-middle&quot; angrep.</translation>
+        <translation>Angi adresse for signering, melding (vr sikker p at du kopierer linjeskift, mellomrom, tab, etc. helt nyaktig) og signatur under for  verifisere meldingen. Vr forsiktig med at du ikke gir signaturen mer betydning enn det som faktisk str i meldingen, for  unng  bli lurt av skalte &quot;man-in-the-middle&quot; angrep.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2028,17 +2028,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>Klikk &quot;Signer Melding&quot; for å generere signatur</translation>
+        <translation>Klikk &quot;Signer Melding&quot; for  generere signatur</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
+        <source>Enter eCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2053,23 +2053,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Vennligst sjekk adressen og prøv igjen.</translation>
+        <translation>Vennligst sjekk adressen og prv igjen.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>Angitt adresse refererer ikke til en nøkkel.</translation>
+        <translation>Angitt adresse refererer ikke til en nkkel.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>Opplåsing av lommebok ble avbrutt.</translation>
+        <translation>Opplsing av lommebok ble avbrutt.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>Privat nøkkel for den angitte adressen er ikke tilgjengelig.</translation>
+        <translation>Privat nkkel for den angitte adressen er ikke tilgjengelig.</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2090,7 +2090,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Vennligst sjekk signaturen og prøv igjen.</translation>
+        <translation>Vennligst sjekk signaturen og prv igjen.</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2113,7 +2113,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../transactiondesc.cpp" line="+19"/>
         <source>Open until %1</source>
-        <translation>Åpen til %1</translation>
+        <translation>pen til %1</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
@@ -2224,7 +2224,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation>Nettobeløp</translation>
+        <translation>Nettobelp</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2243,13 +2243,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation>Informasjon for feilsøk</translation>
+        <translation>Informasjon for feilsk</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2264,7 +2264,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>Beløp</translation>
+        <translation>Belp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2320,12 +2320,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>Beløp</translation>
+        <translation>Belp</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>Åpen til %1</translation>
+        <translation>pen til %1</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -2335,7 +2335,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message numerus="yes">
         <location line="-15"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Åpen for %n blokk til</numerusform><numerusform>Åpen for %n blokker til</numerusform></translation>
+        <translation><numerusform>pen for %n blokk til</numerusform><numerusform>pen for %n blokker til</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2405,7 +2405,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Transaksjonsstatus. Hold muspekeren over dette feltet for å se antall bekreftelser.</translation>
+        <translation>Transaksjonsstatus. Hold muspekeren over dette feltet for  se antall bekreftelser.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2425,7 +2425,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>Beløp fjernet eller lagt til saldo.</translation>
+        <translation>Belp fjernet eller lagt til saldo.</translation>
     </message>
 </context>
 <context>
@@ -2449,17 +2449,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>Denne måneden</translation>
+        <translation>Denne mneden</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Forrige måned</translation>
+        <translation>Forrige mned</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>Dette året</translation>
+        <translation>Dette ret</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2494,12 +2494,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Skriv inn adresse eller merkelapp for søk</translation>
+        <translation>Skriv inn adresse eller merkelapp for sk</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>Minimumsbeløp</translation>
+        <translation>Minimumsbelp</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -2514,7 +2514,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Kopiér beløp</translation>
+        <translation>Kopiér belp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2569,7 +2569,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>Beløp</translation>
+        <translation>Belp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2609,7 +2609,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
+        <source>eCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2619,7 +2619,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
+        <source>Send command to -server or eCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2639,12 +2639,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
+        <source>Specify configuration file (default: eCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
+        <source>Specify pid file (default: eCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2660,7 +2660,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Sett størrelse på mellomlager for database i megabytes (standardverdi: 25)</translation>
+        <translation>Sett strrelse p mellomlager for database i megabytes (standardverdi: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2669,18 +2669,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Hold maks &lt;n&gt; koblinger åpne til andre noder (standardverdi: 125)</translation>
+        <translation>Hold maks &lt;n&gt; koblinger pne til andre noder (standardverdi: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Koble til node for å hente adresser til andre noder, koble så fra igjen</translation>
+        <translation>Koble til node for  hente adresser til andre noder, koble s fra igjen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2700,12 +2700,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Grenseverdi for å koble fra noder med dårlig oppførsel (standardverdi: 100)</translation>
+        <translation>Grenseverdi for  koble fra noder med drlig oppfrsel (standardverdi: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Antall sekunder noder med dårlig oppførsel hindres fra å koble til på nytt (standardverdi: 86400)</translation>
+        <translation>Antall sekunder noder med drlig oppfrsel hindres fra  koble til p nytt (standardverdi: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -2729,7 +2729,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2760,7 +2760,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Kjør i bakgrunnen som daemon og ta imot kommandoer</translation>
+        <translation>Kjr i bakgrunnen som daemon og ta imot kommandoer</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2790,11 +2790,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Advarsel: -paytxfee er satt veldig høyt! Dette er transaksjonsgebyret du betaler når du sender transaksjoner.</translation>
+        <translation>Advarsel: -paytxfee er satt veldig hyt! Dette er transaksjonsgebyret du betaler nr du sender transaksjoner.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2805,12 +2805,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Advarsel: wallet.dat korrupt, data reddet! Original wallet.dat lagret som wallet.{timestamp}.bak i %s; hvis din saldo eller dine transaksjoner ikke er korrekte bør du gjenopprette fra en backup.</translation>
+        <translation>Advarsel: wallet.dat korrupt, data reddet! Original wallet.dat lagret som wallet.{timestamp}.bak i %s; hvis din saldo eller dine transaksjoner ikke er korrekte br du gjenopprette fra en backup.</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Forsøk å berge private nøkler fra en korrupt wallet.dat</translation>
+        <translation>Forsk  berge private nkler fra en korrupt wallet.dat</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2830,7 +2830,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Kunne ikke lytte på noen port. Bruk -listen=0 hvis det er dette du vil.</translation>
+        <translation>Kunne ikke lytte p noen port. Bruk -listen=0 hvis det er dette du vil.</translation>
     </message>
     <message>
         <location line="-90"/>
@@ -2910,12 +2910,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Sett minimum blokkstørrelse i bytes (standardverdi: 0)</translation>
+        <translation>Sett minimum blokkstrrelse i bytes (standardverdi: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Krymp debug.log filen når klienten starter (standardverdi: 1 hvis uten -debug)</translation>
+        <translation>Krymp debug.log filen nr klienten starter (standardverdi: 1 hvis uten -debug)</translation>
     </message>
     <message>
         <location line="-42"/>
@@ -2983,13 +2983,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3016,17 +3016,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Send kommandoer til node på &lt;ip&gt; (standardverdi: 127.0.0.1)</translation>
+        <translation>Send kommandoer til node p &lt;ip&gt; (standardverdi: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Eksekvér kommando når beste blokk endrer seg (%s i kommandoen erstattes med blokkens hash)</translation>
+        <translation>Eksekvér kommando nr beste blokk endrer seg (%s i kommandoen erstattes med blokkens hash)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>Kjør kommando når en lommeboktransaksjon endres (%s i cmd er erstattet med TxID)</translation>
+        <translation>Kjr kommando nr en lommeboktransaksjon endres (%s i cmd er erstattet med TxID)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3051,7 +3051,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Angi størrelse på nøkkel-lager til &lt;n&gt; (standardverdi: 100)</translation>
+        <translation>Angi strrelse p nkkel-lager til &lt;n&gt; (standardverdi: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3086,7 +3086,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Servers private nøkkel (standardverdi: server.pem)</translation>
+        <translation>Servers private nkkel (standardverdi: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3115,18 +3115,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Kan ikke binde til %s på denne datamaskinen (bind returnerte feil %d, %s)</translation>
+        <translation>Kan ikke binde til %s p denne datamaskinen (bind returnerte feil %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3155,12 +3155,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3186,17 +3186,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>Kunne ikke slå opp -bind adresse: &apos;%s&apos;</translation>
+        <translation>Kunne ikke sl opp -bind adresse: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>Kunne ikke slå opp -externalip adresse: &apos;%s&apos;</translation>
+        <translation>Kunne ikke sl opp -externalip adresse: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Ugyldig beløp for -paytxfee=&lt;beløp&gt;: &apos;%s&apos;</translation>
+        <translation>Ugyldig belp for -paytxfee=&lt;belp&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3211,7 +3211,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Ugyldig beløp</translation>
+        <translation>Ugyldig belp</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3226,11 +3226,11 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Legg til node for tilkobling og hold forbindelsen åpen</translation>
+        <translation>Legg til node for tilkobling og hold forbindelsen pen</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3276,7 +3276,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>For å bruke %s opsjonen</translation>
+        <translation>For  bruke %s opsjonen</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -3288,7 +3288,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Du må sette rpcpassword=&lt;passord&gt; i konfigurasjonsfilen:
+        <translation>Du m sette rpcpassword=&lt;passord&gt; i konfigurasjonsfilen:
 %s
 Hvis filen ikke finnes, opprett den med leserettighet kun for eier av filen.</translation>
     </message>

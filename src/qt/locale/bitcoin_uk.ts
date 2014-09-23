@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
+        <source>About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27,11 +27,11 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-Це програмне забезпечення є експериментальним.
+Це програмне забезпечення  експериментальним.
 
-Поширюється за ліцензією MIT/X11, додаткова інформація міститься у файлі COPYING, а також за адресою http://www.opensource.org/licenses/mit-license.php.
+Поширються за лцензю MIT/X11, додаткова нформаця мститься у файл COPYING, а також за адресою http://www.opensource.org/licenses/mit-license.php.
 
-Цей продукт включає в себе програмне забезпечення, розроблене в рамках проекту OpenSSL (http://www.openssl.org/), криптографічне програмне забезпечення, написане Еріком Янгом (eay@cryptsoft.com), та функції для роботи з UPnP, написані Томасом Бернардом.</translation>
+Цей продукт включа в себе програмне забезпечення, розроблене в рамках проекту OpenSSL (http://www.openssl.org/), криптографчне програмне забезпечення, написане Ерком Янгом (eay@cryptsoft.com), та функц для роботи з UPnP, написан Томасом Бернардом.</translation>
     </message>
 </context>
 <context>
@@ -44,7 +44,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Двічі клікніть на адресу чи назву для їх зміни</translation>
+        <translation>Двч клкнть на адресу чи назву для х змни</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -54,7 +54,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Копіювати виділену адресу в буфер обміну</translation>
+        <translation>Копювати видлену адресу в буфер обмну</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -63,13 +63,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Скопіювати адресу</translation>
+        <translation>&amp;Скопювати адресу</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -78,7 +78,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
+        <source>Sign a message to prove you own a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -89,11 +89,11 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Вилучити вибрані адреси з переліку</translation>
+        <translation>Вилучити вибран адреси з перелку</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -109,7 +109,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>Скопіювати &amp;мітку</translation>
+        <translation>Скопювати &amp;мтку</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -124,7 +124,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Файли відділені комами (*.csv)</translation>
+        <translation>Файли вддлен комами (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -152,7 +152,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(немає назви)</translation>
+        <translation>(нема назви)</translation>
     </message>
 </context>
 <context>
@@ -160,12 +160,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Діалог введення паролю</translation>
+        <translation>Далог введення паролю</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Введіть пароль</translation>
+        <translation>Введть пароль</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -175,7 +175,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>Повторіть пароль</translation>
+        <translation>Повторть пароль</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -190,7 +190,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Введіть новий пароль для гаманця.&lt;br/&gt;Будь ласка, використовуйте паролі що містять &lt;b&gt;як мінімум 10 випадкових символів&lt;/b&gt;, або &lt;b&gt;як мінімум 8 слів&lt;/b&gt;.</translation>
+        <translation>Введть новий пароль для гаманця.&lt;br/&gt;Будь ласка, використовуйте парол що мстять &lt;b&gt;як мнмум 10 випадкових символв&lt;/b&gt;, або &lt;b&gt;як мнмум 8 слв&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -200,7 +200,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Ця операція потребує пароль для розблокування гаманця.</translation>
+        <translation>Ця операця потребу пароль для розблокування гаманця.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -210,7 +210,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Ця операція потребує пароль для дешифрування гаманця.</translation>
+        <translation>Ця операця потребу пароль для дешифрування гаманця.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -220,17 +220,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Змінити пароль</translation>
+        <translation>Змнити пароль</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Ввести старий та новий паролі для гаманця.</translation>
+        <translation>Ввести старий та новий парол для гаманця.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Підтвердити шифрування гаманця</translation>
+        <translation>Пдтвердити шифрування гаманця</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -240,18 +240,18 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Ви дійсно хочете зашифрувати свій гаманець?</translation>
+        <translation>Ви дйсно хочете зашифрувати свй гаманець?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>ВАЖЛИВО: Всі попередні резервні копії, які ви зробили з вашого гаманця файл повинен бути замінений новоствореному, зашифрованому файлі гаманця. З міркувань безпеки, попередні резервні копії в незашифрованому файлі гаманець стане марним, як тільки ви починаєте використовувати нову, зашифрований гаманець.</translation>
+        <translation>ВАЖЛИВО: Вс попередн резервн коп, як ви зробили з вашого гаманця файл повинен бути замнений новоствореному, зашифрованому файл гаманця. З мркувань безпеки, попередн резервн коп в незашифрованому файл гаманець стане марним, як тльки ви починате використовувати нову, зашифрований гаманець.</translation>
     </message>
     <message>
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Увага: Ввімкнено Caps Lock!</translation>
+        <translation>Увага: Ввмкнено Caps Lock!</translation>
     </message>
     <message>
         <location line="-133"/>
@@ -261,7 +261,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -275,13 +275,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Виникла помилка під час шифрування гаманця. Ваш гаманець не було зашифровано.</translation>
+        <translation>Виникла помилка пд час шифрування гаманця. Ваш гаманець не було зашифровано.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Введені паролі не співпадають.</translation>
+        <translation>Введен парол не спвпадають.</translation>
     </message>
     <message>
         <location line="-38"/>
@@ -293,7 +293,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Введений пароль є невірним.</translation>
+        <translation>Введений пароль  неврним.</translation>
     </message>
     <message>
         <location line="-20"/>
@@ -303,7 +303,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>Пароль було успішно змінено.</translation>
+        <translation>Пароль було успшно змнено.</translation>
     </message>
 </context>
 <context>
@@ -311,12 +311,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
-        <translation>&amp;Підписати повідомлення...</translation>
+        <translation>&amp;Пдписати повдомлення...</translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>Синхронізація з мережею...</translation>
+        <translation>Синхронзаця з мережею...</translation>
     </message>
     <message>
         <location line="-319"/>
@@ -331,12 +331,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+17"/>
         <source>&amp;Transactions</source>
-        <translation>Транзакції</translation>
+        <translation>Транзакц</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Переглянути історію транзакцій</translation>
+        <translation>Переглянути сторю транзакцй</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -366,7 +366,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+35"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Вихід</translation>
+        <translation>&amp;Вихд</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -375,7 +375,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
+        <source>Show information about eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -386,7 +386,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>Показати інформацію про Qt</translation>
+        <translation>Показати нформацю про Qt</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -401,12 +401,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Резервне копіювання гаманця...</translation>
+        <translation>&amp;Резервне копювання гаманця...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>Змінити парол&amp;ь...</translation>
+        <translation>Змнити парол&amp;ь...</translation>
     </message>
     <message numerus="yes">
         <location line="+259"/>
@@ -425,12 +425,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
+        <source>Send coins to a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -446,31 +446,31 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Резервне копіювання гаманця в інше місце</translation>
+        <translation>Резервне копювання гаманця в нше мсце</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Змінити пароль, який використовується для шифрування гаманця</translation>
+        <translation>Змнити пароль, який використовуться для шифрування гаманця</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Debug window</source>
-        <translation>Вікно зневадження</translation>
+        <translation>Вкно зневадження</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Відкрити консоль зневадження і діагностики</translation>
+        <translation>Вдкрити консоль зневадження  дагностики</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>&amp;Verify message...</source>
-        <translation>Перевірити повідомлення...</translation>
+        <translation>Переврити повдомлення...</translation>
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -480,7 +480,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
+        <source>&amp;About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -516,7 +516,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>&amp;Довідка</translation>
+        <translation>&amp;Довдка</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -537,12 +537,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
+        <source>eCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
+        <source>%n active connection(s) to eCoin network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -582,12 +582,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -613,12 +613,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Up to date</source>
-        <translation>Синхронізовано</translation>
+        <translation>Синхронзовано</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>Синхронізується...</translation>
+        <translation>Синхронзуться...</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -638,12 +638,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation>Надіслані транзакції</translation>
+        <translation>Надслан транзакц</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Incoming transaction</source>
-        <translation>Отримані перекази</translation>
+        <translation>Отриман перекази</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -653,7 +653,7 @@ Type: %3
 Address: %4
 </source>
         <translation>Дата: %1
-Кількість: %2
+Кльксть: %2
 Тип: %3
 Адреса: %4
 </translation>
@@ -667,7 +667,7 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -727,7 +727,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -736,7 +736,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>Сповіщення мережі</translation>
+        <translation>Сповщення мереж</translation>
     </message>
 </context>
 <context>
@@ -759,7 +759,7 @@ Address: %4
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>Кількість:</translation>
+        <translation>Кльксть:</translation>
     </message>
     <message>
         <location line="+32"/>
@@ -809,7 +809,7 @@ Address: %4
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>Кльксть</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -834,7 +834,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>Підтверджені</translation>
+        <translation>Пдтверджен</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -844,23 +844,23 @@ Address: %4
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>Скопіювати адресу</translation>
+        <translation>Скопювати адресу</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Скопіювати мітку</translation>
+        <translation>Скопювати мтку</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>Копіювати кількість</translation>
+        <translation>Копювати кльксть</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation>Копіювати ID транзакції </translation>
+        <translation>Копювати ID транзакц </translation>
     </message>
     <message>
         <location line="+24"/>
@@ -980,7 +980,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+37"/>
         <location line="+66"/>
         <source>(no label)</source>
-        <translation>(немає назви)</translation>
+        <translation>(нема назви)</translation>
     </message>
     <message>
         <location line="-9"/>
@@ -1003,7 +1003,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>&amp;Мітка</translation>
+        <translation>&amp;Мтка</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1028,7 +1028,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>Нова адреса для відправлення</translation>
+        <translation>Нова адреса для вдправлення</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1038,16 +1038,16 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>Редагувати адресу для відправлення</translation>
+        <translation>Редагувати адресу для вдправлення</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>Введена адреса «%1» вже присутня в адресній книзі.</translation>
+        <translation>Введена адреса %1 вже присутня в адреснй книз.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1058,7 +1058,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>Не вдалося згенерувати нові ключі.</translation>
+        <translation>Не вдалося згенерувати нов ключ.</translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1066,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
+        <source>eCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1115,7 +1115,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation>&amp;Головні</translation>
+        <translation>&amp;Головн</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1125,7 +1125,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>Заплатити комісі&amp;ю</translation>
+        <translation>Заплатити комс&amp;ю</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1139,12 +1139,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
+        <source>Automatically start eCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
+        <source>&amp;Start eCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1164,17 +1164,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>Відображення порту через &amp;UPnP</translation>
+        <translation>Вдображення порту через &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1185,7 +1185,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation>&amp;IP проксі:</translation>
+        <translation>&amp;IP прокс:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1200,77 +1200,77 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Порт проксі-сервера (наприклад 9050)</translation>
+        <translation>Порт прокс-сервера (наприклад 9050)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation>SOCKS версії:</translation>
+        <translation>SOCKS верс:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation>Версія SOCKS-проксі (наприклад 5)</translation>
+        <translation>Верся SOCKS-прокс (наприклад 5)</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation>&amp;Вікно</translation>
+        <translation>&amp;Вкно</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Показувати лише іконку в треї після згортання вікна.</translation>
+        <translation>Показувати лише конку в тре псля згортання вкна.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>Мінімізувати &amp;у трей</translation>
+        <translation>Мнмзувати &amp;у трей</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Згортати замість закриття. Якщо ця опція включена, програма закриється лише після вибору відповідного пункту в меню.</translation>
+        <translation>Згортати замсть закриття. Якщо ця опця включена, програма закриться лише псля вибору вдповдного пункту в меню.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>Згортати замість закритт&amp;я</translation>
+        <translation>Згортати замсть закритт&amp;я</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation>&amp;Відображення</translation>
+        <translation>&amp;Вдображення</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>Мова інтерфейсу користувача:</translation>
+        <translation>Мова нтерфейсу користувача:</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>В&amp;имірювати монети в:</translation>
+        <translation>В&amp;имрювати монети в:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Виберіть одиницю вимірювання монет, яка буде відображатись в гаманці та при відправленні.</translation>
+        <translation>Виберть одиницю вимрювання монет, яка буде вдображатись в гаманц та при вдправленн.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>&amp;Відображати адресу в списку транзакцій</translation>
+        <translation>&amp;Вдображати адресу в списку транзакцй</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1311,13 +1311,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Невірно вказано адресу проксі.</translation>
+        <translation>Неврно вказано адресу прокс.</translation>
     </message>
 </context>
 <context>
@@ -1330,7 +1330,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1361,12 +1361,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+71"/>
         <source>Immature:</source>
-        <translation>незрілі:</translation>
+        <translation>незрл:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>Замінований баланс, який ще не дозрів</translation>
+        <translation>Замнований баланс, який ще не дозрв</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1381,7 +1381,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Недавні транзакції&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Недавн транзакц&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-108"/>
@@ -1397,7 +1397,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../overviewpage.cpp" line="+113"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation>не синхронізовано</translation>
+        <translation>не синхронзовано</translation>
     </message>
 </context>
 <context>
@@ -1463,7 +1463,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation>Назва клієнту</translation>
+        <translation>Назва клнту</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1482,17 +1482,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation>Версія клієнту</translation>
+        <translation>Верся клнту</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation>&amp;Інформація</translation>
+        <translation>&amp;нформаця</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>Використовується OpenSSL версії</translation>
+        <translation>Використовуться OpenSSL верс</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1507,7 +1507,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>Кількість підключень</translation>
+        <translation>Кльксть пдключень</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1517,17 +1517,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>Ланцюг блоків</translation>
+        <translation>Ланцюг блокв</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>Поточне число блоків</translation>
+        <translation>Поточне число блокв</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>Розрахункове число блоків</translation>
+        <translation>Розрахункове число блокв</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1537,7 +1537,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>Відкрити</translation>
+        <translation>Вдкрити</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1546,7 +1546,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1566,22 +1566,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
+        <source>eCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
+        <source>eCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>Файл звіту зневадження</translation>
+        <translation>Файл звту зневадження</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1591,18 +1591,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
+        <source>Welcome to the eCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Використовуйте стрілки вгору вниз для навігації по історії, і &lt;b&gt;Ctrl-L&lt;/b&gt; для очищення екрана.</translation>
+        <translation>Використовуйте стрлки вгору вниз для навгац по стор,  &lt;b&gt;Ctrl-L&lt;/b&gt; для очищення екрана.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Наберіть &lt;b&gt;help&lt;/b&gt; для перегляду доступних команд.</translation>
+        <translation>Наберть &lt;b&gt;help&lt;/b&gt; для перегляду доступних команд.</translation>
     </message>
 </context>
 <context>
@@ -1617,7 +1617,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Відправити</translation>
+        <translation>Вдправити</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1658,14 +1658,14 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>Кількість:</translation>
+        <translation>Кльксть:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
+        <source>0.00 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1711,7 +1711,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Відправити на декілька адрес</translation>
+        <translation>Вдправити на деклька адрес</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1735,22 +1735,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
+        <source>123.456 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Підтвердити відправлення</translation>
+        <translation>Пдтвердити вдправлення</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>&amp;Відправити</translation>
+        <translation>&amp;Вдправити</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1761,7 +1761,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Копіювати кількість</translation>
+        <translation>Копювати кльксть</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1801,7 +1801,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Підтвердіть відправлення</translation>
+        <translation>Пдтвердть вдправлення</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,27 +1816,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>Адреса отримувача невірна, будь ласка перепровірте.</translation>
+        <translation>Адреса отримувача неврна, будь ласка перепроврте.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Кількість монет для відправлення повинна бути більшою 0.</translation>
+        <translation>Кльксть монет для вдправлення повинна бути бльшою 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>Кількість монет для відправлення перевищує ваш баланс.</translation>
+        <translation>Кльксть монет для вдправлення перевищу ваш баланс.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>Сума перевищить ваш баланс, якщо комісія %1 буде додана до вашої транзакції.</translation>
+        <translation>Сума перевищить ваш баланс, якщо комся %1 буде додана до вашо транзакц.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Знайдено адресу що дублюється. Відправлення на кожну адресу дозволяється лише один раз на кожну операцію переказу.</translation>
+        <translation>Знайдено адресу що дублються. Вдправлення на кожну адресу дозволяться лише один раз на кожну операцю переказу.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1850,13 +1850,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
+        <source>WARNING: Invalid eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation>(немає назви)</translation>
+        <translation>(нема назви)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1874,7 +1874,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>&amp;Кількість:</translation>
+        <translation>&amp;Кльксть:</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1885,16 +1885,16 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Введіть мітку для цієї адреси для додавання її в адресну книгу</translation>
+        <translation>Введть мтку для ц адреси для додавання  в адресну книгу</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Label:</source>
-        <translation>&amp;Мітка:</translation>
+        <translation>&amp;Мтка:</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1924,7 +1924,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1933,22 +1933,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Підписи - Підпис / Перевірка повідомлення</translation>
+        <translation>Пдписи - Пдпис / Переврка повдомлення</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Підписати повідомлення</translation>
+        <translation>&amp;Пдписати повдомлення</translation>
     </message>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Ви можете зареєструватися повідомленнями зі своїми адресами, щоб довести, що ви є їх власником. Будьте обережні, щоб не підписувати що-небудь неясне, як фішинг-атак може спробувати обдурити вас в підписанні вашу особистість до них. Тільки підписати повністю докладні свідчення, користувач зобов&apos;язується.</translation>
+        <translation>Ви можете зареструватися повдомленнями з своми адресами, щоб довести, що ви  х власником. Будьте обережн, щоб не пдписувати що-небудь неясне, як фшинг-атак може спробувати обдурити вас в пдписанн вашу особистсть до них. Тльки пдписати повнстю докладн свдчення, користувач зобов&apos;язуться.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1976,22 +1976,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Введіть повідомлення, яке ви хочете підписати тут</translation>
+        <translation>Введть повдомлення, яке ви хочете пдписати тут</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Копіювати поточну сигнатуру до системного буферу обміну</translation>
+        <translation>Копювати поточну сигнатуру до системного буферу обмну</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
+        <source>Sign the message to prove you own this eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Скинути всі поля підпису повідомлення</translation>
+        <translation>Скинути вс поля пдпису повдомлення</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2003,42 +2003,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation>Перевірити повідомлення</translation>
+        <translation>Переврити повдомлення</translation>
     </message>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>Введіть адресу підписання, повідомлення (забезпечення копіюванні розриви рядків, прогалини, вкладки і т.д. точно) і підпис нижче, щоб перевірити повідомлення. Будьте обережні, щоб не читати далі в підпис, ніж те, що в підписаному самого повідомлення, щоб уникнути обдурять нападу чоловік-в-середній.</translation>
+        <translation>Введть адресу пдписання, повдомлення (забезпечення копюванн розриви рядкв, прогалини, вкладки  т.д. точно)  пдпис нижче, щоб переврити повдомлення. Будьте обережн, щоб не читати дал в пдпис, нж те, що в пдписаному самого повдомлення, щоб уникнути обдурять нападу чоловк-в-середнй.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>Скинути всі поля перевірки повідомлення</translation>
+        <translation>Скинути вс поля переврки повдомлення</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>Натисніть кнопку «Підписати повідомлення», для отримання підпису</translation>
+        <translation>Натиснть кнопку Пдписати повдомлення, для отримання пдпису</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
+        <source>Enter eCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2053,13 +2053,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>Будь ласка, перевірте адресу та спробуйте ще.</translation>
+        <translation>Будь ласка, переврте адресу та спробуйте ще.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>Введений адреса не відноситься до ключа.</translation>
+        <translation>Введений адреса не вдноситься до ключа.</translation>
     </message>
     <message>
         <location line="-73"/>
@@ -2069,43 +2069,43 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>Приватний ключ для введеної адреси недоступний. </translation>
+        <translation>Приватний ключ для введено адреси недоступний. </translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation>Не вдалося підписати повідомлення.</translation>
+        <translation>Не вдалося пдписати повдомлення.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation>Повідомлення підписано.</translation>
+        <translation>Повдомлення пдписано.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation>Підпис не можливо декодувати.</translation>
+        <translation>Пдпис не можливо декодувати.</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>Будь ласка, перевірте підпис та спробуйте ще.</translation>
+        <translation>Будь ласка, переврте пдпис та спробуйте ще.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation>Підпис не відповідає дайджест повідомлення.</translation>
+        <translation>Пдпис не вдповда дайджест повдомлення.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>Не вдалося перевірити повідомлення.</translation>
+        <translation>Не вдалося переврити повдомлення.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation>Повідомлення перевірено.</translation>
+        <translation>Повдомлення переврено.</translation>
     </message>
 </context>
 <context>
@@ -2113,7 +2113,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../transactiondesc.cpp" line="+19"/>
         <source>Open until %1</source>
-        <translation>Відкрити до %1</translation>
+        <translation>Вдкрити до %1</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
@@ -2128,17 +2128,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1/offline</source>
-        <translation>%1/поза інтернетом</translation>
+        <translation>%1/поза нтернетом</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1/не підтверджено</translation>
+        <translation>%1/не пдтверджено</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 підтверджень</translation>
+        <translation>%1 пдтверджень</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -2169,7 +2169,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation>Відправник</translation>
+        <translation>Вдправник</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2187,7 +2187,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation>Мітка</translation>
+        <translation>Мтка</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2219,7 +2219,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation>Комісія за транзакцію</translation>
+        <translation>Комся за транзакцю</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -2229,7 +2229,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation>Повідомлення</translation>
+        <translation>Повдомлення</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2239,22 +2239,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation>ID транзакції</translation>
+        <translation>ID транзакц</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation>Отладочна інформація</translation>
+        <translation>Отладочна нформаця</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Transaction</source>
-        <translation>Транзакція</translation>
+        <translation>Транзакця</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2264,7 +2264,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>Кльксть</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2279,12 +2279,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, ще не було успішно розіслано</translation>
+        <translation>, ще не було успшно розслано</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>unknown</source>
-        <translation>невідомий</translation>
+        <translation>невдомий</translation>
     </message>
 </context>
 <context>
@@ -2292,12 +2292,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation>Деталі транзакції</translation>
+        <translation>Детал транзакц</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>Даний діалог показує детальну статистику по вибраній транзакції</translation>
+        <translation>Даний далог показу детальну статистику по вибранй транзакц</translation>
     </message>
 </context>
 <context>
@@ -2320,17 +2320,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>Кльксть</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>Відкрити до %1</translation>
+        <translation>Вдкрити до %1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>Підтверджено (%1 підтверджень)</translation>
+        <translation>Пдтверджено (%1 пдтверджень)</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
@@ -2365,12 +2365,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Цей блок не був отриманий жодними іншими вузлами і, ймовірно, не буде прийнятий!</translation>
+        <translation>Цей блок не був отриманий жодними ншими вузлами , ймоврно, не буде прийнятий!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>Згенеровано, але не підтверджено</translation>
+        <translation>Згенеровано, але не пдтверджено</translation>
     </message>
     <message>
         <location line="+42"/>
@@ -2380,17 +2380,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation>Отримано від</translation>
+        <translation>Отримано вд</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation>Відправлено</translation>
+        <translation>Вдправлено</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>Відправлено собі</translation>
+        <translation>Вдправлено соб</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2405,22 +2405,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>Статус транзакції. Наведіть вказівник на це поле, щоб показати кількість підтверджень.</translation>
+        <translation>Статус транзакц. Наведть вказвник на це поле, щоб показати кльксть пдтверджень.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>Дата і час, коли транзакцію було отримано.</translation>
+        <translation>Дата  час, коли транзакцю було отримано.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation>Тип транзакції.</translation>
+        <translation>Тип транзакц.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Адреса отримувача транзакції.</translation>
+        <translation>Адреса отримувача транзакц.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2434,27 +2434,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../transactionview.cpp" line="+55"/>
         <location line="+16"/>
         <source>All</source>
-        <translation>Всі</translation>
+        <translation>Вс</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation>Сьогодні</translation>
+        <translation>Сьогодн</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>На цьому тижні</translation>
+        <translation>На цьому тижн</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>На цьому місяці</translation>
+        <translation>На цьому мсяц</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>Минулого місяця</translation>
+        <translation>Минулого мсяця</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2464,72 +2464,72 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation>Проміжок...</translation>
+        <translation>Промжок...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation>Отримані на</translation>
+        <translation>Отриман на</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation>Відправлені на</translation>
+        <translation>Вдправлен на</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation>Відправлені собі</translation>
+        <translation>Вдправлен соб</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation>Добуті</translation>
+        <translation>Добут</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>Інше</translation>
+        <translation>нше</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>Введіть адресу чи мітку для пошуку</translation>
+        <translation>Введть адресу чи мтку для пошуку</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>Мінімальна сума</translation>
+        <translation>Мнмальна сума</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>Скопіювати адресу</translation>
+        <translation>Скопювати адресу</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>Скопіювати мітку</translation>
+        <translation>Скопювати мтку</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>Копіювати кількість</translation>
+        <translation>Копювати кльксть</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation>Копіювати ID транзакції </translation>
+        <translation>Копювати ID транзакц </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>Редагувати мітку</translation>
+        <translation>Редагувати мтку</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation>Показати деталі транзакції</translation>
+        <translation>Показати детал транзакц</translation>
     </message>
     <message>
         <location line="+144"/>
@@ -2539,12 +2539,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Файли, розділені комою (*.csv)</translation>
+        <translation>Файли, роздлен комою (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>Підтверджені</translation>
+        <translation>Пдтверджен</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2559,7 +2559,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>Мітка</translation>
+        <translation>Мтка</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2569,12 +2569,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>Кількість</translation>
+        <translation>Кльксть</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ID</source>
-        <translation>Ідентифікатор</translation>
+        <translation>дентифкатор</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2589,7 +2589,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation>Діапазон від:</translation>
+        <translation>Дапазон вд:</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2609,7 +2609,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
+        <source>eCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2619,7 +2619,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
+        <source>Send command to -server or eCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2630,7 +2630,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>Отримати довідку по команді</translation>
+        <translation>Отримати довдку по команд</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2639,12 +2639,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
+        <source>Specify configuration file (default: eCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
+        <source>Specify pid file (default: eCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2655,12 +2655,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>Вкажіть робочий каталог</translation>
+        <translation>Вкажть робочий каталог</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>Встановити розмір кешу бази даних в мегабайтах (типово: 25)</translation>
+        <translation>Встановити розмр кешу бази даних в мегабайтах (типово: 25)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2669,23 +2669,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>Підтримувати не більше &lt;n&gt; зв&apos;язків з колегами (типово: 125)</translation>
+        <translation>Пдтримувати не бльше &lt;n&gt; зв&apos;язкв з колегами (типово: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>Підключитись до вузла, щоб отримати список адрес інших учасників та від&apos;єднатись</translation>
+        <translation>Пдключитись до вузла, щоб отримати список адрес нших учасникв та вд&apos;днатись</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation>Вкажіть вашу власну публічну адресу</translation>
+        <translation>Вкажть вашу власну публчну адресу</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2700,12 +2700,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>Поріг відключення неправильно під&apos;єднаних пірів (типово: 100)</translation>
+        <translation>Порг вдключення неправильно пд&apos;днаних прв (типово: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>Максимальній розмір вхідного буферу на одне з&apos;єднання (типово: 86400)</translation>
+        <translation>Максимальнй розмр вхдного буферу на одне з&apos;днання (типово: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
@@ -2729,13 +2729,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Приймати команди із командного рядка та команди JSON-RPC</translation>
+        <translation>Приймати команди з командного рядка та команди JSON-RPC</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -2760,7 +2760,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>Запустити в фоновому режимі (як демон) та приймати команди</translation>
+        <translation>Запустити в фоновому режим (як демон) та приймати команди</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2770,7 +2770,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>Приймати з&apos;єднання ззовні (за замовчуванням: 1, якщо ні-проксі або-з&apos;єднання)</translation>
+        <translation>Приймати з&apos;днання ззовн (за замовчуванням: 1, якщо н-прокс або-з&apos;днання)</translation>
     </message>
     <message>
         <location line="-38"/>
@@ -2790,42 +2790,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>Увага: встановлено занадто велику комісію (-paytxfee). Комісія зніматиметься кожен раз коли ви проводитимете транзакції.</translation>
+        <translation>Увага: встановлено занадто велику комсю (-paytxfee). Комся знматиметься кожен раз коли ви проводитимете транзакц.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Увага: помилка читання wallet.dat! Всі ключі прочитано коректно, але дані транзакцій чи записи адресної книги можуть бути пропущені, або пошкоджені.</translation>
+        <translation>Увага: помилка читання wallet.dat! Вс ключ прочитано коректно, але дан транзакцй чи записи адресно книги можуть бути пропущен, або пошкоджен.</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Увага: файл wallet.dat пошкоджено, дані врятовано! Оригінальний wallet.dat збережено як wallet.{timestamp}.bak до %s; якщо Ваш баланс чи транзакції неправильні, Ви можете відновити їх з резервної копії. </translation>
+        <translation>Увага: файл wallet.dat пошкоджено, дан врятовано! Оригнальний wallet.dat збережено як wallet.{timestamp}.bak до %s; якщо Ваш баланс чи транзакц неправильн, Ви можете вдновити х з резервно коп. </translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Спроба відновити закриті ключі з пошкодженого wallet.dat</translation>
+        <translation>Спроба вдновити закрит ключ з пошкодженого wallet.dat</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation>Опції створення блоку:</translation>
+        <translation>Опц створення блоку:</translation>
     </message>
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>Підключитись лише до вказаного вузла</translation>
+        <translation>Пдключитись лише до вказаного вузла</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Відкрийте власну IP-адресу (за замовчуванням: 1, коли не чує і-externalip)</translation>
+        <translation>Вдкрийте власну IP-адресу (за замовчуванням: 1, коли не чу -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
@@ -2860,12 +2860,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>Максимальній розмір вихідного буферу на одне з&apos;єднання, &lt;n&gt;*1000 байт (типово: 1000)</translation>
+        <translation>Максимальнй розмр вихдного буферу на одне з&apos;днання, &lt;n&gt;*1000 байт (типово: 1000)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>Підключити тільки до вузлів в мережі &lt;net&gt; (IPv4, IPv6 або Tor)</translation>
+        <translation>Пдключити тльки до вузлв в мереж &lt;net&gt; (IPv4, IPv6 або Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -2895,7 +2895,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Відсилати налагоджувальну інформацію на консоль, а не у файл debug.log</translation>
+        <translation>Вдсилати налагоджувальну нформацю на консоль, а не у файл debug.log</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2910,17 +2910,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Встановити мінімальний розмір блоку у байтах (типово: 0)</translation>
+        <translation>Встановити мнмальний розмр блоку у байтах (типово: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Стискати файл debug.log під час старту клієнта (типово: 1 коли відсутутній параметр -debug)</translation>
+        <translation>Стискати файл debug.log пд час старту клнта (типово: 1 коли вдсутутнй параметр -debug)</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Вказати тайм-аут підключення у мілісекундах (типово: 5000)</translation>
+        <translation>Вказати тайм-аут пдключення у млсекундах (типово: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2931,12 +2931,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Намагатись використовувати UPnP для відображення порту, що прослуховується на роутері (default: 0)</translation>
+        <translation>Намагатись використовувати UPnP для вдображення порту, що прослуховуться на роутер (default: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Намагатись використовувати UPnP для відображення порту, що прослуховується на роутері (default: 1 when listening)</translation>
+        <translation>Намагатись використовувати UPnP для вдображення порту, що прослуховуться на роутер (default: 1 when listening)</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -2946,7 +2946,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Ім&apos;я користувача для JSON-RPC-з&apos;єднань</translation>
+        <translation>м&apos;я користувача для JSON-RPC-з&apos;днань</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -2966,30 +2966,30 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Увага: Поточна версія застаріла, необхідне оновлення!</translation>
+        <translation>Увага: Поточна верся застарла, необхдне оновлення!</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat пошкоджено, відновлення не вдалося</translation>
+        <translation>wallet.dat пошкоджено, вдновлення не вдалося</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Пароль для JSON-RPC-з&apos;єднань</translation>
+        <translation>Пароль для JSON-RPC-з&apos;днань</translation>
     </message>
     <message>
         <location line="-84"/>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3011,17 +3011,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Дозволити JSON-RPC-з&apos;єднання з вказаної IP-адреси</translation>
+        <translation>Дозволити JSON-RPC-з&apos;днання з вказано IP-адреси</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Відправляти команди на вузол, запущений на &lt;ip&gt; (типово: 127.0.0.1)</translation>
+        <translation>Вдправляти команди на вузол, запущений на &lt;ip&gt; (типово: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Виконати команду, коли з&apos;явиться новий блок (%s в команді змінюється на хеш блоку)</translation>
+        <translation>Виконати команду, коли з&apos;явиться новий блок (%s в команд змнються на хеш блоку)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3046,17 +3046,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Модернізувати гаманець до останнього формату</translation>
+        <translation>Модернзувати гаманець до останнього формату</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Встановити розмір пулу ключів &lt;n&gt; (типово: 100)</translation>
+        <translation>Встановити розмр пулу ключв &lt;n&gt; (типово: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Пересканувати ланцюжок блоків, в пошуку втрачених транзакцій</translation>
+        <translation>Пересканувати ланцюжок блокв, в пошуку втрачених транзакцй</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3076,12 +3076,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Використовувати OpenSSL (https) для JSON-RPC-з&apos;єднань</translation>
+        <translation>Використовувати OpenSSL (https) для JSON-RPC-з&apos;днань</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Файл сертифіката сервера (типово: server.cert)</translation>
+        <translation>Файл сертифката сервера (типово: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3106,7 +3106,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>Дана довідка</translation>
+        <translation>Дана довдка</translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3115,18 +3115,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Неможливо прив&apos;язати до порту %s на цьому комп&apos;ютері (bind returned error %d, %s)</translation>
+        <translation>Неможливо прив&apos;язати до порту %s на цьому комп&apos;ютер (bind returned error %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3151,37 +3151,37 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Помилка при завантаженні wallet.dat: Гаманець пошкоджено</translation>
+        <translation>Помилка при завантаженн wallet.dat: Гаманець пошкоджено</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>Помилка при завантаженні wallet.dat</translation>
+        <translation>Помилка при завантаженн wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>Помилка в адресі проксі-сервера: «%s»</translation>
+        <translation>Помилка в адрес прокс-сервера: %s</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>Невідома мережа вказана в -onlynet: «%s»</translation>
+        <translation>Невдома мережа вказана в -onlynet: %s</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>В параметрі -socks запитується невідома версія: %i</translation>
+        <translation>В параметр -socks запитуться невдома верся: %i</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -3196,7 +3196,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Помилка у величині комісії -paytxfee=&lt;amount&gt;: «%s»</translation>
+        <translation>Помилка у величин комс -paytxfee=&lt;amount&gt;: %s</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3211,26 +3211,26 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>Некоректна кількість</translation>
+        <translation>Некоректна кльксть</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>Недостатньо коштів</translation>
+        <translation>Недостатньо коштв</translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>Завантаження індексу блоків...</translation>
+        <translation>Завантаження ндексу блокв...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Додати вузол до підключення і лишити його відкритим</translation>
+        <translation>Додати вузол до пдключення  лишити його вдкритим</translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3251,7 +3251,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Не вдається понизити версію гаманця</translation>
+        <translation>Не вдаться понизити версю гаманця</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3276,7 +3276,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>Щоб використати опцію %s</translation>
+        <translation>Щоб використати опцю %s</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -3288,9 +3288,9 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>Ви мусите встановити rpcpassword=&lt;password&gt; в файлі конфігурації:
+        <translation>Ви мусите встановити rpcpassword=&lt;password&gt; в файл конфгурац:
 %s
-Якщо файл не існує, створіть його із правами тільки для читання власником (owner-readable-only).</translation>
+Якщо файл не сну, створть його з правами тльки для читання власником (owner-readable-only).</translation>
     </message>
 </context>
 </TS>

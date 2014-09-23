@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Roxcoin</source>
+        <source>About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Roxcoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;eCoin&lt;/b&gt; version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Roxcoin developers</source>
+        <source>Copyright  2009-2014 The Bitcoin developers
+Copyright  2012-2014 The NovaCoin developers
+Copyright  2014 The eCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -27,11 +27,11 @@ Distributed under the MIT/X11 software license, see the accompanying file COPYIN
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
         <translation>
-პროგრამა ექსპერიმენტულია.
+ .
 
-ვრცელდება MIT/X11 ლიცენზიით, იხილე თანდართული ფაილი COPYING ან http://www.opensource.org/licenses/mit-license.php.
+ MIT/X11 ,    COPYING  http://www.opensource.org/licenses/mit-license.php.
 
-პროდუქტი შეიცავს OpenSSL პროექტის ფარგლებში შემუშავებულ პროგრამულ უზრუნველყოფას OpenSSL Toolkit-ში გამოყენებისათვის (http://www.openssl.org/), კრიპტოგრაფიულ პროგრამას, ავტორი ერიქ იანგი (Eric Young, eay@cryptsoft.com) და UPnP-პროგრამას, ავტორი თომას ბერნარდი (Thomas Bernard).</translation>
+  OpenSSL      OpenSSL Toolkit-  (http://www.openssl.org/),  ,    (Eric Young, eay@cryptsoft.com)  UPnP-,    (Thomas Bernard).</translation>
     </message>
 </context>
 <context>
@@ -44,17 +44,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>დააკლიკეთ ორჯერ მისამართის ან ნიშნულის შესაცვლელად</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation>ახალი მისამართის შექმნა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>მონიშნული მისამართის კოპირება სისტემურ კლიპბორდში</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="-11"/>
@@ -63,13 +63,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Roxcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your eCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;მისამართის კოპირება</translation>
+        <translation>&amp; </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -78,7 +78,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Roxcoin address</source>
+        <source>Sign a message to prove you own a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -89,11 +89,11 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>მონიშნული მისამართის წაშლა სიიდან</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Roxcoin address</source>
+        <source>Verify a message to ensure it was signed with a specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -104,17 +104,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>&amp;წაშლა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>ნიშნუ&amp;ლის კოპირება</translation>
+        <translation>&amp; </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Edit</source>
-        <translation>რ&amp;ედაქტირება</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+250"/>
@@ -124,7 +124,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>CSV-ფაილი (*.csv)</translation>
+        <translation>CSV- (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -142,17 +142,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation>ნიშნული</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>მისამართი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation>(არ არის ნიშნული)</translation>
+        <translation>(  )</translation>
     </message>
 </context>
 <context>
@@ -160,22 +160,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>ფრაზა-პაროლის დიალოგი</translation>
+        <translation>- </translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>შეიყვანეთ ფრაზა-პაროლი</translation>
+        <translation> -</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>ახალი ფრაზა-პაროლი</translation>
+        <translation> -</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>გაიმეორეთ ახალი ფრაზა-პაროლი</translation>
+        <translation>  -</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -190,47 +190,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+35"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>შეიყვანეთ საფულის ახალი ფრაზა-პაროლი.&lt;br/&gt;ფრაზა-პაროლი შეადგინეთ &lt;b&gt;არანაკლებ 10 შემთხვევითი სიმბოლოსაგან&lt;/b&gt;, ან &lt;b&gt;რვა და მეტი სიტყვისაგან&lt;/b&gt;.</translation>
+        <translation>   -.&lt;br/&gt;-  &lt;b&gt; 10  &lt;/b&gt;,  &lt;b&gt;   &lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>საფულის დაშიფრვა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>ეს ოპერაცია მოითხოვს თქვენი საფულის ფრაზა-პაროლს საფულის განსაბლოკად.</translation>
+        <translation>     -  .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>საფულის განბლოკვა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>ეს ოპერაცია მოითხოვს თქვენი საფულის ფრაზა-პაროლს საფულის გასაშიფრად.</translation>
+        <translation>     -  .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>საფულის გაშიფრვა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>ფრაზა-პაროლის შეცვლა</translation>
+        <translation>- </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>შეიყვანეთ საფულის ძველი და ახალი ფრაზა-პაროლი.</translation>
+        <translation>     -.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>დაადასტურეთ საფულის დაშიფრვა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -240,28 +240,28 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>დარწმუნებული ხართ, რომ გინდათ საფულის დაშიფრვა?</translation>
+        <translation> ,    ?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>მნიშვნელოვანია: თქვენი საფულის ყველა ადრინდელი არქივი შეიცვლება ახლადგენერირებული დაშიფრული საფულის ფაილით. უსაფრთხოების მოსაზრებებით დაუშიფრავი საფულის ძველი არქივები ძალას დაკარგავს, როგორც კი დაიწყებთ ახალი, დაშიფრული საფულის გამოყენებას.</translation>
+        <translation>:          .        ,    ,   .</translation>
     </message>
     <message>
         <location line="+103"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>ყურადღება: ჩართულია Caps Lock რეჟიმი!</translation>
+        <translation>:  Caps Lock !</translation>
     </message>
     <message>
         <location line="-133"/>
         <location line="+60"/>
         <source>Wallet encrypted</source>
-        <translation>საფულე დაშიფრულია</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-58"/>
-        <source>Roxcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>eCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -270,40 +270,40 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+44"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>ვერ მოხერხდა საფულის დაშიფრვა</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="-56"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>საფულის დაშიფრვა ვერ მოხერხდა სისტემაში შეცდომის გამო. თქვენი საფულე არ არის დაშფრული.</translation>
+        <translation>      .     .</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+50"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>ფრაზა-პაროლები არ ემთხვევა ერთმანეთს.</translation>
+        <translation>-   .</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>Wallet unlock failed</source>
-        <translation>საფულის განბლოკვა ვერ მოხერხდა</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+12"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>საფულის განშიფრვის ფრაზა-პაროლი არაწორია</translation>
+        <translation>  - </translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>საფულის განშიფრვა ვერ მოხერხდა</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>საფულის ფრაზა-პაროლი შეცვლილია.</translation>
+        <translation> - .</translation>
     </message>
 </context>
 <context>
@@ -311,32 +311,32 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+282"/>
         <source>Sign &amp;message...</source>
-        <translation>ხელ&amp;მოწერა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Synchronizing with network...</source>
-        <translation>ქსელთან სინქრონიზება...</translation>
+        <translation> ...</translation>
     </message>
     <message>
         <location line="-319"/>
         <source>&amp;Overview</source>
-        <translation>მიმ&amp;ოხილვა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation>საფულის ზოგადი მიმოხილვა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+17"/>
         <source>&amp;Transactions</source>
-        <translation>&amp;ტრანსაქციები</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>ტრანსაქციების ისტორიის დათვალიერება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+5"/>
@@ -366,47 +366,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+35"/>
         <source>E&amp;xit</source>
-        <translation>&amp;გასვლა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation>გასვლა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about Roxcoin</source>
+        <source>Show information about eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation>&amp;Qt-ს შესახებ</translation>
+        <translation>&amp;Qt- </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation>ინფორმაცია Qt-ს შესახებ</translation>
+        <translation> Qt- </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation>&amp;ოპციები</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>საფულის &amp;დაშიფრვა</translation>
+        <translation> &amp;</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>საფულის &amp;არქივირება</translation>
+        <translation> &amp;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>ფრაზა-პაროლის შე&amp;ცვლა</translation>
+        <translation>- &amp;</translation>
     </message>
     <message numerus="yes">
         <location line="+259"/>
@@ -425,12 +425,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a Roxcoin address</source>
+        <source>Send coins to a eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for Roxcoin</source>
+        <source>Modify configuration options for eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -446,47 +446,47 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>საფულის არქივირება სხვა ადგილზე</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>საფულის დაშიფრვის ფრაზა-პაროლის შეცვლა</translation>
+        <translation>  - </translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Debug window</source>
-        <translation>და&amp;ხვეწის ფანჯარა</translation>
+        <translation>&amp; </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>დახვეწისა და გიაგნოსტიკის კონსოლის გაშვება</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="-5"/>
         <source>&amp;Verify message...</source>
-        <translation>&amp;ვერიფიკაცია</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="-202"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet</source>
-        <translation>საფულე</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About Roxcoin</source>
+        <source>&amp;About eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Show / Hide</source>
-        <translation>&amp;ჩვენება/დაფარვა</translation>
+        <translation>&amp;/</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -506,22 +506,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+35"/>
         <source>&amp;File</source>
-        <translation>&amp;ფაილი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Settings</source>
-        <translation>&amp;პარამეტრები</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Help</source>
-        <translation>&amp;დახმარება</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Tabs toolbar</source>
-        <translation>ბარათების პანელი</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+8"/>
@@ -537,12 +537,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Roxcoin client</source>
+        <source>eCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to Roxcoin network</source>
+        <source>%n active connection(s) to eCoin network</source>
         <translation type="unfinished"><numerusform></numerusform></translation>
     </message>
     <message>
@@ -582,12 +582,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About Roxcoin card</source>
+        <source>About eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about Roxcoin card</source>
+        <source>Show information about eCoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -613,12 +613,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+6"/>
         <source>Up to date</source>
-        <translation>განახლებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>ჩართვა...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -638,12 +638,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+27"/>
         <source>Sent transaction</source>
-        <translation>გაგზავნილი ტრანსაქციები</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Incoming transaction</source>
-        <translation>მიღებული ტრანსაქციები</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -652,10 +652,10 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation>თარიღი: %1
-თანხა: %2
-ტიპი: %3
-მისამართი: %4
+        <translation>: %1
+: %2
+: %3
+: %4
 </translation>
     </message>
     <message>
@@ -667,18 +667,18 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Roxcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid eCoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+18"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>საფულე &lt;b&gt;დაშიფრულია&lt;/b&gt; და ამჟამად &lt;b&gt;განბლოკილია&lt;/b&gt;</translation>
+        <translation> &lt;b&gt;&lt;/b&gt;   &lt;b&gt;&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>საფულე &lt;b&gt;დაშიფრულია&lt;/b&gt; და ამჟამად &lt;b&gt;დაბლოკილია&lt;/b&gt;</translation>
+        <translation> &lt;b&gt;&lt;/b&gt;   &lt;b&gt;&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+25"/>
@@ -727,7 +727,7 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Roxcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. eCoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -736,7 +736,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+90"/>
         <source>Network Alert</source>
-        <translation>ქსელური განგაში</translation>
+        <translation> </translation>
     </message>
 </context>
 <context>
@@ -749,67 +749,67 @@ Address: %4
     <message>
         <location line="+31"/>
         <source>Quantity:</source>
-        <translation>რაოდენობა:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Bytes:</source>
-        <translation>ბაიტები:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Amount:</source>
-        <translation>თანხა:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+32"/>
         <source>Priority:</source>
-        <translation>პრიორიტეტი:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+48"/>
         <source>Fee:</source>
-        <translation>საკომისიო:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>ქვედა ზღვარი:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="+551"/>
         <source>no</source>
-        <translation>არა</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="+51"/>
         <source>After Fee:</source>
-        <translation>დამატებითი საკომისიო:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Change:</source>
-        <translation>ხურდა:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+69"/>
         <source>(un)select all</source>
-        <translation>ყველას მონიშვნა/(მოხსნა)</translation>
+        <translation> /()</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Tree mode</source>
-        <translation>განტოტვილი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+16"/>
         <source>List mode</source>
-        <translation>სია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Amount</source>
-        <translation>რაოდენობა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -819,118 +819,118 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Address</source>
-        <translation>მისამართი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Date</source>
-        <translation>თარიღი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirmations</source>
-        <translation>დადასტურება</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed</source>
-        <translation>დადასტურებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Priority</source>
-        <translation>პრიორიტეტი</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../coincontroldialog.cpp" line="-515"/>
         <source>Copy address</source>
-        <translation>მისამართის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>ნიშნულის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+26"/>
         <source>Copy amount</source>
-        <translation>თანხის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Copy transaction ID</source>
-        <translation>ტრანსაქციის ID-ს კოპირება</translation>
+        <translation> ID- </translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy quantity</source>
-        <translation>რაოდენობის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Copy fee</source>
-        <translation>საკომისიოს კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation>დამატებითი საკომისიოს კოპირება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation>ბაიტების კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation>პრიორიტეტის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>ქვედა ზღვრის კოპირება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>ხურდის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+317"/>
         <source>highest</source>
-        <translation>უმაღლესი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>high</source>
-        <translation>მაღალი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium-high</source>
-        <translation>საშუალოზე მაღალი</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>medium</source>
-        <translation>საშუალო</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>low-medium</source>
-        <translation>საშუალოზე დაბალი</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>low</source>
-        <translation>დაბალი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>lowest</source>
-        <translation>უდაბლესი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+155"/>
@@ -940,7 +940,7 @@ Address: %4
     <message>
         <location line="+0"/>
         <source>yes</source>
-        <translation>კი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -980,17 +980,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+37"/>
         <location line="+66"/>
         <source>(no label)</source>
-        <translation>(არ არის ნიშნული)</translation>
+        <translation>(  )</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>change from %1 (%2)</source>
-        <translation>ხურდა %1-დან (%2)</translation>
+        <translation> %1- (%2)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>(change)</source>
-        <translation>(ხურდა)</translation>
+        <translation>()</translation>
     </message>
 </context>
 <context>
@@ -998,12 +998,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation>მისამართის შეცვლა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation>ნიშნუ&amp;ლი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1013,7 +1013,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation>მის&amp;ამართი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1023,42 +1023,42 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
         <source>New receiving address</source>
-        <translation>ახალი მიღების მისამართი</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation>ახალი გაგზავნის მისამართი</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation>მიღების მისამართის შეცვლა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation>გაგზავნის მისამართის შეცვლა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>მისამართი &quot;%1&quot; უკვე არის მისამართების წიგნში.</translation>
+        <translation> &quot;%1&quot;    .</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Roxcoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid eCoin address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation>საფულის განბლოკვა ვერ მოხერხდა.</translation>
+        <translation>   .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation>ახალი გასაღების გენერირება ვერ მოხერხდა</translation>
+        <translation>    </translation>
     </message>
 </context>
 <context>
@@ -1066,7 +1066,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Roxcoin-Qt</source>
+        <source>eCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1110,12 +1110,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation>ოპციები</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation>&amp;მთავარი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1125,7 +1125,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation>ტრანსაქციის სა&amp;ფასურის გადახდა</translation>
+        <translation> &amp; </translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1139,12 +1139,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Roxcoin after logging in to the system.</source>
+        <source>Automatically start eCoin after logging in to the system.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Roxcoin on system login</source>
+        <source>&amp;Start eCoin on system login</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1160,21 +1160,21 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+21"/>
         <source>&amp;Network</source>
-        <translation>&amp;ქსელი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Roxcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the eCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation>პორტის გადამისამართება &amp;UPnP-ით</translation>
+        <translation>  &amp;UPnP-</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Roxcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the eCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1185,7 +1185,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation>პროქსის &amp;IP:</translation>
+        <translation> &amp;IP:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1195,87 +1195,87 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation>&amp;პორტი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>პროქსის პორტი (მაგ.: 9050)</translation>
+        <translation>  (.: 9050)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation>SOCKS &amp;ვერსია:</translation>
+        <translation>SOCKS &amp;:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation>პროქსის SOCKS-ვერსია (მაგ.: 5)</translation>
+        <translation> SOCKS- (.: 5)</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation>&amp;ფანჯარა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>ფანჯრის მინიმიზებისას მხოლოდ იკონა სისტემურ ზონაში</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;მინიმიზება სისტემურ ზონაში პროგრამების პანელის ნაცვლად</translation>
+        <translation>&amp;     </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>პროგრამის მინიმიზება ფანჯრის დახურვისას. ოპციის ჩართვის შემდეგ პროგრამის დახურვა შესაძლებელი იქნება მხოლოდ მენიუდან - პუნქტი &quot;გასვლა&quot;.</translation>
+        <translation>   .          -  &quot;&quot;.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation>მ&amp;ინიმიზება დახურვისას</translation>
+        <translation>&amp; </translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation>&amp;ჩვენება</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>სამომხმარებ&amp;ლო ენა:</translation>
+        <translation>&amp; :</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Roxcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>ერთეუ&amp;ლი:</translation>
+        <translation>&amp;:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>აირჩიეთ გასაგზავნი თანხის ნაგულისხმევი ერთეული.</translation>
+        <translation>    .</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Roxcoin addresses in the transaction list or not.</source>
+        <source>Whether to show eCoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation>მისამართების &amp;ჩვენება სიაში</translation>
+        <translation> &amp; </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Whether to show coin control features or not.</source>
-        <translation>ვაჩვენოთ თუ არა მონეტების მართვის პარამეტრები.</translation>
+        <translation>     .</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1290,7 +1290,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation>&amp;გაუქმება</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1300,7 +1300,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../optionsdialog.cpp" line="+55"/>
         <source>default</source>
-        <translation>ნაგულისხმევი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+149"/>
@@ -1311,13 +1311,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Roxcoin.</source>
+        <source>This setting will take effect after restarting eCoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation>პროქსის მისამართი არასწორია.</translation>
+        <translation>  .</translation>
     </message>
 </context>
 <context>
@@ -1325,12 +1325,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation>ფორმა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Roxcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the eCoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1341,12 +1341,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>Unconfirmed:</source>
-        <translation>დაუდასტურებელია:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="-107"/>
         <source>Wallet</source>
-        <translation>საფულე</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1356,32 +1356,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation>თქვენი ხელმისაწვდომი ნაშთი</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+71"/>
         <source>Immature:</source>
-        <translation>მოუმზადებელია:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>მოპოვებული თანხა, რომელიც ჯერ არ არის მზადყოფნაში</translation>
+        <translation> ,     </translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Total:</source>
-        <translation>სულ:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation>თქვენი სრული მიმდინარე ბალანსი</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+46"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation>&lt;b&gt;ბოლო ტრანსაქციები&lt;/b&gt;</translation>
+        <translation>&lt;b&gt; &lt;/b&gt;</translation>
     </message>
     <message>
         <location line="-108"/>
@@ -1397,7 +1397,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../overviewpage.cpp" line="+113"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation>არ არის სინქრონიზებული</translation>
+        <translation>  </translation>
     </message>
 </context>
 <context>
@@ -1463,7 +1463,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation>კლიენტი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1477,37 +1477,37 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+348"/>
         <source>N/A</source>
-        <translation>მიუწვდ.</translation>
+        <translation>.</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation>კლიენტის ვერსია</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation>&amp;ინფორმაცია</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>OpenSSL-ის ვერსია</translation>
+        <translation>OpenSSL- </translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation>სტარტის დრო</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation>ქსელი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>შეერთებების რაოდენობა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1517,27 +1517,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>ბლოკთა ჯაჭვი</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>ბლოკების მიმდინარე რაოდენობა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>ბლოკების სავარაუდო რაოდენობა</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>ბოლო ბლოკის დრო</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation>&amp;შექმნა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1546,7 +1546,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Roxcoin-Qt help message to get a list with possible Roxcoin command-line options.</source>
+        <source>Show the eCoin-Qt help message to get a list with possible eCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1557,52 +1557,52 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation>&amp;კონსოლი</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation>შექმნის დრო</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Roxcoin - Debug window</source>
+        <source>eCoin - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Roxcoin Core</source>
+        <source>eCoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>დახვეწის ლოგ-ფაილი</translation>
+        <translation> -</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Roxcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the eCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>კონსოლის გასუფთავება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Roxcoin RPC console.</source>
+        <source>Welcome to the eCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>კლავიშები &quot;ზევით&quot; და &quot;ქვევით&quot; - ისტორიაში მოძრაობა, &lt;b&gt;Ctrl-L&lt;/b&gt; - ეკრანის გასუფთავება.</translation>
+        <translation> &quot;&quot;  &quot;&quot; -  , &lt;b&gt;Ctrl-L&lt;/b&gt; -  .</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>აკრიფეთ &lt;b&gt;help&lt;/b&gt; ფაშვებული ბრძანებების სანახავად.</translation>
+        <translation> &lt;b&gt;help&lt;/b&gt;   .</translation>
     </message>
 </context>
 <context>
@@ -1617,32 +1617,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>მონეტების გაგზავნა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Coin Control Features</source>
-        <translation>მონეტების კონტროლის პარამეტრები</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Inputs...</source>
-        <translation>ხარჯები...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>automatically selected</source>
-        <translation>არჩეულია ავტომატურად</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Insufficient funds!</source>
-        <translation>არ არის საკმარისი თანხა!</translation>
+        <translation>   !</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Quantity:</source>
-        <translation>რაოდენობა:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -1653,25 +1653,25 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-19"/>
         <source>Bytes:</source>
-        <translation>ბაიტები:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Amount:</source>
-        <translation>თანხა:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+22"/>
         <location line="+86"/>
         <location line="+86"/>
         <location line="+32"/>
-        <source>0.00 ROX</source>
+        <source>0.00 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-191"/>
         <source>Priority:</source>
-        <translation>პრიორიტეტი:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1681,12 +1681,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+32"/>
         <source>Fee:</source>
-        <translation>საკომისიო:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Low Output:</source>
-        <translation>ქვედა ზღვარი:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1696,7 +1696,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+32"/>
         <source>After Fee:</source>
-        <translation>დამატებითი საკომისიო:</translation>
+        <translation> :</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1711,12 +1711,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+106"/>
         <source>Send to multiple recipients at once</source>
-        <translation>გაგზავნა რამდენიმე რეციპიენტთან ერთდროულად</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>&amp;რეციპიენტის დამატება</translation>
+        <translation>&amp; </translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1726,72 +1726,72 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>გ&amp;ასუფთავება</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Balance:</source>
-        <translation>ბალანსი:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>123.456 ROX</source>
+        <source>123.456 hack</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>გაგზავნის დადასტურება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation>გაგ&amp;ზავნა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+15"/>
         <source>Copy quantity</source>
-        <translation>რაოდენობის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>თანხის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy fee</source>
-        <translation>საკომისიოს კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy after fee</source>
-        <translation>დამატებითი საკომისიოს კოპირება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy bytes</source>
-        <translation>ბაიტების კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy priority</source>
-        <translation>პრიორიტეტის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy low output</source>
-        <translation>ქვედა ზღვრის კოპირება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy change</source>
-        <translation>ხურდის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+86"/>
@@ -1801,7 +1801,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>მონეტების გაგზავნის დადასტურება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,27 +1816,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+29"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>მიმღების მისამართი არასწორია, შეამოწმეთ.</translation>
+        <translation>  , .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>გადახდის მოცულობა 0-ზე მეტი უნდა იყოს</translation>
+        <translation>  0-   </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>თანხა აღემატება თქვენს ბალანსს</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>საკომისიო 1%-ის დამატების შემდეგ თანხა აჭარბებს თქვენს ბალანსს</translation>
+        <translation> 1%-      </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>მისამართები დუბლირებულია, დაშვებულია ერთ ჯერზე თითო მისამართზე ერთხელ გაგზავნა.</translation>
+        <translation> ,       .</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1850,13 +1850,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Roxcoin address</source>
+        <source>WARNING: Invalid eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+13"/>
         <source>(no label)</source>
-        <translation>(არ არის ნიშნული)</translation>
+        <translation>(  )</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1874,27 +1874,27 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>&amp;რაოდენობა</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>ადრესა&amp;ტი:</translation>
+        <translation>&amp;:</translation>
     </message>
     <message>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>შეიყვანეთ ამ მისამართის ნიშნული მისამართების წიგნში დასამატებლად</translation>
+        <translation>      </translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Label:</source>
-        <translation>ნიშნუ&amp;ლი:</translation>
+        <translation>&amp;:</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to send the payment to  (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1910,7 +1910,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>მისამართის ჩასმა კლიპბორდიდან</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1924,7 +1924,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1933,22 +1933,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>ხელმოწერები - მესიჯის ხელმოწერა/ვერიფიკაცია</translation>
+        <translation> -  /</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>მე&amp;სიჯის ხელმოწერა</translation>
+        <translation>&amp; </translation>
     </message>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>ხელმოწერით თქვენ ადასტურებთ, რომ მესიჯი თქვენია. ფრთხილად - არ მოაწეროთ ხელი რაიმე საეჭვოს: ფიშინგური ხრიკებით შეიძლება ის თქვენს მესიჯად გაასაღონ. მოაწერეთ ხელი მხოლოდ იმას, რასაც ყველა წვრილმანში ეთანხმებით.</translation>
+        <translation>  ,   .  -     :       .    ,    .</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address to sign the message with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1966,7 +1966,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>მისამართის ჩასმა კლიპბორდიდან</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1976,76 +1976,76 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>აკრიფეთ ხელმოსაწერი მესიჯი</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>მიმდინარე ხელმოწერის კოპირება კლიპბორდში</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Roxcoin address</source>
+        <source>Sign the message to prove you own this eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>ხელმოწერის ყველა ველის წაშლა</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>გ&amp;ასუფთავება</translation>
+        <translation>&amp;</translation>
     </message>
     <message>
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation>მესიჯის &amp;ვერიფიკაცია</translation>
+        <translation> &amp;</translation>
     </message>
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>შეიყვანეთ ხელმოწერის მისამართი, მესიჯი (დაუკვირდით, რომ ზუსტად იყოს კოპირებული სტრიქონის გადატანები, ჰარები, ტაბულაციები და სხვ) და ხელმოწერა მესიჯის ვერიფიკაციისათვის. მიაქციეთ ყურადღება, რომ რაიმე ზედმეტი არ გაგყვეთ კოპირებისას, რათა არ გახდეთ &quot;man-in-the-middle&quot; შეტევის ობიექტი.</translation>
+        <translation>  ,  (,      , ,   )    .  ,      ,    &quot;man-in-the-middle&quot;  .</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>The address the message was signed with (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Roxcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified eCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all verify message fields</source>
-        <translation>ვერიფიკაციის ყველა ველის წაშლა</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Roxcoin address (e.g. GC8Lqitqh2uocq4srya3wZM6xMN9NAiKFr)</source>
+        <source>Enter a eCoin address (e.g. eCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation>ხელმოწერის გენერირებისათვის დააჭირეთ &quot;მესიჯის ხელმოწერა&quot;-ს</translation>
+        <translation>   &quot; &quot;-</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Roxcoin signature</source>
+        <source>Enter eCoin signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation>შეყვანილი მისამართი არასწორია.</translation>
+        <translation>  .</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -2053,59 +2053,59 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation>შეამოწმეთ მისამართი და სცადეთ ხელახლა.</translation>
+        <translation>    .</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation>შეყვანილი მისამართი არ არის კავშირში გასაღებთან.</translation>
+        <translation>     .</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation>საფულის განბლოკვა შეწყვეტილია.</translation>
+        <translation>  .</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation>ამ მისამართისათვის პირადი გასაღები მიუწვდომელია.</translation>
+        <translation>    .</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation>ვერ მოხერხდა მესიჯის ხელმოწერა.</translation>
+        <translation>   .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation>მესიჯი ხელმოწერილია.</translation>
+        <translation> .</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation>ხელმოწერის დეკოდირება ვერ ხერხდება.</translation>
+        <translation>   .</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation>შეამოწმეთ ხელმოწერა და სცადეთ ხელახლა.</translation>
+        <translation>    .</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation>ხელმოწერა არ შეესაბამება მესიჯის დაიჯესტს.</translation>
+        <translation>    .</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>მესიჯის ვერიფიკაცია ვერ მოხერხდა.</translation>
+        <translation>   .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation>მესიჯი ვერიფიცირებულია.</translation>
+        <translation> .</translation>
     </message>
 </context>
 <context>
@@ -2113,7 +2113,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../transactiondesc.cpp" line="+19"/>
         <source>Open until %1</source>
-        <translation>ღია იქნება სანამ %1</translation>
+        <translation>   %1</translation>
     </message>
     <message numerus="yes">
         <location line="-2"/>
@@ -2128,22 +2128,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>%1/offline</source>
-        <translation>%1/გათიშულია</translation>
+        <translation>%1/</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation>%1/დაუდასტურებელია</translation>
+        <translation>%1/</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation>%1 დადასტურებულია</translation>
+        <translation>%1 </translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Status</source>
-        <translation>სტატუსი</translation>
+        <translation></translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
@@ -2153,41 +2153,41 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation>თარიღი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation>წყარო</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Generated</source>
-        <translation>გენერირებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation>გამგზავნი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+22"/>
         <location line="+58"/>
         <source>To</source>
-        <translation>მიმღები</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-77"/>
         <location line="+2"/>
         <source>own address</source>
-        <translation>საკუთარი მისამართი</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation>ნიშნული</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+37"/>
@@ -2196,7 +2196,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+17"/>
         <location line="+30"/>
         <source>Credit</source>
-        <translation>კრედიტი</translation>
+        <translation></translation>
     </message>
     <message numerus="yes">
         <location line="-102"/>
@@ -2206,7 +2206,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation>უარყოფილია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+44"/>
@@ -2214,77 +2214,77 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location line="+15"/>
         <location line="+30"/>
         <source>Debit</source>
-        <translation>დებიტი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation>ტრანსაქციის საფასური - საკომისიო</translation>
+        <translation>  - </translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation>სუფთა თანხა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation>მესიჯი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation>შენიშვნა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation>ტრანსაქციის ID</translation>
+        <translation> ID</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Generated coins must mature 110 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
+        <source>Generated coins must mature 510 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation>დახვეწის ინფორმაცია</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Transaction</source>
-        <translation>ტრანსაქცია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Inputs</source>
-        <translation>ხარჯები</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation>თანხა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>true</source>
-        <translation>ჭეშმარიტი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation>მცდარი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, დაგზავნა არ არის წარმატებით დასრულებული</translation>
+        <translation>,     </translation>
     </message>
     <message>
         <location line="+35"/>
         <source>unknown</source>
-        <translation>უცნობია</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -2292,12 +2292,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation>ტრანსაქციის დეტალები</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation>ტრანსაქციის დაწვრილებითი აღწერილობა</translation>
+        <translation>  </translation>
     </message>
 </context>
 <context>
@@ -2305,32 +2305,32 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../transactiontablemodel.cpp" line="+226"/>
         <source>Date</source>
-        <translation>თარიღი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation>ტიპი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation>მისამართი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation>რაოდენობა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+60"/>
         <source>Open until %1</source>
-        <translation>ღია იქნება სანამ %1</translation>
+        <translation>   %1</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation>დადასტურებულია (%1დასტური)</translation>
+        <translation> (%1)</translation>
     </message>
     <message numerus="yes">
         <location line="-15"/>
@@ -2360,72 +2360,72 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+3"/>
         <source>Immature (%1 confirmations, will be available after %2)</source>
-        <translation>არ არის მომწიფებული (%1 დასტური, საჭიროა სულ %2)</translation>
+        <translation>   (%1 ,   %2)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>ეს ბლოკი არ არის მიღებული არცერთი კვანძის მიერ და სავარაუდოდ უარყოფილია!</translation>
+        <translation>          !</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation>გენერირებულია, მაგრამ უარყოფილია</translation>
+        <translation>,  </translation>
     </message>
     <message>
         <location line="+42"/>
         <source>Received with</source>
-        <translation>მიღებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation>გამომგზავნი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation>გაგზავნილია ადრესატთან</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation>გადახდილია საკუთარი თავისათვის</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation>მოპოვებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+38"/>
         <source>(n/a)</source>
-        <translation>(მიუწვდ.)</translation>
+        <translation>(.)</translation>
     </message>
     <message>
         <location line="+190"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation>ტრანსაქციის სტატუსი. ველზე კურსორის შეყვანისას გამოჩნდება დასტურების რაოდენობა.</translation>
+        <translation> .      .</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation>ტრანსაქციის მიღების თარიღი და დრო.</translation>
+        <translation>    .</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation>ტრანსაქციის ტიპი.</translation>
+        <translation> .</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>ტრანსაქიის დანიშნულების მისამართი.</translation>
+        <translation>  .</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation>ბალანსიდან მოხსნილი ან დამატებული თანხა.</translation>
+        <translation>    .</translation>
     </message>
 </context>
 <context>
@@ -2434,102 +2434,102 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../transactionview.cpp" line="+55"/>
         <location line="+16"/>
         <source>All</source>
-        <translation>ყველა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation>დღეს</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation>ამ კვირის</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation>ამ თვის</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation>ბოლო თვის</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation>ამ წლის</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation>შუალედი...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation>შემოსულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation>გაგზავნილია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation>საკუთარი თავისათვის</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation>მოპოვებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation>სხვა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation>შეიყვანეთ საძებნი მისამართი ან ნიშნული</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation>მინ. თანხა</translation>
+        <translation>. </translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation>მისამართის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation>ნიშნულის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation>თანხის კოპირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation>ტრანსაქციის ID-ს კოპირება</translation>
+        <translation> ID- </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation>ნიშნულის რედაქტირება</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation>ტრანსაქციის დეტალების ჩვენება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+144"/>
@@ -2539,37 +2539,37 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>CSV-ფაილი (*.csv)</translation>
+        <translation>CSV- (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation>დადასტურებულია</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation>თარიღი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation>ტიპი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation>ნიშნული</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation>მისამართი</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation>თანხა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2589,7 +2589,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation>შუალედი:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2609,58 +2609,58 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Roxcoin version</source>
+        <source>eCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Usage:</source>
-        <translation>გამოყენება:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or roxcoind</source>
+        <source>Send command to -server or eCoind</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>List commands</source>
-        <translation>ბრძანებები</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Get help for a command</source>
-        <translation>ბრძანების აღწერილობა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Options:</source>
-        <translation>ოპციები:</translation>
+        <translation>:</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: roxcoin.conf)</source>
+        <source>Specify configuration file (default: eCoin.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: roxcoind.pid)</source>
+        <source>Specify pid file (default: eCoind.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>მიუთითეთ საფულის ფაილი (კატალოგში)</translation>
+        <translation>   ()</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>მიუთითეთ მონაცემთა კატალოგი</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation>მონაცემთა ბაზის ქეშის ზომა მეგაბაიტებში (ნაგულისხმევია 25)</translation>
+        <translation>     ( 25)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2669,23 +2669,23 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Listen for connections on &lt;port&gt; (default: 47377 or testnet: 57377)</source>
+        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation>არაუმეტეს &lt;n&gt; შეერთებისა პირებზე (ნაგულისხმევი: 125)</translation>
+        <translation> &lt;n&gt;   (: 125)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation>მიერთება კვანძთან, პირების მისამართების მიღება და გათიშვა</translation>
+        <translation> ,     </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specify your own public address</source>
-        <translation>მიუთითეთ თქვენი საჯარო მისამართი</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2700,17 +2700,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+5"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation>არასწორად მოქმედი პირების გათიშვის ზღვარი (ნაგულისხმევი:100)</translation>
+        <translation>     (:100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation>არასწორად მოქმედი პირების ბლოკირების დრო წამებში (ნაგულისხმევი: 86400)</translation>
+        <translation>      (: 86400)</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation>შეცდომა %u RPC-პორტის მიყურადების ჩართვისას IPv4 მისამართზე: %s</translation>
+        <translation> %u RPC-   IPv4 : %s</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -2729,13 +2729,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-87"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 47376 or testnet: 57376)</source>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-11"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>საკომანდო სტრიქონისა და JSON-RPC-კომამდების ნებართვა</translation>
+        <translation>   JSON-RPC- </translation>
     </message>
     <message>
         <location line="+101"/>
@@ -2760,22 +2760,22 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-88"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation>რეზიდენტულად გაშვება და კომანდების მიღება</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use the test network</source>
-        <translation>სატესტო ქსელის გამოყენება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation>გარედან შეერთებების დაშვება (ნაგულისხმევი: 1 თუ არ გამოიყენება -proxy ან -connect)</translation>
+        <translation>   (: 1    -proxy  -connect)</translation>
     </message>
     <message>
         <location line="-38"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation>შეცდომა %u RPC-პორტის მიყურადების ჩართვისას IPv6 მისამართზე, ვბრუნდებით IPv4-ზე : %s</translation>
+        <translation> %u RPC-   IPv6 ,  IPv4- : %s</translation>
     </message>
     <message>
         <location line="+117"/>
@@ -2790,47 +2790,47 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+11"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation>ყურადღება:  ძალიან მაღალია -paytxfee - საკომისო, რომელსაც თქვენ გადაიხდით ამ ტრანსაქციის გაგზავნის საფასურად.</translation>
+        <translation>:    -paytxfee - ,       .</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Roxcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong eCoin will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-31"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>ყურადღება: არ იკითხება wallet.dat! ყველა გასაღები წაკითხულია, მაგრამ გამორჩენილი ან არასწორია ტრანსაქციის თარიღი ან ჩანაწერები მისამართების წიგნში.</translation>
+        <translation>:   wallet.dat!   ,          .</translation>
     </message>
     <message>
         <location line="-18"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>ყურადღება: wallet.dat დაზიანებულია! ორიგინალური wallet.dat შენახულია როგორც wallet.{timestamp}.bak %s-ში; თუ შეამჩნიეთ უზუსტობა ნაშთში ან ტრანსაქციებში, აღადგინეთ არქივიდან.</translation>
+        <translation>: wallet.dat !  wallet.dat   wallet.{timestamp}.bak %s-;      ,  .</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>პირადი გასაღებების აღდგენის მცდელობა wallet.dat-იდან</translation>
+        <translation>    wallet.dat-</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation>ბლოკის შექმნის ოპციები:</translation>
+        <translation>  :</translation>
     </message>
     <message>
         <location line="-62"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>შეერთება მხოლოდ მითითებულ კვანძ(ებ)თან</translation>
+        <translation>   ()</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>საკუთარი IP-მისამართის განსაზღვრა (ნაგულისხმევი: 1 თუ ჩართულია მიყურადება და არ გამოიყენება -externalip)</translation>
+        <translation> IP-  (: 1       -externalip)</translation>
     </message>
     <message>
         <location line="+94"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>ვერ ხერხდება პორტების მიყურადება. თუ გსურთ, გამოიყენეთ -listen=0.</translation>
+        <translation>   .  ,  -listen=0.</translation>
     </message>
     <message>
         <location line="-90"/>
@@ -2855,17 +2855,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-82"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>მიღების ბუფერის მაქსიმალური ზომა შეერთებაზე, &lt;n&gt;*1000 ბაიტი (ნაგულისხმევი: 5000)</translation>
+        <translation>    , &lt;n&gt;*1000  (: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>გაგზავნის ბუფერის მაქსიმალური ზომა შეერთებაზე, &lt;n&gt;*1000 ბაიტი (ნაგულისხმევი: 5000)</translation>
+        <translation>    , &lt;n&gt;*1000  (: 5000)</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>შეერთება მხოლოდ &lt;net&gt; ქსელის კვანძებთან (IPv4, IPv6 ან Tor)</translation>
+        <translation>  &lt;net&gt;   (IPv4, IPv6  Tor)</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -2885,7 +2885,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+35"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL ოპციები: (იხილე Bitcoin Wiki-ში  SSL-ს მოწყობის ინსტრუქციები)</translation>
+        <translation>SSL : ( Bitcoin Wiki-  SSL-  )</translation>
     </message>
     <message>
         <location line="-74"/>
@@ -2895,7 +2895,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+41"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>ტრასირების/დახვეწის ინფოს გაგზავნა კონსოლზე debug.log ფაილის ნაცვლად</translation>
+        <translation>/    debug.log  </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2910,17 +2910,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>დააყენეთ ბლოკის მინიმალური ზომა ბაიტებში (ნაგულისხმევი: 0)</translation>
+        <translation>     (: 0)</translation>
     </message>
     <message>
         <location line="-29"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>debug.log ფაილის შეკუმშვა გაშვებისას (ნაგულისხმევია: 1 როცა არ აყენია -debug)</translation>
+        <translation>debug.log    (: 1    -debug)</translation>
     </message>
     <message>
         <location line="-42"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>მიუთითეთ შეერთების ტაიმაუტი მილიწამებში (ნაგულისხმევი: 5000)</translation>
+        <translation>    (: 5000)</translation>
     </message>
     <message>
         <location line="+109"/>
@@ -2931,12 +2931,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-80"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>გამოიყენეთ UPnP მისაყურადებელი პორტის გადასამისამართებლად (ნაგულისხმევი: 0)</translation>
+        <translation> UPnP    (: 0)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>გამოიყენეთ UPnP მისაყურადებელი პორტის გადასამისამართებლად (ნაგულისხმევი: 1 როცა ჩართულია მიყურადება)</translation>
+        <translation> UPnP    (: 1   )</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -2946,7 +2946,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+42"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>მომხმარებლის სახელი JSON-RPC-შეერთებისათვის</translation>
+        <translation>  JSON-RPC-</translation>
     </message>
     <message>
         <location line="+47"/>
@@ -2966,30 +2966,30 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-2"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>ყურადღება: ვერსია მოძველებულია, საჭიროა განახლება!</translation>
+        <translation>:  ,  !</translation>
     </message>
     <message>
         <location line="-48"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation>wallet.dat დაზიანებულია, აღდგენა ვერ მოხერხდა</translation>
+        <translation>wallet.dat ,   </translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>პაროლი JSON-RPC-შეერთებისათვის</translation>
+        <translation> JSON-RPC-</translation>
     </message>
     <message>
         <location line="-84"/>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=roxcoinrpc
+rpcuser=eCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;eCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3011,22 +3011,22 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+16"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>JSON-RPC-შეერთების ნებართვა მითითებული IP მისამართიდან</translation>
+        <translation>JSON-RPC-   IP </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>კომანდის გაგზავნა კვანძისათვის, რომელიც გაშვებულია მისამართზე &lt;ip&gt; (ნაგულისხმევი: 127.0.0.1)</translation>
+        <translation>  ,    &lt;ip&gt; (: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>კომანდის შესრულება უკეთესი ბლოკის გამოჩენისას (%s კომანდაში ჩანაცვლდება ბლოკის ჰეშით)</translation>
+        <translation>     (%s    )</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation>კომანდის შესრულება საფულის ტრანსაქციის ცვლილებისას (%s კომანდაში ჩანაცვლდება TxID-ით)</translation>
+        <translation>     (%s   TxID-)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3046,17 +3046,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>საფულის ფორმატის განახლება</translation>
+        <translation>  </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>გასაღების პულის ზომა იქნება &lt;n&gt; (ნაგულისხმევი: 100)</translation>
+        <translation>    &lt;n&gt; (: 100)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>ბლოკების ჯაჭვის გადამოწმება საფულეში გამორჩენილ ტრანსაქციებზე</translation>
+        <translation>     </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -3076,17 +3076,17 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+8"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>OpenSSL-ის (https) გამოყენება JSON-RPC-შეერთებებისათვის</translation>
+        <translation>OpenSSL- (https)  JSON-RPC-</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>სერვერის სერტიფიკატის ფაილი (ნაგულისხმევი: server.cert)</translation>
+        <translation>   (: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>სერვერის პირადი გასაღები (ნაგულისხმევი: server.pem)</translation>
+        <translation>   (: server.pem)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3106,7 +3106,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="-158"/>
         <source>This help message</source>
-        <translation>ეს ტექსტი</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+95"/>
@@ -3115,18 +3115,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Roxcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Roxcoin</source>
+        <source>eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+140"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>ვერ ხერხდება მიბმა %s-თან ამ კომპიუტერზე (მიღებულია შეცდომა %d, %s)</translation>
+        <translation>   %s-   (  %d, %s)</translation>
     </message>
     <message>
         <location line="-130"/>
@@ -3136,12 +3136,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>DNS-ძებნის დაშვება -addnode, -seednode და -connect-სათვის</translation>
+        <translation>DNS-  -addnode, -seednode  -connect-</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Loading addresses...</source>
-        <translation>მისამართების ჩატვირთვა...</translation>
+        <translation> ...</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -3151,52 +3151,52 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>არ იტვირთება wallet.dat: საფულე დაზიანებულია</translation>
+        <translation>  wallet.dat:  </translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Roxcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of eCoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Roxcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart eCoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat</source>
-        <translation>არ იტვირთება wallet.dat</translation>
+        <translation>  wallet.dat</translation>
     </message>
     <message>
         <location line="-16"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>არასწორია მისამართი -proxy: &apos;%s&apos;</translation>
+        <translation>  -proxy: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>-onlynet-ში მითითებულია უცნობი ქსელი: &apos;%s&apos;</translation>
+        <translation>-onlynet-   : &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>მოთხოვნილია -socks პროქსის უცნობი ვერსია: %i</translation>
+        <translation> -socks   : %i</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>ვერ ხერხდება -bind მისამართის გარკვევა: &apos;%s&apos;</translation>
+        <translation>  -bind  : &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>ვერ ხერხდება -externalip მისამართის გარკვევა: &apos;%s&apos;</translation>
+        <translation>  -externalip  : &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>დაუშვებელი მნიშვნელობა -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>  -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -3211,26 +3211,26 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+5"/>
         <source>Invalid amount</source>
-        <translation>დაუშვებელი თანხა</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Insufficient funds</source>
-        <translation>არ არის საკმარისი თანხა</translation>
+        <translation>   </translation>
     </message>
     <message>
         <location line="-34"/>
         <source>Loading block index...</source>
-        <translation>ბლოკების ინდექსის ჩატვირთვა...</translation>
+        <translation>  ...</translation>
     </message>
     <message>
         <location line="-103"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>მისაერთებელი კვანძის დამატება და მიერთების შეძლებისდაგვარად შენარჩუნება</translation>
+        <translation>      </translation>
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Roxcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. eCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3246,12 +3246,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+25"/>
         <source>Loading wallet...</source>
-        <translation>საფულის ჩატვირთვა...</translation>
+        <translation> ...</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Cannot downgrade wallet</source>
-        <translation>საფულის ძველ ვერსიაზე გადაყვანა შეუძლებელია</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3261,36 +3261,36 @@ for example: alertnotify=echo %%s | mail -s &quot;Roxcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Cannot write default address</source>
-        <translation>ვერ ხერხდება ნაგულისხმევი მისამართის ჩაწერა</translation>
+        <translation>    </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Rescanning...</source>
-        <translation>სკანირება...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Done loading</source>
-        <translation>ჩატვირთვა დასრულებულია</translation>
+        <translation> </translation>
     </message>
     <message>
         <location line="-167"/>
         <source>To use the %s option</source>
-        <translation>%s ოპციის გამოსაყენებლად</translation>
+        <translation>%s  </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Error</source>
-        <translation>შეცდომა</translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>უნდა დააყენოთ rpcpassword=&lt;password&gt; საკონფიგურაციო ფაილში:
+        <translation>  rpcpassword=&lt;password&gt;  :
 %s
-თუ ეს ფაილი არ არსებობს, შექმენით იგი უფლებებით owner-readable-only.</translation>
+    ,    owner-readable-only.</translation>
     </message>
 </context>
 </TS>
