@@ -55,6 +55,7 @@ static const uint256 hashGenesisBlock("0x4e890cc8d8c104a99cf45f9ae902db9be42cb39
 static const uint256 hashGenesisBlockTestNet("0x");
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 10 * 60; } // up to 10 minutes from the past
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 10 * 60; } // up to 10 minutes from the future
+static const int64_t nMaxClockDrift = 2 * 60 * 60;        // two hours
 
 
 extern CScript COINBASE_FLAGS;
@@ -82,6 +83,9 @@ extern unsigned char pchMessageStart[4];
 extern std::map<uint256, CBlock*> mapOrphanBlocks;
 static const CBigNum MIN_TARGET(~uint256(0));
 extern int nLastPowBlock;
+
+extern double dHashesPerSec;
+extern int64_t nHPSTimerStart;
 
 // Settings
 extern int64_t nTransactionFee;
@@ -126,9 +130,11 @@ bool GetTransaction(const uint256 &hash, CTransaction &tx, uint256 &hashBlock);
 uint256 WantedByOrphan(const CBlock* pblockOrphan);
 const CBlockIndex* GetLastBlockIndex(const CBlockIndex* pindex, bool fProofOfStake);
 void StakeMiner(CWallet *pwallet);
+void BitcoinMiner(CWallet *pwallet, bool fProofOfStake);
 void ResendWalletTransactions(bool fForce = false);
 
 
+void BitcoinMiner(CWallet *pwallet, bool fProofOfStake);
 
 uint64_t GetInterestRate(const CBlockIndex* pindexLast, bool wholeCents = false);
 

@@ -20,7 +20,6 @@
 #include <QSplashScreen>
 #include <QLibraryInfo>
 
-
 #if defined(BITCOIN_NEED_QT_PLUGINS) && !defined(_BITCOIN_QT_PLUGINS_INCLUDED)
 #define _BITCOIN_QT_PLUGINS_INCLUDED
 #define __INSURE__
@@ -224,6 +223,8 @@ int main(int argc, char *argv[])
                 // Put this in a block, so that the Model objects are cleaned up before
                 // calling Shutdown().
 
+                optionsModel.Upgrade(); // Must be done after AppInit2
+
                 if (splashref)
                     splash.finish(&window);
 
@@ -243,8 +244,8 @@ int main(int argc, char *argv[])
                     window.show();
                 }
 
-//                // Place this here as guiref has to be defined if we don't want to lose URIs
-               ipcInit(argc, argv);
+                // Place this here as guiref has to be defined if we don't want to lose URIs
+                ipcInit(argc, argv);
 
                 app.exec();
 

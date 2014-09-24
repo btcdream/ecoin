@@ -8,7 +8,8 @@
 #include "transactionfilterproxy.h"
 #include "guiutil.h"
 #include "guiconstants.h"
-#include "util.h"
+#include "askpassphrasedialog.h"
+
 #include <QAbstractItemDelegate>
 #include <QPainter>
 
@@ -148,6 +149,25 @@ void OverviewPage::setBalance(qint64 balance, qint64 stake, qint64 unconfirmedBa
     ui->labelImmatureText->setVisible(showImmature);
 }
 
+
+void OverviewPage::unlockWallet()
+{
+    if(model->getEncryptionStatus() == WalletModel::Locked)
+    {
+        AskPassphraseDialog dlg(AskPassphraseDialog::Unlock, this);
+        dlg.setModel(model);
+        if(dlg.exec() == QDialog::Accepted)
+        {
+            ui->unlockWalletButton->setText(QString("Lock Wallet"));
+        }
+    }
+    else
+    {
+        model->setWalletLocked(true);
+        ui->unlockWalletButton->setText(QString("Unlock Wallet"));
+    }
+}
+
 void OverviewPage::setModel(WalletModel *model)
 {
     this->model = model;
@@ -170,87 +190,25 @@ void OverviewPage::setModel(WalletModel *model)
         connect(model, SIGNAL(balanceChanged(qint64, qint64, qint64, qint64)), this, SLOT(setBalance(qint64, qint64, qint64, qint64)));
 
         connect(model->getOptionsModel(), SIGNAL(displayUnitChanged(int)), this, SLOT(updateDisplayUnit()));
+
+        // Unlock wallet button
+        WalletModel::EncryptionStatus status = model->getEncryptionStatus();
+        if(status == WalletModel::Unencrypted)
+        {
+            ui->unlockWalletButton->setDisabled(true);
+            ui->unlockWalletButton->setText(QString("Wallet is not encrypted!"));
+
+        }
+
+        else
+        {
+            ui->unlockWalletButton->setText(QString("Unlock wallet"));
+        }
+        connect(ui->unlockWalletButton, SIGNAL(clicked()), this, SLOT(unlockWallet()));
     }
 
     // update the display unit, to not use the default ("BTC")
     updateDisplayUnit();
-}
-
-void OverviewPage::setStrength(double strength)
-{
-    QString strFormat;
-    if (strength == 0)
-    {
-        strFormat = "Very weak";
-        currentStrength = 0;
-    }
-    else if(strength < 0.00001)
-    {
-        strFormat = "Lazy";
-        currentStrength = 10;
-    }
-    else if (strength < 0.0001)
-    {
-        strFormat = "Weak";
-        currentStrength = 20;
-    }
-    else if (strength < 0.001)
-    {
-        strFormat = "Noob";
-        currentStrength = 25;
-    }
-    else if (strength < 0.02)
-    {
-        strFormat = "Miner";
-        currentStrength = 35;
-    }
-    else if (strength < 0.05)
-    {
-        strFormat = "Investor";
-        currentStrength = 40;
-    }
-    else if (strength < 0.1)
-    {
-        strFormat = "Accomplished";
-        currentStrength = 45;
-    }
-    else if (strength < 0.15)
-    {
-        strFormat = "Hardcore";
-        currentStrength = 55;
-    }
-    else if (strength < 0.20)
-    {
-        strFormat = "Awesome";
-        currentStrength = 65;
-    }
-    else if (strength < 0.25)
-    {
-        strFormat = "Whale";
-        currentStrength = 78;
-    }
-    else if (strength <= 1.0)
-    {
-        strFormat = "King Midas";
-        currentStrength = 100;
-    }
-    else
-    {
-        strFormat = "Error!";
-    }
-    ui->strengthBar->setValue(currentStrength);
-    ui->strengthBar->setFormat(strFormat);
-    ui->strengthBar->setTextVisible(true);
-}
-
-void OverviewPage::setInterestRate(qint64 interest)
-{
-    currentInterestRate = interest;
-    
-    // format as whole CENTs, this way we avoid conversion to double.
-    // space before percent sign because the gui uses a space before most units
-    QString formatStr = QString("%1 %").arg(BitcoinUnits::format(BitcoinUnits::BTC, interest));
-    ui->interestValueLabel->setText(formatStr);
 }
 
 void OverviewPage::updateDisplayUnit()

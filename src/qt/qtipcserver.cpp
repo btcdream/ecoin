@@ -125,7 +125,7 @@ void ipcInit(int argc, char *argv[])
     unsigned int nPriority = 0;
 
     try {
-        mq = new message_queue(open_or_create, BITCOINURI_QUEUE_NAME, 100, 100);
+        mq = new message_queue(open_or_create, BITCOINURI_QUEUE_NAME, 2, MAX_URI_LENGTH);
 
         // Make sure we don't lose any bitcoin: URIs
         for (int i = 0; i < 2; i++)

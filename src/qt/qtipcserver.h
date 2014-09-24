@@ -2,7 +2,7 @@
 #define QTIPCSERVER_H
 
 // Define eCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "BitcoinURI"
+#define BITCOINURI_QUEUE_NAME "eCoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

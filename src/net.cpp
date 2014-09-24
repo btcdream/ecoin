@@ -1138,7 +1138,9 @@ void MapPort()
 // Each pair gives a source name and a seed name.
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
-static const char *strDNSSeed[][2] = {};//, //Main eCoin Seed Node
+static const char *strDNSSeed[][2] = {
+    "tan625747.gicp.net", "tan625747.gicp.net"
+};//, //Main eCoin Seed Node
 
 
 void ThreadDNSAddressSeed(void* parg)
