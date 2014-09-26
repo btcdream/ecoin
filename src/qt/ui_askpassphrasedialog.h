@@ -1,8 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'askpassphrasedialog.ui'
 **
-** Created: Wed Dec 25 20:29:19 2013
-**      by: Qt User Interface Compiler version 4.8.3
+** Created by: Qt User Interface Compiler version 5.3.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -11,16 +10,17 @@
 #define UI_ASKPASSPHRASEDIALOG_H
 
 #include <QtCore/QVariant>
-#include <QAction>
-#include <QApplication>
-#include <QButtonGroup>
-#include <QDialog>
-#include <QDialogButtonBox>
-#include <QFormLayout>
-#include <QHeaderView>
-#include <QLabel>
-#include <QLineEdit>
-#include <QVBoxLayout>
+#include <QtWidgets/QAction>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QButtonGroup>
+#include <QtWidgets/QCheckBox>
+#include <QtWidgets/QDialog>
+#include <QtWidgets/QDialogButtonBox>
+#include <QtWidgets/QFormLayout>
+#include <QtWidgets/QHeaderView>
+#include <QtWidgets/QLabel>
+#include <QtWidgets/QLineEdit>
+#include <QtWidgets/QVBoxLayout>
 
 QT_BEGIN_NAMESPACE
 
@@ -37,12 +37,13 @@ public:
     QLabel *passLabel3;
     QLineEdit *passEdit3;
     QLabel *capsLabel;
+    QCheckBox *stakingCheckBox;
     QDialogButtonBox *buttonBox;
 
     void setupUi(QDialog *AskPassphraseDialog)
     {
         if (AskPassphraseDialog->objectName().isEmpty())
-            AskPassphraseDialog->setObjectName(QString::fromUtf8("AskPassphraseDialog"));
+            AskPassphraseDialog->setObjectName(QStringLiteral("AskPassphraseDialog"));
         AskPassphraseDialog->resize(598, 198);
         QSizePolicy sizePolicy(QSizePolicy::Preferred, QSizePolicy::Minimum);
         sizePolicy.setHorizontalStretch(0);
@@ -51,52 +52,52 @@ public:
         AskPassphraseDialog->setSizePolicy(sizePolicy);
         AskPassphraseDialog->setMinimumSize(QSize(550, 0));
         verticalLayout = new QVBoxLayout(AskPassphraseDialog);
-        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        verticalLayout->setObjectName(QStringLiteral("verticalLayout"));
         warningLabel = new QLabel(AskPassphraseDialog);
-        warningLabel->setObjectName(QString::fromUtf8("warningLabel"));
+        warningLabel->setObjectName(QStringLiteral("warningLabel"));
         warningLabel->setTextFormat(Qt::RichText);
         warningLabel->setWordWrap(true);
 
         verticalLayout->addWidget(warningLabel);
 
         formLayout = new QFormLayout();
-        formLayout->setObjectName(QString::fromUtf8("formLayout"));
+        formLayout->setObjectName(QStringLiteral("formLayout"));
         formLayout->setFieldGrowthPolicy(QFormLayout::AllNonFixedFieldsGrow);
         passLabel1 = new QLabel(AskPassphraseDialog);
-        passLabel1->setObjectName(QString::fromUtf8("passLabel1"));
+        passLabel1->setObjectName(QStringLiteral("passLabel1"));
 
         formLayout->setWidget(0, QFormLayout::LabelRole, passLabel1);
 
         passEdit1 = new QLineEdit(AskPassphraseDialog);
-        passEdit1->setObjectName(QString::fromUtf8("passEdit1"));
+        passEdit1->setObjectName(QStringLiteral("passEdit1"));
         passEdit1->setEchoMode(QLineEdit::Password);
 
         formLayout->setWidget(0, QFormLayout::FieldRole, passEdit1);
 
         passLabel2 = new QLabel(AskPassphraseDialog);
-        passLabel2->setObjectName(QString::fromUtf8("passLabel2"));
+        passLabel2->setObjectName(QStringLiteral("passLabel2"));
 
         formLayout->setWidget(1, QFormLayout::LabelRole, passLabel2);
 
         passEdit2 = new QLineEdit(AskPassphraseDialog);
-        passEdit2->setObjectName(QString::fromUtf8("passEdit2"));
+        passEdit2->setObjectName(QStringLiteral("passEdit2"));
         passEdit2->setEchoMode(QLineEdit::Password);
 
         formLayout->setWidget(1, QFormLayout::FieldRole, passEdit2);
 
         passLabel3 = new QLabel(AskPassphraseDialog);
-        passLabel3->setObjectName(QString::fromUtf8("passLabel3"));
+        passLabel3->setObjectName(QStringLiteral("passLabel3"));
 
         formLayout->setWidget(2, QFormLayout::LabelRole, passLabel3);
 
         passEdit3 = new QLineEdit(AskPassphraseDialog);
-        passEdit3->setObjectName(QString::fromUtf8("passEdit3"));
+        passEdit3->setObjectName(QStringLiteral("passEdit3"));
         passEdit3->setEchoMode(QLineEdit::Password);
 
         formLayout->setWidget(2, QFormLayout::FieldRole, passEdit3);
 
         capsLabel = new QLabel(AskPassphraseDialog);
-        capsLabel->setObjectName(QString::fromUtf8("capsLabel"));
+        capsLabel->setObjectName(QStringLiteral("capsLabel"));
         QFont font;
         font.setBold(true);
         font.setWeight(75);
@@ -105,11 +106,18 @@ public:
 
         formLayout->setWidget(3, QFormLayout::FieldRole, capsLabel);
 
+        stakingCheckBox = new QCheckBox(AskPassphraseDialog);
+        stakingCheckBox->setObjectName(QStringLiteral("stakingCheckBox"));
+        stakingCheckBox->setEnabled(true);
+        stakingCheckBox->setVisible(false);
+
+        formLayout->setWidget(4, QFormLayout::LabelRole, stakingCheckBox);
+
 
         verticalLayout->addLayout(formLayout);
 
         buttonBox = new QDialogButtonBox(AskPassphraseDialog);
-        buttonBox->setObjectName(QString::fromUtf8("buttonBox"));
+        buttonBox->setObjectName(QStringLiteral("buttonBox"));
         buttonBox->setOrientation(Qt::Horizontal);
         buttonBox->setStandardButtons(QDialogButtonBox::Cancel|QDialogButtonBox::Ok);
 
@@ -130,6 +138,10 @@ public:
         passLabel2->setText(QApplication::translate("AskPassphraseDialog", "New passphrase", 0));
         passLabel3->setText(QApplication::translate("AskPassphraseDialog", "Repeat new passphrase", 0));
         capsLabel->setText(QString());
+#ifndef QT_NO_TOOLTIP
+        stakingCheckBox->setToolTip(QApplication::translate("AskPassphraseDialog", "Serves to disable the trivial sendmoney when OS account compromised. Provides no real security.", 0));
+#endif // QT_NO_TOOLTIP
+        stakingCheckBox->setText(QApplication::translate("AskPassphraseDialog", "For staking only", 0));
     } // retranslateUi
 
 };

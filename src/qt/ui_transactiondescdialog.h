@@ -1,8 +1,7 @@
 /********************************************************************************
 ** Form generated from reading UI file 'transactiondescdialog.ui'
 **
-** Created: Wed Dec 25 20:14:42 2013
-**      by: Qt User Interface Compiler version 4.8.3
+** Created by: Qt User Interface Compiler version 5.3.2
 **
 ** WARNING! All changes made in this file will be lost when recompiling UI file!
 ********************************************************************************/
@@ -11,14 +10,14 @@
 #define UI_TRANSACTIONDESCDIALOG_H
 
 #include <QtCore/QVariant>
-#include <QAction>
-#include <QApplication>
-#include <QButtonGroup>
-#include <QDialog>
-#include <QDialogButtonBox>
-#include <QHeaderView>
-#include <QTextEdit>
-#include <QVBoxLayout>
+#include <QtWidgets/QAction>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QButtonGroup>
+#include <QtWidgets/QDialog>
+#include <QtWidgets/QDialogButtonBox>
+#include <QtWidgets/QHeaderView>
+#include <QtWidgets/QTextEdit>
+#include <QtWidgets/QVBoxLayout>
 
 QT_BEGIN_NAMESPACE
 
@@ -32,18 +31,18 @@ public:
     void setupUi(QDialog *TransactionDescDialog)
     {
         if (TransactionDescDialog->objectName().isEmpty())
-            TransactionDescDialog->setObjectName(QString::fromUtf8("TransactionDescDialog"));
+            TransactionDescDialog->setObjectName(QStringLiteral("TransactionDescDialog"));
         TransactionDescDialog->resize(620, 250);
         verticalLayout = new QVBoxLayout(TransactionDescDialog);
-        verticalLayout->setObjectName(QString::fromUtf8("verticalLayout"));
+        verticalLayout->setObjectName(QStringLiteral("verticalLayout"));
         detailText = new QTextEdit(TransactionDescDialog);
-        detailText->setObjectName(QString::fromUtf8("detailText"));
+        detailText->setObjectName(QStringLiteral("detailText"));
         detailText->setReadOnly(true);
 
         verticalLayout->addWidget(detailText);
 
         buttonBox = new QDialogButtonBox(TransactionDescDialog);
-        buttonBox->setObjectName(QString::fromUtf8("buttonBox"));
+        buttonBox->setObjectName(QStringLiteral("buttonBox"));
         buttonBox->setOrientation(Qt::Horizontal);
         buttonBox->setStandardButtons(QDialogButtonBox::Close);
 

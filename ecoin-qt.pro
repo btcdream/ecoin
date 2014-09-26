@@ -20,11 +20,11 @@ OBJECTS_DIR = build
 MOC_DIR = build
 UI_DIR = build
 BOOST_INCLUDE_PATH=D:\lib\boost_1_55_0\boost_1_55_0
-OPENSSL_INCLUDE_PATH=D:\lib\openssl-0.9.8h\inc32
+OPENSSL_INCLUDE_PATH=D:\lib\openssl-1.0.1i\include
 BDB_INCLUDE_PATH=D:\lib\db-4.8.30.NC\build_unix
 MINIUPNPC_INCLUDE_PATH=D:\lib\miniupnp-master
 BOOST_LIB_PATH=C:\Boost\lib
-OPENSSL_LIB_PATH=D:\lib\openssl-0.9.8h\out
+OPENSSL_LIB_PATH=D:\lib\openssl-1.0.1i\out
 BDB_LIB_PATH=D:\lib\db-4.8.30.NC\build_unix\.libs
 MINIUPNPC_LIB_PATH=D:\lib\miniupnp-master
 
