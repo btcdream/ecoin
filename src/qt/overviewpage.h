@@ -28,7 +28,7 @@ public:
 
 public slots:
     void setBalance(qint64 balance, qint64 stake, qint64 unconfirmedBalance, qint64 immatureBalance);
-    void unlockWallet();
+    void setNumTransactions(int count);
 
 signals:
     void transactionClicked(const QModelIndex &index);

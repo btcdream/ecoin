@@ -16,7 +16,9 @@
         <source>Copyright  2009-2014 The Bitcoin developers
 Copyright  2012-2014 The NovaCoin developers
 Copyright  2014 The eCoin developers</source>
-        <translation>版权所有  2014 eCoineCoin开发组</translation>
+        <translation>版权所有  2009-2014 比特币Bitcoin开发组
+版权所有  2012-2014 新星币Novacoin开发组
+版权所有  2014 eCoineCoin开发组</translation>
     </message>
     <message>
         <location line="+15"/>

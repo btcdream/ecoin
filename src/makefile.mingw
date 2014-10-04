@@ -2,58 +2,35 @@
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-# Makefile for the MinGW g++ compiler/toolchain
-#
-# Assumes Berkeley DB, Boost, and OpenSSL have all been compiled and installed
-# into /usr/local (/usr/local/include, /usr/local/lib).
-#
-# If dependencies are somewhere else, run 'make DEPSDIR=/path/'
-#
-# Boost libraries are given wacky names that include the particular version of
-# boost you're using; set BOOST_SUFFIX appropriately.
-#
-# 'make clean' assumes it is running inside a MSYS shell, and uses 'rm'
-# to remove files.
-
-CXX ?= g++
-
-USE_UPNP:=-
+USE_UPNP:=0
 USE_IPV6:=1
 
-DEPSDIR?=/usr/local
-BOOST_SUFFIX?=-mgw48-mt-s-1_55
-
 INCLUDEPATHS= \
- -I"$(CURDIR)" \
- -I"$(DEPSDIR)/include" \
- -I"c:/deps/boost_1_55_0" \
- -I"c:/deps/db-4.8.30.NC/build_unix" \
- -I"c:/deps/miniupnpc-1.8" \
- -I"c:/deps/openssl-1.0.1g/include"
-
+ -I"C:/deps/boost_1_55_0" \
+ -I"c:/deps/db/build_unix" \
+ -L"/deps/miniupnpc" \
+ -L"c:/deps/" \
+ -I"c:/deps/ssl/include"
+ 
 LIBPATHS= \
- -L"$(CURDIR)/leveldb" \
- -L"$(DEPSDIR)/lib" \
- -L"c:/deps/boost_1_55_0/stage/lib" \
- -L"c:/deps/db-4.8.30.NC/build_unix" \
- -L"c:/deps/miniupnpc-1.8" \
- -L"c:/deps/openssl-1.0.1g"
-
+ -L"C:/deps/boost_1_55_0/stage/lib" \
+ -L"c:/deps/db/build_unix" \
+ -L"c:/deps/ssl"  \
+ -L"c:/deps/	\
+ -L"/deps/miniupnpc" 
+ 
 LIBS= \
- -l leveldb \
- -l memenv \
- -l boost_system$(BOOST_SUFFIX) \
- -l boost_filesystem$(BOOST_SUFFIX) \
- -l boost_program_options$(BOOST_SUFFIX) \
- -l boost_thread$(BOOST_SUFFIX) \
- -l boost_chrono$(BOOST_SUFFIX) \
+ -l boost_system-mgw48-mt-d-1_55 \
+ -l boost_filesystem-mgw48-mt-d-1_55 \
+ -l boost_program_options-mgw48-mt-d-1_55 \
+ -l boost_thread-mgw48-mt-d-1_55 \
  -l db_cxx \
  -l ssl \
  -l crypto
 
-DEFS=-DWIN32 -D_WINDOWS -DBOOST_THREAD_USE_LIB -DBOOST_SPIRIT_THREADSAFE
+DEFS=-DWIN32 -D_WINDOWS -DBOOST_THREAD_USE_LIB -DBOOST_SPIRIT_THREADSAFE -D__NO_SYSTEM_INCLUDES
 DEBUGFLAGS=-g
-CFLAGS=-mthreads -O3 -msse2 -w -Wall -Wextra -Wno-ignored-qualifiers -Wformat -Wformat-security -Wno-unused-parameter $(DEBUGFLAGS) $(DEFS) $(INCLUDEPATHS)
+CFLAGS=-mthreads -O2 -msse2 -w -Wall -Wextra -Wformat -Wformat-security -Wno-unused-parameter $(DEBUGFLAGS) $(DEFS) $(INCLUDEPATHS)
 LDFLAGS=-Wl,--dynamicbase -Wl,--nxcompat
 
 TESTDEFS = -DTEST_DATA_DIR=$(abspath test/data)
@@ -78,21 +55,6 @@ LIBS += -l kernel32 -l user32 -l gdi32 -l comdlg32 -l winspool -l winmm -l shell
 HEADERS = $(wildcard *.h)
 
 OBJS= \
-    obj/groestl.o \
-    obj/blake.o \
-    obj/bmw.o \
-    obj/skein.o \
-    obj/keccak.o \
-    obj/shavite.o \
-    obj/jh.o \
-    obj/luffa.o \
-    obj/cubehash.o \
-    obj/echo.o \
-    obj/simd.o \
-	obj/hamsi.o \
-	obj/fugue.o \
-	obj/shabal.o\
-    obj/whirlpool.o \
     obj/alert.o \
     obj/version.o \
     obj/checkpoints.o \
@@ -105,7 +67,6 @@ OBJS= \
     obj/irc.o \
     obj/keystore.o \
     obj/main.o \
-    obj/miner.o \
     obj/net.o \
     obj/protocol.o \
     obj/bitcoinrpc.o \
@@ -123,24 +84,28 @@ OBJS= \
     obj/noui.o \
     obj/kernel.o \
     obj/pbkdf2.o \
-    obj/scrypt.o \
-    obj/scrypt-arm.o \
-    obj/scrypt-x86.o \
-    obj/scrypt-x86_64.o 
+    src/blake.o \
+    src/bmw.o \
+    src/groestl.o \
+    src/jh.o \
+    src/keccak.o \
+    src/skein.o \
+    src/luffa.o \
+    src/cubehash.o \
+    src/shavite.o \
+    src/echo.o \
+    src/simd.o
 
-all: Firecoind.exe
+all: scattercoind.exe
 
-LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
-DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
-DEFS += $(addprefix -I,$(CURDIR)/leveldb/helpers)
-OBJS += obj/txdb-leveldb.o
-leveldb/libleveldb.a:
-	cd leveldb; make; cd ..
-obj/txdb-leveldb.o: leveldb/libleveldb.a
+test check: test_scattercoin.exe FORCE
+	test_scattercoin.exe
 
 obj/%.o: %.cpp $(HEADERS)
 	g++ -c $(CFLAGS) -o $@ $<
 
+obj/%.o: %.c $(HEADERS)
+	$(CXX) -c $(CFLAGS) -fpermissive -o $@ $<
 
 obj/scrypt-x86.o: scrypt-x86.S
 	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
@@ -148,28 +113,20 @@ obj/scrypt-x86.o: scrypt-x86.S
 obj/scrypt-x86_64.o: scrypt-x86_64.S
 	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
 
-obj/scrypt-arm.o: scrypt-arm.S
-	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
-	
-obj/%.o: %.c
-	$(CXX) -c $(xCXXFLAGS) -fpermissive -MMD -MF $(@:%.o=%.d) -o $@ $<
-	@cp $(@:%.o=%.d) $(@:%.o=%.P); \
-	  sed -e 's/#.*//' -e 's/^[^:]*: *//' -e 's/ *\\$$//' \
-              -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
-	      
-	rm -f $(@:%.o=%.d)
-obj/%.o: %.cpp
-	$(CXX) -c $(xCXXFLAGS) -MMD -MF $(@:%.o=%.d) -o $@ $<
-	@cp $(@:%.o=%.d) $(@:%.o=%.P); \
-	  sed -e 's/#.*//' -e 's/^[^:]*: *//' -e 's/ *\\$$//' \
-	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
-	  rm -f $(@:%.o=%.d)
-
-Firecoind.exe: $(OBJS:obj/%=obj/%)
+scattercoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
+TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
+
+obj-test/%.o: test/%.cpp $(HEADERS)
+	g++ -c $(TESTDEFS) $(CFLAGS) -o $@ $<
+
+test_scattercoin.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
+	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework $(LIBS)
+
 clean:
-	-del /Q Firecoind
+	-del /Q scattercoin test_scattercoin
 	-del /Q obj\*
+	-del /Q obj-test\*
 
 FORCE:

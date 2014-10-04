@@ -9,6 +9,7 @@ AboutDialog::AboutDialog(QWidget *parent) :
     ui(new Ui::AboutDialog)
 {
     ui->setupUi(this);
+	// this->setStyleSheet("background-color: #effbef;");
 }
 
 void AboutDialog::setModel(ClientModel *model)

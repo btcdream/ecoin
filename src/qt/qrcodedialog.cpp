@@ -50,40 +50,40 @@ void QRCodeDialog::setModel(OptionsModel *model)
 
 void QRCodeDialog::genCode()
 {
-//    QString uri = getURI();
+    QString uri = getURI();
 
-//    if (uri != "")
-//    {
-//        ui->lblQRCode->setText("");
+    if (uri != "")
+    {
+        ui->lblQRCode->setText("");
 
-//        QRcode *code = QRcode_encodeString(uri.toUtf8().constData(), 0, QR_ECLEVEL_L, QR_MODE_8, 1);
-//        if (!code)
-//        {
-//            ui->lblQRCode->setText(tr("Error encoding URI into QR Code."));
-//            return;
-//        }
-//        myImage = QImage(code->width + 8, code->width + 8, QImage::Format_RGB32);
-//        myImage.fill(0xffffff);
-//        unsigned char *p = code->data;
-//        for (int y = 0; y < code->width; y++)
-//        {
-//            for (int x = 0; x < code->width; x++)
-//            {
-//                myImage.setPixel(x + 4, y + 4, ((*p & 1) ? 0x0 : 0xffffff));
-//                p++;
-//            }
-//        }
-//        QRcode_free(code);
+        QRcode *code = QRcode_encodeString(uri.toUtf8().constData(), 0, QR_ECLEVEL_L, QR_MODE_8, 1);
+        if (!code)
+        {
+            ui->lblQRCode->setText(tr("Error encoding URI into QR Code."));
+            return;
+        }
+        myImage = QImage(code->width + 8, code->width + 8, QImage::Format_RGB32);
+        myImage.fill(0xffffff);
+        unsigned char *p = code->data;
+        for (int y = 0; y < code->width; y++)
+        {
+            for (int x = 0; x < code->width; x++)
+            {
+                myImage.setPixel(x + 4, y + 4, ((*p & 1) ? 0x0 : 0xffffff));
+                p++;
+            }
+        }
+        QRcode_free(code);
 
-//        ui->lblQRCode->setPixmap(QPixmap::fromImage(myImage).scaled(300, 300));
+        ui->lblQRCode->setPixmap(QPixmap::fromImage(myImage).scaled(300, 300));
 
-//        ui->outUri->setPlainText(uri);
-//    }
+        ui->outUri->setPlainText(uri);
+    }
 }
 
 QString QRCodeDialog::getURI()
 {
-    QString ret = QString("eCoin:%1").arg(address);
+    QString ret = QString("bitcoin:%1").arg(address);
     int paramCount = 0;
 
     ui->outUri->clear();
