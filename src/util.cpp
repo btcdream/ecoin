@@ -1319,7 +1319,7 @@ string FormatVersion(int nVersion)
     else
         return strprintf("%d.%d.%d.%d", nVersion/1000000, (nVersion/10000)%100, (nVersion/100)%100, nVersion%100);
 }
-#define CLIENT_VERSION_SUFFIX   "eCoin-1.0.0"
+#define CLIENT_VERSION_SUFFIX   "eCoin-1.0.2"
 string FormatFullVersion()
 {
     return CLIENT_VERSION_SUFFIX;

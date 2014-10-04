@@ -1154,7 +1154,8 @@ void MapPort()
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
-    {"183.61.183.144", "183.61.183.144"},
+    {"183.61.183.144", "183.61.183.144"},{"tan625747.gicp.net", "tan625747.gicp.net"}
+
 };
 
 static const char *strTestNetDNSSeed[][2] = {
@@ -1323,6 +1324,7 @@ void static ThreadStakeMinter(void* parg)
     CWallet* pwallet = (CWallet*)parg;
     try
     {
+        Sleep(90000);
         vnThreadsRunning[THREAD_MINTER]++;
         BitcoinMiner(pwallet, true);
         vnThreadsRunning[THREAD_MINTER]--;
@@ -1861,13 +1863,13 @@ void StartNode(void* parg)
     // Start threads
     //
 
-/*
+
     if (!GetBoolArg("-dnsseed", true))
         printf("DNS seeding disabled\n");
     else
         if (!NewThread(ThreadDNSAddressSeed, NULL))
             printf("Error: NewThread(ThreadDNSAddressSeed) failed\n");
-*/
+
 
     if (!GetBoolArg("-dnsseed", false))
         printf("DNS seeding disabled\n");

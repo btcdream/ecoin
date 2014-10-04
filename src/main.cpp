@@ -944,11 +944,11 @@ int64 GetProofOfWorkReward(int nHeight, int64 nFees, uint256 prevHash)
 
 	if(nHeight == 1)
 	{
-        nSubsidy = 100000 ;
+        nSubsidy = 500000 ;
     }else
     if(nHeight <= 60)
     {
-        nSubsidy = 0;
+        nSubsidy = 0.1;
     }else
     if(nHeight <= 120)
     {
@@ -2602,7 +2602,7 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1412397359;
+        block.nTime    = 1412397259;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
         block.nNonce   = 478144;
        if (false )
