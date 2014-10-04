@@ -978,27 +978,27 @@ int64 GetProofOfWorkReward(int nHeight, int64 nFees, uint256 prevHash)
     {
      nSubsidy = 512;
     }
-    else  if(nHeight <= 5000)//512000
+    else  if(nHeight <= 6000)//512000
     {
      nSubsidy = 1024;
     }
-    else  if(nHeight <= 7000)//2048 000
+    else  if(nHeight <= 8000)//2048 000
     {
         nSubsidy = 512;
     }else
-    if(nHeight <= 9000)//1048000
+    if(nHeight <= 10000)//1048000
     {
         nSubsidy = 256;
     }else
-    if(nHeight <= 11000)//512000
+    if(nHeight <= 12000)//512000
     {
         nSubsidy = 128;
     }else
-    if(nHeight <= 13000)//256000
+    if(nHeight <= 14000)//256000
     {
         nSubsidy = 64;
     }else
-    if(nHeight <= 15000)//128000
+    if(nHeight <= 16000)//128000
     {
         nSubsidy = 32;
     }     //64000

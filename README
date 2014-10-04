@@ -1,0 +1,26 @@
+
+
+Specifications
+Algorithm: X11
+Proof of Stake Reward:  3.3%
+Block Time:  60 seconds
+Transaction confirmations: 5
+Min Coin Age: 8 hours
+
+
+POW block reward:
+block  1：  1000000 eCoin  (prmine)
+block  2~60：  0  eCoin
+block  60~120：  8  eCoin
+block  120~250：  16  eCoin
+block  250~500：  32  eCoin
+block  500~1000：  64  eCoin
+block  1000~2000： 128  eCoin
+block  2000~3000： 256  eCoin
+block  3000~4000：  512  eCoin
+block  4000~6000：  1024  eCoin
+block  6000~8000：  512  eCoin
+block  8000~10000：  256  eCoin
+block  10000~12000：  128  eCoin
+block  12000~14000：  64  eCoin
+block  14000~：  32  eCoin
