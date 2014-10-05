@@ -935,7 +935,6 @@ int generateMTRandom(unsigned int s, int range)
     return dist(gen);
 }
 
-
 static const int CUTOFF_HEIGHT = POW_CUTOFF_HEIGHT;	
 // miner's coin base reward based on nBits
 int64 GetProofOfWorkReward(int nHeight, int64 nFees, uint256 prevHash)
@@ -944,64 +943,46 @@ int64 GetProofOfWorkReward(int nHeight, int64 nFees, uint256 prevHash)
 
 	if(nHeight == 1)
 	{
-        nSubsidy = 500000 ;
-    }else
-    if(nHeight <= 60)
+        nSubsidy = 100000 ;
+    }else    if(nHeight <= 200)//200
     {
-        nSubsidy = 0.1;
-    }else
-    if(nHeight <= 120)
-    {
-        nSubsidy = 8;
-    }else
-    if(nHeight <= 250)    //8 * 130 = 1040
-    {
-        nSubsidy = 16;
+        nSubsidy = 1;
     }
-    else  if(nHeight <= 500)//250* 160 = 4000
+    if(nHeight <= 300)   //12800
     {
-      nSubsidy = 32;
+        nSubsidy = 128;
     }
-    else  if(nHeight <= 1000)//32*500 = 16000
+    else  if(nHeight <= 500)//51200
     {
-     nSubsidy = 64;
+      nSubsidy = 256;
     }
-    else  if(nHeight <= 2000)//640000
+    else  if(nHeight <= 1000)//512*500 = 256000
     {
-     nSubsidy = 128;
+     nSubsidy = 512;
     }
-    else  if(nHeight <= 3000)//128000
+    else  if(nHeight <= 2000)//10240000
     {
-     nSubsidy = 256;
+     nSubsidy = 1024;
     }
-    else  if(nHeight <= 4000)//256000
+    else  if(nHeight <= 4000)//1024000
     {
      nSubsidy = 512;
     }
     else  if(nHeight <= 6000)//512000
     {
-     nSubsidy = 1024;
+     nSubsidy = 256;
     }
-    else  if(nHeight <= 8000)//2048 000
-    {
-        nSubsidy = 512;
-    }else
-    if(nHeight <= 10000)//1048000
-    {
-        nSubsidy = 256;
-    }else
-    if(nHeight <= 12000)//512000
+    else  if(nHeight <= 8000)//256000
     {
         nSubsidy = 128;
     }else
-    if(nHeight <= 14000)//256000
+    if(nHeight <= 10000)  //128000
     {
         nSubsidy = 64;
-    }else
-    if(nHeight <= 16000)//128000
+    }else    if(nHeight <= 12000)//64000
     {
         nSubsidy = 32;
-    }     //64000
+    }
 
     return nSubsidy * COIN+ nFees;
 }

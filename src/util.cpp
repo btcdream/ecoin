@@ -60,6 +60,8 @@ namespace boost {
 #endif
 
 
+#define CLIENT_VERSION_SUFFIX   "eCoin-1.0.3"
+
 using namespace std;
 
 map<string, string> mapArgs;
@@ -993,13 +995,6 @@ bool WildcardMatch(const string& str, const string& mask)
     return WildcardMatch(str.c_str(), mask.c_str());
 }
 
-
-
-
-
-
-
-
 static std::string FormatException(std::exception* pex, const char* pszThread)
 {
 #ifdef WIN32
@@ -1218,12 +1213,6 @@ void ShrinkDebugFile()
 }
 
 
-
-
-
-
-
-
 //
 // "Never go to sea with two chronometers; take one or three."
 // Our three time sources are:
@@ -1306,12 +1295,6 @@ void AddTimeData(const CNetAddr& ip, int64 nTime)
 }
 
 
-
-
-
-
-
-
 string FormatVersion(int nVersion)
 {
     if (nVersion%100 == 0)
@@ -1319,7 +1302,7 @@ string FormatVersion(int nVersion)
     else
         return strprintf("%d.%d.%d.%d", nVersion/1000000, (nVersion/10000)%100, (nVersion/100)%100, nVersion%100);
 }
-#define CLIENT_VERSION_SUFFIX   "eCoin-1.0.2"
+
 string FormatFullVersion()
 {
     return CLIENT_VERSION_SUFFIX;
