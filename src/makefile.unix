@@ -143,10 +143,10 @@ OBJS= \
     obj/keccak.o\
     obj/skein.o
 
-all: scattercoind
+all: eCoind
 
-test check: test_scattercoin FORCE
-	./test_scattercoin
+test check: test_eCoin FORCE
+	./test_eCoin
 
 # auto-generated dependencies:
 -include obj/*.P
@@ -170,7 +170,7 @@ obj/%.o: %.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-scattercoind: $(OBJS:obj/%=obj/%)
+eCoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -194,7 +194,7 @@ test_scattercoin: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
 	$(LINK) $(xCXXFLAGS) -o $@ $(LIBPATHS) $^ -Wl,-B$(LMODE) -lboost_unit_test_framework $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f scattercoind test_scattercoin
+	-rm -f eCoind test_eCoin
 	-rm -f obj/*.o
 	-rm -f obj-test/*.o
 	-rm -f obj/*.P
